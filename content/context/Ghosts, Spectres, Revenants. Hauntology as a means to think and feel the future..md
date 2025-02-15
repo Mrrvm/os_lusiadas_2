@@ -1,7 +1,8 @@
-#text 
-#transatlantic-enslaved-trade 
-#colonialism 
-#future
-
-#READ 
-#INTOOK 
+---
+tags:
+  - text
+  - transatlantic-enslaved-trade
+  
+  - READ
+  - INCLUDED
+---

@@ -1,7 +1,8 @@
-#transatlantic-enslaved-trademm
-#caribbeanc
-#caribbean
-#transatlantic-enslaved-trade 
-
-#READ 
-#INTOOK 
+---
+tags:
+  - transatlantic-enslaved-trademm
+  - caribbean
+  - transatlantic-enslaved-trade
+  - READ
+  - INCLUDED
+---

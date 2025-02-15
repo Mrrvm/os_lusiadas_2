@@ -1,9 +1,7 @@
-#caboverde 
-#portugal 
-#text 
-#performance 
-#fabric
-#colonialism 
+---
+tags:
+  - netherlands
+  - external-partner
+---
 
 https://www.sandimmendes.com/
-

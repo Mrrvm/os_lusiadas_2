@@ -1,4 +1,7 @@
-#colonialism 
-#moçcambique 
-#text 
-#fiction 
+---
+tags:
+  
+  - moçambique
+  - text
+  - fiction
+---

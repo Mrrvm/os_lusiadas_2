@@ -1,5 +1,7 @@
-
-#experimental-text 
-#books
-#portugal 
-#netherlands 
+---
+tags:
+  - experimental-text
+  - portugal
+  - netherlands
+  - external-partner
+---

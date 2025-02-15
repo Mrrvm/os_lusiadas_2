@@ -1,6 +1,8 @@
-#colonialism 
-#brasil
-#text 
-
-#INTOOK 
-#READ 
+---
+tags:
+  
+  - brasil
+  - text
+  - INCLUDED
+  - READ
+---

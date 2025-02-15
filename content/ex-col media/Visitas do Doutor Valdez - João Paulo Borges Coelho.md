@@ -1,6 +1,6 @@
-#moçcambique
-#colonialism 
-#text 
-#fiction 
-#past 
-#portugal 
+---
+tags:
+  - moçambique
+  - text
+  - fiction
+---

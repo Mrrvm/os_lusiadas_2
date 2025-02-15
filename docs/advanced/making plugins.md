@@ -259,7 +259,7 @@ export const ContentPage: QuartzEmitterPlugin = () => {
   // construct the layout
   const layout: FullPageLayout = {
     ...sharedPageComponents,
-    ...defaultContentPageLayout,
+    ...defaultContentPageLayout
     pageBody: Content(),
   }
   const { head, header, beforeBody, pageBody, afterBody, left, right, footer } = layout

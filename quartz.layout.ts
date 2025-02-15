@@ -1,20 +1,49 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
+// Components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+    links: {},
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// Your graph configuration stays the same
+let graph = Component.Graph({
+  localGraph: {
+    drag: true,
+    zoom: true,
+    depth: 2,
+    scale: 1.0,
+    repelForce: 0.4,
+    centerForce: 0.5,
+    linkDistance: 50,
+    fontSize: 0.7,
+    opacityScale: 1,
+    removeTags: ["excludeGraph"],
+    showTags: false,
+    enableRadial: true,
+  },
+  globalGraph: {
+    drag: true,
+    zoom: true,
+    depth: -1,
+    scale: 0.9,
+    repelForce: 4,
+    centerForce: 0.1,
+    linkDistance: 150,
+    fontSize: 0.4,
+    opacityScale: 0.8,
+    removeTags: ["excludeGraph"],
+    showTags: true,
+    enableRadial: true,
+  },
+})
+
+// Layout for pages that display a single note (non-homepage)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
@@ -30,15 +59,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    // Graph stays in the right for these pages
+    graph,
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
-
-// components for pages that display lists of pages  (e.g. tags or folders)
+// Layout for pages that display lists of pages (e.g., tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

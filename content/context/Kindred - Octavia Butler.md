@@ -1,6 +1,7 @@
-#colonialism 
-#text 
-#fiction
-#transatlantic-enslaved-trade 
-#future 
-#past
+---
+tags:
+  
+  - text
+  - fiction
+  - transatlantic-enslaved-trade
+---

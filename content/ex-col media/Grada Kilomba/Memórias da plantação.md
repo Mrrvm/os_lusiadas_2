@@ -1,5 +1,6 @@
-#portugal
-#colonialism 
-#text
-
-#INTOOK
+---
+tags:
+  - portugal
+  - text
+  - INCLUDED
+---

@@ -1,4 +1,7 @@
-#colonialism 
-#portugal 
-#text 
-#lisboa
+---
+tags:
+  
+  - portugal
+  - text
+  - lisboa
+---

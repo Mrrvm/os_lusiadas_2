@@ -1,7 +1,9 @@
-#caribbean 
-#colonialism 
-#text 
-#transatlantic-enslaved-trade 
-#rhythm 
-
-#INTOOK 
+---
+tags:
+  - caribbean
+  
+  - text
+  - transatlantic-enslaved-trade
+  - rhythm
+  - INCLUDED
+---

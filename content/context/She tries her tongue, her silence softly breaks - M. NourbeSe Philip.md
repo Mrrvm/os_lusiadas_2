@@ -1,5 +1,8 @@
-#poetry
-#colonialism 
-#caribbean 
-#rhythm
-#text 
+---
+tags:
+  - poetry
+  
+  - caribbean
+  - rhythm
+  - text
+---
