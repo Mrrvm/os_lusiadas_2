@@ -1,0 +1,4 @@
+#colonialism 
+#portugal 
+#text 
+#lisboa
