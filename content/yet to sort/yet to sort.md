@@ -25,7 +25,6 @@ https://livrariaultramarina.pt/
 
 ###### people
 
-tavarescebola@gmail.com (+258 87 115 4751) -> amigo do Ivo, Moçambique
 https://www.alaaabuasad.com/
 Azagaia
 Paulina Chiziane
