@@ -1,5 +1,5 @@
 ---
 tags:
-  - fiction
+  - experimental-text
   - text
 ---
