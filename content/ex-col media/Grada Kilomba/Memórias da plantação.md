@@ -1,6 +1,0 @@
----
-tags:
-  - portugal
-  - text
-  - INCLUDED
----
