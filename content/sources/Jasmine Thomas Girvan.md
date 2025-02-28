@@ -4,4 +4,5 @@ tags:
   - transatlantic-enslaved-trade
   - READ
   - INCLUDED
+  - visual
 ---
