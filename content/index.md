@@ -3,13 +3,13 @@
 ##### a small experimental writing library
 https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 ##### spaces
-online
+**online**
 
 https://sites.google.com/site/ciberlusofonia/Lit-Afric-de-Ling-Port
 
 https://www.projectmanifest.eu/
 
-physical
+*physical*
 
 https://www.cm-lagos.pt/areas-de-atuacao/arquivo-municipal
 
@@ -17,7 +17,7 @@ https://hangar.com.pt/edicoes/
 
 [https://gulbenkian.pt/biblioteca-arte/en/](https://gulbenkian.pt/biblioteca-arte/en/)
 
-both
+**both**
 
 https://www.africanos.eu/index.php/pt/publicacoes/livros/estudos-africanos
 
@@ -40,4 +40,5 @@ https://livrariaultramarina.pt/
 
 **28/02/2025** - After getting some feedback yesterday, I am now certain that rewriting this book has to mean using exactly the same structure, syllable count, verses, stanzas. Rewriting it into a different structure means using it as bibliography, as reference, for a new work. That's not the point. The point is a cancellation of the original, a retelling of our history, of what actually happened and its contemporary consequences, a database for black lusophone literature. A big part of Os Lusíadas success comes from its pedantic, and daunting structure - the fact that someone decided to write so much and for so long in this structure is seen as a great feat. How can I strip it of its enchantment if I don't follow the same structure? It leaves room for doubts, it leaves room to say "yes, okay you can criticise it, but Os Lusíadas is still a beacon of national identity for it's epic poem structure".
 I realised I want massive collaboration as well. Not just for me to rewrite it by myself, but to have actual contemporary ex-col/diaspora voices rewriting it as well. To have different languages - Badiu, Kimbundu (that originates many "slang" words in portuguese), papiamento, ... as many as possible. As many authors as possible, writers, poets, rappers, musicians, film makers, visual artists, anyone ... 
-Lastly, Os Lusíadas 2 is a terrible name. Looking for others.
+Os Lusíadas 2 is a terrible name. Looking for others.
+I want to talk about a huge variety of topics and origins, and not a linear journey. Not a journey like in the original. Food origins, Music, Fado, Kuduro, Language, Erasure, Names, Dance, Money, Gods/Myths, Revolts, Defeats and Successes... Which characters can I have? Who is the villain, who is the hero, who are the gods and the muses?
