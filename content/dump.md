@@ -32,3 +32,13 @@ http://youtube.com/watch?v=vtg3RhLGU4k
 https://video.alexanderstreet.com/watch/edouard-glissant-one-world-in-relation
 
 https://open.spotify.com/track/6VJPmBDhOJ8r1Zv0cLbbhV?si=d2d3dd419f5c4960
+
+https://en.wikipedia.org/wiki/Omeros
+
+Mia Couto – _Sleepwalking Land_
+
+José Craveirinha – _Karingana Ua Karingana_ (1974)
+
+Conceição Evaristo – _Ponciá Vicêncio_ (2003)
+
+António Pinto Ribeiro – _Lusofonia e Lusofonia_ (2010)
