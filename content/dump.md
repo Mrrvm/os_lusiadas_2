@@ -1,5 +1,4 @@
 
-
 https://www.alaaabuasad.com/
 
 [A ILHA DE MOÇAMBIQUE Pela Voz dos Poetas Compilação de Nelson Saúde e António Sopa – 1992](https://livrariaultramarina.pt/shop/a-ilha-de-mocambique-pela-voz-dos-poetas-compilacao-de-nelson-saude-e-antonio-sopa-1992-2/)
