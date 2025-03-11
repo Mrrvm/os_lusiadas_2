@@ -13,14 +13,19 @@ tags:
 
 ### Annotations
 
-###### **Errantry** vs **Single Root**
+#### Concepts
+
+##### Errantry vs Single Root
 
 Glissant differentiates **errantry** from the **single root**, which symbolizes fixed identity and exclusion. In **circular nomadism**, there is a return to the point of origin without deep attachment, while in **arrow nomadism**, there is displacement with a defined goal, without cultural mixing. Neither manifests the root because they do not create total rooting. Arrow nomadism maintains a separate identity, without opening up to the other. On the other hand, **errantry** breaks with the fixed origin and destiny, promoting encounters and exchanges.
 
-###### The Ship** and the **Three Abysses**
+##### The Ship and the Three Abysses
 
 Glissant uses the **ship** as a symbol of the forced crossing of enslaved African peoples across the Atlantic. It represents displacement, errantry, and the creation of new identities. He also presents **three abysses**: the first is the ocean, where countless lives were lost; the second, the cultural destruction in the slave plantations; and the third, the oblivion imposed by colonial history. However, the abyss does not only signify loss, but also reinvention. Errantry transforms this void into a space of creation, where the diaspora gives rise to new relationships and identities in constant transformation.
 
+#### How it relates
+
+While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power) through conquest, Glissant’s **errantry** suggests a more fluid, non-hierarchical relationship with space, culture, and identity. The Portuguese takes an approach of massive arrow nomadism, as it is not fully rooted in Portugal, nor is open to mix with other cultures. They have a defined goal: trade, and possibly (and definitely contemporarily) pride.
 
 ### Must-have quotes
 
