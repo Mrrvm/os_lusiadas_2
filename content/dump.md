@@ -10,3 +10,23 @@ https://www.alaaabuasad.com/
 Kameela Janan Rasheed
 
 M Archive, Alexis Pauline Gumbs
+
+Do que ainda nos sobra da guerra
+
+https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Evaristo
+
+https://www.projectmanifest.eu/presence-of-african-people-in-portugal-at-the-time-of-the-trade-of-enslaved-people/
+
+https://manifestproject.substack.com/podcast
+
+https://ihc.fcsh.unl.pt/aurora-almada-santos/
+
+https://www.projectmanifest.eu/the-absence-of-memorial-sites-in-portugal-en-fr/
+
+https://www.rtp.pt/play/p2057/e447261/o-fio-da-meada
+
+https://memoire-esclavage.org/
+
+http://youtube.com/watch?v=vtg3RhLGU4k
+
+https://video.alexanderstreet.com/watch/edouard-glissant-one-world-in-relation
