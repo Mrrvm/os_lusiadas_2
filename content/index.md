@@ -47,3 +47,9 @@ I want to talk about a huge variety of topics and origins, and not a linear jour
 
 ### funding
 
+performance
+
+https://dioraphte.nl/podiumkunsten/
+
+[https://www.goethe.de/en/kul/foe/int.html?fbclid=IwY2xjawI3wt5leHRuA2FlbQIxMQABHSp8LaeIP9vSvw8q7jLzTVCx32S6XqiVTEE3n3Sl0vx-UPmYlnOJFXkZ0w_aem_DPmujCugH7RTAB1mLRM5ag](https://www.goethe.de/en/kul/foe/int.html?fbclid=IwY2xjawI3wt5leHRuA2FlbQIxMQABHSp8LaeIP9vSvw8q7jLzTVCx32S6XqiVTEE3n3Sl0vx-UPmYlnOJFXkZ0w_aem_DPmujCugH7RTAB1mLRM5ag)
+
