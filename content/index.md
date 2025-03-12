@@ -44,12 +44,3 @@ Os Lusíadas 2 is a terrible name. Looking for others.
 I want to talk about a huge variety of topics and origins, and not a linear journey. Not a journey like in the original. Food origins, Music, Fado, Kuduro, Language, Erasure, Names, Dance, Money, Gods/Myths, Revolts, Defeats and Successes... Which characters can I have? Who is the villain, who is the hero, who are the gods and the muses?
 
 **11/03/2025** - Portuguese national identity is still insanely fragile, grasping to breath through the ruthless claws of a fallen empire, it clings to colonialism to beg for an existence as a collective -the lack of imagination in who could we be if not conquerors, navigators, and intricately connected to a sea of bodies cries in our shores. We look to the richness as expansion and  materiality, and so we have been bottomlessly tripping since the 1400s. Epic poems ([[Hegel's Lectures on Aesthetics]]) are the spontaneous vomit of a falling empire in desperation to form a cohesive identity. It then makes sense that [[Os Lusíadas]] is still the pinnacle of Portuguese literature. Ultimately, [[Os Lusíadas]] is a project of myth-making haunted by the very failure it tries to suppress. The question then remains, how can Portugal rewrite itself beyond the empire? And further, how can it rewrite itself rhizomaticaly ([[Poetics of Relation]]) - through rupture and its diaspora.
-
-### funding
-
-performance
-
-https://dioraphte.nl/podiumkunsten/
-
-[https://www.goethe.de/en/kul/foe/int.html?fbclid=IwY2xjawI3wt5leHRuA2FlbQIxMQABHSp8LaeIP9vSvw8q7jLzTVCx32S6XqiVTEE3n3Sl0vx-UPmYlnOJFXkZ0w_aem_DPmujCugH7RTAB1mLRM5ag](https://www.goethe.de/en/kul/foe/int.html?fbclid=IwY2xjawI3wt5leHRuA2FlbQIxMQABHSp8LaeIP9vSvw8q7jLzTVCx32S6XqiVTEE3n3Sl0vx-UPmYlnOJFXkZ0w_aem_DPmujCugH7RTAB1mLRM5ag)
-
