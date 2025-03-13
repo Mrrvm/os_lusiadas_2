@@ -36,15 +36,24 @@ https://fgf.uac.pt/entidade/CHAM
 https://livrariaultramarina.pt/
 
 ## considerations
--  Should I include other languages, such as Kimbundu or Badiu, even if I don't speak/know them? Portuguese, as a colonial language, carries embedded power structures. Incorporating other indigenous languages, code-switching, and neologisms could help at undermining Portuguese language hegemony. Ok, but then I am writing mostly in Portuguese, how does that undermine anything? It could disrupt a passive consumption of the text by refusing the uniformity of a single/dominant language. So, instead of reading seamlessly, the readers would encounter shifts between languages that could destabilize their flow.
+-  Should I include other languages, such as Kimbundu or Badiu, even if I don't speak/know them? Portuguese, as a colonial language, carries embedded power structures. Incorporating other indigenous languages, code-switching, and neologisms could help at undermining Portuguese language hegemony. Ok, but then I am writing mostly in Portuguese, how does that undermine anything? It could disrupt a passive consumption of the text by refusing the uniformity of a single/dominant language. So, instead of reading seamlessly, the readers would encounter shifts between languages that could destabilize their flow.  + Mixing languages, can allow for telling experiences in ways that portuguese can't fully capture, making a more inclusive historical discourse. However, it must be a collaborative and very sensitive process.
 
--  Should I translate sources to Portuguese to use them? My role as translator? Or how can I trust translated sources?
+-  Should I translate sources to Portuguese to use them? My role as translator? Or how can I trust translated sources? Does it then make sense to translate these other languages? I think not?
 
-- How can I work rhizomatically?
+- How can I work rhizomatically? Is experimental writing (by using texts from many different sources and authors), not writing, but puzzling, in the sense that the original text is not necessarily the root, rhizomatic? Can it ever be? 
+
+- Instead of a single authoritative voice, experimental writing can incorporate multiple perspectives. But who am I as an orchestrator of these voices? 
 
 ## thought log
 
-**13/03/2025 -** Instead of a single authoritative voice, experimental writing can incorporate multiple perspectives. But who am I as an orchestrator of these voices? 
+**13/03/2025 -** Research question draft 1:
+**How can experimental writing deconstruct the celebrated narratives of colonialism that define Portuguese national identity?** 
+Here "celebrated narratives of colonialism" include [[Os Lusíadas]]. Does the question pertain to the idea of pride associated with colonialism? and does it associate this pride with a foundation for a national identity?
+Sub-questions:
+-  How are narratives of colonialism celebrated within Portuguese culture?
+-  What is national identity and how does it relate to this narratives?
+-  What is experimental writing and how can it be applied as tool in this context?
+-  Can experimental writing be rhizomatic?
 
 **11/03/2025** - Portuguese national identity is still insanely fragile, grasping to breath through the ruthless claws of a fallen empire, it clings to colonialism to beg for an existence as a collective -the lack of imagination in who could we be if not conquerors, navigators, and intricately connected to a sea of bodies cries in our shores. We look to the richness as expansion and  materiality, and so we have been bottomlessly tripping since the 1400s. Epic poems ([[Hegel's Lectures on Aesthetics]]) are the spontaneous vomit of a falling empire in desperation to form a cohesive identity. It then makes sense that [[Os Lusíadas]] is still the pinnacle of Portuguese literature. Ultimately, [[Os Lusíadas]] is a project of myth-making haunted by the very failure it tries to suppress. The question then remains, how can Portugal rewrite itself beyond the empire? And further, how can it rewrite itself rhizomaticaly ([[Poetics of Relation]]) - through rupture and its diaspora.
 
