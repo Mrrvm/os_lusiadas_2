@@ -13,7 +13,7 @@ https://digitarq.ahu.arquivos.pt/
 
 https://www.slavevoyages.org/voyage/database
 
-http://arquivos.ministerioultramar.holos.pt/source/presentation/pag.php?pag=1
+http://arquivos.ministerioultramar.holos.pt/
 
 #### physical
 
@@ -46,14 +46,20 @@ https://livrariaultramarina.pt/
 
 ## thought log
 
-**13/03/2025 -** Research question draft 1:
+**13/03/2025 -** 
+Research question draft 1:
 **How can experimental writing deconstruct the celebrated narratives of colonialism that define Portuguese national identity?** 
 Here "celebrated narratives of colonialism" include [[Os Lusíadas]]. Does the question pertain to the idea of pride associated with colonialism? and does it associate this pride with a foundation for a national identity?
+
 Sub-questions:
 -  How are narratives of colonialism celebrated within Portuguese culture?
+	- [[Os Lusíadas]]
 -  What is national identity (a nation) and how does it relate to these narratives?
+	- Nation as defined per myth (Homi K. Bhabha, Nation as Narration)
+	- How do epic poems solidify the myth? ([[Hegel's Lectures on Aesthetics]])
+	- *Saudade* and the case for Portugal (The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role, Bruno C. Reis and Pedro A. Oliveira; # “Portugality”: a nothingness that is nothing, E. Lourenço; Eduardo Lourenço – an analysis of the Portuguese destiny, E. Lourenço, and such...)
 -  What is experimental writing and how can it be applied as tool in this context?
--  Can experimental writing be rhizomatic?
+	- Can experimental writing be rhizomatic?
 
 **11/03/2025** - Portuguese national identity is still insanely fragile, grasping to breath through the ruthless claws of a fallen empire, it clings to colonialism to beg for an existence as a collective -the lack of imagination in who could we be if not conquerors, navigators, and intricately connected to a sea of bodies cries in our shores. We look to the richness as expansion and  materiality, and so we have been bottomlessly tripping since the 1400s. Epic poems ([[Hegel's Lectures on Aesthetics]]) are the spontaneous vomit of a falling empire in desperation to form a cohesive identity. It then makes sense that [[Os Lusíadas]] is still the pinnacle of Portuguese literature. Ultimately, [[Os Lusíadas]] is a project of myth-making haunted by the very failure it tries to suppress. The question then remains, how can Portugal rewrite itself beyond the empire? And further, how can it rewrite itself rhizomaticaly ([[Poetics of Relation]]) - through rupture and its diaspora.
 

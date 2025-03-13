@@ -42,3 +42,31 @@ José Craveirinha – _Karingana Ua Karingana_ (1974)
 Conceição Evaristo – _Ponciá Vicêncio_ (2003)
 
 António Pinto Ribeiro – _Lusofonia e Lusofonia_ (2010)
+
+Homi Bhabha's concept of hybridity, 
+
+Homi K. Bhabha, _Nation as Narration_
+
+Spivak's subaltern
+
+Lusotropicalism, by Gilberto Freyre
+
+https://www.researchgate.net/publication/354151070_As_marcas_do_luso-tropicalismo_nas_intervencoes_do_Presidente_da_Republica_portugues_2016-2021
+
+https://www.researchgate.net/publication/357341211_Portugality_a_nothingness_that_is_nothing
+
+https://arquivos.rtp.pt/programas/arte-de-ser-portugues/
+
+The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role, Bruno C. Reis and Pedro A. Oliveira (https://www.jstor.org/stable/26771190)
+
+https://www.cepese.pt/portal/en/populacao-e-sociedade/numero-atual/populacao-e-sociedade-n-o-36/eduardo-lourenco-2013-an-analysis-of-the-portuguese-destiny
+
+https://escholarship.org/content/qt25f496bk/qt25f496bk_noSplash_54f801181cc89cdf29ca9f3355455da5.pdf
+
+Derek Walcott, _Omeros_
+
+Ana Luísa Amaral
+
+Djaimilia Pereira de Almeida’s _Luar de Sangue_
+
+ Isabela Figueiredo (_Caderno de Memórias Coloniais_)
