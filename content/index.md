@@ -51,7 +51,7 @@ https://livrariaultramarina.pt/
 Here "celebrated narratives of colonialism" include [[Os Lusíadas]]. Does the question pertain to the idea of pride associated with colonialism? and does it associate this pride with a foundation for a national identity?
 Sub-questions:
 -  How are narratives of colonialism celebrated within Portuguese culture?
--  What is national identity and how does it relate to this narratives?
+-  What is national identity (a nation) and how does it relate to these narratives?
 -  What is experimental writing and how can it be applied as tool in this context?
 -  Can experimental writing be rhizomatic?
 
