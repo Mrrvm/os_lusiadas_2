@@ -30,9 +30,7 @@ https://fgf.uac.pt/entidade/CHAM
 https://livrariaultramarina.pt/
 
 ## considerations
--  Should I include other languages, even if I don't speak/know them? Portuguese, as a colonial language, carries embedded power structures. Incorporating other indigenous languages, code-switching, and neologisms could help at undermining Portuguese hegemony. Ok, but then I am writing mostly in Portuguese, because I am so.
-
-- Example: Mixing Portuguese with Kimbundu or other African languages forces a reader to navigate linguistic tensions rather than passively consume a nationalist narrative.
+-  Should I include other languages, such as Kimbundu or Badiu, even if I don't speak/know them? Portuguese, as a colonial language, carries embedded power structures. Incorporating other indigenous languages, code-switching, and neologisms could help at undermining Portuguese language hegemony. Ok, but then I am writing mostly in Portuguese, how does that undermine anything? It could disrupt a passive consumption of the text by refusing the uniformity of a single/dominant language. So, instead of reading seamlessly, the readers would encounter shifts between languages that could destabilize their flow.
 
 -  Should I translate sources to Portuguese to use them? My role as translator? Or how can I trust translated sources?
 
