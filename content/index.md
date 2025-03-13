@@ -34,6 +34,7 @@ https://livrariaultramarina.pt/
 -  should I translate sources to Portuguese to use them? My role as translator? Or how can I trust translated sources?
 - how many is too many references?
 - should I use references by white authors? should i use Portuguese propaganda documents? or official sources such as [[Código do trabalho dos indígenas nas colónias portuguesas de África]]?
+- How can I work rhizomatically?
 
 ## thought log
 **26/02/2025** - I feel like there has to be an overarching narrative, and this is preventing me from starting with the material. Reading everything first, rather than just doing. For fear of bad results. Thinking that there has to be a connection between the meaning of each chapter and the sources I use. Or that I have to somewhat follow the chapters, and what that means. What my position as the writer means, also scares me.
