@@ -13,6 +13,8 @@ https://digitarq.ahu.arquivos.pt/
 
 https://www.slavevoyages.org/voyage/database
 
+http://arquivos.ministerioultramar.holos.pt/source/presentation/pag.php?pag=1
+
 #### physical
 
 https://www.cm-lagos.pt/areas-de-atuacao/arquivo-municipal
