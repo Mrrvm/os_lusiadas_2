@@ -30,10 +30,16 @@ https://fgf.uac.pt/entidade/CHAM
 https://livrariaultramarina.pt/
 
 ## considerations
--  should I include creole, even if I don't speak/know creole?
--  should I translate sources to Portuguese to use them? My role as translator? Or how can I trust translated sources?
+-  Should I include other languages, even if I don't speak/know them? Portuguese, as a colonial language, carries embedded power structures. Incorporating other indigenous languages, code-switching, and neologisms could help at undermining Portuguese hegemony. Ok, but then I am writing mostly in Portuguese, because I am so.
+
+- Example: Mixing Portuguese with Kimbundu or other African languages forces a reader to navigate linguistic tensions rather than passively consume a nationalist narrative.
+
+-  Should I translate sources to Portuguese to use them? My role as translator? Or how can I trust translated sources?
+
 - how many is too many references?
+
 - should I use references by white authors? should i use Portuguese propaganda documents? or official sources such as [[Código do trabalho dos indígenas nas colónias portuguesas de África]]?
+
 - How can I work rhizomatically?
 
 ## thought log
