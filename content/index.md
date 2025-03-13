@@ -9,6 +9,10 @@ https://sites.google.com/site/ciberlusofonia/Lit-Afric-de-Ling-Port
 
 https://www.projectmanifest.eu/
 
+https://digitarq.ahu.arquivos.pt/
+
+https://www.slavevoyages.org/voyage/database
+
 #### physical
 
 https://www.cm-lagos.pt/areas-de-atuacao/arquivo-municipal
