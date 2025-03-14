@@ -96,7 +96,10 @@
     "workerpool": "^9.2.0",
     "ws": "^8.18.0",
     "yargs": "^17.7.2",
-    "zwitch": "^2.0.4"
+    "zwitch": "^2.0.2"
+  },
+  "resolutions": {
+    "zwitch": "2.0.2"
   },
   "devDependencies": {
     "@types/cli-spinner": "^0.2.3",
