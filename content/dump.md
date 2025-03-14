@@ -71,4 +71,5 @@ Djaimilia Pereira de Almeida’s _Luar de Sangue_
 
  Isabela Figueiredo (_Caderno de Memórias Coloniais_)
 
-_Un coup de dés jamais n’abolira le hasard_ and Livre Total (as rhizomatic experimental writing)
+_Un coup de dés jamais n’abolira le hasard_ and Livre Total (as rhizomatic experimental writing
+)
