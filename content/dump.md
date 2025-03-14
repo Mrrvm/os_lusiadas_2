@@ -1,4 +1,6 @@
 
+## sources
+
 https://www.alaaabuasad.com/
 
 [A ILHA DE MOÇAMBIQUE Pela Voz dos Poetas Compilação de Nelson Saúde e António Sopa – 1992](https://livrariaultramarina.pt/shop/a-ilha-de-mocambique-pela-voz-dos-poetas-compilacao-de-nelson-saude-e-antonio-sopa-1992-2/)
@@ -71,5 +73,16 @@ Djaimilia Pereira de Almeida’s _Luar de Sangue_
 
  Isabela Figueiredo (_Caderno de Memórias Coloniais_)
 
-_Un coup de dés jamais n’abolira le hasard_ and Livre Total (as rhizomatic experimental writing
-)
+_Un coup de dés jamais n’abolira le hasard_ and Livre Total (as rhizomatic experimental writing)
+
+Saidiya Hartman’s “Critical Fabulation”
+
+As Eduardo Lourenço observed, Portugal’s identity is a “dream”—but experimental writing can turn that dream into a nightmare worth waking from.
+
+José Eduardo Agualusa’s _A General Theory of Oblivion_ weaves Kimbundu untranslated, forcing readers to confront their ignorance.
+
+Teju Cole’s _Tremor_, critiques translation as loss.
+
+## ideas
+
+A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
