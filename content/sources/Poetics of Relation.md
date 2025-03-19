@@ -31,7 +31,7 @@ While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power)
 
 Foundational texts like the _Iliad_, _Odyssey_, _Eneid_, and _Sagas_ are books of exile rather than fixed national certainties. [[Os Lusíadas]] follows the same pattern: it tells the story of an errant journey across the seas within this epic past, in which the Portuguese empire is not yet fully realised but is imagined through narratives of travel, movement, exile, and expansion into unknown lands, but at the same time it tries to root Portuguese identity and be its foundation. ==In fact, the book itself talks about the fragility of empire at the time.==
 
-The root is mono linguistic, it produces a hegemony of language. The idea of slang - words with a bad connotation - in Portuguese are words coming from Other languages, such as Kimubundu (bue, bora, bazar, ...)
+The root is mono linguistic, it produces a hegemony of language that tries to eliminate the "impurity" of other languages that thrived from the Relation to the Other. For example, slang in Portuguese are words coming from Other languages, such as Kimubundu (bue, bora, bazar, ...).
 
 ### Must-have quotes
 
@@ -42,7 +42,11 @@ The root is mono linguistic, it produces a hegemony of language. The idea of sla
 
 **Livros fundadores de nações**
 "Contudo, e isso é um imenso paradoxo, os livros fundadores da comunidade, o Antigo Testamento, a _Ilíada_, a _Odisseia_, as _Canções de Gesta_, as _Sagas_, a _Eneida_ ou as epopeias africanas são livros de exílio e, muitas vezes, de errância. Essa literatura épica é espantosamente profética: diz a comunidade, mas através da relação de seu fracasso aparente ou, em todo o caso, da sua superação, e a raiz é, consequentemente, considerada como tentação (desejo de contrariar a raiz) e quase sempre sentida nos factos. Os livros coletivos do sagrado ou da historicidade contêm em si o exato contrário das suas turbulentas pretensões. Neles, a legitimidade da posse de um território, sempre mitigada pela relativização da própria noção de território. Livros de despertar para a consciência coletiva, eles instituem um índice de mal-estar e de angústia que permite ao indivíduo recentrar-se, sempre que este constitui um problema para si mesmo. A vitória dos gregos na _Ilíada_ depende de um embuste, Ulisses, ao regressar da sua _Odisseia_, é apenas reconhecido pelo seu cão, o David do Antigo Testamento é desonrado pelo adultério e pelo homicídio, a _Canção de Rolando_ é a crônica de uma derrota, as personagens das _Sagas_ estão marcadas pelo signo de uma fatalidade incontornável, e assim por diante. Esses livros fundam algo de muito distinto de uma certeza absoluta, dogmática ou totalitária (independentemente da utilização religiosa que deles será feita): são livros de errância, para além da procura ou do triunfo do enraizamento que o movimento da História exige.
-Hegel mostra, no [[Hegel's Lectures on Aesthetics]], como as obras fundadoras de comunidades surgem, de modo espontâneo, no momento em que a consciência ingênua se assegura da sua legitimidade – sejamos claros: do seu direito à posse de um território. Nesse sentido, o pensamento épico está muito próximo do mito. (p.25)"
+Hegel mostra, no [[Hegel's Lectures on Aesthetics]], como as obras fundadoras de comunidades surgem, de modo espontâneo, no momento em que a consciência ingênua se assegura da sua legitimidade – sejamos claros: do seu direito à posse de um território. Nesse sentido, o pensamento épico está muito próximo do mito. (p.25)
+(...) **abordei esta dimensão de uma literatura épica, interrogando-me se nos dias de hoje não nos seriam ainda necessárias obras fundadoras que se baseassem numa semelhante dialética do desvio: afirmando, por exemplo, o rigor político, mas também o rizoma da relação múltipla com o Outro, e fundando as razões de viver de qualquer comunidade numa forma moderna do sagrado, que seria, em suma, uma poética da Relação.**"
+
+**Turism**
+"daqueles que suportam a injustiça do mundo. A sua errância é, com efeito, imóvel. Não viveram o luxo do afastamento, melancólico e extrovertido. Não viajam. Mas para eles o saber da raiz passa agora a ser-lhes dado pela intuição da Relação: é essa uma das constantes do nosso mundo. Viajar já não é o lugar de um poder, mas o momento de um prazer, se bem que privilegiado. A obsessão ontológica do conhecimento dá lugar à fruição de uma relação, de que _o turismo é a forma elementar e, a maior parte das vezes, caricatural. Os que ficam sobressaem-se com essa paixão do mundo, comum a todos. Acontece-lhes sofrer os tormentos do exílio interior. (...) Falo desse exílio interior que atinge os indivíduos, quando as soluções não são, ou não são ainda, no que toca às relações de uma comunidade com o seu meio, por ela globalmente consentidas. (p.28)"
 
 ### Collected text for collage
 
@@ -147,3 +151,15 @@ e o exilado confessa de bom grado que aquilo que mais o afeta é a impossibilida
 A raíz é monolingue.
 
 Contudo, e isso é um imenso paradoxo, os livros fundadores da comunidade, o Antigo Testamento, a _Ilíada_, a _Odisseia_, as _Canções de Gesta_, as _Sagas_, a _Eneida_ ou as epopeias africanas são livros de exílio e, muitas vezes, de errância. 
+
+obrigando os povos visitados ou conquistados à longa e dolorosa busca de uma identidade que deverá sobretudo opor-se às desnaturações provocadas pelo conquistador
+
+Variante trágica da procura de identidade.
+
+É bem a _imagem do rizoma_, que nos faz reconhecer que a identidade _não está só na raiz, mas também na Relação_
+
+Não nos cansamos de repetir que o que este exportava _em primeiro lugar era sua língua._ Por isso as línguas do Ocidente eram consideradas veiculares e faziam as vezes de metrópoles.
+
+o dito da Relação é multilingue
+
+A obsessão ontológica do conhecimento dá lugar à fruição de uma relação, de que o turismo é a forma elementar e, a maior parte das vezes, caricatural.
