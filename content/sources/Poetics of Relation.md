@@ -25,7 +25,7 @@ Glissant uses the **ship** as a symbol of the forced crossing of enslaved Africa
 
 #### How it relates
 
-While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power) through conquest, Glissant’s **errantry** suggests a more fluid, non-hierarchical relationship with space, culture, and identity. The Portuguese takes an approach of massive arrow nomadism, as it is not fully rooted in Portugal, nor is open to mix with other cultures. They have a defined goal: trade, and possibly (and definitely contemporarily) pride.
+While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power) through conquest (through the creation of myth, and consequential legitimazation), Glissant’s **errantry** suggests a more fluid, non-hierarchical relationship with space, culture, and identity. The Portuguese takes an approach of massive arrow nomadism, as it is not fully rooted in Portugal, nor is open to mix with other cultures. They have a defined goal: trade, and a pride attached to it.
 
 ### Must-have quotes
 
@@ -102,6 +102,15 @@ Tomamos partido por esse jogo do mundo, pelas Índias renovadas em direção às
 
 ###### A ERRÂNCIA, O EXÍLIO
 
+A raiz é única, é uma origem que de tudo se apodera e que mata o que está a volta; opõem-lhe o rizoma, que é uma raiz desmultiplicada, que se estende em rede pela terra ou no ar, sem que nenhuma origem intervenha como predador irremediável.
+
+em que nem a audácia nem agressão intervêm.
+
+Oponhamos-lhe o nomadismo invasor, o dos hunos, por exemplo, ou o dos Conquistadores, que tem como objetivo conquistar terras através dos extermínio dos seus ocupantes. Este nomadismo não é prudente nem circular, não mede os seus efeitos, é um salto absoluto em frente: um nomadismo em flecha.
+
+A relação com a terra é demasiado imediata, ou predadora para que a preocupação de identidade a ela esteja ligada só. A identidade adquirir-se-á quando as comunidades tiverem tentado, através do mito ou da palavra revelada, legitimar o seu direito a essa posse de um território.
+
+Nessa época, a identificação faz-se com uma cultura - que é Concebida como civilização e não ainda como uma nação.
 
 
 

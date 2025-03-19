@@ -37,8 +37,7 @@ https://livrariaultramarina.pt/
 
 ### ideal external partners
 
-[[Tavares Cebola]] 
-
+[[Tavares Cebola]] po
 [[Grada Kilomba]]
 
 [[Sandim Mendes]]
