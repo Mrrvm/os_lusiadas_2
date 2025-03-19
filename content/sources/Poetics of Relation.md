@@ -23,12 +23,26 @@ Glissant differentiates **errantry** from the **single root**, which symbolizes 
 
 Glissant uses the **ship** as a symbol of the forced crossing of enslaved African peoples across the Atlantic. It represents displacement, errantry, and the creation of new identities. He also presents **three abysses**: the first is the ocean, where countless lives were lost; the second, the cultural destruction in the slave plantations; and the third, the oblivion imposed by colonial history. However, the abyss does not only signify loss, but also reinvention. Errantry transforms this void into a space of creation, where the diaspora gives rise to new relationships and identities in constant transformation.
 
+##### Epics and tragedies as legitimization
+
 #### How it relates
 
-While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power) through conquest (through the creation of myth, and consequential legitimazation), Glissant’s **errantry** suggests a more fluid, non-hierarchical relationship with space, culture, and identity. The Portuguese takes an approach of massive arrow nomadism, as it is not fully rooted in Portugal, nor is open to mix with other cultures. They have a defined goal: trade, and a pride attached to it.
+While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power) through conquest (through the creation of myth, and consequential legitimasation), Glissant’s **errantry** suggests a more fluid, non-hierarchical relationship with space, culture, and identity. The Portuguese takes an approach of massive arrow nomadism, as it is not fully rooted in the idea of Portugal, nor is open to mix with other cultures. They have a defined goal: trade, and a pride attached to it.
+
+Foundational texts like the _Iliad_, _Odyssey_, _Eneid_, and _Sagas_ are books of exile rather than fixed national certainties. [[Os Lusíadas]] follows the same pattern: it tells the story of an errant journey across the seas within this epic past, in which the Portuguese empire is not yet fully realised but is imagined through narratives of travel, movement, exile, and expansion into unknown lands, but at the same time it tries to root Portuguese identity and be its foundation. ==In fact, the book itself talks about the fragility of empire at the time.==
+
+The root is mono linguistic, it produces a hegemony of language. The idea of slang - words with a bad connotation - in Portuguese are words coming from Other languages, such as Kimubundu (bue, bora, bazar, ...)
 
 ### Must-have quotes
 
+**De errância à raíz ocidental**
+"Na época dos nomadismos invasores, a paixão de se definir adquire a feição da aventura pessoal. Ao longo dos seus périplos, os conquistadores constituem impérios que se desmoronam com eles na morte. As suas capitais deslocam-se com eles. «Roma não está em Roma, está sempre onde eu estou.» Não é a raiz que importa, mas sim o movimento. O pensamento da errância não se detém, travado pela realidade intensa desse nomadismo demasiado funcional, cujos fins nunca teria podido conhecer. Centro e periferias equivalem-se. Os conquistadores são a raiz móvel e efêmera dos seus povos.
+É pois aí, no Ocidente, que o movimento se torna fixo e que as nações se pronunciam até se repercutirem no mundo. Essa fixação, esse enunciado e essa expansão requerem então que a ideia de raiz ganhe pouco a pouco esse sentido intolerante que Deleuze e Guattari certamente pretenderam recusar. Se regressarmos a esse episódio ocidental, é precisamente porque ele proliferou pelo mundo. O modelo propagou-se. A maior parte das nações que se libertaram do colonialismo tenderam a formar-se em torno da ideia de poderio, pulsão totalitária da raiz única, e não de uma relação fundadora com o Outro. O pensamento cultural de si eriça-se, opondo o cidadão ao bárbaro. Não houve nada mais absolutamente oposto ao pensamento da errância do que esse período da história das humanidades em que as nações ocidentais se constituíram e que depois se repercutiram no mundo.
+(...) Ao mesmo tempo, a realidade do exílio é sentida como uma falta (temporária), sendo interessante notar que ela dirá, antes de mais, respeito à língua. (...) No Ocidente, as nações constituíram-se sobre o modo da intransigência linguística, (...) A raíz é monolingue." (p.24)
+
+**Livros fundadores de nações**
+"Contudo, e isso é um imenso paradoxo, os livros fundadores da comunidade, o Antigo Testamento, a _Ilíada_, a _Odisseia_, as _Canções de Gesta_, as _Sagas_, a _Eneida_ ou as epopeias africanas são livros de exílio e, muitas vezes, de errância. Essa literatura épica é espantosamente profética: diz a comunidade, mas através da relação de seu fracasso aparente ou, em todo o caso, da sua superação, e a raiz é, consequentemente, considerada como tentação (desejo de contrariar a raiz) e quase sempre sentida nos factos. Os livros coletivos do sagrado ou da historicidade contêm em si o exato contrário das suas turbulentas pretensões. Neles, a legitimidade da posse de um território, sempre mitigada pela relativização da própria noção de território. Livros de despertar para a consciência coletiva, eles instituem um índice de mal-estar e de angústia que permite ao indivíduo recentrar-se, sempre que este constitui um problema para si mesmo. A vitória dos gregos na _Ilíada_ depende de um embuste, Ulisses, ao regressar da sua _Odisseia_, é apenas reconhecido pelo seu cão, o David do Antigo Testamento é desonrado pelo adultério e pelo homicídio, a _Canção de Rolando_ é a crônica de uma derrota, as personagens das _Sagas_ estão marcadas pelo signo de uma fatalidade incontornável, e assim por diante. Esses livros fundam algo de muito distinto de uma certeza absoluta, dogmática ou totalitária (independentemente da utilização religiosa que deles será feita): são livros de errância, para além da procura ou do triunfo do enraizamento que o movimento da História exige.
+Hegel mostra, no [[Hegel's Lectures on Aesthetics]], como as obras fundadoras de comunidades surgem, de modo espontâneo, no momento em que a consciência ingênua se assegura da sua legitimidade – sejamos claros: do seu direito à posse de um território. Nesse sentido, o pensamento épico está muito próximo do mito. (p.25)"
 
 ### Collected text for collage
 
@@ -112,8 +126,24 @@ A relação com a terra é demasiado imediata, ou predadora para que a preocupa�
 
 Nessa época, a identificação faz-se com uma cultura - que é Concebida como civilização e não ainda como uma nação.
 
+Na época dos nomadismos invasores, a paixão de se definir adquire a feição da aventura pessoal. Ao longo dos seus périplos, os conquistadores constituem impérios que se desmoronam com eles na morte. As suas capitais deslocam-se com eles. «Roma não está em Roma, está sempre onde eu estou.» Não é a raiz que importa, mas sim o movimento.
 
+Centro e periferias equivalem-se. Os conquistadores são a raiz móvel e efêmera dos seus povos.
 
+que a ideia de raiz ganhe pouco a pouco esse sentido intolerante
 
+A maior parte das nações que se libertaram do colonialismo tenderam a formar-se em torno da ideia de poderio, pulsão totalitária da raiz única
 
+opondo o cidadão ao bárbaro
 
+as nações ocidentais se constituíram e que depois se repercutiram no mundo
+
+Esse pensamento da errância, que ia a contracorrente da expansão nacionalista, transforma-se então «em» aventuras muito pessoais
+
+Ao mesmo tempo, a realidade do exílio é sentida como uma falta (temporária), sendo interessante notar que ela dirá, antes de mais, respeito à língua.
+
+e o exilado confessa de bom grado que aquilo que mais o afeta é a impossibilidade de comunicar na sua língua.
+
+A raíz é monolingue.
+
+Contudo, e isso é um imenso paradoxo, os livros fundadores da comunidade, o Antigo Testamento, a _Ilíada_, a _Odisseia_, as _Canções de Gesta_, as _Sagas_, a _Eneida_ ou as epopeias africanas são livros de exílio e, muitas vezes, de errância. 
