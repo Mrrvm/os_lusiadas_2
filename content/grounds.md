@@ -1,4 +1,4 @@
-### How can experimental writing deconstruct the celebrated narratives of colonialism that define Portuguese national identity? 
+### What are the some of the ways through which experimental writing can deconstruct the celebrated narratives of colonialism that define Portuguese national identity? 
 
 #### How are narratives of colonialism celebrated within Portuguese culture?
 
