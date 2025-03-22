@@ -83,6 +83,12 @@ José Eduardo Agualusa’s _A General Theory of Oblivion_ weaves Kimbundu untr
 
 Teju Cole’s _Tremor_, critiques translation as loss.
 
+https://catarinasimao.com/infos/
+
+https://www.icm.gov.mo/en/events/detail/4805
+Paulo Guambe
+https://catarinasimao.com/nao-visitem-a-sala-colonial-do-not-visit-the-sala-colonial/
+
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
