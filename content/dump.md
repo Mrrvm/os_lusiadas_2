@@ -114,11 +114,22 @@ https://www.vladsokhin.com/work/mozambicanshamans/#1
 https://pure.uva.nl/ws/files/4503260/171598_Transatlantic_Pentecostal_Demons_in_Maputo.pdf
 
 http://www.afreaka.com.br/great-zim/ reino do zimbabwe que se extendia para mozambique moderno
-
 O Império dos Mwenemutapas
-
 https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Enes - Código de Trabalho Rural de 1875
 Como Portugal tinha sido obrigado a ilegalizar o [comércio](https://pt.wikipedia.org/wiki/Com%C3%A9rcio "Comércio") de [escravos](https://pt.wikipedia.org/wiki/Escravo "Escravo") em 1842, apesar de fechar os olhos ao comércio clandestino, e não tinha condições para administrar todo o território, deu a estas companhias poderes para instituir e cobrar [impostos](https://pt.wikipedia.org/wiki/Imposto "Imposto"). Foi nessa altura que foi introduzido o "imposto de palhota", ou seja, a obrigatoriedade de cada [família](https://pt.wikipedia.org/wiki/Fam%C3%ADlia "Família") pagar um imposto em dinheiro; como a população nativa não estava habituada às trocas por dinheiro (para além de produzir para a própria sobrevivência), eram obrigados a trabalhar sob prisão - o [trabalho forçado](https://pt.wikipedia.org/wiki/Trabalho_for%C3%A7ado "Trabalho forçado"), chamado em Moçambique "chibalo"; mais tarde, as famílias nativas foram obrigadas a cultivar produtos de rendimento, como [algodão](https://pt.wikipedia.org/wiki/Algod%C3%A3o "Algodão") ou [tabaco](https://pt.wikipedia.org/wiki/Tabaco "Tabaco"), que eram comercializados por aquelas companhias.
+https://pt.wikipedia.org/wiki/Ngungunhane
+https://pt.wikipedia.org/wiki/Eduardo_Mondlane
+https://pt.wikipedia.org/wiki/Acordos_de_Lusaca  Ao abrigo desse acordo, foi formado um [Governo de Transição](https://pt.wikipedia.org/wiki/Governo_de_Transi%C3%A7%C3%A3o "Governo de Transição"), chefiado por [Joaquim Chissano](https://pt.wikipedia.org/wiki/Joaquim_Chissano "Joaquim Chissano"), que incluía [ministros](https://pt.wikipedia.org/w/index.php?title=Ministro_\(pol%C3%ADtica\)&action=edit&redlink=1 "Ministro (política) (página não existe)") nomeados pelo governo português e outros nomeados pela FRELIMO.
+https://pt.wikipedia.org/wiki/Samora_Machel
+https://pt.wikipedia.org/wiki/Lista_de_governadores_coloniais_de_Mo%C3%A7ambique
+
+https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa
+![[Pasted image 20250326184916.png]]
+
+![[Pasted image 20250326184948.png]]
+https://www.ordens.presidencia.pt/?idc=153
+
+
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
