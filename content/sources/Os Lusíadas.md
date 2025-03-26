@@ -39,15 +39,15 @@ Why dedicate _Os Lusíadas_ to King Sebastian?
 
 - **A Call to Action** – Throughout the book, Camões celebrates Portugal’s past but also warns about the government's corruption and greed. It seemed like he was trying to urge the new king to lead wisely and avoid the mistakes of his predecessors.
 
-Why Did He Think the Empire Would Decline?
+Why was the Portuguese empire declining?
 
-- **Overextension and Economic Strain** – Portugal’s empire was vast, stretching from Brazil to Africa and Asia, but maintaining it was costly. Corruption, poor leadership, and the reliance on colonial wealth rather than internal production weakened the economy.
+- **Overextension and economic strain** – Portugal’s empire was vast, stretching from Brasil to Africa and Asia, but maintaining it was costly. Corruption, poor leadership, and the reliance on colonial wealth rather than internal production weakened the economy.
 
-- **Threats from Rivals** – Spain, the Ottoman Empire, and Dutch traders were challenging Portuguese dominance in different regions. The Dutch, in particular, were beginning to disrupt Portuguese control in the Indian Ocean.
+- **Threats from rivals** – Spain, the Ottoman Empire, and Dutch traders were challenging Portuguese dominance in different regions. The Dutch, in particular, were beginning to disrupt Portuguese control in the Indian Ocean.
 
-- **Internal Corruption and Complacency** – Camões criticises the greed and moral decline of Portugal’s ruling class, suggesting that their corruption would lead to the empire’s downfall.
+- **Internal corruption and complacency** – Camões criticises the greed and moral decline of Portugal’s ruling class, suggesting that their corruption would lead to the empire’s downfall.
 
-- **Sebastian’s Reckless Plans** – By the time Camões published _Os Lusíadas_, Sebastian was already obsessed with launching a crusade in North Africa. This ambition would ultimately lead to Portugal’s downfall at the Battle of Alcácer Quibir in 1578, where the king and much of the Portuguese nobility were killed.
+- **King Sebastian’s plans** – By the time Camões published _Os Lusíadas_, Sebastian was already obsessed with launching a crusade in North Africa. This ambition would ultimately lead to Portugal’s downfall at the Battle of Alcácer Quibir in 1578, where the king and much of the Portuguese nobility were killed.
 
 Camões himself **experienced** the effects of this corruption. While serving in the empire, he **was imprisoned in Goa** (possibly for debts or conflicts with corrupt officials). His harsh experiences in the colonies gave him insight into how greed and poor leadership were weakening the empire.
 

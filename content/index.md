@@ -51,7 +51,13 @@ https://livrariaultramarina.pt/
 ## thought log
 
 **26/03/2025 -** 
-Canto I is divided in Proposition, Invocation and Dedication.
+Canto I is divided in Proposition, Invocation and Dedication. When thinking of following the same structure, I wonder what would be Proposition, Invocation and Dedication. For instance:
+
+**Proposition**: to deconstruct the celebrated narratives of colonialism, to come to terms with our own history, to recognise ourselves in the mistakes of the past, to encourage the country to make reparations, and ultimately to prompt the transformation of our collective identity.
+
+**Invocation:** To all the writers, artists, revolutionaries, and thinkers—living and dead—whose words dismantle these celebrated narratives and dream beyond its ruins
+
+**Dedication:** to the erased, the insurgent, the resistance, the anti-colonial figures, such as Amílcar Cabral, to freedom, to those who contribute to the rhizome, to women, to those who refuse worship to the "Great Men". 
 
 **14/03/2025 -** 
 A few nice sentences I gathered.

@@ -89,6 +89,29 @@ https://www.icm.gov.mo/en/events/detail/4805
 Paulo Guambe
 https://catarinasimao.com/nao-visitem-a-sala-colonial-do-not-visit-the-sala-colonial/
 
+https://en.wikipedia.org/wiki/Tetum_language
+
+Lília Momplé’s _Ninguém Matou Suhura_
+
+Bonga’s _Mona Ki Ngi Xica_ (lived in rotterdam https://medium.com/@wordsinthebucket.com/mona-ki-ngi-xica-bonga-c3be01326b72)
+
+Djaimilia Pereira de Almeida
+
+https://www.youtube.com/watch?v=UTqQdtmGiUg Griots of Guine Bissau
+
+Ana Paula Tavares
+
+Dóci Papiaçám di Macau Drama Group
+
+https://pt.wikipedia.org/wiki/Comiss%C3%A3o_Nacional_para_as_Comemora%C3%A7%C3%B5es_dos_Descobrimentos_Portugueses
+
+https://en.wikipedia.org/wiki/Konkani_language#:~:text=On%2026%20February%201975%2C%20the,influenced%20by%20the%20Portuguese%20language.
+
+https://en.wikipedia.org/wiki/Morna_(music)
+
+https://www.vladsokhin.com/work/mozambicanshamans/#1
+
+https://pure.uva.nl/ws/files/4503260/171598_Transatlantic_Pentecostal_Demons_in_Maputo.pdf
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
