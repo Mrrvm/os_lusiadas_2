@@ -24,21 +24,20 @@ Returns to Lisbon: September 1499
 
 ## Canto I
 #### Proposition: 
-The poet begins his poem by ==stating what he intends to do== and succinctly indicating the subject of his narrative: ==singing of the navigators who made the Portuguese empire== in the East possible, the kings who promoted the expansion of faith and empire, all those who become worthy of admiration for their heroic deeds.
+The poet begins his poem by ==stating what he intends to do== and then indicating the subject of his narrative: ==singing the navigators who made the Portuguese empire== possible, the kings who promoted the expansion of faith and empire, and all those who become worthy of admiration for their heroic deeds.
 #### Invocation: 
-==The poet addresses the Tagides (nymphs of the Tagus) to ask for inspiration== to execute, with great style and eloquence, the work he proposes to accomplish; the grandeur of the subject implied the help of the entities that protect artists.
+==The poet addresses the Tagides (nymphs of the Tagus) to ask for inspiration== to execute the work he proposes to accomplish with eloquence.
 #### Dedication:
-==The poet dedicates his work to King Sebastian.== The fact that Camões includes the dedication in his poem accentuates the nationalist aspect of the poem, although this fact also reflects the status of the artist who, although intellectually superior, is economically dependent on a patron, a protector.
+==The poet dedicates his work to King Sebastian.== Making this dedication accentuates the nationalism embedded in the work, yet it also reflects the status of the artist who is economically dependent on a patron, a protector.
+Camões saw King Sebastian as the last hope for Portugal’s empire, while at the same time, expressing deep anxieties about its decline. He was loyal to the monarchy but aware of the realities of the time.
 
-Luís de Camões saw King Sebastian as the last hope for revitalizing Portugal’s empire. At the same time, the poem expressed deep anxieties about the empire's decline. This apparent contradiction reflects both Camões’ loyalty to the monarchy and his awareness of the geopolitical realities of the time.
+Why dedicate _Os Lusíadas_ to King Sebastian?
 
-Why Did Camões Dedicate _Os Lusíadas_ to King Sebastian?
+- **Patronage and Recognition** – dedicating work to a monarch to secure royal favours and financial support. Camões, had spent years in poverty and exile, and probably needed recognition from the young king.
 
-- **Patronage and Recognition** – It was common for poets to dedicate their works to monarchs to secure royal favor and financial support. Camões, who had spent years in poverty and exile, needed recognition from the young king.
+- **Hope in a new Ruler** – Sebastian became king in 1557 as a child, and he was seen by many as the potential saviour of Portugal and its colonial ambitions. Camões, despite his cynicism, likely wanted to inspire the king to reclaim the Portugal’s former glory.
 
-- **Hope in a New Ruler** – Sebastian, who became king in 1557 as a child, was seen by many as the potential savior of Portugal’s imperial ambitions. Camões, despite his cynicism, likely wanted to inspire the young king to reclaim the empire’s former glory.
-
-- **A Call to Action** – Throughout _Os Lusíadas_, Camões celebrates Portugal’s past but also warns of moral decay and poor governance. By dedicating the poem to Sebastian, he was urging him to lead wisely and avoid the mistakes of his predecessors.
+- **A Call to Action** – Throughout the book, Camões celebrates Portugal’s past but also warns about the government's corruption and greed. It seemed like he was trying to urge the new king to lead wisely and avoid the mistakes of his predecessors.
 
 Why Did He Think the Empire Would Decline?
 

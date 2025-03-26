@@ -50,6 +50,9 @@ https://livrariaultramarina.pt/
 
 ## thought log
 
+**26/03/2025 -** 
+Canto I is divided in Proposition, Invocation and Dedication.
+
 **14/03/2025 -** 
 A few nice sentences I gathered.
 Identity (and national identity) as something that is formed through encounters rather than through a stable, self-contained essence.
