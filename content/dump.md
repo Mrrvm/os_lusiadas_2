@@ -112,6 +112,10 @@ https://en.wikipedia.org/wiki/Morna_(music)
 https://www.vladsokhin.com/work/mozambicanshamans/#1
 
 https://pure.uva.nl/ws/files/4503260/171598_Transatlantic_Pentecostal_Demons_in_Maputo.pdf
+
+http://www.afreaka.com.br/great-zim/ reino do zimbabwe que se extendia para mozambique moderno
+
+O Império dos Mwenemutapas
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
