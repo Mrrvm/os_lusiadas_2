@@ -116,6 +116,9 @@ https://pure.uva.nl/ws/files/4503260/171598_Transatlantic_Pentecostal_Demons_in_
 http://www.afreaka.com.br/great-zim/ reino do zimbabwe que se extendia para mozambique moderno
 
 O Império dos Mwenemutapas
+
+https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Enes - Código de Trabalho Rural de 1875
+Como Portugal tinha sido obrigado a ilegalizar o [comércio](https://pt.wikipedia.org/wiki/Com%C3%A9rcio "Comércio") de [escravos](https://pt.wikipedia.org/wiki/Escravo "Escravo") em 1842, apesar de fechar os olhos ao comércio clandestino, e não tinha condições para administrar todo o território, deu a estas companhias poderes para instituir e cobrar [impostos](https://pt.wikipedia.org/wiki/Imposto "Imposto"). Foi nessa altura que foi introduzido o "imposto de palhota", ou seja, a obrigatoriedade de cada [família](https://pt.wikipedia.org/wiki/Fam%C3%ADlia "Família") pagar um imposto em dinheiro; como a população nativa não estava habituada às trocas por dinheiro (para além de produzir para a própria sobrevivência), eram obrigados a trabalhar sob prisão - o [trabalho forçado](https://pt.wikipedia.org/wiki/Trabalho_for%C3%A7ado "Trabalho forçado"), chamado em Moçambique "chibalo"; mais tarde, as famílias nativas foram obrigadas a cultivar produtos de rendimento, como [algodão](https://pt.wikipedia.org/wiki/Algod%C3%A3o "Algodão") ou [tabaco](https://pt.wikipedia.org/wiki/Tabaco "Tabaco"), que eram comercializados por aquelas companhias.
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
