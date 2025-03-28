@@ -12,6 +12,8 @@ tags:
 ---
 Written by Luís Vaz de Camões (1524-1580). He began writing in 1550 and it was published in 1572. D. Sebastian (1554) became king in 1557 and took control of the throne in 1568 (14 years old). When he went to North Africa in 1578, he was 24. Sebastian’s disastrous campaign led to Portugal’s decline and eventual annexation by Spain in 1580 (when Camões died).
 
+![[Pasted image 20250328173226.png]]
+
 ![[Pasted image 20250324184245.png]]
 
 Leaves Lisbon: July 1497
