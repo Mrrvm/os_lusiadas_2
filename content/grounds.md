@@ -9,7 +9,7 @@
 #### What is national identity (a nation) and how does it relate to these narratives?
 
 - **Nation as defined per myth**
-(Homi K. Bhabha, Nation as Narration)
+[[Nation as Narration - Homi K. Bhabha]]
 
 - **How do epic poems solidify the myth?**
 ([[Hegel's Lectures on Aesthetics]])
