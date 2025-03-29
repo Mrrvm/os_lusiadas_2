@@ -253,7 +253,21 @@ procura afirmar nos outros o que teme reconhecer em si, como na negação
 
 está atens preocupado com as consequências da sua própria transgressão: "acusação", "culpa", "punição".
 
-a 
+as respostas comuns à culpa são a *intelectualização* ou a *racionalização* 
+
+tenta estabelecer uma justificação lógica para o racismo
+
+"para mim, não há *negras/os* ou *brancas/os*, somos todos seres humanos"
+
+na ideia de que "a 'raça' realmente não importa"
+
+estratégia para reduzir os desejos inconscientes de agressão dirigidos aos "Outros" e o sentimento de culpa
+
+Por outro lado, a *vergonha* é o medo do ridículo, a resposta ao fracasso de estar à altura do ideal do próprio ego.
+
+Ora, a vergonha apresenta uma relação íntima com o discernimento.
+
+É motivada por experiências que contestam as pré-concepções
 #### Capítulo 3 - Dizer o indizível
 
 situado na superfície de outras coisas
