@@ -294,6 +294,45 @@ O erro que tantas vezes se comete com o poeta é acreditar que o seu texto preen
 
 se articula em movimentos subterrâneos
 
+Não há archotes em torno dessa palavra; apenas a mão estendida para o horizonte que desponta, onda ou planalto.
+
+É o infinito sempre possível. A ronda da voz desmultiplica-se no mundo.
+
+não mergulha no susurro das trevas, onde se adivinharia o mundo em redor; ela saúda as auroras, quando os ecos longínquos se misturam já aos ruídos familiares e a caravana deixa o deserto, ligeira.
+
+não reúne a memória despedaçada de um lugar, onde um outro lugar perdido se furta ainda ou por fim se revela.
+
+envolve em ecos as vagas desses países de antes e recusa a sonolência da palavra transparente, dá a pensar o país real, este país de aqui, de que fala.
+
+começa por "festejar uma infância"
+
+recusa o conforto do álbum que se folheia. O que é de facto essa memória sempre em fuga? Qual é esse lugar (essa casa), de que apenas é dito que dela se sai? E essa solidão altiva entre "todas as coisas" brilhantes, explodidas, irreparavelmente reluzentes?
+
+Essa oralidade não convoca os ouvintes para limiares da sombra, lança-nos a todos na resolução de um porvir.  
+
+não é memória torturada que se repete em sombras, mas a hesitação que anuncia as partidas solenes.
+
+sabe que perdeu para sempre aquilo que nunca esquecerá, e que abandona
+
+uma revolução da técnica do cantochão
+
+a sua natureza primeira. E o cantochão, que geralmente é pretexto de um arroubo, de uma evasão, coloca-se aqui visivelmente em pleno mundo.
+
+recusa das histórias de povos, mas a sua magnificiência como assunção da História
+
+Esta errância não é a do rizoma; está bem enraizada: num querer e numa Ideia.
+
+A História ou a sua negação, a intuição do Uno, eis os polos magnéticos do pensamento do Ocidente
+
+assentou o seu nome.
+
+Acreditou que a condição de liberdade é a de não se ser nem governado por uma história, a não ser a que generaliza, nem limitado por um lugar, se este não fo espiritual.
+
+O perpétuo "partir" permite colecionar rochas, urdir a materialidade
+
+itinerários, igualmente sumptuosos, em sentidos opostos, se anulam
+
+traça sempre para nós, mas petrificadas na sua generosa renúncia, as figuras das nossas solidões a partilhar.
 
 
 
