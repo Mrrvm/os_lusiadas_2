@@ -215,3 +215,58 @@ Sabemos que o outro está em nós, que ele ressoa não só no nosso futuro mas t
 Porque, se o mundo não é um livro, não é menos de verdade que o silêncio do mundo nos conduziria, por seu turno, à surdez. 
 
 A Relação que agita as humanidades, necessita da palavra para se editar, para se continuar.
+
+Mas será necessário citar todos aqueles que viveram desde então, em registos apaixonados, críticos ou possessos, racistas ou idealistas, excessivos ou racionais, o apelo do Diverso? 
+
+Poetas, que nasceram ou viveram no alhures, sonham a origem do seu imaginário e, conscientemente ou não, "fazem a viagem em sentido contrário". 
+
+A palavra do poeta conduz da periferia à periferia, reproduz o vestígio 
+
+que ela transforma toda a periferia em centro, e, mas ainda, que ela é abole a própria noção de centro e de periferia, 
+
+explode, qual trama escrita na totalidade suficiente do mundo 
+
+o encontro com o Outro 
+
+A capacidade de sentir o choque do alhures 
+
+O Diverso, a totalidade quantificável de todas as diferenças possíveis, é o motor da energia universal que há que preservar das assimilações 
+
+dos hábitos padronizados.
+
+fixar na memória o cenário da sua ilha natal
+
+vai em direção ao outro, corre para o alhures 
+
+tentarão sempre erguer catedrais eloquentes 
+
+As histórias, convergentes, encontraram assim essa parte das literaturas do mundo, fazendo nascer novas expressões "dentro" da mesma língua.
+
+O velho espaço de trajetória, a espiritualidade do itinerário cede o lugar à compacticidade realizada 
+
+os emaranhados da Relação 
+
+tudo o que foi dito foi-o de maneira fragmentária, reticente, obstinadamente cega 
+
+repugna consagrar essa abolição, torpedear assim os seus bastiões. 
+
+Usa de astúcia durante os avanços do mundo, furta-se a eles. 
+
+Inventa biombos. 
+
+que visa o fundamental e a base, que aparenta ao verdadeiro, furta-se a esses caminhos incertos. 
+
+A paisagem de tua palavra é a paisagem do mundo. Mas a sua Fronteira está aberta. 
+
+Não só um encontro, um choque, uma mestiçagem, mas também uma dimensão inédita que permite a cada um estar ali e em outro lugar, enraizado e aberto pedido na montanha e livre no mar, em acordo e em errância. 
+
+O seu símbolo mais evidente é a língua crioula, cujo génio consiste em abrir-se sempre, ou seja, em só se fixar segundo sistemas de variáveis que teremos tanto de imaginar como de definir. 
+
+A criolização conduz-nos assim à aventura do multilinguismo e à explosão inaudita das culturas. 
+
+diluição mútua
+
+Trata-se da marca violenta da sua partilha com sentido, não importa. 
+
+###### UMA ERRÂNCIA ENRAIZADA
+
