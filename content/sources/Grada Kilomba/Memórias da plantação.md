@@ -20,6 +20,8 @@ When arriving in the island, Camões describes the Portuguese as a peaceful enti
 
 Esta dissociação evoca o facto de o sujeito *branco* se encontrar de alguma maneira dividido dentro de si, pois desenvolve duas atitudes para com uma realidade externa: só uma parte do ego - a parte "boa", que acolhe e é benévola - é vivida como "eu"; o resto - a parte "má", que rejeita e é malévola - projecta-se no "Outro" e é vivida como externa. O sujeito negro torna-se então ecrã de projecção daquilo que o sujeito branco teme admitir sobre si: neste case, que é o ladrão violento, o bandido indolente e malicioso. Estes aspectos aviltantes, tão intensos que provocam ansiedade, culpa ou vergonha são projectado externamente para que se lhes possa escapar.
 
+(...) «a essência da repressão não é mais do que afastar algo da consciência, e mantê-lo à distância» (1923: 17). É aquele processo pelo qual as ideias incómodas – e as verdades incómodas – se tornam inconscientes, fora da consciência, dada a extrema ansiedade, culpa ou vergonha que provocam. Mas, sepultadas no inconsciente como segredos, permanecem latentes e podem ser a qualquer momento **reveladas**. A máscara que sela a boca do _sujeito negro_ impede que o _senhor branco_ ouça as verdades latentes de que se quer «afastar», de que quer «manter distância», nas margens, despercebidas e «silenciadas». Protege o _sujeito branco_, por assim dizer, de reconhecer o conhecimento da/o «Outra/o». Confrontado com os segredos colectivos e as verdades incómodas dessa _história tão suja³_, o _sujeito branco_ costuma dizer que «não sabe», «não entende», «não se lembra», «não acredita» ou «não ficou convencido». São expressões deste processo de repressão pelo qual o _sujeito resiste_ a tornar consciente a informação inconsciente; ou seja, quer tornar o **conhecido desconhecido**.
+
 ### Collected text for collage
 
 #### Introdução
@@ -218,6 +220,40 @@ alguém está prestes a revelar o que se presume ser segredo.
 Segredos como a escravatura.
 
 Segredos como o colonialismo.
+
+(...) "a essência da repressão não é mais do que afastar algo da consciência, e mantê-lo à distância» (1923: 17). É aquele processo pelo qual as ideias incómodas – e as verdades incómodas – se tornam inconscientes, fora da consciência, dada a extrema ansiedade, culpa ou vergonha que provocam. Mas, sepultadas no inconsciente como segredos, permanecem latentes e podem ser a qualquer momento **reveladas**. A máscara que sela a boca do _sujeito negro_ impede que o _senhor branco_ ouça as verdades latentes de que se quer "afastar", de que quer "manter distância", nas margens, despercebidas e "silenciadas". Protege o _sujeito branco_, por assim dizer, de reconhecer o conhecimento da/o "Outra/o". Confrontado com os segredos colectivos e as verdades incómodas dessa _história tão suja³, o _sujeito branco_ costuma dizer que "não sabe", "não entende", "não se lembra", "não acredita" ou "não ficou convencido". São expressões deste processo de repressão pelo qual o _sujeito resiste_ a tornar consciente a informação inconsciente; ou seja, quer tornar o **conhecido desconhecido**.
+
+o ego controla e censura o que é instigado como verdade «incómoda».
+
+interpretação duvidosa da realidade, e não suficientemente imperativo para ser dito ou escutado.
+
+a emergência do falar
+
+poder um dia ser escutado
+
+negação, culpa, vergonha, reconhecimento, reparação
+
+as dimensões mais desagradáveis da realidade externa e os pensamentos internos ou sentimentos.
+
+a disociação e a projecção
+
+"nós tomamos o que é delas/es"
+
+"nós somos racistas"
+
+para atenuar o choque emocional e a dor
+
+"Tomamos realmente o que é delas/es"
+
+a *culpa*, a emoção que se segue à transgressão de uma interdição moral.
+
+um estado afectivo no qual se vive o conflito de ter feito algo que se acredita não dever ter feito, ou, ao contrário, não ter feito algo que se acredita dever ter feito.
+
+procura afirmar nos outros o que teme reconhecer em si, como na negação
+
+está atens preocupado com as consequências da sua própria transgressão: "acusação", "culpa", "punição".
+
+a 
 #### Capítulo 3 - Dizer o indizível
 
 situado na superfície de outras coisas
