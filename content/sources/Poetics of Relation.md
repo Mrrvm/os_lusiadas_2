@@ -270,3 +270,37 @@ Trata-se da marca violenta da sua partilha com sentido, não importa.
 
 ###### UMA ERRÂNCIA ENRAIZADA
 
+que não é no lugar do seu primeiro grito 
+
+um aqui (a Europa) em direção ao qual é necessário chegar por opção 
+
+de origens nobres
+
+análise elementar e grosseiro 
+
+E poderíamos adiantar mais ainda, imaginando feridas sob o verniz formal, um drama que se esconde e se transforma em orgulhosa altivez. Não o façamos. A lição do poeta vai mais fundo. Abandona as paragens habituais que a biografia traça. 
+
+O rigor da matéria e o seu conhecimento enciclopédico tecem a proliferação controlada por onde o universo transborda e nos é contado. 
+
+Os seus corpos estão quentes da febre do dia, os seus olhos largamos no tempo que não passa. Essas crianças não entendem as fórmulas, não percebem as alusões, mas é elas que, antes de mais, o contador de histórias se dirige. Está pronto a adivinhar os seus frémitos, a pele arrepiada, o risco que protege. A sua voz vem de além dos Mares, repleta de sobresaltos desses países da África cuja ausência é presença; demora-se na noite, que acolhe no seu ventre as crianças trémulas.
+
+Fico estupefacto quando pretendem reduzir
+
+Há lá demasiadas praias de evidência, aqui e ali atravancadas de raízes, quando a língua se espessa em nodosidades. 
+
+A evidência declamada é imediatamente transparência tautológica. 
+
+O erro que tantas vezes se comete com o poeta é acreditar que o seu texto preenche, define o palco de um teatro.
+
+se articula em movimentos subterrâneos
+
+
+
+
+
+
+
+
+
+
+
