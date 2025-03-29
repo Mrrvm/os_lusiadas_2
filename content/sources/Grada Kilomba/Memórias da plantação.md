@@ -267,7 +267,13 @@ Por outro lado, a *vergonha* é o medo do ridículo, a resposta ao fracasso de e
 
 Ora, a vergonha apresenta uma relação íntima com o discernimento.
 
-É motivada por experiências que contestam as pré-concepções
+É motivada por experiências que contestam as pré-concepções que temos de nós mesmos e nos obrigam a ver-nos pelos olhos dos outros, e nos ajudam a reconhecer a discrepância
+
+"Quem sou eu? Como me percebem"
+
+reconhecimento é a passagem de fantasia para a realidade
+
+Negoceia-se a realidade
 #### Capítulo 3 - Dizer o indizível
 
 situado na superfície de outras coisas
@@ -275,3 +281,21 @@ situado na superfície de outras coisas
 como "camada de tinta" que pode facilmente ser raspada
 
 mera "coisa" externa, "coisa" do passado, que se situa nas margens em vez de no centro da política europeia.
+
+##### Descolonizar o conhecimento
+
+mostrando-lhe a cara, que, qual passaporte, me tornaria também um "corpo no lugar". 
+
+Aquel papel permitir-me-ia entrar num espaço que a minha pele não permitia.
+
+a impossibilidade de escapar ao corpo e às suas construções racista na "máquina lectiva".
+
+Não é apenas "peixe na água"; esta água tem peso:
+
+um peixe na água que não sente o peso da água e toma o seu mundo por garantido
+
+Neste mundo *branco*, sou peixe de água doce que nada na água do mar. Sinto o peso da água... no meu corpo.
+
+fora e dentro dos agentes
+
+Diziam-nos que lêssemos sobre os "Descobrimentos", apesar de não nos lembrarmos termos sidos descobertas/os
