@@ -163,3 +163,55 @@ Não nos cansamos de repetir que o que este exportava _em primeiro lugar era sua
 o dito da Relação é multilingue
 
 A obsessão ontológica do conhecimento dá lugar à fruição de uma relação, de que o turismo é a forma elementar e, a maior parte das vezes, caricatural.
+
+O exílio interior é a viagem para fora dessa prisão.
+
+A maior parte das vezes, distrai-se em compensações parciais de prazer, em que o indivíduo se consome. O exílio interior predispõe ao conforto das coisas, que não distrai da angústia. 
+
+o errante, que já não é o viajante, nem o descobridor, nem o conquistador, procura conhecer a totalidade do mundo e sabe já que nunca conseguirá fazê-lo - e que é aí que reside a beleza ameaçada do mundo 
+
+Mergulha nas opacidades
+
+O pensamento a errância concebe a totalidade, mas renuncia de bom grado à pretensão de a comandar ou de a possuir. 
+
+o pensamento da errância é postulação dos sagrado que nunca se revela e que nunca se apaga. 
+
+sem que seja necessário que eu as isole num Panteão que elas recusariam. 
+
+Obra que convida à totalidade - até à exaltação irredutível de um universal que se esgota, de tanto ser dito. 
+
+###### POÉTICAS
+
+Tudo se passa como se, no momento de entrar numa poética da Relação mundial, que viria substituir a antiga hegemonia, o pensamento coletivo que se exerce na língua optasse por ocultar o seu contato com o outro, em vez de aceitar uma participação
+
+Fingiu-se esquecer que um
+
+tanto aqui como no resto do mundo, por esse trabalho através do qual as culturas dos homens se identificam umas com as outras, para, a partir de então, se transformarem mutuamente.
+
+Extensão vertiginosa, não sobre o mundo, mas em direção aos abismos que o homem transporta dentro de si.
+
+o homem ocidental, que nesse momento rege o ritmo e movimento da modernidade.
+
+O espaço interior é tão infinito para ser explorado como os espaços terrestres. Ao mesmo tempo que descobre as múltiplas variedades da espécie de que constitui, o homem sente que a pretensa fixidez do conhecimento é um logro, e que só saberá de si mesmo aquilo que o saber aos outros.
+
+Essa beatitude romântica é varrida pelo odor pútrido
+
+Ela sanciona o momento em que a língua, como que satisfeita com a sua perfeição, deixa de ter como objeto a narrativa da sua ligação com o meio circundante para se concentrar no único desejo de ultrapassar os seus limites
+
+Não se tratará de descobrir nem de contar o mundo, mas de produzir um equivalente dele que será o _Livro_, onde tudo será dito, sem que nada seja relatado.
+
+O mundo como livro, o livro como mundo.
+
+O criador de texto apaga-se, ou melhor: abdica para se revelar na textura daquilo que criou. Tal como a narrativa fora banida da poética de Mallarmé, a História (no sentido que o Ocidente deu a essa palavra) é relativizada na opinião estruturalista.
+
+descobridores que foram os exploradores, os mercadores, os conquistadores, os etnólogos, os homens de espírito, de fé e de lei vindos do Ocidente.
+
+para _esboçar_ aos olhos dos exegetas a problemática
+
+Mas veremos que o verbo "compreender"tem, porventura, aqui um temível sentido repressivo
+
+Sabemos que o outro está em nós, que ele ressoa não só no nosso futuro mas também em grande parte das nossas concessões e no movimento da nossa sensibilidade.
+
+Porque, se o mundo não é um livro, não é menos de verdade que o silêncio do mundo nos conduziria, por seu turno, à surdez. 
+
+A Relação que agita as humanidades, necessita da palavra para se editar, para se continuar.
