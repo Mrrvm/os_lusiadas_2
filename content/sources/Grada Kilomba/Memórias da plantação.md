@@ -66,6 +66,8 @@ bem como o fracasso do feminismo ocidental
 
 #### Capítulo 1 - A máscara
 
+#### A máscara
+
 Ouvi falar muito de uma máscara em criança. Da máscara que Anastácia era obrigada a isar.
 
 memórias vivas sepultadas
@@ -83,6 +85,8 @@ durante o trabalho nas plantações, comessem cana-de-açúca ou sementes de cac
 implementar uma noção de silenciamento e medo, na medida em que a boca era lugar de mudez e de tortura.
 
 política sádica da conquista e seus cruéis regimes de silenciamento
+
+#### A boca
 
 torna-se orgão por excelência da opressão
 
@@ -146,7 +150,74 @@ ameaçador, perigoso, violento, vibrante, empolgante, e também com o que é suj
 
 própria se perceber como moralmente ideal, decente, civilizada e majestosamente generosa, em pleno controlo e sem a ansiedade provocada pela sua historicidade.
 
+#### A ferida
 
+dinâmica infeliz
+
+"dissemelhança" para descrever a *branquitude* como identidade dependente graças à exploração do "Outro",
+
+fantasias essas que não nos representam a nós, mas ao imaginário *branco*
+
+imagens oficiais e objectivas
+
+Eu espero-me
+
+inconsciente colectivo das pessoas
+
+a alienação, para a desilusão e para o trauma psíquico
+
+realistas nem gratificantes
+
+Quanta mágoa esta, a de estarmos presas/os a esta ordem colonial.
+
+Deveria ser esta a nossa preocupação.
+
+"Que era para mim, senão um descolamento, um arrancamento, uma hemorragia que coagulava sangue negro sobre todo o meu corpo?"
+
+o que sinaliza o doloroso impacto no corpo e a perda que caracterizam uma quebra traumática
+
+é-se cirurgicamente extraída/o, violentamente separada/o
+
+"Não podia [rir-me]
+Senti nascer em mim lâminas de faca"
+
+não há motivo nenhum para rir
+
+violentas fantasias que vê
+
+Um círculo infernal.
+
+Sou, em ambos os casos, prisioneiro
+
+Encerado dentro do que não é racional.
+
+não radica apenas em acontecimentos familiares
+
+irracionalidade violenta do mundo *branco*
+
+tão diferentes, incompatíveis e conflituosas/os quanto estranhas/os e invulgares
+
+[Eu] era odiado, detestado, desprezado, não pelo vizinho da frente
+
+qualquer coisa de irracional
+
+para um homem que só tem como arma a razão, não há nada mais neurótico do que o contacto com o irracional
+
+##### Dizer o silêncio
+
+A máscara suscita
+
+dizer se a sua boca não fosse selada?
+
+confronto incómodo com as verdades
+
+Verdades negadas, reprimidas e guardadas como segredos.
+
+alguém está prestes a revelar o que se presume ser segredo.
+
+Segredos como a escravatura.
+
+Segredos como o colonialismo.
 #### Capítulo 3 - Dizer o indizível
 
 situado na superfície de outras coisas
