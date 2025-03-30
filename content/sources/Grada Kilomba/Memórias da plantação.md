@@ -298,4 +298,16 @@ Neste mundo *branco*, sou peixe de água doce que nada na água do mar. Sinto o 
 
 fora e dentro dos agentes
 
-Diziam-nos que lêssemos sobre os "Descobrimentos", apesar de não nos lembrarmos termos sidos descobertas/os
+Diziam-nos que lêssemos sobre os "Descobrimentos", apesar de não nos lembrarmos termos sido descobertas/os. Diziam-nos que escrevêssemos sobre o grande legado da colonização, ainda que só nos conseguíssemos lembrar de roubos e humilhações. E diziam-nos que não fizéssemos perguntas sobre as/os nossas/os heroínas/heróis africanas/os, pois eram terroristas e rebeldes.
+
+ensinar quem é colonizada/o a falar e escrever do ponto de vista de quem coloniza.
+
+na língua que é familiar e confortável
+
+Parece que tudo o que me rodeia foi, ainda é colonialismo.
+
+não podia comer
+
+poderia trabalhar como empregada doméstica, criada ou prostituta, mas não poderia viver; tinha sempre de regressar à margem.
+
+e ver tudo com "novos olhos",
