@@ -1,3 +1,7 @@
+---
+tags:
+  - religion
+---
 Em nome da ambição, do poder e do espírito materialista  
 A graça da ambição, o amor ao poder em comunhão  
 Com o espírito materialista, estejam convosco  

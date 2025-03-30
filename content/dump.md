@@ -140,6 +140,8 @@ gloria wekker white innocence
 
 https://amysuowu.net/ - how to coordinate? shapeshifty project
 Reinhart - how to coordinate?
+
+https://www.marxists.org/subject/africa/lsm/final-victory.pdf
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
