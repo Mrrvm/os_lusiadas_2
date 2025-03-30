@@ -137,6 +137,9 @@ dutch invasion of macau
 rolando vazquez
 
 gloria wekker white innocence
+
+https://amysuowu.net/ - how to coordinate? shapeshifty project
+Reinhart - how to coordinate?
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
