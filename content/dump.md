@@ -133,6 +133,10 @@ Paulo Flores
 Karyna Gomes
 
 dutch invasion of macau
+
+rolando vazquez
+
+gloria wekker white innocence
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
