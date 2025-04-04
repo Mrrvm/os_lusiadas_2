@@ -156,6 +156,8 @@ https://www.buala.org/en/to-read/dere-memorization-of-portuguese-colonialism-and
 _Fado and the Place of Longing: Loss, Memory and the City_ by Richard Elliott
 
 to reinsert the history of colonisation into the history of our country
+
+-Inocência Mata https://cesa.rc.iseg.ulisboa.pt/afroport/equipa/inocencia-mata/
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
