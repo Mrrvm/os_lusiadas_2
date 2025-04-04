@@ -176,7 +176,7 @@ https://gulbenkian.pt/en/news/tchiloli-the-european-tragedy-which-is-part-of-sao
 https://www.buala.org/en/stages/solemn-gestures-on-the-sandy-ground-tchiloli-in-sao-tome-and-principe
 ![[Pasted image 20250404180331.png]]
 
-
+irineu destourelles - new glossary of words mix greek mythology and names from portuguese colonial history
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
