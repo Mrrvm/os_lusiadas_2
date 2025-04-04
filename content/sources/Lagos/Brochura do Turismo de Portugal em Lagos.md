@@ -1,0 +1,7 @@
+---
+tags:
+  - text
+  - tourism
+  - algarve
+---
+
