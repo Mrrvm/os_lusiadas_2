@@ -3,6 +3,8 @@ tags:
   - museum
   - visual
 ---
+https://museu.cm-lagos.pt/polos/rota-da-escravatura/
+
 ![[IMG_20250110_143543.jpg]]
 
 ![[IMG_20250110_143640.jpg]]
@@ -66,5 +68,3 @@ tags:
 ![[IMG_20250110_151839.jpg]]
 
 ![[IMG_20250110_151923.jpg]]
-
-![[IMG_20250110_152152.jpg]]
