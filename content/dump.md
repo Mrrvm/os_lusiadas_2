@@ -158,6 +158,8 @@ _Fado and the Place of Longing: Loss, Memory and the City_ by Richard Elliott
 to reinsert the history of colonisation into the history of our country
 
 -Inocência Mata https://cesa.rc.iseg.ulisboa.pt/afroport/equipa/inocencia-mata/
+
+https://link.springer.com/chapter/10.1057/9781137265005_3 Africans in Portuguese Society: Classification Ambiguities and Colonial Realities
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
