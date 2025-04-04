@@ -24,3 +24,8 @@ https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-
 #### TO DECOLONISE IS TO D.E.P.R.O.G.R.A.M.M.E. Systemic racism, body, gender and diaspora in arts
 -Joacine Katar Moreira
 
+"(...) monumentalisation of their imperial history(...)"
+
+"Thus, the countries of the Global North continue to comply with the colonial agenda, from the moment they are held hostage by their imperial history and by the need to preserve and transmit it through the concealment of the atrocities committed against other peoples and, above all, by the way in which this imperial history has formed the basis of their national identity as a community."
+
+"(...)which coexisted with the Enslavement of peoples and human trafficking, and the consequent dehumanisation of entire peoples, with harmful practices such as epistemicide, which relativised ,erased and destroyed existing local knowledge, but also by the abusive exploitation and spoliation of the wealth of colonised territories."
