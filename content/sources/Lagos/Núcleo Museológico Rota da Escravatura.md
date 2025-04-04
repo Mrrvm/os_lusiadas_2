@@ -5,6 +5,10 @@ tags:
 ---
 https://museu.cm-lagos.pt/polos/rota-da-escravatura/
 
+![[IMG_20250110_144244.jpg]]
+
+![[Pasted image 20250404154105.png]]
+
 ![[IMG_20250110_143543.jpg]]
 
 ![[IMG_20250110_143640.jpg]]
@@ -31,7 +35,6 @@ https://museu.cm-lagos.pt/polos/rota-da-escravatura/
 
 ![[IMG_20250110_144231.jpg]]
 
-![[IMG_20250110_144244.jpg]]
 
 ![[IMG_20250110_144455.jpg]]
 
