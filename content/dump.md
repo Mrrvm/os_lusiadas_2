@@ -146,6 +146,14 @@ https://www.marxists.org/subject/africa/lsm/final-victory.pdf
 https://novaresearch.unl.pt/en/publications/the-portuguese-slave-trade?utm_source=chatgpt.com
 
 https://digitarq.arquivos.pt/details?id=4161625
+
+https://www.roots-routes.org/discovering-colonization-decolonizing-the-discoveries-by-giulia-dickmans/?utm_source=chatgpt.com
+
+https://www.buala.org/en/to-read/dere-memorization-of-portuguese-colonialism-and-dictatorship-re-reading-the-colonial-and-the
+
+"Fado and the Urban Poor in Lisbon at the Turn of the Nineteenth Century" by Rui Vieira Nery
+
+_Fado and the Place of Longing: Loss, Memory and the City_ by Richard Elliott
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar

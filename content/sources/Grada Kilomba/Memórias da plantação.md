@@ -1,7 +1,6 @@
 ---
 tags:
   - text
-  - INCLUDED
 ---
 ### Annotations
 
