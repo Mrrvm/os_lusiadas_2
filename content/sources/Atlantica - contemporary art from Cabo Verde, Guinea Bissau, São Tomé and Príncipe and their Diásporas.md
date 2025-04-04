@@ -22,10 +22,14 @@ https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-
 "(...) how to transform marginalised communities into a social, historical, cultural presence, neutralising their invisibility - or rather the process of invisibility."
 
 #### TO DECOLONISE IS TO D.E.P.R.O.G.R.A.M.M.E. Systemic racism, body, gender and diaspora in arts
--Joacine Katar Moreira
+-[[Joacine Katar Moreira]]
 
 "(...) monumentalisation of their imperial history(...)"
 
 "Thus, the countries of the Global North continue to comply with the colonial agenda, from the moment they are held hostage by their imperial history and by the need to preserve and transmit it through the concealment of the atrocities committed against other peoples and, above all, by the way in which this imperial history has formed the basis of their national identity as a community."
 
 "(...)which coexisted with the Enslavement of peoples and human trafficking, and the consequent dehumanisation of entire peoples, with harmful practices such as epistemicide, which relativised ,erased and destroyed existing local knowledge, but also by the abusive exploitation and spoliation of the wealth of colonised territories."
+
+"(...) that seeks to render it invisible and silence it through non-recognition or through the devaluation of its importance for the construction of contemporaneity."
+
+"Deprogramming colonial violence involves returning colonial pain and trauma to its thinkers, through a historical catharsis that restores the traumas of colonial history to European countries, which strategically chose to only commemorate those which are considered the great and heroic feats of colonisation. This commemoration involves the generally abusive exhibition, in the public space, of monuments and statues of an ode to colonialism, considered the Golden Age of European scientific and cultural expression. Transmitting colonial history through the omission of the history of African and indigenous resistance and concealing or relativising the brutality of the colonial enterprise. It also involves the deviation of colonial History – which is essentially European – into the History of colonised countries, whose history is then divided into “pre-colonial”, “colonial” times and a “postcolonial” era. "
