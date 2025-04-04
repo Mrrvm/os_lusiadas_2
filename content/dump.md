@@ -177,6 +177,22 @@ https://www.buala.org/en/stages/solemn-gestures-on-the-sandy-ground-tchiloli-in-
 ![[Pasted image 20250404180331.png]]
 
 irineu destourelles - new glossary of words mix greek mythology and names from portuguese colonial history
+
+mokambo 
+![[Pasted image 20250404181909.png]]
+https://en.wikipedia.org/wiki/Mocambo_(settlement)
+It was here that many Africans – enslaved or freed – found shelter. [_Mocambo_](https://www.publico.pt/2004438) – a word in Umbundu (one of several Angolan languages ) meaning ‘place of refuge’ – became in the 16th century one of the most populated neighbourhoods in Lisbon. Away from the white Portuguese gaze, the place was essential for African memories and the preservation of social and religious practices (weddings, funerals)
+https://lusolobo.com/2022/09/22/mocambo/
+https://amensagem.pt/2021/09/17/mocambo-o-bairro-mais-africano-na-europa-foi-a-inspiracao-para-o-restaurante-de-mafalda/
+Mokambo is a city of the Democratic Republic of the Congo. It borders Zambia. As of 2012, it had an estimated population of 23,663.
+![[Pasted image 20250404181749.png]]
+
+https://en.wikipedia.org/wiki/Portuguese_colonial_exhibition
+https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
+https://www.galeriamunicipaldoporto.pt/en/programa-de-incursao-a-galeria/memoria-de-elefante-2024/20241018-corpografias-reimaginadas-dialogar-comcontra-o-arquivo-da-1-exposicao-colonial-portuguesa-workshop-de-fanzines-com-marcela-pedersen-e-rafael-campos/?ano=2024
+https://www.academia.edu/44864171/Art_and_progress_Portuguese_colonial_representations_in_the_great_world_exhibitions
+
+https://www.worldofdiscoveries.com/about-us/ 
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
