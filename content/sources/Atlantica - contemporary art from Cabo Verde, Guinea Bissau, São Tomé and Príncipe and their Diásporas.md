@@ -9,7 +9,7 @@ tags:
 Schofield Cardoso, C., & de Miranda, M. (Eds.). (2021). _Atlantica: Contemporary Art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diasporas_. Hangar Books.
 https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/
 
-Participating artists/writers
+Participating artists/writers include
 [[Welket Bungué]], [[Ana Balona de Oliveira]], [[Joacine Katar Moreira]], [[Mariana Aboim]], [[Sandim Mendes]], 
 [[The singularity of Tchiloli - René Tavares]], [[Mónica de Miranda]]
 ### Annotations
