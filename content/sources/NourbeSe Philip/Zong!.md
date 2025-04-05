@@ -6,7 +6,10 @@ tags:
   - caribbean
   - text
 ---
-## Notes
+### TO-DO
+- Talk to Rana
+
+### Notes
 On the usage of Zong! by Rana Hamadeh, https://www.setspeaks.com/
 
 
