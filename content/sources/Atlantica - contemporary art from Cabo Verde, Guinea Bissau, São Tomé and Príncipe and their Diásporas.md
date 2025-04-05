@@ -15,8 +15,7 @@ Participating artists/writers include
 ### Annotations
 
 #### Concepts
-##### Between Sankofa and janus... the labour of the 'transterritorialised'artists
--Inocência Mata
+##### Between Sankofa and janus... the labour of the 'transterritorialised'artists -Inocência Mata
 
 "People literally need to take a steps backwards to reclaim the past so as to understand the present an why and how they have come to be where they are and who they are today." - Kofi Poku Quan-Baffour 2012, 3
 
@@ -26,8 +25,7 @@ Participating artists/writers include
 
 "(...) how to transform marginalised communities into a social, historical, cultural presence, neutralising their invisibility - or rather the process of invisibility."
 
-##### TO DECOLONISE IS TO D.E.P.R.O.G.R.A.M.M.E. Systemic racism, body, gender and diaspora in arts
--[[Joacine Katar Moreira]]
+##### TO DECOLONISE IS TO D.E.P.R.O.G.R.A.M.M.E. Systemic racism, body, gender and diaspora in arts -[[Joacine Katar Moreira]]
 
 "(...) monumentalisation of their imperial history(...)"
 
@@ -41,8 +39,7 @@ Participating artists/writers include
 
 "Culture against the phallocentric hierarchies of the system and to promote inclusive horizontalities of the diversity that has always characterised human experiences."
 
-#### Contemporary art and the interwoven histories of Cabo Verde, Guinea Bissau and São Tomé and Príncipe
--[[Ana Balona de Oliveira]]
+#### Contemporary art and the interwoven histories of Cabo Verde, Guinea Bissau and São Tomé and Príncipe - [[Ana Balona de Oliveira]]
 
 "The mastery of Portuguese, among other requirements, was formalised through successive legislation comprising the _Estatuto do Indigenato_, which, until 1961, distinguished between _indígenas_, _assimilados_ and whites. The _assimilados_ were considered civilised and so “almost” Portuguese, while the _indígenas_ were seen as uncivilised and occupied the bottom of the colonial social hierarchy. On the Portuguese so-called civilising mission between the late nineteenth and the early twentieth century, see Bandeira Jerónimo 2009. On the Portuguese classification of Africans throughout several colonial periods, see Castro Henriques 2019"
 
