@@ -1,4 +1,6 @@
 *Research on attempting to rewrite [[Os Lusíadas]] using experimental writing and knowledge sources from ex-colonies and its diaspora.*
+
+If you want to participate in this project, please contact mariana@mardrew.art.
 ## resources
 ### a small experimental writing library
 https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c

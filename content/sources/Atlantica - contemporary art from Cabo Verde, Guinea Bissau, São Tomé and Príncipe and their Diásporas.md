@@ -15,7 +15,7 @@ Participating artists/writers include
 ### Annotations
 
 #### Concepts
-##### Between Sankofa and janus... the labour of the 'transterritorialised'artists -Inocência Mata
+##### Between Sankofa and janus... the labour of the 'transterritorialised'artists - Inocência Mata
 
 "People literally need to take a steps backwards to reclaim the past so as to understand the present an why and how they have come to be where they are and who they are today." - Kofi Poku Quan-Baffour 2012, 3
 
