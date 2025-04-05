@@ -25,7 +25,7 @@ Returns to Lisbon: September 1499
 
 ![[Pasted image 20250226150727.png]]
 
-## Canto I
+## Canto I 
 #### Proposition: 
 The poet begins his poem by ==stating what he intends to do== and then indicating the subject of his narrative: ==singing the navigators who made the Portuguese empire== possible, the kings who promoted the expansion of faith and empire, and all those who become worthy of admiration for their heroic deeds.
 #### Invocation: 

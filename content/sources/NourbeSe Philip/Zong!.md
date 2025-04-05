@@ -12,4 +12,4 @@ Erasure (She scrubs the legal documents of Gregson v. Gilbert, a case about 150 
 ![[zong-as-told-to-the-author-by-setaey-adamu-boateng-by-m.-nourbese-philip-z-lib.org_.pdf]]
 
 ### Notes
-On the usage of Zong! by Rana Hamadeh, https://www.setspeaks.com/
+On the usage of Zong! by Rana Hamadeh, https://www.setspeaks.com/ ^zong-and-rana

@@ -103,4 +103,5 @@ We find here not only a patriarchal discourse, but also a romanticization of mis
  
  **The whole use of language coming from the city's council/government (see [[Memórias da plantação#^palavra-descobrimentos]] regarding the word "Descobrimentos" and "escrava/o"), localisation and connection between monuments, obsession with glorifying and even cos-playing this period, congratulating passed city's navigators, and omitting references to enslavement (see [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]])  leaves the slavery museum looking like a performance of a fake reconciliation with the past. Moreover, when referring to the museum, the president of the municipality at the time refers to it as a driver for tourism (see [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]])** 
 
+This goes in accordance to the conclusions driven in [[Slave Market Museum - Contested Stories]].
 
