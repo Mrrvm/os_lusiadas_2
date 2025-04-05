@@ -1,4 +1,3 @@
-
 ## sources
 
 https://www.alaaabuasad.com/
@@ -163,11 +162,6 @@ https://www.researchgate.net/publication/347307767_From_'Natives'_to_'Aborigines
 
 Batepá Massacre
 
-Tchiloli
-https://gulbenkian.pt/en/news/tchiloli-the-role-of-women/
-https://gulbenkian.pt/en/news/tchiloli-the-european-tragedy-which-is-part-of-sao-tomes-cultural-heritage/
-https://www.buala.org/en/stages/solemn-gestures-on-the-sandy-ground-tchiloli-in-sao-tome-and-principe
-![[Pasted image 20250404180331.png]]
 
 irineu destourelles - new glossary of words mix greek mythology and names from portuguese colonial history
 

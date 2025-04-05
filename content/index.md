@@ -38,7 +38,7 @@ https://fgf.uac.pt/entidade/CHAM
 
 ### ideal external partners
 
-[[Tavares Cebola]], [[Grada Kilomba]], [[Sandim Mendes]], [[Mariana Aboim]], [[Clara Amaral]], [[Patricia Kaersenhout]], Catarina Simão
+[[Tavares Cebola]], [[Grada Kilomba]], [[Sandim Mendes]], [[Mariana Aboim]], [[Clara Amaral]], [[Patricia Kaersenhout]], Catarina Simão, Ana Balona de Oliveira
 
 
 ### funding

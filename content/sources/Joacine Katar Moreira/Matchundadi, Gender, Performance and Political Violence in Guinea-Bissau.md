@@ -1,6 +1,7 @@
 ---
 tags:
   - text
+  - book
 ---
 
 

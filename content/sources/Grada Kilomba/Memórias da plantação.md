@@ -1,6 +1,7 @@
 ---
 tags:
   - text
+  - book
 ---
 ### Annotations
 
@@ -297,7 +298,7 @@ Neste mundo *branco*, sou peixe de água doce que nada na água do mar. Sinto o 
 
 fora e dentro dos agentes
 
-Diziam-nos que lêssemos sobre os "Descobrimentos", apesar de não nos lembrarmos termos sido descobertas/os. Diziam-nos que escrevêssemos sobre o grande legado da colonização, ainda que só nos conseguíssemos lembrar de roubos e humilhações. E diziam-nos que não fizéssemos perguntas sobre as/os nossas/os heroínas/heróis africanas/os, pois eram terroristas e rebeldes.
+Diziam-nos que lêssemos sobre os "Descobrimentos", apesar de não nos lembrarmos termos sido descobertas/os. Diziam-nos que escrevêssemos sobre o grande legado da colonização, ainda que só nos conseguíssemos lembrar de roubos e humilhações. E diziam-nos que não fizéssemos perguntas sobre as/os nossas/os heroínas/heróis africanas/os, pois eram terroristas e rebeldes. ^palavra-descobrimentos
 
 ensinar quem é colonizada/o a falar e escrever do ponto de vista de quem coloniza.
 
