@@ -56,6 +56,11 @@ https://gulbenkian.pt/apoios-lista/apoio-a-criacao-artistica/
 
 ## thought log
 
+**05/04/2025 -** Possible names "Os Tugas", "O desenterro", "Uma época nada épica", ...
+I am quite overwhelmed specially after reading [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]]. I have a huge amount of references just from the West coast, and it feels like I am falling down a rabbit hole, with no longer signs of light. Maybe that's good. But not good for the limited time I have. 
+I started writing the Proposition, and have done 2 stanzas so far (2/1102 - 0.018% of the original). It's not as hard to do as I thought it would be. Having to make it decasyllabic (which does not mean 10 syllables) increases the complexity and time consumption, but it's actually quite fun.
+I had a meeting with [[Sandim Mendes]]
+
 **26/03/2025 -** 
 Canto I is divided in Proposition, Invocation and Dedication. When thinking of following the same structure, I wonder what would be Proposition, Invocation and Dedication. For instance:
 
