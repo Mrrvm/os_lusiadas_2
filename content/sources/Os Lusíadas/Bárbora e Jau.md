@@ -1,0 +1,1 @@
+https://novaresearch.unl.pt/en/publications/a-b%C3%A1rbora-e-o-jau-a-escravatura-em-cam%C3%B5es

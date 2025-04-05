@@ -24,6 +24,8 @@ Returns to Lisbon: September 1499
 
 ![[Pasted image 20250226150727.png]]
 
+Jau: https://amensagem.pt/2022/03/12/rua-jau-alcantara-escravo-camoes-quem-era/
+a rua Jau é uma homenagem ao homem escravizado que – especula-se – terá ajudado Camões a completar a sua obra magistral.
 ## Canto I
 #### Proposition: 
 The poet begins his poem by ==stating what he intends to do== and then indicating the subject of his narrative: ==singing the navigators who made the Portuguese empire== possible, the kings who promoted the expansion of faith and empire, and all those who become worthy of admiration for their heroic deeds.
