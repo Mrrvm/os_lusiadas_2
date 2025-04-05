@@ -30,7 +30,7 @@ _Un coup de dés jamais n’abolira le hasard_ and Livre Total
 [[Zong!]]
 
 - **Rewriting [[Os Lusíadas]] with with ex-colonial and diasporic media**
-	- Balancing between appropriation and appreciation
+	- Balancing between appropriation and appreciation - https://www.setspeaks.com/about/, Zong! 
 	- Collaboration and translation
 	- Examples of such epic poems - (Derek Walcott, _Omeros_)
 	- Methods within writing - https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
