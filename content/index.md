@@ -15,6 +15,9 @@ https://www.slavevoyages.org/voyage/database
 
 http://arquivos.ministerioultramar.holos.pt/
 
+https://livrariaultramarina.pt/
+
+https://www.instagram.com/rizomamz/
 #### physical
 
 https://www.cm-lagos.pt/areas-de-atuacao/arquivo-municipal
@@ -32,8 +35,6 @@ https://bcea.cei.iscte-iul.pt/en/services/
 https://fgf.uac.pt/entidade/CHAM
 
 [https://c-e-m.org/](https://c-e-m.org/)
-
-https://livrariaultramarina.pt/
 
 ### ideal external partners
 

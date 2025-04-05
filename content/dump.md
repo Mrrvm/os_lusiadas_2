@@ -3,12 +3,6 @@
 
 https://www.alaaabuasad.com/
 
-[A ILHA DE MOÇAMBIQUE Pela Voz dos Poetas Compilação de Nelson Saúde e António Sopa – 1992](https://livrariaultramarina.pt/shop/a-ilha-de-mocambique-pela-voz-dos-poetas-compilacao-de-nelson-saude-e-antonio-sopa-1992-2/)
-
-[Literatura africana literatura necessária II – Moçambique, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe](https://leituria.com/pt/os-livros/estudos-literarios/literatura-africana-literatura-necessaria-ii-mocambique-cabo-verde-guine-bissau-sao-tome-e-principe)
-
-[Pedagogy in Process - The Letters to Guinea-Bissau](https://www.bloomsbury.com/uk/pedagogy-in-process-9781350190290/)
-
 Kameela Janan Rasheed
 
 M Archive, Alexis Pauline Gumbs
@@ -195,6 +189,10 @@ https://www.academia.edu/44864171/Art_and_progress_Portuguese_colonial_represent
 https://www.worldofdiscoveries.com/about-us/ 
 
 https://www.academia.edu/44864171/Art_and_progress_Portuguese_colonial_representations_in_the_great_world_exhibitions
+
+https://en.wikipedia.org/wiki/Marrabenta
+
+https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
