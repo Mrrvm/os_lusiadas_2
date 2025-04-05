@@ -127,14 +127,6 @@ Karyna Gomes
 
 dutch invasion of macau
 
-rolando vazquez
-
-gloria wekker white innocence
-
-https://amysuowu.net/ - how to coordinate? shapeshifty project
-Reinhart - how to coordinate?
-
-https://www.marxists.org/subject/africa/lsm/final-victory.pdf
 
 https://novaresearch.unl.pt/en/publications/the-portuguese-slave-trade?utm_source=chatgpt.com
 

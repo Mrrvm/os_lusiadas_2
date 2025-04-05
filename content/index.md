@@ -40,7 +40,6 @@ https://fgf.uac.pt/entidade/CHAM
 
 [[Tavares Cebola]], [[Grada Kilomba]], [[Sandim Mendes]], [[Mariana Aboim]], [[Clara Amaral]], [[Patricia Kaersenhout]], Catarina Simão, Ana Balona de Oliveira
 
-
 ### funding
 https://www.cgd.pt/Institucional/Caixa-Cultura/Pages/Caixa-Cultura.aspx
 https://gulbenkian.pt/apoios-lista/apoio-a-criacao-artistica/
@@ -56,14 +55,16 @@ https://gulbenkian.pt/apoios-lista/apoio-a-criacao-artistica/
 
 ## thought log
 
-**05/04/2025 ** 
+**05/04/2025** 
 
 Possible names "Os Tugas", "O desenterro", "Uma época nada épica", ...
 I am quite overwhelmed specially after reading [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]]. I have a huge amount of references just from the West coast, and it feels like I am falling down a rabbit hole, with no longer signs of light. Maybe that's good. But not good for the limited time I have. 
 I started writing the Proposition, and have done 2 stanzas so far (2/1102 - 0.018% of the original). It's not as hard to do as I thought it would be. Having to make it decasyllabic (which does not mean 10 syllables) increases the complexity and time consumption, but it's actually quite fun. 
-I had a meeting with [[Mariana Aboim#^meeting-1]] and with [[Sandim Mendes]]. In the two current stanzas, I used [[Poetics of Relation]], [[Cães de raça]], [[Maçonaria]], [[Povo no poder]] and [[Os Lusíadas#Canto I]]. I refrained from using [[Memórias da plantação]], which I was prepared to do so, as I want to contact the artist regarding this use first. I am unsure on what to do in situations where the artists have already passed away. For the sake of prototyping and having a somewhat and example and proof of concept of what I am trying to do, for better understanding, I have used the mentioned references - not publicly available.
+I had a meeting with [[Mariana Aboim#^meeting-1]] and with [[Sandim Mendes]], and have realised I should immediately write about it rather than weeks after, everything is quite foggy now. 
+In the two current stanzas, I used [[Poetics of Relation]], [[Cães de raça]], [[Maçonaria]], [[Povo no poder]] and [[Os Lusíadas#Canto I]]. I refrained from using [[Memórias da plantação]], which I was prepared to do so, as I want to contact the artist regarding this use first. I am unsure on what to do in situations where the artists have already passed away. For the sake of prototyping and having a somewhat and example and proof of concept of what I am trying to do, for better understanding, I have used the mentioned references - not publicly available.
+I am thinking now I don't want to use sources (in english e.g.) that are not translated, or sources that are not in Portuguese or ex-colony/diaspora languages. It's too much work to be a translator as well, and having to consider my role as such, while at the same time having a whole underground world of Lusophonic resources worth exploring. I want to focus on this undergroundness. English and other work of course can serve me as theoretical basis.
 
-**26/03/2025 ** 
+**26/03/2025** 
 
 Canto I is divided in Proposition, Invocation and Dedication. When thinking of following the same structure, I wonder what would be Proposition, Invocation and Dedication. For instance:
 
@@ -73,7 +74,7 @@ Canto I is divided in Proposition, Invocation and Dedication. When thinking of f
 
 **Dedication:** to the erased, the insurgent, the resistance, the anti-colonial figures, such as Amílcar Cabral, to freedom, to those who contribute to the rhizome, to women, to those who refuse worship to the "Great Men". 
 
-**14/03/2025 **
+**14/03/2025**
 
 A few nice sentences I gathered.
 Identity (and national identity) as something that is formed through encounters rather than through a stable, self-contained essence.
@@ -84,7 +85,7 @@ Have a role as a weaver, not an author, tying threads others have spined.
 
 My role isn’t to “make sense” but to architect a space where the own idea of sense can be contested.
 
-**13/03/2025 *
+**13/03/2025**
 
 Research question draft 1:
 **How can experimental writing deconstruct the celebrated narratives of colonialism that define Portuguese national identity?** 
