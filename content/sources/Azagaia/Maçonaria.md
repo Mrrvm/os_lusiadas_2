@@ -1,6 +1,9 @@
 ---
 tags:
   - religion
+  - music
+  - poetry
+  - rhythm
 ---
 Em nome da ambição, do poder e do espírito materialista  
 A graça da ambição, o amor ao poder em comunhão  
