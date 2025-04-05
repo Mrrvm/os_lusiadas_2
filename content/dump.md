@@ -193,6 +193,8 @@ https://www.galeriamunicipaldoporto.pt/en/programa-de-incursao-a-galeria/memoria
 https://www.academia.edu/44864171/Art_and_progress_Portuguese_colonial_representations_in_the_great_world_exhibitions
 
 https://www.worldofdiscoveries.com/about-us/ 
+
+https://www.academia.edu/44864171/Art_and_progress_Portuguese_colonial_representations_in_the_great_world_exhibitions
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
