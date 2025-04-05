@@ -14,9 +14,8 @@ tags:
  ![[WhatsApp Image 2025-04-04 at 14.45.04 (2) 1.jpeg]]
 ![[WhatsApp Image 2025-04-04 at 14.45.05 (3) 1.jpeg]]
 ![[WhatsApp Image 2025-04-04 at 14.45.04 (1) 1.jpeg]]
-![[WhatsApp Image 2025-04-04 at 14.45.05 (2) 1.jpeg]]
 
-![[WhatsApp Image 2025-04-04 at 14.45.05 (1) 1.jpeg]]
+
 
 ![[WhatsApp Image 2025-04-04 at 14.45.05 1.jpeg]]
 

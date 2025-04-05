@@ -160,7 +160,6 @@ https://obs.obercom.pt/index.php/obs/article/download/1814/pdf/6124
 
 https://www.researchgate.net/publication/347307767_From_'Natives'_to_'Aborigines'_Late_Colonialism_Indigenous_Rights_and_the_Global_Politics_of_Sovereignty_1953-1962
 
-https://www.estudoprevio.net/the-fields-roc%CC%A7as-of-sa%CC%83o-tome-and-principe-a-lusophone-heritage/?lang=en Roças - coffee and cacau farms 
 
 Batepá Massacre
 
@@ -193,6 +192,10 @@ https://www.academia.edu/44864171/Art_and_progress_Portuguese_colonial_represent
 https://en.wikipedia.org/wiki/Marrabenta
 
 https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu
+
+![[E7B505DA153D7C9724EE14BDC3A5AE9A.jpeg]]
+
+https://ensina.rtp.pt/artigo/navegacoes-de-sophia-de-mello-breyner-andresen/
 ## ideas
 
 A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar

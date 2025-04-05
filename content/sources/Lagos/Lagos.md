@@ -3,7 +3,19 @@ tags:
   - algarve
   - portugal
 ---
-The city of lagos is known for being the birth place of the Portuguese "discovery" period. It has a museum with European tools for slavery and African artefacts (see [[Inventorying is reckoning]]) - [[Núcleo Museológico Rota da Escravatura]], the only one in the country. The city's touristic brochure contains the following statements.
+### TO-DO
+- Check what has happened to the bodies found in Lagos
+- Check if the artefacts are stolen
+### Notes
+
+Talk to Dr Marta Nogueira to access the city's archive at
+![[WhatsApp Image 2025-04-04 at 14.45.05 (2) 1.jpeg]]
+
+### Annotations
+
+#### How it relates
+
+The city of lagos is known for being the birth place of the Portuguese colonial period. It has a museum with European tools for slavery and African artefacts, (see [[Inventorying is reckoning]]) - [[Núcleo Museológico Rota da Escravatura]], the only one in the country. The city's touristic brochure contains the following statements.
 
 *"O séc. XV é o século de ouro de Lagos. Durante cerca de quarenta anos, a cidade, devido à sua localização frente a África, torna-se porto de partida e de chegada das naus que, ano após ano, iam **descobrindo** a costa desse continente."*
 
@@ -36,25 +48,26 @@ Inaugurada em **1997**, a escultura apresenta diferentes leituras, conforme o â
 Situado na **Avenida dos Descobrimentos, perto do Mercado Municipal**."*
 (https://www.cm-lagos.pt/descobrir-lagos/visitar/patrimonio-e-monumentos#246-monumento-aos-navegadores-lacobrigenses)
 
+![[Pasted image 20250404153223.png]]
+
 and "Padrão Comemorativo do 10 de Junho":
 
 *"Da autoria de Jorge Mealha, foi inaugurado no dia 10 de Junho de **1996** pelo Presidente da República, Dr. Jorge Sampaio. Neste ano **Lagos foi palco das comemorações nacionais do Dia de Portugal, de Camões e das Comunidades Portuguesas**."*
 
-The main street is called "Avenida dos Descobrimentos".
-
-![[Pasted image 20250404153223.png]]
 ![[Pasted image 20250404153251.png]]
+
+The main street is called "Avenida dos Descobrimentos".
 
 The Igreja de Santo António below, covered in gold is part of the Lagos Museum, but not part of the slavery route.
  ![[IMG_20250110_152152.jpg]]
  
 Every two years, the city hosts the "[Festival dos Descobrimentos](https://festivaldosdescobrimentos.pt/www/)", happening this year, 2025, between the 30th of May and 4th of May, where inhabitants cosplay the epoch, including the encounters with the "other", dressing with what looks like Arabic costumes.
 
-*"Os Descobrimentos Marítimos e a Diáspora Portuguesa foram uma realidade que revolucionou o nosso mundo. Pela primeira vez na História, o mar ligou a Europa a povos, culturas e continentes que eram desconhecidos ou mesmo pouco conhecidos. Entre 1415 e 1542/43, os Portugueses viajaram desde a Terra Nova ao Japão, do outro lado do mundo. Tudo começou em Lagos e na sua baía. A ligação de Lagos com o mar é antiquíssima e intensa. (...) esta nova edição do nosso festival celebra a importância global dos Descobrimentos Marítimos Portugueses e o papel de Lagos e das suas gentes, do Algarve e dos algarvios nos seus vários momentos e dinâmicas. É a celebração da Grande Aventura, que foi de Lagos ao Japão."*
+*"Os Descobrimentos Marítimos e a Diáspora Portuguesa foram uma realidade que revolucionou o nosso mundo. Pela primeira vez na História, o mar ligou a Europa a povos, culturas e continentes que eram desconhecidos ou mesmo pouco conhecidos. Entre 1415 e 1542/43, os Portugueses viajaram desde a Terra Nova ao Japão, do outro lado do mundo. Tudo começou em Lagos e na sua baía. A ligação de Lagos com o mar é antiquíssima e intensa. (...) esta nova edição do nosso festival celebra a importância global dos Descobrimentos Marítimos Portugueses e o papel de Lagos e das suas gentes, do Algarve e dos algarvios nos seus vários momentos e dinâmicas. É a celebração da **Grande Aventura**, que foi de Lagos ao Japão."*
 (https://www.cm-lagos.pt/municipio/eventos/13741-12-festival-dos-descobrimentos)
 
 *"este festival é um dos grandes eventos âncora do município de Lagos e apresenta um programa de animação e recriação histórica que dá cor à cidade, envolvendo a participação da comunidade escolar, associações culturais, IPSS, agentes culturais e artísticos para celebrar a História de Lagos. (...)
-Lagos foi palco de grandes momentos da era dos Descobrimentos. Inspirados pelo Infante D. Henrique, os navegadores desafiaram o desconhecido, transformando o oceano numa ponte entre continentes e culturas. Esta edição homenageia essa epopeia global e o papel crucial de Lagos e dos algarvios nesta aventura."*
+Lagos foi palco de grandes momentos da era dos Descobrimentos. Inspirados pelo Infante D. Henrique, **os navegadores desafiaram o desconhecido, transformando o oceano numa ponte entre continentes e culturas**. Esta edição homenageia essa epopeia global e o papel crucial de Lagos e dos algarvios nesta aventura."*
 (https://festivaldosdescobrimentos.pt/www/documento?html=O%20Festival)
  ![[Pasted image 20250404154550.png]]
  
@@ -86,8 +99,8 @@ We find here not only a patriarchal discourse, but also a romanticization of mis
 
 ![[Pasted image 20250404161638.png]]
 
- Not having ever been present in the festival, it seems to not only glorify the colonial period, but also frame the encounter with the "other" in a positive light, or otherwise not mentioning them. The festival claims to works with schools, and thus and educational tool.
+ Not having ever been present in the festival, from an outside perspective it seems to not only glorify the colonial period, but also frame the encounter with the "other" in a positive light, or otherwise not mentioning it. The festival claims to work with schools, and thus as an educational tool.
  
- **The whole use of language coming from the city's council/government, localisation and connection between monuments, obsession with glorifying and even cos-playing this period, leaves the slavery museum looking like a performance of a fake reconciliation with the past.** 
+ **The whole use of language coming from the city's council/government, localisation and connection between monuments, obsession with glorifying and even cos-playing this period, congratulating passed city's navigators, and ommiting references to enslavement, leaves the slavery museum looking like a performance of a fake reconciliation with the past. Moreover, when referring to the museum, the president of the municipality at the time refers to it as a driver for tourism (see [[Núcleo Museológico Rota da Escravatura]] - "_este projeto trará notoriedade e mais atratividade ao destino Lagos dos Descobrimentos_", see [[Memórias da plantação]] regarding the word "Descobrimentos" and "escrava/o")** 
 
 
