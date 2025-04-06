@@ -1,17 +1,18 @@
-*A research platform for attempting to rewrite [[Os Lusíadas]] using experimental writing and knowledge sources from ex-colonies and its diaspora.*
+*A research platform for attempting to rewrite [[Os Lusíadas]] using experimental writing and knowledge sources mainly from ex-colonies and its diaspora.*
 
-## theoretical grounds
+**If you want to participate in the project, or provide any feedback, thoughts, or complaints, please email mariana@mardrew.art.**
 
+### theoretical grounds
+This is where I explain the foundation of the project, why and how I am working on it.
 [[grounds#How can experimental writing can deconstruct the celebrated narratives of colonialism that define Portuguese national identity?]]
 
-If you want to participate, or provide any feedback, please email mariana@mardrew.art.
-
-## resources
-### a small experimental writing library
+### resources
+This is a collection of different resources: techniques for experimental writing, sites of research, people I want to be in conversation with, and possible funding for the project.
+#### a small experimental writing library of my own
 https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 
-### excavation sites
-A collection of spaces for further research [[excavation sites]].
+#### excavation sites
+A collection of spaces for further research: [[sites]]
 
 ### ideal external partners
 
@@ -22,16 +23,22 @@ https://www.cgd.pt/Institucional/Caixa-Cultura/Pages/Caixa-Cultura.aspx
 
 https://gulbenkian.pt/apoios-lista/apoio-a-criacao-artistica/
 
-## considerations 
+### considerations 
+This is where I share on-going questions that I am dealing with.
+
 -  Should I include other languages, such as Kimbundu or Badiu, even if I don't speak/know them? Portuguese, as a colonial language, carries embedded power structures. Incorporating other indigenous languages, code-switching, and neologisms could help at undermining Portuguese language hegemony. Ok, but then I am writing mostly in Portuguese, how does that undermine anything? It could disrupt a passive consumption of the text by refusing the uniformity of a single/dominant language. So, instead of reading seamlessly, the readers would encounter shifts between languages that could destabilize their flow.  + Mixing languages, can allow for telling experiences in ways that portuguese can't fully capture, making a more inclusive historical discourse. However, it must be a collaborative and very sensitive process. Without collaboration, it risks extractive linguistic tourism.
+
 
 -  Should I translate sources to Portuguese to use them? My role as translator? Or how can I trust translated sources? Does it then make sense to translate other languages? I think not? - Translation can flatten nuance and reassert colonial power. If I do it, how can I acknowledge the violence of translation? (José Eduardo Agualusa’s _A General Theory of Oblivion_ weaves Kimbundu untranslated, forcing readers to confront their ignorance.)
 
+
 - How can I work rhizomatically? Is experimental writing (by using texts from many different sources and authors), not writing, but puzzling, in the sense that the original text is not necessarily the root, rhizomatic? Can it ever be? Would maintain the original structure not be rhizomatic? how can we explode within structure?
+
 
 - **Instead of a single authoritative voice**, experimental writing can incorporate multiple perspectives. But who am I as an orchestrator of these voices operating from an european framework? How to ensure that communities lead this reimagining, and don't just inform it?Should I hold power as editor? and what does this power look like? How can I be a co-author? Do I want to be a co-author? How to let speakers write their own sections without my mediation? The words don't need to “make sense” to a Portuguese gaze. How to keep balance between zine-like chaos and a rhizomatic attitude? How to navigate between intentional fragmentation and accidental incoherence? 
 
-## thought log
+### thought log
+This is where I share my thoughts throughout the process of making.
 
 **05/04/2025** 
 

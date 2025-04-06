@@ -1,10 +1,6 @@
-## sources
-
 https://www.alaaabuasad.com/
 
 https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Evaristo
-
-
 
 http://youtube.com/watch?v=vtg3RhLGU4k
 
@@ -148,8 +144,3 @@ https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu
 ![[E7B505DA153D7C9724EE14BDC3A5AE9A.jpeg]]
 
 https://ensina.rtp.pt/artigo/navegacoes-de-sophia-de-mello-breyner-andresen/
-
-https://djass.pt/
-## ideas
-
-A broken stanza from _Os Lusíadas_ mutated each time by Creole grammar
