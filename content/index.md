@@ -2,7 +2,7 @@
 
 ## Theoretical grounds
 
-[[How can experimental writing can deconstruct the celebrated narratives of colonialism that define Portuguese national identity?]]
+[[grounds#How can experimental writing can deconstruct the celebrated narratives of colonialism that define Portuguese national identity?]]
 
 If you want to participate, or provide any feedback, please email mariana@mardrew.art.
 
