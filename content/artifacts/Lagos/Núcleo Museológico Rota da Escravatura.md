@@ -102,7 +102,4 @@ Isabel Henriques aproveitou a ocasião para recordar que, no que diz respeito ao
 
 ![[Pasted image 20250404154105.png]]
 
-![[IMG_20250110_145412.jpg]]
-
-![[IMG_20250110_145459.jpg]]
 

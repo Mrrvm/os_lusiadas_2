@@ -105,3 +105,12 @@ We find here not only a patriarchal discourse, but also a romanticization of mis
 
 This goes in accordance to the conclusions driven in [[Slave Market Museum - Contested Stories]].
 
+
+
+--- 
+
+### Other pictures of the city
+
+![[IMG_20250110_145459.jpg]]
+
+![[IMG_20250110_145412.jpg]]
