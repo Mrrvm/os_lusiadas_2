@@ -2,11 +2,13 @@
 
 **If you want to participate in the project, or provide any feedback, thoughts, or complaints, please email mariana@mardrew.art.**
 
+---
 ## theoretical grounds
 This is where I explain the foundation of the project, why and how I am working on it.
 
 [[grounds#How can experimental writing can deconstruct the celebrated narratives of colonialism that define Portuguese national identity?]]
 
+---
 ## resources
 This is a collection of different resources: techniques for experimental writing, sites of research, people I want to be in conversation with, and possible funding for the project.
 ### a small experimental writing library of my own
@@ -24,6 +26,7 @@ https://www.cgd.pt/Institucional/Caixa-Cultura/Pages/Caixa-Cultura.aspx
 
 https://gulbenkian.pt/apoios-lista/apoio-a-criacao-artistica/
 
+---
 ## considerations 
 This is where I share on-going questions that I am dealing with.
 
@@ -38,6 +41,7 @@ This is where I share on-going questions that I am dealing with.
 
 - **Instead of a single authoritative voice**, experimental writing can incorporate multiple perspectives. But who am I as an orchestrator of these voices operating from an european framework? How to ensure that communities lead this reimagining, and don't just inform it?Should I hold power as editor? and what does this power look like? How can I be a co-author? Do I want to be a co-author? How to let speakers write their own sections without my mediation? The words don't need to “make sense” to a Portuguese gaze. How to keep balance between zine-like chaos and a rhizomatic attitude? How to navigate between intentional fragmentation and accidental incoherence? 
 
+---
 ## thought log
 This is where I share my thoughts throughout the process of making.
 
