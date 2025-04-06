@@ -67,6 +67,8 @@ references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2a
 
 ### Usage of Obsidian as a research tool
 
+#### Navigation
 
+#### Transparency
 
 [^1]: Inspired by the first verse of the song *Irene* by Rodrigo Amarante 
