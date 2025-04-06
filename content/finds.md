@@ -1,13 +1,7 @@
 https://www.alaaabuasad.com/
 
-https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Evaristo
-
-http://youtube.com/watch?v=vtg3RhLGU4k
-
 https://video.alexanderstreet.com/watch/edouard-glissant-one-world-in-relation
 https://open.spotify.com/track/6VJPmBDhOJ8r1Zv0cLbbhV?si=d2d3dd419f5c4960
-
-https://en.wikipedia.org/wiki/Omeros
 
 Mia Couto – _Sleepwalking Land_
 
@@ -17,31 +11,15 @@ Homi Bhabha's concept of hybridity,
 
 Spivak's subaltern
 
-Lusotropicalism, by Gilberto Freyre
-
-https://www.researchgate.net/publication/354151070_As_marcas_do_luso-tropicalismo_nas_intervencoes_do_Presidente_da_Republica_portugues_2016-2021
-
-https://www.researchgate.net/publication/357341211_Portugality_a_nothingness_that_is_nothing
-
 https://arquivos.rtp.pt/programas/arte-de-ser-portugues/
-
-The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role, Bruno C. Reis and Pedro A. Oliveira (https://www.jstor.org/stable/26771190)
-
-https://www.cepese.pt/portal/en/populacao-e-sociedade/numero-atual/populacao-e-sociedade-n-o-36/eduardo-lourenco-2013-an-analysis-of-the-portuguese-destiny
-
-https://escholarship.org/content/qt25f496bk/qt25f496bk_noSplash_54f801181cc89cdf29ca9f3355455da5.pdf
 
 Ana Luísa Amaral
 
 Djaimilia Pereira de Almeida’s _Luar de Sangue_
 
- Isabela Figueiredo (_Caderno de Memórias Coloniais_)
-
 _Un coup de dés jamais n’abolira le hasard_ and Livre Total (as rhizomatic experimental writing)
 
 Saidiya Hartman’s “Critical Fabulation”
-
-As Eduardo Lourenço observed, Portugal’s identity is a “dream”—but experimental writing can turn that dream into a nightmare worth waking from.
 
 José Eduardo Agualusa’s _A General Theory of Oblivion_ weaves Kimbundu untranslated, forcing readers to confront their ignorance.
 
@@ -65,13 +43,7 @@ https://www.youtube.com/watch?v=UTqQdtmGiUg Griots of Guine Bissau
 
 Ana Paula Tavares
 
-
-
-https://pt.wikipedia.org/wiki/Comiss%C3%A3o_Nacional_para_as_Comemora%C3%A7%C3%B5es_dos_Descobrimentos_Portugueses
-
 https://en.wikipedia.org/wiki/Konkani_language#:~:text=On%2026%20February%201975%2C%20the,influenced%20by%20the%20Portuguese%20language.
-
-https://en.wikipedia.org/wiki/Morna_(music)
 
 https://www.vladsokhin.com/work/mozambicanshamans/#1
 
@@ -86,47 +58,26 @@ https://pt.wikipedia.org/wiki/Eduardo_Mondlane
 https://pt.wikipedia.org/wiki/Acordos_de_Lusaca  Ao abrigo desse acordo, foi formado um [Governo de Transição](https://pt.wikipedia.org/wiki/Governo_de_Transi%C3%A7%C3%A3o "Governo de Transição"), chefiado por [Joaquim Chissano](https://pt.wikipedia.org/wiki/Joaquim_Chissano "Joaquim Chissano"), que incluía [ministros](https://pt.wikipedia.org/w/index.php?title=Ministro_\(pol%C3%ADtica\)&action=edit&redlink=1 "Ministro (política) (página não existe)") nomeados pelo governo português e outros nomeados pela FRELIMO.
 https://pt.wikipedia.org/wiki/Samora_Machel
 
-
 Paulo Flores
 Karyna Gomes
 
 dutch invasion of macau
 
-
-https://novaresearch.unl.pt/en/publications/the-portuguese-slave-trade?utm_source=chatgpt.com
-
-https://digitarq.arquivos.pt/details?id=4161625
-
-https://www.roots-routes.org/discovering-colonization-decolonizing-the-discoveries-by-giulia-dickmans/?utm_source=chatgpt.com
-
-https://www.buala.org/en/to-read/dere-memorization-of-portuguese-colonialism-and-dictatorship-re-reading-the-colonial-and-the
+https://digitarq.arquivos.pt/details?id=4161625 - Comissao Nacional para a Comemoracao dos Descobrimentos https://pt.wikipedia.org/wiki/Comiss%C3%A3o_Nacional_para_as_Comemora%C3%A7%C3%B5es_dos_Descobrimentos_Portugueses
 
 "Fado and the Urban Poor in Lisbon at the Turn of the Nineteenth Century" by Rui Vieira Nery
 
 _Fado and the Place of Longing: Loss, Memory and the City_ by Richard Elliott
 
-to reinsert the history of colonisation into the history of our country
-
--Inocência Mata https://cesa.rc.iseg.ulisboa.pt/afroport/equipa/inocencia-mata/
+Inocência Mata https://cesa.rc.iseg.ulisboa.pt/afroport/equipa/inocencia-mata/
 
 https://link.springer.com/chapter/10.1057/9781137265005_3 Africans in Portuguese Society: Classification Ambiguities and Colonial Realities
 
-Plantation Memories״, Anastácia, Dandara, and Zumbi, the ..
-https://obs.obercom.pt/index.php/obs/article/download/1814/pdf/6124
-
 https://www.researchgate.net/publication/347307767_From_'Natives'_to_'Aborigines'_Late_Colonialism_Indigenous_Rights_and_the_Global_Politics_of_Sovereignty_1953-1962
-
 
 Batepá Massacre
 
-https://en.wikipedia.org/wiki/Portuguese_colonial_exhibition
-https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
-https://www.galeriamunicipaldoporto.pt/en/programa-de-incursao-a-galeria/memoria-de-elefante-2024/20241018-corpografias-reimaginadas-dialogar-comcontra-o-arquivo-da-1-exposicao-colonial-portuguesa-workshop-de-fanzines-com-marcela-pedersen-e-rafael-campos/?ano=2024
-https://www.academia.edu/44864171/Art_and_progress_Portuguese_colonial_representations_in_the_great_world_exhibitions
-
 https://www.worldofdiscoveries.com/about-us/ 
-
-https://www.academia.edu/44864171/Art_and_progress_Portuguese_colonial_representations_in_the_great_world_exhibitions
 
 https://en.wikipedia.org/wiki/Marrabenta
 

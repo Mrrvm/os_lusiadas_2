@@ -23,8 +23,7 @@ references: [[As marcas do luso-tropicalismo nas intervenções do Presidente da
 #### **[[Os Lusíadas]]** and education
 - Content about Camões' epic poem..., 
 - Canto I - Israel/Palestine
-#### Personal experiences
-
+#### Personal observations
 
 ## What is national identity (a nation) and how does it relate to these narratives?
 
@@ -34,30 +33,31 @@ references: [[Narration and Nation - Homi K. Bhabha]]
 ### How do epic poems solidify the myth?
 references: [[Hegel's Lectures on Aesthetics]]
 
-### Saudade está a morrer de fome
- (The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role, Bruno C. Reis and Pedro A. Oliveira; # “Portugality”: a nothingness that is nothing, E. Lourenço; Eduardo Lourenço – an analysis of the Portuguese destiny, E. Lourenço, and such...)
+### Matar a saudade de fome [^1]
+references: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]], [[“Portugality” - a nothingness that is nothing]], [[An analysis of the Portuguese destiny - Eduardo Lourenço]]
  
 ## Rhizomatic methodologies for rewriting
 
 ### What is experimental writing and how can it be applied as tool in this context?
 
 #### Can experimental writing be rhizomatic?
-_Un coup de dés jamais n’abolira le hasard_ and Livre Total
 
 #### Examples of experimental writing within this context
-[[Zong!]]
-https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
+references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 
 #### Rewriting [[Os Lusíadas]] with with ex-colonial and diasporic media
 
 ##### Maintaining its structure or not
 ##### Balancing between appropriation and appreciation
-reference: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
+references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
 ##### Collaboration and translation
 ##### Examples of such epic poems
 references: [[Omeros, Derek Walcott]]
 ##### Methods within rewriting 
-https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
+references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 
 ### Usage of Obsidian as a research tool
 
+
+
+[^1]: Inspired by the first verse of the song *Irene* by Rodrigo Amarante 
