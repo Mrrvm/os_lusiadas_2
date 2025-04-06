@@ -2,6 +2,8 @@
 tags:
   - text
   - interview
+  - monument
+  - museum
 ---
 ### Annotations
 

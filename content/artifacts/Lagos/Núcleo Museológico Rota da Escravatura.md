@@ -2,6 +2,7 @@
 tags:
   - museum
   - visual
+  - monument
 ---
 ### Information on the museum
 https://museu.cm-lagos.pt/polos/rota-da-escravatura/
