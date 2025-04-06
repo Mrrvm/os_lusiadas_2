@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Os Lusíadas 2",
+    pageTitle: "Os Tugas",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://oslusiadas2.mardrew.art",
+    baseUrl: "https://os-tugas.mardrew.art",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
