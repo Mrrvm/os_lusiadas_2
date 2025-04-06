@@ -1,6 +1,6 @@
 *A research platform for attempting to rewrite [[Os Lusíadas]] using experimental writing and knowledge sources from ex-colonies and its diaspora.*
 
-## Theoretical grounds
+## theoretical grounds
 
 [[grounds#How can experimental writing can deconstruct the celebrated narratives of colonialism that define Portuguese national identity?]]
 
