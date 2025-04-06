@@ -28,13 +28,17 @@ In 2016, the city opened the [[Núcleo Museológico Rota da Escravatura]], a mus
 In respect to memorial sites,  
 
 ### Dictatorship, government and lusotropicalism
-references: [[As marcas do luso-tropicalismo nas intervenções do Presidente da República português]]
-### Music, language and food
+references: [[Lusotropicalismo]]
+### Music and language
+- slang/language kimbundu
+- official languages 
+- radio music
+- fado
 
 ### **[[Os Lusíadas]]** and education
-- Content about Camões' epic poem..., 
-- Canto I - Israel/Palestine
-- Jau and Borbora
+- Lack of critical analysis in school
+- The relation between Canto I - Israel/Palestine
+- [[Bárbora e Jau]]
 
 ## What is national identity (a nation) and how does it relate to these narratives?
 
@@ -50,6 +54,7 @@ references: [[The Power and Limits of Cultural Myths in Portugal’s Search for 
 ## Rhizomatic methodologies for rewriting
 
 ### Why the rhizome matters?
+references: [[Rhizome - Gille Deleuze]]
 
 ### What is experimental writing and how can it be applied as tool in this context?
 
@@ -71,9 +76,10 @@ references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2a
 
 ### Usage of Obsidian as a research tool
 
-#### Navigation
+#### Navigating chaos
 
 #### Transparency
+references: [[index#thought log]], [[index#considerations]]
 
 [^1]: Inspired by the first verse of the song *Irene* by Rodrigo Amarante 
 
