@@ -4,7 +4,7 @@ tags:
   - portugal
 ---
 ### TO-DO
-- Check what has happened to the bodies found in Lagos
+- Check what has happened to the bodies found in Lagos [[Found bodies]]
 - Check if the artefacts are stolen
 ### Notes
 
