@@ -27,13 +27,12 @@ In respect to memorial sites,
 
 ### Dictatorship, government and lusotropicalism
 references: [[As marcas do luso-tropicalismo nas intervenções do Presidente da República português]]
-#### Music, language and food
+### Music, language and food
 
-#### **[[Os Lusíadas]]** and education
+### **[[Os Lusíadas]]** and education
 - Content about Camões' epic poem..., 
 - Canto I - Israel/Palestine
 - Jau and Borbora
-#### Personal observations
 
 ## What is national identity (a nation) and how does it relate to these narratives?
 
