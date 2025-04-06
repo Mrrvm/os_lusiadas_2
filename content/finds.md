@@ -5,7 +5,6 @@ https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Evaristo
 http://youtube.com/watch?v=vtg3RhLGU4k
 
 https://video.alexanderstreet.com/watch/edouard-glissant-one-world-in-relation
-
 https://open.spotify.com/track/6VJPmBDhOJ8r1Zv0cLbbhV?si=d2d3dd419f5c4960
 
 https://en.wikipedia.org/wiki/Omeros
@@ -37,8 +36,6 @@ The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperia
 https://www.cepese.pt/portal/en/populacao-e-sociedade/numero-atual/populacao-e-sociedade-n-o-36/eduardo-lourenco-2013-an-analysis-of-the-portuguese-destiny
 
 https://escholarship.org/content/qt25f496bk/qt25f496bk_noSplash_54f801181cc89cdf29ca9f3355455da5.pdf
-
-Derek Walcott, _Omeros_
 
 Ana Luísa Amaral
 
