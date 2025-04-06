@@ -11,15 +11,9 @@ https://en.wikipedia.org/wiki/Omeros
 
 Mia Couto – _Sleepwalking Land_
 
-José Craveirinha – _Karingana Ua Karingana_ (1974)
-
-Conceição Evaristo – _Ponciá Vicêncio_ (2003)
-
 António Pinto Ribeiro – _Lusofonia e Lusofonia_ (2010)
 
 Homi Bhabha's concept of hybridity, 
-
-Homi K. Bhabha, _Nation as Narration_
 
 Spivak's subaltern
 
