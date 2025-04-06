@@ -11,7 +11,7 @@ https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-
 
 Participating artists/writers include
 [[Welket Bungué]], [[Ana Balona de Oliveira]], [[Joacine Katar Moreira]], [[Mariana Aboim]], [[Sandim Mendes]], 
-[[The singularity of Tchiloli - René Tavares]], [[Mónica de Miranda]]
+[[The singularity of Tchiloli - René Tavares]], [[Mónica de Miranda]], [[Irineu Destourelles]]
 ### Annotations
 
 #### Concepts

@@ -8,3 +8,6 @@ https://www.projectmanifest.eu/manifest-resources/
 
 [[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]]
 
+Many texts from: [[Aurora Almada e Santos]]
+
+Podcast: https://manifestproject.substack.com/podcast

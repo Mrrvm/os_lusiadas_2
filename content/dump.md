@@ -10,12 +10,6 @@ Do que ainda nos sobra da guerra
 
 https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Evaristo
 
-https://www.projectmanifest.eu/presence-of-african-people-in-portugal-at-the-time-of-the-trade-of-enslaved-people/
-
-https://manifestproject.substack.com/podcast
-
-https://ihc.fcsh.unl.pt/aurora-almada-santos/
-
 https://www.projectmanifest.eu/the-absence-of-memorial-sites-in-portugal-en-fr/
 
 https://www.rtp.pt/play/p2057/e447261/o-fio-da-meada
@@ -94,7 +88,7 @@ https://www.youtube.com/watch?v=UTqQdtmGiUg Griots of Guine Bissau
 
 Ana Paula Tavares
 
-Dóci Papiaçám di Macau Drama Group
+
 
 https://pt.wikipedia.org/wiki/Comiss%C3%A3o_Nacional_para_as_Comemora%C3%A7%C3%B5es_dos_Descobrimentos_Portugueses
 
@@ -114,13 +108,7 @@ https://pt.wikipedia.org/wiki/Ngungunhane
 https://pt.wikipedia.org/wiki/Eduardo_Mondlane
 https://pt.wikipedia.org/wiki/Acordos_de_Lusaca  Ao abrigo desse acordo, foi formado um [Governo de Transição](https://pt.wikipedia.org/wiki/Governo_de_Transi%C3%A7%C3%A3o "Governo de Transição"), chefiado por [Joaquim Chissano](https://pt.wikipedia.org/wiki/Joaquim_Chissano "Joaquim Chissano"), que incluía [ministros](https://pt.wikipedia.org/w/index.php?title=Ministro_\(pol%C3%ADtica\)&action=edit&redlink=1 "Ministro (política) (página não existe)") nomeados pelo governo português e outros nomeados pela FRELIMO.
 https://pt.wikipedia.org/wiki/Samora_Machel
-https://pt.wikipedia.org/wiki/Lista_de_governadores_coloniais_de_Mo%C3%A7ambique
 
-https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa
-![[Pasted image 20250326184916.png]]
-
-![[Pasted image 20250326184948.png]]
-https://www.ordens.presidencia.pt/?idc=153
 
 Paulo Flores
 Karyna Gomes
@@ -153,18 +141,6 @@ https://www.researchgate.net/publication/347307767_From_'Natives'_to_'Aborigines
 
 
 Batepá Massacre
-
-
-irineu destourelles - new glossary of words mix greek mythology and names from portuguese colonial history
-
-mokambo 
-![[Pasted image 20250404181909.png]]
-https://en.wikipedia.org/wiki/Mocambo_(settlement)
-It was here that many Africans – enslaved or freed – found shelter. [_Mocambo_](https://www.publico.pt/2004438) – a word in Umbundu (one of several Angolan languages ) meaning ‘place of refuge’ – became in the 16th century one of the most populated neighbourhoods in Lisbon. Away from the white Portuguese gaze, the place was essential for African memories and the preservation of social and religious practices (weddings, funerals)
-https://lusolobo.com/2022/09/22/mocambo/
-https://amensagem.pt/2021/09/17/mocambo-o-bairro-mais-africano-na-europa-foi-a-inspiracao-para-o-restaurante-de-mafalda/
-Mokambo is a city of the Democratic Republic of the Congo. It borders Zambia. As of 2012, it had an estimated population of 23,663.
-![[Pasted image 20250404181749.png]]
 
 https://en.wikipedia.org/wiki/Portuguese_colonial_exhibition
 https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
