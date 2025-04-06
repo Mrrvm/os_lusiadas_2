@@ -31,7 +31,11 @@ Isabel Henriques aproveitou a ocasião para recordar que, no que diz respeito ao
 
 ![[IMG_20250110_144244.jpg]]
 
-![[Pasted image 20250404154105.png]]
+![[IMG_20250110_144455.jpg]]
+![[IMG_20250110_144548.jpg]]
+
+![[IMG_20250110_145859.jpg]]
+
 
 ![[IMG_20250110_143543.jpg]]
 
@@ -43,9 +47,6 @@ Isabel Henriques aproveitou a ocasião para recordar que, no que diz respeito ao
 
 ![[IMG_20250110_143743.jpg]]
 
-![[IMG_20250110_143838.jpg]]
-
-![[IMG_20250110_143856.jpg]]
 
 ![[IMG_20250110_144115.jpg]]
 
@@ -60,17 +61,10 @@ Isabel Henriques aproveitou a ocasião para recordar que, no que diz respeito ao
 ![[IMG_20250110_144231.jpg]]
 
 
-![[IMG_20250110_144455.jpg]]
+
 
 ![[IMG_20250110_144524.jpg]]
 
-![[IMG_20250110_144548.jpg]]
-
-![[IMG_20250110_145412.jpg]]
-
-![[IMG_20250110_145459.jpg]]
-
-![[IMG_20250110_145859.jpg]]
 
 ![[IMG_20250110_145910.jpg]]
 
@@ -86,6 +80,13 @@ Isabel Henriques aproveitou a ocasião para recordar que, no que diz respeito ao
 
 ![[IMG_20250110_151300.jpg]]
 
+### Found enslaved bodies ^found-enslaved-bodies
+
+![[IMG_20250110_143838.jpg]]
+
+![[IMG_20250110_143856.jpg]]
+### African artefacts ^african-artefacts-lagos
+
 ![[IMG_20250110_151808.jpg]]
 
 ![[IMG_20250110_151817.jpg]]
@@ -95,3 +96,12 @@ Isabel Henriques aproveitou a ocasião para recordar que, no que diz respeito ao
 ![[IMG_20250110_151839.jpg]]
 
 ![[IMG_20250110_151923.jpg]]
+
+### Outside the museum
+
+![[Pasted image 20250404154105.png]]
+
+![[IMG_20250110_145412.jpg]]
+
+![[IMG_20250110_145459.jpg]]
+
