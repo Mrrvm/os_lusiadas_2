@@ -17,11 +17,19 @@ https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242
 ### excavation sites
 A collection of spaces for further research: [[sites]]
 
-## ideal external partners
+### finds
+A collection of dug artifacts waiting to be sorted: [[finds]]
+
+### artifacts
+A collection of content I have sorted already and would like to use either theoretically or in the rewriting itself: https://os-tugas.mardrew.art/artifacts Some of the content is annotated already, others are not. 
+
+**The best way to navigate is by tags:** https://os-tugas.mardrew.art/tags, or by using the node graph.
+
+### ideal external partners
 
 [[Tavares Cebola]], [[Grada Kilomba]], [[Sandim Mendes]], [[Mariana Aboim]], [[Clara Amaral]], [[Patricia Kaersenhout]], Catarina Simão, Ana Balona de Oliveira
 
-## funding
+### funding
 https://www.cgd.pt/Institucional/Caixa-Cultura/Pages/Caixa-Cultura.aspx
 
 https://gulbenkian.pt/apoios-lista/apoio-a-criacao-artistica/
