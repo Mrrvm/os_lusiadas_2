@@ -44,3 +44,9 @@ Participating artists/writers include
 "The mastery of Portuguese, among other requirements, was formalised through successive legislation comprising the _Estatuto do Indigenato_, which, until 1961, distinguished between _indígenas_, _assimilados_ and whites. The _assimilados_ were considered civilised and so “almost” Portuguese, while the _indígenas_ were seen as uncivilised and occupied the bottom of the colonial social hierarchy. On the Portuguese so-called civilising mission between the late nineteenth and the early twentieth century, see Bandeira Jerónimo 2009. On the Portuguese classification of Africans throughout several colonial periods, see Castro Henriques 2019"
 
 "Theorised by the Brazilian sociologist Gilberto Freyre, lusotropicalism was appropriated by the Estado Novo after the Second World War to justify Portugal’s maintenance of its African colonies when other European countries started to decolonise. It propagated the idea that the Portuguese mixed more with the African populations they colonised and were more benevolent towards them than the other European colonisers. These ideas are still pervasive in Portuguese society (Castelo 1998; Anderson et al. 2019)."
+
+
+### How it relates
+
+claim that your victim is perpetrating every single criminal act you yourself are enacting on them
+Canto I
