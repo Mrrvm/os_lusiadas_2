@@ -4,6 +4,7 @@ tags:
   - lisboa
   - dictatorship
   - magazine
+  - text
 ---
 
 ![[Pasted image 20250406125934.png]]

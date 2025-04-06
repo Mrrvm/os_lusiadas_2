@@ -2,6 +2,7 @@
 tags:
   - portugal
   - magazine
+  - text
 ---
 with Brito Guterres
 
