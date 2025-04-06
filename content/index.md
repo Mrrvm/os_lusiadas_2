@@ -10,7 +10,7 @@ This is where I explain the foundation of the project, why and how I am working 
 
 ---
 ## resources
-This is a collection of different resources: techniques for experimental writing, sites of research, found artifacts, people I want to be in conversation with, and possible funding for the project.
+This is a collection of different resources: techniques for experimental writing, sites of research, found and unsorted artifacts, people I want to be in conversation with, and possible funding for the project.
 ### a small experimental writing library of my own
 https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 
