@@ -72,7 +72,7 @@ I had a meeting with Mariana (see [[Mariana Aboim#^meeting-1]]) and with Sandim 
 In the two current stanzas, I used [[Poetics of Relation]], [[Cães de raça]], [[Maçonaria]], [[Povo no poder]] and [[Os Lusíadas#Canto I]]. I refrained from using [[Memórias da plantação]], which I was prepared to do, as I want to contact the artist regarding this use first. I am unsure on what to do in situations where the artists have already passed away. For the sake of prototyping and having a somewhat a proof of concept of what I am trying to do, for better understanding, I have used the mentioned references - not publicly available.
 I am thinking now I don't want to use sources (in english e.g.) that are not translated, or sources that are not in Portuguese or ex-colony/diaspora languages. It's too much work to be a translator as well, and having to consider my role as such, while at the same time having a whole underground world of Lusophonic resources worth exploring. I want to focus on this undergroundness. English and other work of course can serve me as theoretical basis.
 
-Last note, on a nice sentence: "**to reinsert the history of colonisation into the history of our country**", as a thought on the role of the book regarding [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]].
+Last note, on a nice sentence: "**to reinsert the history of colonisation into the history of our country**", as a thought on the role of the book regarding Joacine's thoughts  (see [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]).
 
 **26/03/2025** 
 
