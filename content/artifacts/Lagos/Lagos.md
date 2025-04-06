@@ -15,7 +15,7 @@ Talk to Dr Marta Nogueira to access the city's archive at
 
 #### How it relates
 
-The city of lagos is known for being the birth place of the Portuguese colonial period. It has a museum with European tools for slavery and African artefacts, (see [[Inventorying is reckoning]]) - [[Núcleo Museológico Rota da Escravatura]], the only one in the country. The city's touristic brochure contains the following statements.
+The city of lagos is known for being the birth place of the Portuguese colonial period. It has a museum with European tools for slavery and tools to imagine Lagos in the past,  - [[Núcleo Museológico Rota da Escravatura]], the only one in the country. The city's touristic brochure contains the following statements.
 
 *"O séc. XV é o século de ouro de Lagos. Durante cerca de quarenta anos, a cidade, devido à sua localização frente a África, torna-se porto de partida e de chegada das naus que, ano após ano, iam **descobrindo** a costa desse continente."*
 
@@ -104,8 +104,6 @@ We find here not only a patriarchal discourse, but also a romanticization of mis
  **The whole use of language coming from the city's council/government (see [[Memórias da plantação#^palavra-descobrimentos]] regarding the word "Descobrimentos" and "escrava/o"), localisation and connection between monuments, obsession with glorifying and even cos-playing this period, congratulating passed city's navigators, and omitting references to enslavement (see [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]])  leaves the slavery museum looking like a performance of a fake reconciliation with the past. Moreover, when referring to the museum, the president of the municipality at the time refers to it as a driver for tourism (see [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]])** 
 
 This goes in accordance to the conclusions driven in [[Slave Market Museum - Contested Stories]].
-
-
 
 --- 
 
