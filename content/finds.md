@@ -86,3 +86,5 @@ https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu
 ![[E7B505DA153D7C9724EE14BDC3A5AE9A.jpeg]]
 
 https://ensina.rtp.pt/artigo/navegacoes-de-sophia-de-mello-breyner-andresen/
+
+Josina Machel, FRELIMO
