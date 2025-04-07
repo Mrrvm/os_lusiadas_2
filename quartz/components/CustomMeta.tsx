@@ -20,7 +20,7 @@ CustomMeta.css = `
 .custom-meta {
   margin-top: 0.5rem;
   font-size: 1rem;
-  color: var(--darkgray);
+  color: var(--gray);
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
