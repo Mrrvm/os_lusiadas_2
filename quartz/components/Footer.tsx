@@ -12,7 +12,7 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""} flex flex-col gap-2`}>
+      <footer class={`${displayClass ?? ""} flex flex-col gap-1`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Built with Quartz v{version}</a> © {year}
