@@ -5,7 +5,7 @@ tags:
   - monument
   - education
   - READ
-description:
+bib:
   - Almada e Santos, A. (2023, April 13). The absence of memorial sites in Portugal. Project Manifest. https://www.projectmanifest.eu/the-absence-of-memorial-sites-in-portugal-en-fr/
 link: https://www.projectmanifest.eu/the-absence-of-memorial-sites-in-portugal-en-fr/
 ---
