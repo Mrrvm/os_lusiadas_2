@@ -28,7 +28,24 @@ export default ((opts?: Partial<BacklinksOptions>) => {
     }
     return (
       <div class={classNames(displayClass, "backlinks")}>
-        <h3>{i18n(cfg.locale).components.backlinks.title}</h3>
+        {/* Existing tags display */}
+        {fileData.frontmatter?.tags && (
+          <div class="tags">
+            {fileData.frontmatter.tags.map((tag) => (
+              <span class="tag">#{tag}</span>
+            ))}
+          </div>
+        )}
+
+        {/* Custom metadata */}
+        {fileData.frontmatter?.bib && <div class="meta">Bib: {fileData.frontmatter.bib}</div>}
+        {fileData.frontmatter?.link && (
+          <div class="meta">
+            Link: <a href={fileData.frontmatter.link} target="_blank" rel="noopener">{fileData.frontmatter.link}</a>
+          </div>
+        )}
+
+        {/* Existing backlinks list */}
         <ul class="overflow">
           {backlinkFiles.length > 0 ? (
             backlinkFiles.map((f) => (

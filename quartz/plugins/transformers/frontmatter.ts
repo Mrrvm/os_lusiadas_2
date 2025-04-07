@@ -114,8 +114,6 @@ declare module "vfile" {
         cssclasses: string[]
         socialImage: string
         comments: boolean | string
-        bib: string
-        link: string
       }>
   }
 }
