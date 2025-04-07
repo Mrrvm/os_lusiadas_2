@@ -3,6 +3,7 @@ tags:
   - portugal
   - lisboa
   - porto
+  - museum
 ---
 https://en.wikipedia.org/wiki/Portuguese_colonial_exhibition
 

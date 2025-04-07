@@ -6,6 +6,7 @@ tags:
   - caribbean
   - text
   - erasure
+bib: Philip, M. N. (2008). Zong! Wesleyan University Press.
 ---
 
 Erasure (She scrubs the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a slave ship. Through erasure techniques she fragments and recovers the story of the slaves that had been subjected to obliteration by institutions of power. Yet, many erasures are based on texts that their authors venerate.)

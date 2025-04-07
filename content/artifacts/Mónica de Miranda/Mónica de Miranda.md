@@ -3,7 +3,6 @@ tags:
   - diaspora
   - portugal
   - angola
+link: https://monicademiranda.org/
 ---
-https://monicademiranda.org/texts/
-
 [[Projecto diálogos]]

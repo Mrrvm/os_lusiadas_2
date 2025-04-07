@@ -1,1 +1,6 @@
+---
+tags:
+  - portugal
+  - transatlantic-enslaved-trade
+---
 https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-trade-of-enslaved-people-15-16th-centuries/ 

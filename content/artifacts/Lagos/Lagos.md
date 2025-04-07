@@ -2,15 +2,12 @@
 tags:
   - algarve
   - portugal
+  - READ
+to-dos: |-
+  [] Check what has happened to the bodies found in Lagos  
+  [] Check if the artefacts are stolen
+  [] Talk to Dr Marta Nogueira to access the city's archive (expediente.geral@cm-lagos.pt | 282780900
 ---
-### TO-DO
-- Check what has happened to the bodies found in Lagos [[Found bodies]]
-- Check if the artefacts are stolen
-### Notes
-
-Talk to Dr Marta Nogueira to access the city's archive at
-![[WhatsApp Image 2025-04-04 at 14.45.05 (2) 1.jpeg]]
-
 ### Annotations
 
 #### How it relates

@@ -1,18 +1,13 @@
 ---
 tags:
   - caribbean
-  
   - text
   - transatlantic-enslaved-trade
   - rhythm
   - INCLUDED
+bib: Glissant, É., & Dias, J. A. F. (2011). _Poética da relação_ (M. Mendonça, Trad. & Rev.). Sextante Editora. ISBN 978-972-0-07153-8.
+to-dos: "[] Contact Manuela Mendonça"
 ---
-
-**Glissant, É., & Dias, J. A. F.** (2011). _Poética da relação_ (M. Mendonça, Trad. & Rev.). Sextante Editora. ISBN 978-972-0-07153-8.
-
-### TO-DO
-- Contact Manuela Mendonça
-
 ### Annotations
 
 #### Concepts

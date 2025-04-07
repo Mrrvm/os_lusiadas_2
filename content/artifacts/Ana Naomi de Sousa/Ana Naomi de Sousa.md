@@ -2,6 +2,7 @@
 tags:
   - portugal
   - lisboa
+link: https://www.ananaomidesousa.com/
 ---
 [[Angola - birth of a movement]]
 [[Five Decades After the Revolution, Colonial Structures in Portuguese Society Continue to Persist]]

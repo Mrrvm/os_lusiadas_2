@@ -3,10 +3,10 @@ tags:
   - museum
   - visual
   - monument
+link: https://museu.cm-lagos.pt/polos/rota-da-escravatura/
+bib: CEsA – Centro de Estudos sobre África e do Desenvolvimento. (n.d.). Cooperação – Rota do Escravo. https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12
 ---
 ### Information on the museum
-https://museu.cm-lagos.pt/polos/rota-da-escravatura/
-(see [[Found bodies]])
 
  **Município de Lagos e Centro de Estudos sobre África e Desenvolvimento afinam estratégia para a criação do Museu da Escravatura de Lagos**
 "Recorde-se que o projeto Museu da Escravatura de Lagos visa atingir dez objetivos (expressos na declaração do Município de Lagos de 16 de dezembro de 2011) dos quais se destacam alguns, designadamente: 1) a requalificação arquitetónica do paradigmático edifício do Mercado de Escravos; 2) a organização do espaço museológico – núcleo do Mercado de Escravos (exposições dos achados arqueológicos e outros associados) e um segundo núcleo no Parque de Estacionamento do Anel Verde (onde funcionará um Centro de Informação e Interpretação Histórica e Arqueológica do local – Memorial da Escravatura) onde os trabalhos arqueológicos levados a cabo em 2009 revelaram a existência de 155 esqueletos humanos de antigos escravos. Também está prevista a publicação de diversos estudos, quer no que diz respeito ao “cemitério de escravos”, quer sobre a Escravatura no Sul de Portugal, um Roteiro da Rota do Escravo ou ainda a publicação de brochuras turístico-culturais sobre os Lugares de Memória da Escravatura e do Comércio de Escravos em Lagos.

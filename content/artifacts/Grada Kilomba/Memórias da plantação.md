@@ -2,6 +2,8 @@
 tags:
   - text
   - book
+link: https://www.ufrb.edu.br/ppgcom/images/MEMORIAS_DA_PLANTACAO_-_EPISODIOS_DE_RAC_1_GRADA.pdf
+bib: "Kilomba, G. (2019). Memórias da plantação: Episódios de racismo quotidiano (N. Quintas, Trans.). Orfeu Negro."
 ---
 ### Annotations
 
@@ -18,9 +20,9 @@ When arriving in the island, Camões describes the Portuguese as a peaceful enti
 
 ### Must-have quotes
 
-Esta dissociação evoca o facto de o sujeito *branco* se encontrar de alguma maneira dividido dentro de si, pois desenvolve duas atitudes para com uma realidade externa: só uma parte do ego - a parte "boa", que acolhe e é benévola - é vivida como "eu"; o resto - a parte "má", que rejeita e é malévola - projecta-se no "Outro" e é vivida como externa. O sujeito negro torna-se então ecrã de projecção daquilo que o sujeito branco teme admitir sobre si: neste case, que é o ladrão violento, o bandido indolente e malicioso. Estes aspectos aviltantes, tão intensos que provocam ansiedade, culpa ou vergonha são projectado externamente para que se lhes possa escapar.
+"Esta dissociação evoca o facto de o sujeito *branco* se encontrar de alguma maneira dividido dentro de si, pois desenvolve duas atitudes para com uma realidade externa: só uma parte do ego - a parte "boa", que acolhe e é benévola - é vivida como "eu"; o resto - a parte "má", que rejeita e é malévola - projecta-se no "Outro" e é vivida como externa. O sujeito negro torna-se então ecrã de projecção daquilo que o sujeito branco teme admitir sobre si: neste case, que é o ladrão violento, o bandido indolente e malicioso. Estes aspectos aviltantes, tão intensos que provocam ansiedade, culpa ou vergonha são projectado externamente para que se lhes possa escapar."
 
-(...) «a essência da repressão não é mais do que afastar algo da consciência, e mantê-lo à distância» (1923: 17). É aquele processo pelo qual as ideias incómodas – e as verdades incómodas – se tornam inconscientes, fora da consciência, dada a extrema ansiedade, culpa ou vergonha que provocam. Mas, sepultadas no inconsciente como segredos, permanecem latentes e podem ser a qualquer momento **reveladas**. A máscara que sela a boca do _sujeito negro_ impede que o _senhor branco_ ouça as verdades latentes de que se quer «afastar», de que quer «manter distância», nas margens, despercebidas e «silenciadas». Protege o _sujeito branco_, por assim dizer, de reconhecer o conhecimento da/o «Outra/o». Confrontado com os segredos colectivos e as verdades incómodas dessa _história tão suja³_, o _sujeito branco_ costuma dizer que «não sabe», «não entende», «não se lembra», «não acredita» ou «não ficou convencido». São expressões deste processo de repressão pelo qual o _sujeito resiste_ a tornar consciente a informação inconsciente; ou seja, quer tornar o **conhecido desconhecido**.
+"(...) «a essência da repressão não é mais do que afastar algo da consciência, e mantê-lo à distância» (1923: 17). É aquele processo pelo qual as ideias incómodas – e as verdades incómodas – se tornam inconscientes, fora da consciência, dada a extrema ansiedade, culpa ou vergonha que provocam. Mas, sepultadas no inconsciente como segredos, permanecem latentes e podem ser a qualquer momento **reveladas**. A máscara que sela a boca do _sujeito negro_ impede que o _senhor branco_ ouça as verdades latentes de que se quer «afastar», de que quer «manter distância», nas margens, despercebidas e «silenciadas». Protege o _sujeito branco_, por assim dizer, de reconhecer o conhecimento da/o «Outra/o». Confrontado com os segredos colectivos e as verdades incómodas dessa _história tão suja³_, o _sujeito branco_ costuma dizer que «não sabe», «não entende», «não se lembra», «não acredita» ou «não ficou convencido». São expressões deste processo de repressão pelo qual o _sujeito resiste_ a tornar consciente a informação inconsciente; ou seja, quer tornar o **conhecido desconhecido**."
 
 ### Collected text for collage
 

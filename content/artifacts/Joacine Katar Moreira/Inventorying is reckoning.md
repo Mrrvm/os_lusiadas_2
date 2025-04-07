@@ -4,6 +4,9 @@ tags:
   - interview
   - monument
   - museum
+  - READ
+link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4681613
+bib: "Lixinski, Lucas, Inventorying is Reckoning: Joacine Katar Moreira Talks to Lucas Lixinski (February 28, 2023). UNSW Law Research Paper No. 63, Available at SSRN: https://ssrn.com/abstract=4681613"
 ---
 ### Annotations
 

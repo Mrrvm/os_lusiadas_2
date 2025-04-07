@@ -3,12 +3,16 @@ tags:
   - portugal
   - lisboa
   - monument
+  - READ
+bib: Djass – Associação de Afrodescendentes. (n.d.). Memorial da Escravatura e Tráfico Negreiro. Facebook. https://www.facebook.com/memorialescravatura/?locale=pt_BR
+link: https://www.facebook.com/memorialescravatura/?locale=pt_BR
 ---
+![[Pasted image 20250407105153.png]]
+Plantation by Kiluanji Kia Henda © Djass - Associação de Afrodescendentes Artistic project selected for the Memorial to Enslaved People, to be erected at Largo José Saramago (known as Campo das Cebolas) in the historic centre of Lisbon.
+
 https://www.rtp.pt/play/p2057/e447261/o-fio-da-meada
 
 https://djass.pt/atividades-2019/memorial-de-homenagem-as-pessoas-escravizadas/
-
-https://www.facebook.com/memorialescravatura/?locale=pt_BR
 
 COMUNICADO: Câmara Municipal de Lisboa não quer Memorial de Homenagem às Pessoas Escravizadas
 
