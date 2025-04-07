@@ -4,10 +4,9 @@ tags:
   - external-partner
   - INCLUDED
   - music
+link: https://www.nytimes.com/by/tavares-cebola
+other: https://www.instagram.com/rizomamz/
 ---
-https://www.instagram.com/rizomamz/ (editor work)
-https://www.nytimes.com/by/tavares-cebola (journalist work)
-
 [[Using Dance to Tell the Story of Mozambique’s Struggles]]
 [[The Song, and Rapper, Inspiring Mozambique’s Youth Uprising]]
 
