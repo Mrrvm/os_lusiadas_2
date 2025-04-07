@@ -12,14 +12,14 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
+      <footer class={`${displayClass ?? ""} flex flex-col gap-2`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Built with Quartz v{version}</a> © {year}
         </p>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://github.com/Mrrvm/os_lusiadas_2">Hosted in Github</a> © {year}
+          <a href="https://github.com/Mrrvm/os_lusiadas_2">Version control on Github</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
