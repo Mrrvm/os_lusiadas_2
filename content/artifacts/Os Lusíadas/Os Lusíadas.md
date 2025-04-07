@@ -28,7 +28,7 @@ Returns to Lisbon: September 1499
 
 ## Canto I 
 #### Proposition: 
-The poet begins his poem by ==stating what he intends to do== and then indicating the subject of his narrative: ==singing the navigators who made the Portuguese empire== possible, the kings who promoted the expansion of faith and empire, and all those who become worthy of admiration for their heroic deeds.
+The poet begins his poem by ==stating what he intends to do== and then indicating the subject of his narrative: ==singing the perpetuators who made the Portuguese empire== possible, the kings who promoted the expansion of faith and empire, and all those who become worthy of admiration for their heroic deeds.
 #### Invocation: 
 ==The poet addresses the Tagides (nymphs of the Tagus) to ask for inspiration== to execute the work he proposes to accomplish with eloquence.
 #### Dedication:

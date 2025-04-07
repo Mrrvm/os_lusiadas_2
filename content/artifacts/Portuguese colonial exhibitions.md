@@ -1,7 +1,6 @@
 ---
 tags:
   - portugal
-  - lisboa
   - porto
   - museum
 ---

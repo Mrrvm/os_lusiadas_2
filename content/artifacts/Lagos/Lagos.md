@@ -30,7 +30,7 @@ Digitally, the county's website references the museum in the following way:
 Sabendo-se que o primeiro mercado de escravos, trazidos pelas caravelas, se realizou no Rossio da Trindade, à porta da vila, este mercado de escravos **assume especial significado pelo seu carácter simbólico, enraizado na tradição popular**."*
 (https://www.cm-lagos.pt/descobrir-lagos/visitar/patrimonio-e-monumentos#463-mercado-de-escravos)
 
-If you continue towards the south after visiting the museum, you find a statue of Gil Eanes, the navigator who passed through Western Sahara.
+If you continue towards the south after visiting the museum, you find a statue of Gil Eanes, the "first" who passed through Western Sahara.
 
 *"Localizada no Jardim da Constituição, esta estátua da autoria de Canto da Maia é **uma homenagem ao lacobrigense, escudeiro do Infante D. Henrique**, que em 1434 dobrou o Cabo Bojador.
 O navegador está representado junto a um barril, vaso improvisado contendo uma planta, **símbolo da descoberta de terra para além do Cabo Bojador**."*
