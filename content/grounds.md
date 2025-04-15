@@ -13,7 +13,7 @@ I will begin by explaining how Portugal played a massive role in the transatlant
 ### The role of Portugal in colonialism
 (add timeline of events)
 
-Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. These goes from monuments, statues, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
+Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
 ### Monuments, streets and festivals
 
 Having lived in the south of Portugal, Algarve, up until I was 17 (in 2014), I was always confronted with the economic discrepancies between retired northern europeans and the locals. Whole cities and regions, such as Vilamoura, Vale de Lobo, Quinta to Lago, were and are completely catered to this social class of immigrants, with lavish golf resorts, beach hotels, empty holiday mansions, and whatnot, while, the basic needs of the local population remain chronically under-resourced — water, public transport, healthcare, education, ... Beaches, dunes and their biodiversity have also been destroyed for the sake of touristic profit (e.g. Quarteira). 
