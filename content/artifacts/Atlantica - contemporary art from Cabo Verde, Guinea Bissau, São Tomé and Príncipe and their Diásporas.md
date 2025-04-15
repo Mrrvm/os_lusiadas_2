@@ -5,7 +5,7 @@ tags:
   - saotomeeprincipe
   - diaspora
   - visual
-bib: "Schofield Cardoso, C., & de Miranda, M. (Eds.). (2021). _Atlantica: Contemporary Art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diasporas_. Hangar Books.https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/"
+bib: "C. Schofield Cardoso and M. de Miranda, eds., Atlantica: Contemporary Art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and Their Diasporas (Lisbon: Hangar Books, 2021), https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/"
 link: https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/
 ---
 Participating artists/writers include
