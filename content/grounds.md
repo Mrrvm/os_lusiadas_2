@@ -9,25 +9,29 @@ One of the mechanisms is the mandatory school reading and interpretation of [[Os
 I intend to investigate how I can rewrite [[Os Lusíadas]], using experimental writing techniques together with texts, books, media, scripts, and other artefacts within lusophony. I envision this project as long-term and I am using my graduation period at Willem de Kooning Academie to investigate and produce prototypes of what it can be while creating a solid understanding of why I am doing this, its context, meaning, relevance to this day, materiality, resources and methodologies of work. Later on, I would like to request funding and carry on with the work through continuous collaboration with others, as I look for an understanding on how to work rhizomatically.
 
 I will begin by explaining how Portugal played a massive role in the transatlantic enslaved trade until the last century, how colonial violence has been omitted in the last decades and in which ways colonialism is still celebrated in Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Further on I will shortly dive in the concept of national identity and nation, in order to understand its relation with epic poems and its tumultuous case in Portugal. Lastly, I analyse experimental writing in this context and present the methodologies I am using for the re-writing of the original book and their potential to be rhizomatic.
+
 ## How are narratives of colonialism celebrated within Portuguese culture?
+
 ### The role of Portugal in colonialism
 (add timeline of events)
 
 Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
+
 ### Monuments, streets and festivals
 
 Having lived in the south of Portugal, Algarve, up until I was 17 (in 2014), I was always confronted with the economic discrepancies between retired northern europeans and the locals. Whole cities and regions, such as Vilamoura, Vale de Lobo, Quinta to Lago, were and are completely catered to this social class of immigrants, with lavish golf resorts, beach hotels, empty holiday mansions, and whatnot, while, the basic needs of the local population remain chronically under-resourced — water, public transport, healthcare, education, ... Beaches, dunes and their biodiversity have also been destroyed for the sake of touristic profit (e.g. Quarteira). 
 
 Algarve is the home of the city of [[Lagos]] - the birth place of the Portuguese colonial period. Yet I have never in those 17 years seen or heard anything regarding this. Clearly there was an intentional effort and money put into making higher social classes in the region more comfortable in recent years, yet none into accommodating a much older social class of immigration driven from the Portuguese former colonies. In fact, the opposite has been done.
 
-In 2016, the city opened the [[Núcleo Museológico Rota da Escravatura]], a museum which they call "Slave" market. This is the first and only museum about slavery in the whole country. While visiting, you discover that during excavations in 2009 for a parking lot, they found around 155 enslaved bodies that had been dropped in a rubbish dump[^5]. To enter the museum, you must pass by a plaza named Infante Dom Henrique (the perpetuator of the first navigations) with his statue in the middle, and if you walk a few meters further down, you find some more symbols, such as Vasco da Gama and [[Luís de Camões]]. If you continue towards the south after visiting the museum, you find a statue of Gil Eanes, who "first" passed through Western Sahara, where the first Africans were kidnapped and subsequently shipped to Portugal[^6]. The main street of the city is called *Avenida dos "Descobrimentos"*. Every 2 years the city holds a festival[^7] cosplaying the colonial epoch, congratulating the perpetuators of the colonial period who were born in the city, for their "great adventure", "challenging" the unknown and "transforming" the ocean in a "bridge" between two continents. The whole use of language coming from the city's council[^8], the assertion of pride in the city, such as claiming *"(...) desvendaram os primeiros segredos dos oceanos (...)"* - uncovered the first secrets of the ocean -, the localisation and connection between monuments, obsession with glorifying and even cos-playing this period, digging bodies of enslaved people, showcasing them in the museum[^9] and building a mini-golf court on the burial site[^10], while intentionally omitting any references to kidnapping, enslavement, and murder of displaced peoples as well as violence perpetuated in the former colonies[^11] leaves the slavery museum looking like a very clear performance of a fake reconciliation with the past. Moreover, when referring to the museum, the president of the municipality at the time refers to it as a driver for tourism[^12]. 
+In 2016, the city opened the [[Núcleo Museológico Rota da Escravatura]], a museum which they call "Slave" market. This is the first and only museum about slavery in the whole country. While visiting, you discover that during excavations in 2009 for a parking lot, they found around 155 enslaved bodies that had been dropped in a rubbish dump[^1]. To enter the museum, you must pass by a plaza named Infante Dom Henrique (the perpetuator of the first navigations) with his statue in the middle, and if you walk a few meters further down, you find some more symbols, such as Vasco da Gama and [[Luís de Camões]]. If you continue towards the south after visiting the museum, you find a statue of Gil Eanes, who "first" passed through Western Sahara, where the first Africans were kidnapped and subsequently shipped to Portugal[^2]. The main street of the city is called *Avenida dos "Descobrimentos"*. Every 2 years the city holds a festival[^3] cosplaying the colonial epoch, congratulating the perpetuators of the colonial period who were born in the city, for their "great adventure", "challenging" the unknown and "transforming" the ocean in a "bridge" between two continents. The whole use of language coming from the city's council[^4], the assertion of pride in the city, such as claiming *"(...) desvendaram os primeiros segredos dos oceanos (...)"* - uncovered the first secrets of the ocean -, the localisation and connection between monuments, obsession with glorifying and even cos-playing this period, digging bodies of enslaved people, showcasing them in the museum[^5] and building a mini-golf court on the burial site[^6], while intentionally omitting any references to kidnapping, enslavement, and murder of displaced peoples as well as violence perpetuated in the former colonies[^7] leaves the slavery museum looking like a very clear performance of a fake reconciliation with the past. Moreover, when referring to the museum, the president of the municipality at the time refers to it as a driver for tourism[^8]. 
 
-In respect to memorial sites, Lisbon does not fall much further. In 2017, the association DJES (Association of Afrodescendents) proposed the city's council, as part of the participatory budget contest, to build a memorial site paying homage to the victims of the Atlantic enslaved trade. The county agreed to the project, and DJES made an open-call for 5 invited artists to foresee this project. The idea of Kiluanji Kia Henda - a plantation of sugar cane - was chosen to be implemented, but after 8 years is yet to become a reality, as the city's council keeps creating various obstacles towards execution, including inexplicable times between replies, changing previously set locations, producing fake images in relation to the artist's original idea, etc. A similar case, happened with Batoto Yetu Portugal, who tried to create 20 signs and a bust honouring African presence in Lisbon. The artworks were fully completed in 2020, there is a budget for setting them up in the city funded by the association itself, yet the process remains stale[^13]. Again one could argue in defense for the economic condition of the country (and consequential waiting times), however, in 2023, the government, the city of Loures and Lisbon, spent together 75 million euros[^14] to receive the pope, which then again is deemed acceptable for the returns on tourism.
+In respect to memorial sites, Lisbon does not fall much further. In 2017, the association DJES (Association of Afrodescendents) proposed the city's council, as part of the participatory budget contest, to build a memorial site paying homage to the victims of the Atlantic enslaved trade. The county agreed to the project, and DJES made an open-call for 5 invited artists to foresee this project. The idea of Kiluanji Kia Henda - a plantation of sugar cane - was chosen to be implemented, but after 8 years is yet to become a reality, as the city's council keeps creating various obstacles towards execution, including inexplicable times between replies, changing previously set locations, producing fake images in relation to the artist's original idea, etc. A similar case, happened with Batoto Yetu Portugal, who tried to create 20 signs and a bust honouring African presence in Lisbon. The artworks were fully completed in 2020, there is a budget for setting them up in the city funded by the association itself, yet the process remains stale[^9]. Again one could argue in defense for the economic condition of the country (and consequential waiting times), however, in 2023, the government, the city of Loures and Lisbon, spent together 75 million euros[^10] to receive the pope, which then again is deemed acceptable for the returns on tourism.
 
-Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^15](that includes a statue of [[Luís de Camões]] writing his book),  countless caravels and compasses drawn in the sidewalks, statues of participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^16], numerous streets with 
+Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^11](that includes a statue of [[Luís de Camões]] writing his book),  countless caravels and compasses drawn in the sidewalks, statues of participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^12], numerous streets with 
 
 ### Dictatorship, government and lusotropicalism
 references: [[Lusotropicalismo]]
+
 ### Music and language
 - slang/language kimbundu
 - official languages 
@@ -47,7 +51,7 @@ references: [[Narration and Nation - Homi K. Bhabha]]
 ### How do epic poems solidify the myth?
 references: [[Hegel's Lectures on Aesthetics]]
 
-### Matar a saudade de fome [^17]
+### Matar a saudade de fome [^13]
 references: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]], [[“Portugality” - a nothingness that is nothing]], [[An analysis of the Portuguese destiny - Eduardo Lourenço]]
  
 ## Rhizomatic methodologies for rewriting
@@ -82,28 +86,28 @@ references: [[index#thought log]], [[index#considerations]], github
 
 ## Reflecting and looking ahead
 
-[^5]: see [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
+[^1]: see [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
-[^6]: see [[Portuguese Slave Trade]]
+[^2]: see [[Portuguese Slave Trade]]
 
-[^7]: see [[Lagos#^festival-colonial]]
+[^3]: see [[Lagos#^festival-colonial]]
 
-[^8]: see [[Memórias da plantação#^palavras-usadas]] both regarding the word *"Descobrimentos"* - "Discoveries" and *"escravx"* - "slave"
+[^4]: see [[Memórias da plantação#^palavras-usadas]] both regarding the word *"Descobrimentos"* - "Discoveries" and *"escravx"* - "slave"
 
-[^9]: see  [[Slave Market Museum - Contested Stories#^displayed-body]]
+[^5]: see  [[Slave Market Museum - Contested Stories#^displayed-body]]
 
-[^10]: see [[Found bodies#^burial-site]]
+[^6]: see [[Found bodies#^burial-site]]
 
-[^11]: see [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]
+[^7]: see [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]
 
-[^12]: see [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]] and [[Slave Market Museum - Contested Stories#^museum-erasure]]
+[^8]: see [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]] and [[Slave Market Museum - Contested Stories#^museum-erasure]]
 
-[^13]: see [[Memorial de homenagem às pessoas escravizadas]]
+[^9]: see [[Memorial de homenagem às pessoas escravizadas]]
 
-[^14]: see https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38
+[^10]: see https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38
 
-[^15]: In their website, https://padraodosdescobrimentos.pt/, there is absolutely no reference to coloniality, violence or wrong-doing.
+[^11]: In their website, https://padraodosdescobrimentos.pt/, there is absolutely no reference to coloniality, violence or wrong-doing.
 
-[^17]: Inspired by the first verse of the song *Irene* by Rodrigo Amarante 
+[^12]: Acquired by Manuel Pinto da Fonseca through his participation in the Atlantic enslaved trade (see [[The absence of memorial sites in Portugal - Aurora Almada e Santos]])
 
-[^16]: Acquired by Manuel Pinto da Fonseca through his participation in the Atlantic enslaved trade (see [[The absence of memorial sites in Portugal - Aurora Almada e Santos]])
+[^13]: Inspired by the first verse of the song *Irene* by Rodrigo Amarante
