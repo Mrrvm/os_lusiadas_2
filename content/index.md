@@ -55,7 +55,7 @@ This is where I share my thoughts throughout the process of making.
 
 **05/04/2025** 
 
-Possible names "Os Tugas", "O desenterro", "Uma época nada épica", ...
+Possible names "Os Tugas", "Desenterro", "A época nada épica", ...
 I am quite overwhelmed specially after reading [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]]. I have a huge amount of references just from the West coast, and it feels like I am falling down a rabbit hole, with no longer signs of light. Maybe that's good. But not good for the limited time I have. 
 I started writing the Proposition, and have done 2 stanzas so far (2/1102 - 0.018% of the original). It's not as hard to do as I thought it would be. Having to make it decasyllabic (which does not mean 10 syllables) increases the complexity and time consumption, but it's actually quite fun. 
 I had a meeting with Mariana (see [[Mariana Aboim#^meeting-1]]) and with Sandim (see [[Sandim Mendes#^meeting-1]]), and have realised I should immediately write about it rather than weeks after, everything is quite foggy now. 
