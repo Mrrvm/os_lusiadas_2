@@ -95,3 +95,6 @@ Joaquim Furtado, “Guerra” https://www.youtube.com/watch?v=n-96S4DxUBM&list=P
 
 https://batotoyetu.pt/o-que-fazemos/fado-dancado/
 https://dam.batotoyetu.pt/ # DAM – MEMÓRIA DIGITAL AFRICANA PORTUGA
+
+How does experimental writing, as a form and practice, allow you to materialize this deconstruction? This connection will further clarify how your work not only expresses an idea, but does so through a form that embodies the research itself.
+How does experimental writing, as a form and practice, allow you to materialize this deconstruction? This connection will further clarify how your work not only expresses an idea, but does so through a form that embodies the research itself. It will help alleviate your anxiety here
