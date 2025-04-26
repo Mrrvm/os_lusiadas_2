@@ -88,3 +88,5 @@ https://pt.wikipedia.org/wiki/Massacre_de_Wiriyamu
 https://ensina.rtp.pt/artigo/navegacoes-de-sophia-de-mello-breyner-andresen/
 
 https://www.museudoaljube.pt/expo/antes-de-ser-independencia-foi-luta-de-libertacao/
+
+Joaquim Furtado, “Guerra”
