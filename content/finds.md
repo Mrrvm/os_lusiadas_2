@@ -92,3 +92,6 @@ https://www.museudoaljube.pt/expo/antes-de-ser-independencia-foi-luta-de-liberta
 Joaquim Furtado, “Guerra” https://www.youtube.com/watch?v=n-96S4DxUBM&list=PLtjGobLxy4C66lZVM92KZlPwSVKqRhVte
 
 [gio_cattuco](https://www.instagram.com/gio_cattuco/
+
+https://batotoyetu.pt/o-que-fazemos/fado-dancado/
+https://dam.batotoyetu.pt/ # DAM – MEMÓRIA DIGITAL AFRICANA PORTUGA
