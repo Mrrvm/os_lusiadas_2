@@ -89,4 +89,6 @@ https://ensina.rtp.pt/artigo/navegacoes-de-sophia-de-mello-breyner-andresen/
 
 https://www.museudoaljube.pt/expo/antes-de-ser-independencia-foi-luta-de-libertacao/
 
-Joaquim Furtado, “Guerra”
+Joaquim Furtado, “Guerra” https://www.youtube.com/watch?v=n-96S4DxUBM&list=PLtjGobLxy4C66lZVM92KZlPwSVKqRhVte
+
+[gio_cattuco](https://www.instagram.com/gio_cattuco/
