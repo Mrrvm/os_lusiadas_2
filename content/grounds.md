@@ -69,6 +69,8 @@ references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-te
 #### Rewriting [[Os Lusíadas]] with with ex-colonial and diasporic media
 
 ##### Maintaining its structure or not
+
+###### Decasyllables and accents (research by making)
 ##### Balancing between appropriation and appreciation
 references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
 ##### Collaboration and translation
@@ -76,6 +78,9 @@ references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
 references: [[Omeros, Derek Walcott]]
 ##### Methods within rewriting 
 references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
+#####  Mapping different fonts (research by making)
+
+##### Writing from the Netherlands
 
 ### Usage of Obsidian as a research tool
 
