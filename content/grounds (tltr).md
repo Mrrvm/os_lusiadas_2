@@ -11,3 +11,6 @@ I intend to investigate how I can rewrite [[Os Lusíadas]], using experimental w
 I will begin by explaining how Portugal played a massive role in the transatlantic enslaved trade until the last century, how colonial violence has been omitted in the last decades and in which ways colonialism is still celebrated in Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Further on I will shortly dive in the concept of national identity and nation, in order to understand its relation to epic poems and its tumultuous case within Portugal. Lastly, I analyse experimental writing in this context, presenting the methodologies I am using for the re-writing of the original book and their potential to be rhizomatic, and explain how I intend to carry both transparency and opacity along the project.
 
 ## How are narratives of colonialism celebrated within Portuguese culture?
+
+
+## Reflecting and looking ahead

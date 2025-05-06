@@ -27,7 +27,7 @@ In 2016, the city opened the [[Núcleo Museológico Rota da Escravatura]], a mus
 
 In respect to memorial sites, Lisbon does not fall much further. In 2017, the association DJES (Association of Afrodescendents) proposed the city's council, as part of the participatory budget contest, to build a memorial site paying homage to the victims of the Atlantic enslaved trade. The municipality agreed to the project, and DJES made an open-call for 5 invited artists to foresee this project. The idea of Kiluanji Kia Henda - a plantation of sugar cane - was chosen to be implemented, but after 8 years is yet to become a reality, as the city's council keeps creating various obstacles towards execution, including inexplicable times between replies, changing previously set locations, producing fake images in relation to the artist's original idea, etc. A similar case, happened with Batoto Yetu Portugal, who tried to create 20 signs and a bust honouring African presence in Lisbon. The artworks were fully completed in 2020, there is a budget for setting them up in the city funded by the association itself, yet the process remains stale[^9]. One could argue in defense for the economic condition of the country (and consequential waiting times), however, in 2023, the government, the city of Loures and Lisbon, spent together 75 million euros[^10] to receive the pope, which then is already deemed acceptable due to the returns on tourism.
 
-Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^11](that includes a statue of [[Luís de Camões]] writing his book),  countless caravels and compasses drawn in the sidewalks, statues of participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^12], numerous streets with 
+Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^11](that includes a statue of [[Luís de Camões]] writing his book),  countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]] ), statues of colonial participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^12]. 
 
 ### Dictatorship, government and lusotropicalism
 references: [[Lusotropicalismo]]
@@ -89,7 +89,19 @@ references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2a
 #### Transparency 
 references: [[index#thought log]], [[index#considerations]], github
 
-## Reflecting and looking ahead
+
+## Appendix
+
+![[Pasted image 20250506151633.png]]
+**Fig. 1** - Rosa dos Ventos (Compass Rose) at the Monument of the Discoveries in Lisbon. Portuguese Museum, https://portuguesemuseum.org/?page_id=1808&category=4&exhibit=&event=82#images-1 ^fig-rosa-dos-ventos
+
+![[IMG_20250110_145412.jpg]]
+**Fig. 2** - Rosa dos Ventos (Compass Rose) at Lagos ^fig-rosa-dos-ventos-lagos
+
+![[Pasted image 20250506152303.png]]
+**Fig. 2** - The caravela and the crows are symbols of the city of Lisbon. Bucket List Portugal, https://bucketlistportugal.com/calcada-portuguesa-the-art-of-portuguese-pavement/ ^fig-rosa-dos-ventos-lagos
+
+---
 
 [^1]: see [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 

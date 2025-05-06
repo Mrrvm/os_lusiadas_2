@@ -16,6 +16,8 @@ https://www.instagram.com/rizomamz/
 
 https://memoire-esclavage.org/
 
+https://contestedlegaciesportugal.org/
+
 ### physical
 
 https://www.cm-lagos.pt/areas-de-atuacao/arquivo-municipal
