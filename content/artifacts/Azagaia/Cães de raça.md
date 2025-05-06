@@ -5,6 +5,7 @@ tags:
   - rhythm
   - futebol
   - bacalhau
+bib: "Azagaia, “Cães de Raça,” track 2 on Cubaliwa (Maputo: Kongoloti Records, 2013), accessed May 6th, 2025, https://www.youtube.com/watch?v=5EdRIfm4zMs."
 ---
 https://www.youtube.com/watch?v=sIFu09MbySQ
 
