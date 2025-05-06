@@ -102,3 +102,13 @@ How does experimental writing, as a form and practice, allow you to materialize 
 https://pt.wikipedia.org/wiki/Guerra_Luso-Holandesa
 
 https://www.youtube.com/@RAPLUSOVIVEAQUI/videos
+
+https://www.academia.edu/25018403/Experi%C3%AAncias_de_colonialismo_no_Porto_de_1934_na_Primeira_Exposi%C3%A7%C3%A3o_Colonial_Portuguesa_IX_Edi%C3%A7%C3%A3o_do_Congresso_Ib%C3%A9rico_de_Estudos_Africanos_VOLUME_I
+
+
+https://www.artedopovo.com/produto/pretinho-da-sorte/
+A história do boneco perde-se nos tempos, mas tudo indica remontar ao tempo da abolição da escravatura, no século XVIII. A moeda que o pretinho segura representaria o seu primeiro salário de homem livre – e o curioso ícone asseguraria ao seu detentor um ano de felicidade. (https://jornaldiabo.com/sociedade/feira-da-luz/)
+
+![[Pasted image 20250506142401.png]]
+
+![[Pasted image 20250506142729.png]]
