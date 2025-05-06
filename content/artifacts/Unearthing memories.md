@@ -5,7 +5,7 @@ tags:
 link: https://www.rampa.pt/event/unearthing-memories/
 bib: '"Unearthing Memories." Exhibition, Rampa, Porto, Portugal, October 14–November 26, 2023. https://www.rampa.pt/event/unearthing-memories/.'
 ---
-"The exhibition "Unearthing Memories" by the local Interstruct Colletive analizes the colonial legacy in the city of Porto and frames it in the present-day immaginary, composed by memories, ruins and remembrances."
+"The exhibition "Unearthing Memories" by the local Interstruct Colletive analizes the colonial legacy in the city of Porto and frames it in the present-day imaginary, composed by memories, ruins and remembrances."
 
 "Na exposição _Unearthing Memories_, o colectivo de artistas InterStruct reflecte sobre como as narrativas da Primeira Exposição Colonial Portuguesa de 1934 ainda enformam a sociedade portuguesa e o espaço público da cidade do Porto. (...) 
 Em 1934, os Jardins do Palácio de Cristal no Porto foram palco da Primeira Exposição Colonial Portuguesa, organizada pelo regime fascista de Salazar para mostrar, a portugueses e a estrangeiros, os feitos e sucessos do suposto império português. Durante três meses e meio, mulheres, homens e crianças negras seminus foram exibidos e exoticizados como se estivessem num jardim zoológico (“sem negros e sem negras, a Exposição atrairia, afinal, pouca gente”, escreveu-se num jornal da época). Recriaram-se aldeias indígenas, construíram-se estátuas de navegadores e caravelas em miniatura, apresentaram-se várias pinturas de negros escravizados e submetidos às acções de evangelização católica.  (...)

@@ -30,11 +30,13 @@ In 2016, the city opened the [[Núcleo Museológico Rota da Escravatura]], a mus
 
 In respect to memorial sites, Lisbon does not fall much further. In 2017, the association DJES (Association of Afrodescendents) proposed the city's council, as part of the participatory budget contest, to build a memorial site paying homage to the victims of the Atlantic enslaved trade. The municipality agreed to the project, and DJES made an open-call for 5 invited artists to foresee this project. The idea of Kiluanji Kia Henda - a plantation of sugar cane - was chosen to be implemented, but after 8 years is yet to become a reality, as the city's council keeps creating various obstacles towards execution, including inexplicable times between replies, changing previously set locations, producing fake images in relation to the artist's original idea, etc. A similar case, happened with Batoto Yetu Portugal, who tried to create 20 signs and a bust honouring African presence in Lisbon. The artworks were fully completed in 2020, there is a budget for setting them up in the city funded by the association itself, yet the process remains stale[^10]. One could argue in defense for the economic condition of the country (and consequential waiting times), however, in 2023, the government, the city of Loures and Lisbon, spent together 75 million euros[^papa] to receive the pope, which then is already deemed acceptable due to the returns on tourism.
 
-Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing his book, see [[grounds#^fig-padrao]], [[grounds#^fig-rosa-dos-ventos-lagos]] ), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of colonial participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), and Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other infrastructure directly connected to the colonial period, such as *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
+Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of colonial participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other infrastructure directly connected to the colonial period, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
 
-The same goes for Porto (considered one of the main cities). In 1934, the dictatorial government held an exhibition
+The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] along without any affirmations surrounding its inherent violence. In 1934, the dictatorial government held the "Portuguese Colonial Exhibition", and the "Portuguese World Exhibition" in 1940, similarly to other European countries.
 
 ### Dictatorship, government and lusotropicalism
+
+
 references: [[Lusotropicalismo]]
 
 PORTO (exhib, and world of discoveries)
@@ -42,7 +44,7 @@ LISBOA
 EXPO 98
 
 ### Music, language and objects
-- OTHER OBJECTS
+- OTHER OBJECTS (selos, estatuas)
 - slang/language kimbundu
 - official languages 
 - radio music
@@ -153,5 +155,7 @@ references: [[index#thought log]], [[index#considerations]], github
 [^irene-rodrigo]: inspired by the first verse of the song *Irene* by Rodrigo Amarante
 
 [^contested-legacies]: see https://contestedlegaciesportugal.org/. "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown."
+
+[^noticia-publico]: In S. Vaz, "Desmascarar o lado colonial do Porto: ‘o passado não passou’," _Público_, December 21, 2019, [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132), the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
 
 [^colonial-exhibitions]: see [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
