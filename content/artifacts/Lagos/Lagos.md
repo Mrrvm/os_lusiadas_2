@@ -5,7 +5,7 @@ tags:
   - READ
 to-dos: |-
   [] Check what has happened to the bodies found in Lagos  
-  [] Check if the artefacts are stolen
+  [] Check if the artefacts in the municipal museum are stolen
   [] Talk to Dr Marta Nogueira to access the city's archive (expediente.geral@cm-lagos.pt | 282780900
 ---
 ### Annotations

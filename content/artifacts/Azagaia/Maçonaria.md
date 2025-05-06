@@ -4,7 +4,7 @@ tags:
   - music
   - poetry
   - rhythm
-bib: "Azagaia, “Maçonaria” track 3 on Cubaliwa (Maputo: Kongoloti Records, 2013), accessed May 6th, 2025, https://www.youtube.com/watch?v=5EdRIfm4zMs."
+bib: "Azagaia, “Maçonaria” track 3 on Cubaliwa (Maputo: Kongoloti Records, 2013), accessed May 6th, 2025, https://www.youtube.com/watch?v=ItKOVrMZCBM."
 ---
 Em nome da ambição, do poder e do espírito materialista  
 A graça da ambição, o amor ao poder em comunhão  

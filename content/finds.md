@@ -100,3 +100,5 @@ How does experimental writing, as a form and practice, allow you to materialize 
 How does experimental writing, as a form and practice, allow you to materialize this deconstruction? This connection will further clarify how your work not only expresses an idea, but does so through a form that embodies the research itself. It will help alleviate your anxiety here
 
 https://pt.wikipedia.org/wiki/Guerra_Luso-Holandesa
+
+https://www.youtube.com/@RAPLUSOVIVEAQUI/videos

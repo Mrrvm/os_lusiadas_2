@@ -6,8 +6,6 @@ tags:
   - police
   - precarity
 ---
-https://youtu.be/RhSKixT-n0w
-
 Já não caímos na velha história  
 Saímos pra combater a escória  
 Ladrões  
