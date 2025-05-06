@@ -111,8 +111,10 @@ A história do boneco perde-se nos tempos, mas tudo indica remontar ao tempo da 
 
 ![[Pasted image 20250506142401.png]]
 
-![[Pasted image 20250506142729.png]]
+
 
 https://www.researchgate.net/publication/41616057_Deconstructing_twinned_towers_Lisbon's_Expo_'98_and_the_occluded_geographies_of_discovery
 
 https://link.springer.com/article/10.1007/s11196-023-10088-x EXPO 98
+
+![[Pasted image 20250506161550.png]]

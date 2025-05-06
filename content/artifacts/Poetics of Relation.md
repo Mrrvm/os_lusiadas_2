@@ -18,7 +18,7 @@ Glissant differentiates **errantry** from the **single root**, which symbolizes 
 
 ##### The Ship and the Three Abysses
 
-Glissant uses the **ship** as a symbol of the forced crossing of enslaved African peoples across the Atlantic. It represents displacement, errantry, and the creation of new identities. He also presents **three abysses**: the first is the ocean, where countless lives were lost; the second, the cultural destruction in the slave plantations; and the third, the oblivion imposed by colonial history. However, the abyss does not only signify loss, but also reinvention. Errantry transforms this void into a space of creation, where the diaspora gives rise to new relationships and identities in constant transformation.
+Glissant uses the **ship** as a symbol of the forced crossing of enslaved African peoples across the Atlantic. It represents displacement, errantry, and the creation of new identities. He also presents **three abysses**: the first is the ocean, where countless lives were lost; the second, the cultural destruction in the enslaved plantations; and the third, the oblivion imposed by colonial history. However, the abyss does not only signify loss, but also reinvention. Errantry transforms this void into a space of creation, where the diaspora gives rise to new relationships and identities in constant transformation.
 
 ##### Epics and tragedies as legitimization
 
