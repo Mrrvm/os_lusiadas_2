@@ -8,10 +8,6 @@ to-dos: |-
   [] Check if the artefacts in the municipal museum are stolen
   [] Talk to Dr Marta Nogueira to access the city's archive (expediente.geral@cm-lagos.pt | 282780900
 ---
-### Annotations
-
-#### How it relates
-
 The city of lagos is known for being the birth place of the Portuguese colonial period. It has a museum showing European tools for slavery, documents of this colonial period, interactive technology to imagine Lagos in the past, as well as some information regarding the connection between the city and the Atlantic enslaved trade - [[Núcleo Museológico Rota da Escravatura]], the only one in the country. The city's touristic brochure contains the following statements.
 
 *"O séc. XV é o século de ouro de Lagos. Durante cerca de quarenta anos, a cidade, devido à sua localização frente a África, torna-se porto de partida e de chegada das naus que, ano após ano, iam **descobrindo** a costa desse continente."*

@@ -36,7 +36,7 @@ The same goes for Porto, where you can find active (re)erected ruins of the colo
 
 ### Dictatorship, government and lusotropicalism
 
-The exhibition was
+The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat.[^colonial-exhibitions]
 
 PORTO (exhib, and world of discoveries)
 LISBOA

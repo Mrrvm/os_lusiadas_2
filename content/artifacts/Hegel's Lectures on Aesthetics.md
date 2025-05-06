@@ -9,10 +9,6 @@ link: https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-c
 ---
 Mentioned in [[Poetics of Relation]]
 
-### Annotations
-
-#### How it relates
-
 Hegel’s view of the epic as a reflection of national spirit helps explain _Os Lusíadas_ as a project of **territorial justification**. The poem doesn’t just recount Vasco da Gama’s journey—it frames Portuguese expansion as part of a divine and historical mandate. By blending mythological validation (gods endorsing the Portuguese, and the mission to spread Christianism) with historical narrative (real conquests), Camões **normalises colonialism** as a heroic and inevitable mission. The text functions as a **justification for empire** by:
 
 1. **Creating a myth** – The journey is not just economic expansion, but framed as a civil duty, guided by fate and faith.

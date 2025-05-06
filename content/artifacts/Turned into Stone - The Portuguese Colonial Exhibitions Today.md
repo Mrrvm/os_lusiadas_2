@@ -9,27 +9,17 @@ tags:
 link: https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
 bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/'
 ---
-### Annotations
-
-#### How it relates
-
-EXPO 98
- (see [[Lusotropicalismo]])
- [[Ghosts, Spectres, Revenants. Hauntology as a means to think and feel the future.]]
-
-#### Must-have quotes
-
 "As scholar and curator Elsa Peralta notes, after over five centuries of holding power over colonies, the end of the empire and the democratisation of the country did not erase Portugal’s self-image as an imperial nation. The national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact.”"
 
 "Portugal’s colonial exhibitions took place in 1934 and 1940, the first in Porto and the second in Lisbon."
 
 "An idea of empire built upon the notion of the Portuguese as a marine folk, descendant of the “heroic discoverers of the world”, held by fate to the higher call of helping others “reach civilisation”—through colonisation. This rhetoric rendered invisible the violence of Portuguese colonialism, by inscribing the idea of a softer, miscegenated and multicultural colonialism. The exhibitions contributed to forming and disseminating these ideas, by creating a strong communicational apparatus that merged the political and the aesthetic to embed a sense of national identity tied to the discoveries."
 
-**Porto - Portuguese Colonial Exhibition**
-
-"The exhibition in Porto took place in the iron and glass structure of the Crystal Palace, transformed with a fake art-deco facade, topped by statues of an elephant and a lighthouse. Inside was a series of exhibits addressing Portuguese expansion since 1415. In the gardens, there were replicas of monuments and villages in which inhabitants of the several countries of the colonies—brought to Porto—were exhibited while living in a simulation of their habitats. The colonial exhibition of 1940 in Lisbon sought to reaffirm the extension and importance of the Portuguese empire and was meticulously planned to become a large and festive party. Taking place in the capital, it was much bigger in scale, with the renovation of a whole area of the city, repositioning Lisbon as an imperial city. Again, it included simulated habitats, and highlighted the Portuguese project of civilisation, now strongly tied to the narrative of the Portuguese discoveries and ideas of luso-tropicalism."
+"The exhibition in Porto took place in the iron and glass structure of the Crystal Palace, transformed with a fake art-deco facade, topped by statues of an elephant and a lighthouse. Inside was a series of exhibits addressing Portuguese expansion since 1415. In the gardens, there were replicas of monuments and villages in which inhabitants of the several countries of the colonies—brought to Porto—were exhibited while living in a simulation of their habitats. The colonial exhibition of 1940 in Lisbon sought to reaffirm the extension and importance of the Portuguese empire and was meticulously planned to become a large and festive party. Taking place in the capital, it was much bigger in scale, with the renovation of a whole area of the city, repositioning Lisbon as an imperial city. Again, it included simulated habitats, and highlighted the Portuguese project of civilisation, now strongly tied to the narrative of the Portuguese discoveries and ideas of luso-tropicalism." ([[Lusotropicalismo]])
 
 "Their story speaks to Portugal’s difficulties in dealing with its past, due in great part to how the regime succeeded in communicating a sense of Portuguese identity based on an idealised version of history, which in its persisting memorialisation renders invisible the people affected by them, in a country with enduring and widespread racism and deep inequality."
+
+**Porto - Portuguese Colonial Exhibition**
 
 "The First Portuguese Colonial Exhibition took place between 16 June and 30 September 1934 in the gardens and Crystal Palace in Porto. The exhibition contained 400 pavilions and took 5 months to build, and was supported financially by local businesses and the church, which organised excursions to the event and were represented in the exhibition and its advertising. (...) In the gardens, visitors could “travel around the world”, by foot, train or cable car, through streets with names alluding to Portuguese colonies, and reproductions of monuments such as the Arch of the Vice-King of India, or the Macau lighthouse. A theatre, zoo, tea house and several monuments were created for the event. Inhabitants from the colonised countries were brought to Porto to live in an environment constructed to simulate their “real” habitat—a highlight for the public."
 
@@ -81,12 +71,12 @@ EXPO 98
 
 "The movements of the past on the present can be seen as a form of haunting that remains invisible until discovered, or visible when represented."
 
-"In unsettling homogeneous views of history, linking the present to the past, and shaping the present towards the future, these monuments “haunt” not only by asserting a certain narrative over time, but also by continuously inscribing their materiality in the situatedness of the present, never claiming to tell a story in universal terms"
+"In unsettling homogeneous views of history, linking the present to the past, and shaping the present towards the future, these monuments “haunt” not only by asserting a certain narrative over time, but also by continuously inscribing their materiality in the situatedness of the present, never claiming to tell a story in universal terms" ([[Ghosts, Spectres, Revenants. Hauntology as a means to think and feel the future.]])
 
 "In talking about this monument, Ferreira believes in the possibility of reading buildings as political texts, proposing to not only tell a story as historian, but “to identify the buildings as metaphors, knowing how to articulate critical readings brought around them;"
 
-"In _Descobertas/Padrão dos Descobrimentos_ (2007),[[56]](https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/#post-8828-endnote-56) Henda photographed a group of young people on top of one of the ramps of the monument, posing and leaning against its historical figures, dwarfed by their colossal scale."
+"In _Descobertas/Padrão dos Descobrimentos_ (2007), Henda photographed a group of young people on top of one of the ramps of the monument, posing and leaning against its historical figures, dwarfed by their colossal scale."
 
-"After its creation in 2007, Henda’s work still draws scrutiny from the media: in 2017 when the photograph was part of an exhibition taking place inside the monument,[[59]](https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/#post-8828-endnote-59) and more recently in the controversy around the photograph being bought by the city council,[[60]](https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/#post-8828-endnote-60) without knowledge of the artist, who had promised to donate part of its profits to the association that those in the photo belonged to (which happened later). The conversation became public and brought about a discussion about the work, its relation to the city and its symbolism, which demonstrates that in their circulation these works also create important moments for debate."
+"After its creation in 2007, Henda’s work still draws scrutiny from the media: in 2017 when the photograph was part of an exhibition taking place inside the monument,) and more recently in the controversy around the photograph being bought by the city council, without knowledge of the artist, who had promised to donate part of its profits to the association that those in the photo belonged to (which happened later). The conversation became public and brought about a discussion about the work, its relation to the city and its symbolism, which demonstrates that in their circulation these works also create important moments for debate."
 
 "I have begun by creating silicone casts that become a concrete way of studying the monument in public space. The activity of creating the casts—with the necessary preparation and drying times—demand a period of being physically very close to the monument, extending a relation of observation to a prolonged experience that involves close witnessing and bodily encounters."

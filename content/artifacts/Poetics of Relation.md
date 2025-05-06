@@ -8,21 +8,15 @@ tags:
 bib: "Glissant, Édouard. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011. ISBN 978-972-0-07153-8."
 to-dos: "[] Contact Manuela Mendonça"
 ---
-### Annotations
-
-#### Concepts
-
-##### Errantry vs Single Root
+### Errantry vs Single Root
 
 Glissant differentiates **errantry** from the **single root**, which symbolizes fixed identity and exclusion. In **circular nomadism**, there is a return to the point of origin without deep attachment, while in **arrow nomadism**, there is displacement with a defined goal, without cultural mixing. Neither manifests the root because they do not create total rooting. Arrow nomadism maintains a separate identity, without opening up to the other. On the other hand, **errantry** breaks with the fixed origin and destiny, promoting encounters and exchanges.
 
-##### The Ship and the Three Abysses
+### The Ship and the Three Abysses
 
 Glissant uses the **ship** as a symbol of the forced crossing of enslaved African peoples across the Atlantic. It represents displacement, errantry, and the creation of new identities. He also presents **three abysses**: the first is the ocean, where countless lives were lost; the second, the cultural destruction in the enslaved plantations; and the third, the oblivion imposed by colonial history. However, the abyss does not only signify loss, but also reinvention. Errantry transforms this void into a space of creation, where the diaspora gives rise to new relationships and identities in constant transformation.
 
-##### Epics and tragedies as legitimization
-
-#### How it relates
+### Os Lusíadas in Poetics of Relation
 
 While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power) through conquest (through the creation of myth, and consequential legitimasation), Glissant’s **errantry** suggests a more fluid, non-hierarchical relationship with space, culture, and identity. The Portuguese takes an approach of massive arrow nomadism, as it is not fully rooted in the idea of Portugal, nor is open to mix with other cultures. They have a defined goal: trade, and a pride attached to it.
 
@@ -30,7 +24,7 @@ Foundational texts like the _Iliad_, _Odyssey_, _Eneid_, and _Sagas_ are books o
 
 The root is mono linguistic, it produces a hegemony of language that tries to eliminate the "impurity" of other languages that thrived from the Relation to the Other. For example, slang in Portuguese are words coming from Other languages, such as Kimubundu (bue, bora, bazar, ...).
 
-#### Must-have quotes
+### Citations
 
 **De errância à raíz ocidental**
 "Na época dos nomadismos invasores, a paixão de se definir adquire a feição da aventura pessoal. Ao longo dos seus périplos, os conquistadores constituem impérios que se desmoronam com eles na morte. As suas capitais deslocam-se com eles. «Roma não está em Roma, está sempre onde eu estou.» Não é a raiz que importa, mas sim o movimento. O pensamento da errância não se detém, travado pela realidade intensa desse nomadismo demasiado funcional, cujos fins nunca teria podido conhecer. Centro e periferias equivalem-se. Os conquistadores são a raiz móvel e efêmera dos seus povos.
