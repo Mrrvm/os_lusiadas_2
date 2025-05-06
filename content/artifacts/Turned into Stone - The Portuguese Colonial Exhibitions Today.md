@@ -19,13 +19,13 @@ EXPO 98
 
 #### Must-have quotes
 
-**Porto - Portuguese Colonial Exhibition**
-
 "As scholar and curator Elsa Peralta notes, after over five centuries of holding power over colonies, the end of the empire and the democratisation of the country did not erase Portugal’s self-image as an imperial nation. The national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact.”"
 
 "Portugal’s colonial exhibitions took place in 1934 and 1940, the first in Porto and the second in Lisbon."
 
 "An idea of empire built upon the notion of the Portuguese as a marine folk, descendant of the “heroic discoverers of the world”, held by fate to the higher call of helping others “reach civilisation”—through colonisation. This rhetoric rendered invisible the violence of Portuguese colonialism, by inscribing the idea of a softer, miscegenated and multicultural colonialism. The exhibitions contributed to forming and disseminating these ideas, by creating a strong communicational apparatus that merged the political and the aesthetic to embed a sense of national identity tied to the discoveries."
+
+**Porto - Portuguese Colonial Exhibition**
 
 "The exhibition in Porto took place in the iron and glass structure of the Crystal Palace, transformed with a fake art-deco facade, topped by statues of an elephant and a lighthouse. Inside was a series of exhibits addressing Portuguese expansion since 1415. In the gardens, there were replicas of monuments and villages in which inhabitants of the several countries of the colonies—brought to Porto—were exhibited while living in a simulation of their habitats. The colonial exhibition of 1940 in Lisbon sought to reaffirm the extension and importance of the Portuguese empire and was meticulously planned to become a large and festive party. Taking place in the capital, it was much bigger in scale, with the renovation of a whole area of the city, repositioning Lisbon as an imperial city. Again, it included simulated habitats, and highlighted the Portuguese project of civilisation, now strongly tied to the narrative of the Portuguese discoveries and ideas of luso-tropicalism."
 
