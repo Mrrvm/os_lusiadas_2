@@ -5,7 +5,7 @@ tags:
   - transatlantic-enslaved-trade
   - rhythm
   - INCLUDED
-bib: Glissant, É., & Dias, J. A. F. (2011). _Poética da relação_ (M. Mendonça, Trad. & Rev.). Sextante Editora. ISBN 978-972-0-07153-8.
+bib: "Glissant, Édouard. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011. ISBN 978-972-0-07153-8."
 to-dos: "[] Contact Manuela Mendonça"
 ---
 ### Annotations
@@ -30,7 +30,7 @@ Foundational texts like the _Iliad_, _Odyssey_, _Eneid_, and _Sagas_ are books o
 
 The root is mono linguistic, it produces a hegemony of language that tries to eliminate the "impurity" of other languages that thrived from the Relation to the Other. For example, slang in Portuguese are words coming from Other languages, such as Kimubundu (bue, bora, bazar, ...).
 
-### Must-have quotes
+#### Must-have quotes
 
 **De errância à raíz ocidental**
 "Na época dos nomadismos invasores, a paixão de se definir adquire a feição da aventura pessoal. Ao longo dos seus périplos, os conquistadores constituem impérios que se desmoronam com eles na morte. As suas capitais deslocam-se com eles. «Roma não está em Roma, está sempre onde eu estou.» Não é a raiz que importa, mas sim o movimento. O pensamento da errância não se detém, travado pela realidade intensa desse nomadismo demasiado funcional, cujos fins nunca teria podido conhecer. Centro e periferias equivalem-se. Os conquistadores são a raiz móvel e efêmera dos seus povos.

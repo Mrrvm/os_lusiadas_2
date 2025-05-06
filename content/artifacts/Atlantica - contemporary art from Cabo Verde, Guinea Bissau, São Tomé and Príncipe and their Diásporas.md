@@ -46,7 +46,7 @@ Participating artists/writers include
 "Theorised by the Brazilian sociologist Gilberto Freyre, lusotropicalism was appropriated by the Estado Novo after the Second World War to justify Portugal’s maintenance of its African colonies when other European countries started to decolonise. It propagated the idea that the Portuguese mixed more with the African populations they colonised and were more benevolent towards them than the other European colonisers. These ideas are still pervasive in Portuguese society (Castelo 1998; Anderson et al. 2019)."
 
 
-### How it relates
+#### How it relates
 
 claim that your victim is perpetrating every single criminal act you yourself are enacting on them
 Canto I

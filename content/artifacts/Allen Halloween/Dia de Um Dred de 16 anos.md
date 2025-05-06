@@ -3,7 +3,7 @@ tags:
   - music
   - rhythm
   - poetry
-bib: "Allen Halloween, “Dia de Um Dred de 16 anos,” track 13 on Projecto Mary Witch (Lisbon: Sonoterapia, 2006), accessed May 6th, 2025, https://www.youtube.com/watch?v=5EdRIfm4zMs"
+bib: Allen Halloween, “Dia de Um Dred de 16 anos,” track 13 on Projecto Mary Witch, Sonoterapia, 2006, accessed May 6th, 2025, https://www.youtube.com/watch?v=5EdRIfm4zMs
 ---
 Drug bye, drug bye, drug bye, drug bye  
 Drug bye, drug bye, drug bye, drug bye  

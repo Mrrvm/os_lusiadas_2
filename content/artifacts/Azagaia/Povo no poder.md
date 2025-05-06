@@ -5,6 +5,7 @@ tags:
   - rhythm
   - police
   - precarity
+bib: Azagaia, “Povo no poder”, 2008, accessed May 6th, 2025, https://www.youtube.com/watch?v=RhSKixT-n0w.
 ---
 Já não caímos na velha história  
 Saímos pra combater a escória  
@@ -51,24 +52,24 @@ Povo no poder, povo no poder
 Povo no poder, povo no poder  
 Povo no poder, povo no poder
 
-Senhor presidente, largaste o luxo do teu palácio  
-Finalmente te apercebeste que a vida aqui não está fácil  
-E só agora é que reunes esse conselho de ministros  
+**Senhor presidente, largaste o luxo do teu palácio**  
+**Finalmente te apercebeste que a vida aqui não está fácil**  
+**E só agora é que reunes esse conselho de ministros**  
 O povo nem dormiu, já tamos há muito reunidos  
 Barricamos as estradas  
 Paralisamos esses chapas  
 Aqui ninguém passa  
 Até as lojas estão fechadas  
-Se a policia é violenta  
-Respondemos com violência (o quê?)  
+**Se a policia é violenta**  
+**Respondemos com violência (o quê?)**  
 Muda a causa pra mudares a consequência  
-Mais de metade do meu salário vai pra impostos e transporte  
+**Mais de metade do meu salário vai pra impostos e transporte**  
 Se o meu filho adoece fica entregue a sua sorte  
 Enquanto isso, esse teu filho está saudável e forte  
 Vive na fartura leva uma vida de lord  
-Viver aqui é um luxo, o custo é elevadíssimo  
-Trabalhamos como escravos e entregamos tudo no dízimo  
-Baixa a tarifa do transporte ou sobe o salário mínimo  
+**Viver aqui é um luxo, o custo é elevadíssimo**  
+**Trabalhamos como escravos e entregamos tudo no dízimo**  
+**Baixa a tarifa do transporte ou sobe o salário mínimo**  
 Xee, Isso é o que deves fazer no mínimo  
 À não ser que queiras fogo nas bombas de gasolina  
 Assaltos a padarias, ministérios, imagina  

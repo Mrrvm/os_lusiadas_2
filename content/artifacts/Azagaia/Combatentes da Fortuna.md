@@ -4,7 +4,7 @@ tags:
   - poetry
   - rhythm
   - precarity
-bib: Azagaia, “Combatentes da Fortuna”, accessed May 6th, 2025, https://www.youtube.com/watch?v=pVu8R-VWCKs.
+bib: Azagaia, “Combatentes da Fortuna”, 2009, accessed May 6th, 2025, https://www.youtube.com/watch?v=pVu8R-VWCKs.
 ---
 Esta vai para todos os dirigentes africanos  
 Que prometeram-nos uma África melhor  

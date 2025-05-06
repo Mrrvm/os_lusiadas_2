@@ -1,6 +1,0 @@
----
-tags:
-  - music
-  - poetry
-  - diaspora
----

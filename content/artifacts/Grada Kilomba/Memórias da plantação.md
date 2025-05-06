@@ -3,7 +3,7 @@ tags:
   - text
   - book
 link: https://www.ufrb.edu.br/ppgcom/images/MEMORIAS_DA_PLANTACAO_-_EPISODIOS_DE_RAC_1_GRADA.pdf
-bib: "Kilomba, G. (2019). Memórias da plantação: Episódios de racismo quotidiano (N. Quintas, Trans.). Orfeu Negro."
+bib: "Grada Kilomba, Memórias da plantação: Episódios de racismo quotidiano, trans. N. Quintas, Lisbon: Orfeu Negro, 2019."
 ---
 ### Annotations
 
@@ -17,8 +17,7 @@ The opressor projecting into the oppressed, becomes a victim - a mechanism to de
 ##### Arrival to the island of Mozambique
 When arriving in the island, Camões describes the Portuguese as a peaceful entity, and the locals as a savage, or less savage if muslim (through Filiation, thus legitimisation - [[Poetics of Relation]]), group that is revengeful, and hateful. He describes them as if they are tricking the Portuguese into a sneaky deadly battle, when in fact the Portuguese were the ones who arrived there and said they wanted to have the island. All of this is painted through the brush of the greek god Baco, trying to implant doubt into the locals to turn them against the Portuguese, because Baco wants them to fail in the route to India, to guarantee his continuous fame in the region. In this way, the Portuguese find a way to legitimise the violence and the killing - they tried to attack us and did not let us into the land. What's more, Camões frames the killing, or the yet-to-kill as a generous act of condescendence - through metaphors such as a lion should not use all its power around sheep, because the sheep will die with less - the lion is generous in its aggression, and is so violent and powerful that it doesn't need to show it off. Showing off is a behaviour of those who seek to hide their weakness.
 
-
-### Must-have quotes
+#### Must-have quotes
 
 "Esta dissociação evoca o facto de o sujeito *branco* se encontrar de alguma maneira dividido dentro de si, pois desenvolve duas atitudes para com uma realidade externa: só uma parte do ego - a parte "boa", que acolhe e é benévola - é vivida como "eu"; o resto - a parte "má", que rejeita e é malévola - projecta-se no "Outro" e é vivida como externa. O sujeito negro torna-se então ecrã de projecção daquilo que o sujeito branco teme admitir sobre si: neste case, que é o ladrão violento, o bandido indolente e malicioso. Estes aspectos aviltantes, tão intensos que provocam ansiedade, culpa ou vergonha são projectado externamente para que se lhes possa escapar."
 

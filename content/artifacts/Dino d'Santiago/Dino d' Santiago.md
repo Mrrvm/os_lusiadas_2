@@ -5,5 +5,6 @@ tags:
   - portugal
   - diaspora
 ---
-[[Album BADIU]]
-[[Album KRIOLA]]
+[[Esquinas]]
+
+https://www.youtube.com/watch?v=heevAZqiiAo
