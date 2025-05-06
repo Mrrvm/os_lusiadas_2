@@ -37,16 +37,26 @@ The same goes for Porto (considered one of the main cities). In 1934, the dictat
 ### Dictatorship, government and lusotropicalism
 references: [[Lusotropicalismo]]
 
-### Music and language
+PORTO (exhib, and world of discoveries)
+LISBOA
+EXPO 98
+
+### Music, language and objects
+- OTHER OBJECTS
 - slang/language kimbundu
 - official languages 
 - radio music
 - fado
 
-### **[[Os Lusíadas]]** and education
+### **[[Os Lusíadas]]** and schools
 - Lack of critical analysis in school
 - The relation between Canto I - Israel/Palestine
 - [[Bárbora e Jau]]
+- Coming from me as a white person
+
+### Artists around the issue
+While.... there is space for more.. and the government.... justify writting os lusiadas
+[[Peça Desculpas, Senhor Presidente - Luca Argel]]
 
 ## What is national identity (a nation) and how does it relate to these narratives?
 
@@ -95,7 +105,7 @@ references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2a
 references: [[index#thought log]], [[index#considerations]], github
 
 
-## Appendix
+## Figures
 
 ![[Pasted image 20250506153934.png]]
 **Fig. 1** - The Monument of the "Discoveries"  in Lisbon with graffiti saying "Blindly sailing for money, humanity is down". Publico, https://imagens.publico.pt/imagens.aspx/1611845?tp=UH&db=IMAGENS&type=JPG ^fig-padrao

@@ -4,9 +4,9 @@ tags:
   - glorification
   - poetry
   - text
+bib: 'Hegel, G. W. F. "C. The Beautiful Ideal." Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 6, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm'
+link: https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm
 ---
-https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm
-
 Mentioned in [[Poetics of Relation]]
 
 ### Annotations
