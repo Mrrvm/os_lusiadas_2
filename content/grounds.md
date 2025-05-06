@@ -32,13 +32,14 @@ In respect to memorial sites, Lisbon does not fall much further. In 2017, the as
 
 Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of colonial participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other directly connected infrastructure, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
 
-The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] along without any affirmations surrounding its inherent violence, and where in 1934, the dictatorial government held the "Portuguese Colonial Exhibition", similarly to other European countries.
+The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] without any affirmations surrounding its inherent violence. The city not only has an amusement park - the World of Discoveries -, but also held the "Portuguese Colonial Exhibition" in 1934, during the dictatorship, similarly to other European countries.
 
 ### Dictatorship, government and lusotropicalism
 
-The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat.[^colonial-exhibitions]
+The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat.[^colonial-exhibitions] On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort - that was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (such as [[Unearthing memories]]), but it has also been used by the right-wing party "Ergue-te" as a celebratory artifact.
 
-PORTO (exhib, and world of discoveries)
+In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibtion. 
+
 LISBOA
 
 references: [[Lusotropicalismo]]
