@@ -3,6 +3,7 @@ tags:
   - text
   - tourism
   - flyer
+  - READ
 ---
 "O séc. XV é o século de ouro de Lagos. Durante cerca de quarenta anos, a cidade, devido à sua localização frente a África, torna-se porto de partida e de chegada das naus que, ano após ano, iam descobrindo a costa desse continente."
 

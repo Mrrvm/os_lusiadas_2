@@ -6,10 +6,11 @@ tags:
   - paper
   - text
   - national-identity
+  - READ
 link: https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
 bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/'
 ---
-"==As scholar and curator Elsa Peralta notes, after over five centuries of holding power over colonies, the end of the empire and the democratisation of the country did not erase Portugal’s self-image as an imperial nation. The national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact.==”[^elsa-peralta1]"
+"==As scholar and curator Elsa Peralta notes, after over five centuries of holding power over colonies, the end of the empire and the democratisation of the country did not erase Portugal’s self-image as an imperial nation. The national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact.==”[^elsa-peralta1]" ^6ed1b9
 
 "Portugal’s colonial exhibitions took place in 1934 and 1940, the first in Porto and the second in Lisbon."
 

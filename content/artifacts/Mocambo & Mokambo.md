@@ -4,6 +4,7 @@ tags:
   - food
 ---
 https://en.wikipedia.org/wiki/Mocambo_(settlement)
+[[Roteiro Histórico de uma Lisboa Africana]]
 
 It was here that many Africans – enslaved or freed – found shelter. [_Mocambo_](https://www.publico.pt/2004438) – a word in Umbundu (one of several Angolan languages ) meaning ‘place of refuge’ – became in the 16th century one of the most populated neighbourhoods in Lisbon. Away from the white Portuguese gaze, the place was essential for African memories and the preservation of social and religious practices (weddings, funerals)
 

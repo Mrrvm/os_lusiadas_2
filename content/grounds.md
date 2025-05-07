@@ -41,28 +41,18 @@ The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million v
 
 In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition -, with 3 million visitors, and leaving behind the famous touristic attraction - *Padrão dos "Descobrimentos"* - mentioned earlier. Both exhibitions, as Alves, B. notes (together with Peralta, E. and Vicente, F.), contributed to a stereotyped view of the colonised as those who lack civilisation and order, by presenting them as "primitive" in "their natural habitats". Vicente goes further to say that these spaces served as a means to eroticise the empire, making a parallel between femininity and becoming colonised, in contrast with the imperial European masculinity that would dominate it.[^vicente] 
 
-These exhibitions, along with the more subtle example of Expo 98[^expo-98], helped at sanitising colonialism, establishing a mystical national identity originating from "the Portuguese as a marine folk, descendant of the 'heroic discoverers of the world', held by fate to the higher call of helping others 'reach civilisation'", while creating collective epic narratives.[^elsa-epic] [^colonial-exhibitions] 
+Along with the more subtle example of Expo 98[^expo-98], the exhibitions helped at sanitising colonialism, establishing a mystical national identity originating from "the Portuguese as a marine folk, descendant of the 'heroic discoverers of the world', held by fate to the higher call of helping others 'reach civilisation'", “uninterruptedly transmitting the sacred blood” of their heroes, while perpetuating collective epic narratives.[^elsa-epic] [^colonial-exhibitions] Lusotropicalism, further helped, as an ideological tool, at legitimising this myth, stating that Portuguese colonialism was (in comparison to other coloniser nations) softer, peaceful, gentle, hybrid, miscegenated, multicultural, and somehow Creole.[^elsa-creole] 
 
-=="Hyperbolic language is used to surround the monument with myths and stories of the sea, conveying ideas of permanence and strength, and positioning the Portuguese people as “uninterruptedly transmiting the sacred blood” of their heroes. In this way, binding bodies of the past to the present and future, in a rhetoric that still holds a strong grip over Portuguese society, which can be perceived in the difficulty in accepting other narratives that contest or disturb this account of history, and in revisiting the end of colonisation or its violence."
-
-In this sense Lusotropicalism, served as an ideological tool to legitimise this myth, stating that Portuguese colonialism was softer, peaceful, gentle, hybrid, miscegenated, multicultural, and somehow Creole.
+in a rhetoric that still holds a strong grip over Portuguese society, which can be perceived in the difficulty in accepting other narratives that contest or disturb this account of history, and in revisiting the end of colonisation or its violence."
 
 [[Marcas de Lusotropicalismo no Marcelo]] / Luca argel
 
-=="(...) As Peralta remarks, narratives that were previously mobilised because of ideological agendas are now repositioned in reference to the demands of the consumer and leisure markets and tourism, with the empire making place for the voyage, looking to build a story of these locations that can add revenue to the tourist industry."==
-
 - lusotropicalism
 - tourism
-- contemporary examples: marcelo, web submitt
-### Music, language and things
+- contemporary examples: marcelo, web submitt, OTHER OBJECTS (selos, estatuas)
+### Language and things
 
-THowever, this miscegenation between languages is only favourable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, then they become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
-
-- OTHER OBJECTS (selos, estatuas)
-- slang/language kimbundu
-- official languages 
-- radio music
-- fado
+Yet, the miscegenation between languages is only desirable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they then become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
 
 ### **[[Os Lusíadas]]** and education
 - Lack of critical analysis in school
@@ -76,6 +66,10 @@ While.... there is space for more.. and the government.... justify writting os l
 [[Peça Desculpas, Senhor Presidente - Luca Argel]]
 
 [[The presence of Africans in Portugal during this period not only influenced the country's demographic composition but also left a lasting impact on its cultural and social fabric - Aurora Almada e Santos]]
+
+- radio music - valete and the radio issue
+
+As Peralta remarks, narratives that were previously mobilised because of ideological agendas are now repositioned in reference to the demands of the consumer and leisure markets and tourism, with the empire making place for the voyage, looking to build a story of these locations that can add revenue to the tourist industry."==
 
 ## What is national identity (a nation) and how does it relate to these narratives?
 
@@ -102,6 +96,7 @@ references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-te
 
 #### Rewriting [[Os Lusíadas]] with with ex-colonial and diasporic media
 
+[[Worlding or How to Embrace the End of an Era]]
 ##### Maintaining its structure or not
 
 ###### Decasyllables and accents (research by making)
@@ -183,6 +178,8 @@ references: [[index#thought log]], [[index#considerations]], github
 [^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^87af7a]]
 
 [^elsa-epic]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^831bb3]]
+
+[^elsa-creole]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^6ed1b9]]
 
 [^expo98]: [[Expo 98 and the Memorialization of the Empire]]
 

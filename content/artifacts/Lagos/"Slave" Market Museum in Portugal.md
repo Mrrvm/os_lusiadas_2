@@ -5,6 +5,7 @@ tags:
   - monument
   - national-identity
   - netherlands
+  - READ
 bib: "The Contested Histories Initiative, 2022, “Slave Market Museum in Portugal” Contested Histories Case Study #130, June 2022, retrieved from https://contestedhistories.org/wp-content/uploads/Portugal-Slave-Market-Museum-in-Lagos.pdf"
 link: https://contestedhistories.org/wp-content/uploads/Portugal-Slave-Market-Museum-in-Lagos.pdf
 ---
