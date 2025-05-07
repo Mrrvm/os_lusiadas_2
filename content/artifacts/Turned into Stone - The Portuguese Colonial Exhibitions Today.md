@@ -89,6 +89,8 @@ bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions T
 
 [^vicente]: Vicente, F. “’Rosita’ e o Império Como Objecto de Desejo”. Publico, Ípsilon. 25 August 2013. Available at https://www.buala.org/pt/corpo/rosita-e-o-imperio-como-objecto-de-desejo. Quoted by B. Alves. Commissioner of the exhibition, Augusto de Castro. Cited in Peralta, Elsa. 
 
+^3bc905
+
 [^luso-trop]: These ideas paved the way to the later formulation of Portuguese exceptionalism in the notion of luso-tropicalism, proposed by Gilberto Freyre. See Anderson, Warwick, Roque, Ricardo and Santos Ricardo Ventura (eds.). Luso-Tropicalism and Its Discontents: The Making and Unmaking of Racial Exceptionalism. New York, NY, and Oxford: Berghahn Books. 2019. Quoted by B. Alves.
 
 [^gil]: See Gil, José. _Salazar: A Retórica da Invisibilidade,_ Lisboa: Relógio d’Água. 1995; and Gil, José. _Portugal, Hoje: O Medo de Existir,_ Lisbon: Relógio d’Água. 2007. [↑](https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/#post-8828-endnote-ref-43)
