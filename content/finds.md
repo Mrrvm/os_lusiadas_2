@@ -1,3 +1,9 @@
+For further research on #national-identity
+https://www.bloomsbury.com/uk/legacies-of-the-portuguese-colonial-empire-9781350289796/
+https://www.jstor.org/stable/26771190
+
+---
+
 https://www.alaaabuasad.com/
 
 https://video.alexanderstreet.com/watch/edouard-glissant-one-world-in-relation

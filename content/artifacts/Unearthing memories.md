@@ -3,7 +3,7 @@ tags:
   - exhibition
   - porto
 link: https://www.rampa.pt/event/unearthing-memories/
-bib: '"Unearthing Memories." Exhibition, Rampa, Porto, Portugal, October 14–November 26, 2023. https://www.rampa.pt/event/unearthing-memories/.'
+bib: '"Unearthing Memories" Exhibition. Rampa. Porto, Portugal, October 14–November 26, 2023. https://www.rampa.pt/event/unearthing-memories/.'
 ---
 "The exhibition "Unearthing Memories" by the local Interstruct Colletive analizes the colonial legacy in the city of Porto and frames it in the present-day imaginary, composed by memories, ruins and remembrances."
 

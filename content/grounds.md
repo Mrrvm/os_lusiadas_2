@@ -17,6 +17,7 @@ I will begin by explaining how Portugal played a massive role in the transatlant
 Not considering the current neocolonialist empires, Portugal was both the first and last European empire.
 
 (add timeline of events)
+[[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]]
 
 Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
 
@@ -38,18 +39,20 @@ The same goes for Porto, where you can find active (re)erected ruins of the colo
 
 The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort -, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
 
-In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition -, with 3 million visitors, and leaving behind the famous touristic attraction - "Padrão dos Descobrimentos" - mentioned earlier. Both exhibitions, as B. Alves notes (together with the work of E. Peralta and Vicente, F.), contributed to a stereotyped view of the colonised as those who lack civilisation and order, by presenting them as "primitive" in "their natural habitats". Vicente goes further to say that these spaces served as a means to eroticise the empire
+In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition -, with 3 million visitors, and leaving behind the famous touristic attraction - "Padrão dos Descobrimentos" - mentioned earlier. Both exhibitions, as Alves, B. notes (together with Peralta, E. and Vicente, F.), contributed to a stereotyped view of the colonised as those who lack civilisation and order, by presenting them as "primitive" in "their natural habitats". Vicente goes further to say that these spaces served as a means to eroticise the empire, making a parallel between femininity and becoming colonised, in contrast with the imperial European masculinity that would control it.[^elsa-peralta] They presented a a sanitised version of colonialism, idealised and mystical “Portuguese identity” associated with the Portuguese maritime expansion and solitary heroes creating collective epic narratives.
+ 
+The exhibitions served as tools to disseminate the ideology of Lusotropicalism
 
-=="According to Vicente, the exhibiting of people from the colonised countries represented “colonial spaces that emerged as feminized, made of disorderly nature that the imperial European masculinity would control”—eroticising the empire, made highly seductive and available, in its appeal to “become colonized” and obscuring inequalities of origin, gender and sexuality."==
+This rhetoric rendered invisible the violence of Portuguese colonialism, by inscribing the idea of a softer, miscegenated and multicultural colonialism
 
-An idea of empire built upon the notion of the Portuguese as a marine folk, descendant of the “heroic discoverers of the world”, held by fate to the higher call of helping others “reach civilisation”—through colonisation. This rhetoric rendered invisible the violence of Portuguese colonialism, by inscribing the idea of a softer, miscegenated and multicultural colonialism
+An idea of empire built upon the notion of the Portuguese as a marine folk, descendant of the “heroic discoverers of the world”, held by fate to the higher call of helping others “reach civilisation”—through colonisation. 
 
 After 500 centuries of colonisation, the national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact. 
 
 However, this miscegenation between languages is only favourable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, then they become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
 
 
-=="(...) as Peralta remarks, without historical scrutiny, thus allowing for a sanitised version of colonial history, in which the imperial was equated with the civilisational quality of Portuguese colonialism, mixing distinct temporal and geographic scales to form an idealised and mystical “Portuguese identity” associated with Portuguese maritime expansion and solitary heroes creating collective epic narratives.
+=="(...) as Peralta remarks,
 
 =="(...) As Peralta remarks, narratives that were previously mobilised because of ideological agendas are now repositioned in reference to the demands of the consumer and leisure markets and tourism, with the empire making place for the voyage, looking to build a story of these locations that can add revenue to the tourist industry."==
 
@@ -58,6 +61,7 @@ However, this miscegenation between languages is only favourable sometimes. Not 
 references: [[Lusotropicalismo]]
 
 EXPO 98
+[[The Memorialization of Empire in Postcolonial Portugal, Identity Politics and the Commodification of History]]
 
 ### Music, language and objects
 - OTHER OBJECTS (selos, estatuas)
@@ -71,10 +75,13 @@ EXPO 98
 - The relation between Canto I - Israel/Palestine
 - [[Bárbora e Jau]]
 - Coming from me as a white person
+- 
 
 ### Artists around the issue
 While.... there is space for more.. and the government.... justify writting os lusiadas
 [[Peça Desculpas, Senhor Presidente - Luca Argel]]
+
+[[The presence of Africans in Portugal during this period not only influenced the country's demographic composition but also left a lasting impact on its cultural and social fabric - Aurora Almada e Santos]]
 
 ## What is national identity (a nation) and how does it relate to these narratives?
 
@@ -165,7 +172,7 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^memorial]: [[Memorial de homenagem às pessoas escravizadas]]
 
-[^papa]: *"JMJ: Oeiras prevê gastar um milhão de euros com evento com Papa Francisco e voluntários", 2023, Expresso, February 15, 2023, https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38*
+[^papa]: *"JMJ: Oeiras prevê gastar um milhão de euros com evento com Papa Francisco e voluntários". Expresso. February 15, 2023. https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38*
 
 [^padrao-descobrimentos]: in *Padrão dos Descobrimentos. Accessed May 7, 2025, https://padraodosdescobrimentos.pt/* there is absolutely no reference to coloniality, violence or wrong-doing. This monument is seen as a major sightseeing point when visiting Lisbon as a tourist.
 
@@ -173,9 +180,9 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^irene-rodrigo]: inspired by the first verse of the song *Irene* by Rodrigo Amarante
 
-[^contested-legacies]: *Contested Legacies Portugal, accessed May 7, 2025, https://contestedlegaciesportugal.org/* - "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown."
+[^contested-legacies]: *Contested Legacies Portugal. The Early Atlantic Slave Trade in Portugal. Accessed May 7, 2025, https://contestedlegaciesportugal.org/* - "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown."
 
-[^noticia-publico]: In *S. Vaz, "Desmascarar o lado colonial do Porto: ‘o passado não passou’," Público, December 21, 2019, [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132)*, the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
+[^noticia-publico]: In *Vaz, S. "Desmascarar o lado colonial do Porto: ‘o passado não passou". Público. December 21, 2019, [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132)*, the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
 
 [^colonial-exhibitions]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
 

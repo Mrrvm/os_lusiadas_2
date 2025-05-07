@@ -3,7 +3,7 @@ tags:
   - text
   - book
 link: https://www.ufrb.edu.br/ppgcom/images/MEMORIAS_DA_PLANTACAO_-_EPISODIOS_DE_RAC_1_GRADA.pdf
-bib: "Kilomba, G., Memórias da plantação: Episódios de racismo quotidiano, trans. N. Quintas, Lisbon: Orfeu Negro, 2019."
+bib: 'Kilomba, G. "Memórias da plantação: Episódios de racismo quotidiano". Trans. N. Quintas. Lisbon: Orfeu Negro, 2019.'
 ---
 ### Projection of the opressor
 The opressor projecting into the oppressed, becomes a victim - a mechanism to defend the ego -, alike the contemporary example of Israel/Palestine. In this mental place, the opressor allows themselves to blame land theft, resources theft, into the oppressed, e.g. imposing the mask into the enslaved peoples in plantations to prevent them from eating sugar cane, cacau or dirt, as if they were stealing what as theirs. What's more, refusing to see the bad in themselves, the opressor acts as if they are generous entity.

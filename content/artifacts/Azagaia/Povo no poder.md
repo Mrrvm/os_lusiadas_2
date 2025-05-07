@@ -5,7 +5,7 @@ tags:
   - rhythm
   - police
   - precarity
-bib: Azagaia, “Povo no poder”, 2008, accessed May 6th, 2025, https://www.youtube.com/watch?v=RhSKixT-n0w.
+bib: Azagaia. “Povo no poder”. 2008. Accessed May 6th, 2025. https://www.youtube.com/watch?v=RhSKixT-n0w.
 ---
 Já não caímos na velha história  
 Saímos pra combater a escória  

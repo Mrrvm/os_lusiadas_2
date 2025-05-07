@@ -4,7 +4,7 @@ tags:
   - creole
   - rhythm
   - music
-bib: Dino d'Santiago. "Esquinas", track 3 on BADIU, Sony Music Entertainment, 2021, accessed May 6th, 2025, https://www.youtube.com/watch?v=vHjaVEC0fWU
+bib: "d'Santiago, D. \"Esquinas\". Track 3 on BADIU. Lisbon: Sony Music Entertainment, 2021. Accessed May 6th, 2025. https://www.youtube.com/watch?v=vHjaVEC0fWU"
 ---
 Nas curvas do bairro  
 Nas curvas do bairro
