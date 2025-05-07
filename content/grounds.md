@@ -154,16 +154,16 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^papa]: see https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38
 
-[^padrao-descobrimentos]: in their website, https://padraodosdescobrimentos.pt/, there is absolutely no reference to coloniality, violence or wrong-doing. This monument is seen as a major sightseeing point when visiting Lisbon as a tourist.
+[^padrao-descobrimentos]: in *Padrão dos Descobrimentos. Accessed May 7, 2025, https://padraodosdescobrimentos.pt/* there is absolutely no reference to coloniality, violence or wrong-doing. This monument is seen as a major sightseeing point when visiting Lisbon as a tourist.
 
-[^sintra-casa]: acquired by Manuel Pinto da Fonseca through his participation in the Atlantic enslaved trade (see [[The absence of memorial sites in Portugal - Aurora Almada e Santos]])
+[^sintra-casa]: acquired by Manuel Pinto da Fonseca through his participation in the Atlantic enslaved trade, see *Almada e Santos, A., 2023, [[The absence of memorial sites in Portugal - Aurora Almada e Santos]], Project Manifest, April 13, 2023, https://www.projectmanifest.eu/the-absence-of-memorial-sites-in-portugal-en-fr/*
 
 [^irene-rodrigo]: inspired by the first verse of the song *Irene* by Rodrigo Amarante
 
-[^contested-legacies]: see https://contestedlegaciesportugal.org/. "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown."
+[^contested-legacies]: see *Contested Legacies Portugal, accessed May 7, 2025, https://contestedlegaciesportugal.org/* - "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown."
 
-[^noticia-publico]: In S. Vaz, "Desmascarar o lado colonial do Porto: ‘o passado não passou’," _Público_, December 21, 2019, [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132), the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
+[^noticia-publico]: In *S. Vaz, "Desmascarar o lado colonial do Porto: ‘o passado não passou’," Público, December 21, 2019, [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132)*, the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
 
-[^colonial-exhibitions]: see [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
+[^colonial-exhibitions]: *B. Alves, [[Turned into Stone - The Portuguese Colonial Exhibitions Today]], PARSE, accessed May 6, 2025, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/*
 
-	[^elsa-peralta]: E. Peralta, *Title of Original Work* (Place of Publication: Publisher, Year), page number, quoted in Secondary Author First Name Last Name, *Title of Secondary Work* (Place of Publication: Publisher, Year), page number.
+[^elsa-peralta]:  *Castro, A., quoted in E. Peralta, “A composição de um complexo de memória: O caso de Belém, Lisboa,” in Cidade e império: dinâmicas coloniais e reconfigurações pós-coloniais, ed. Nuno Domingos and E. Peralta, Lisbon, Edições 70, 2013, quoted in B. Alves, "Turned into Stone: The Portuguese Colonial Exhibitions Today," PARSE, accessed May 6, 2025, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/*

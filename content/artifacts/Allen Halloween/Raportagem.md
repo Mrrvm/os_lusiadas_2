@@ -4,7 +4,7 @@ tags:
   - rhythm
   - poetry
 bib: |-
-  Allen Halloween, “Raportagem,” track 2 on Projecto Mary Witch, Sonoterapia, 2006, accessed May 6th, 2025,
+  Halloween, A., “Raportagem,” track 2 on Projecto Mary Witch, Sonoterapia, 2006, accessed May 6th, 2025,
   https://www.youtube.com/watch?v=JzzOkJx0HSc
 ---
 **Homem africano, imigrante, desempregado**  

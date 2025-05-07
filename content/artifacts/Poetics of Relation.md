@@ -5,7 +5,7 @@ tags:
   - transatlantic-enslaved-trade
   - rhythm
   - INCLUDED
-bib: "Glissant, Édouard. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011. ISBN 978-972-0-07153-8."
+bib: "Glissant, É. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011. ISBN 978-972-0-07153-8."
 to-dos: "[] Contact Manuela Mendonça"
 ---
 ### Errantry vs Single Root

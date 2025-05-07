@@ -5,7 +5,7 @@ tags:
   - poetry
   - environment
 bib: |-
-  Allen Halloween, “SOS Mundo,” track 6 on Projecto Mary Witch, Sonoterapia, 2006, accessed May 6th, 2025,
+  Halloween, A., “SOS Mundo,” track 6 on Projecto Mary Witch, Sonoterapia, 2006, accessed May 6th, 2025,
   https://www.youtube.com/watch?v=xI9Xxc5nw54
 ---
 Sos mundo  
