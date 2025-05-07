@@ -47,7 +47,7 @@ bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions T
 
 "The exhibition was visited by three million people, and filmed for posterity."
 
-=="(...) as Peralta remarks, without historical scrutiny, thus allowing for a sanitised version of colonial history, in which the imperial was equated with the civilisational quality of Portuguese colonialism, mixing distinct temporal and geographic scales to form an idealised and mystical “Portuguese identity” associated with Portuguese maritime expansion and solitary heroes creating collective epic narratives."==[^elsaperalta2]
+=="(...) as Peralta remarks, without historical scrutiny, thus allowing for a sanitised version of colonial history, in which the imperial was equated with the civilisational quality of Portuguese colonialism, mixing distinct temporal and geographic scales to form an idealised and mystical “Portuguese identity” associated with Portuguese maritime expansion and solitary heroes creating collective epic narratives."==[^elsaperalta2] ^831bb3
 
 "In 1983, the Monastery of the Hieronymites and the Tower of Belém became UNESCO world heritage sites."
 
