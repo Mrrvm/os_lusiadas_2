@@ -49,8 +49,6 @@ All these exhibitions helped at sanitising colonialism, establishing a mystical 
 
 [[Marcas de Lusotropicalismo no Marcelo]] / Luca argel
 
-- lusotropicalism
-- tourism
 - contemporary examples: marcelo, web submitt, OTHER OBJECTS (selos, estatuas)
 - “Discovering the City of the Sea; The City of Explorers” and “Europe Starts Here—Welcome to Europe’s West Coast!” GoLisbon
 ### Language and things
