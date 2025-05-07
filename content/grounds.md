@@ -41,7 +41,7 @@ The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million v
 
 In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition -, with 3 million visitors, and leaving behind the famous touristic attraction - *Padrão dos "Descobrimentos"* - mentioned earlier. Both exhibitions, as Alves, B. notes (together with Peralta, E. and Vicente, F.), contributed to a stereotyped view of the colonised as those who lack civilisation and order, by presenting them as "primitive" in "their natural habitats". Vicente goes further to say that these spaces served as a means to eroticise the empire, making a parallel between femininity and becoming colonised, in contrast with the imperial European masculinity that would control it.[^vicente] 
 
-These exhibitions, along with the more contemporary example of Expo 98[^expo-98], helped at sanitising colonialism, establishing a mystical national identity built upon "the Portuguese as a marine folk, descendant of the 'heroic discoverers of the world', held by fate to the higher call of helping others 'reach civilisation'  - through colonisation, creating collective epic narratives.
+These exhibitions, along with the more contemporary example of Expo 98[^expo-98], helped at sanitising colonialism, establishing a mystical national identity driving from "the Portuguese as a marine folk, descendant of the 'heroic discoverers of the world', held by fate to the higher call of helping others 'reach civilisation'", and creating collective epic narratives.
 
 =="Hyperbolic language is used to surround the monument with myths and stories of the sea, conveying ideas of permanence and strength, and positioning the Portuguese people as “uninterruptedly transmiting the sacred blood” of their heroes. In this way, binding bodies of the past to the present and future, in a rhetoric that still holds a strong grip over Portuguese society, which can be perceived in the difficulty in accepting other narratives that contest or disturb this account of history, and in revisiting the end of colonisation or its violence."
 
@@ -177,5 +177,8 @@ references: [[index#thought log]], [[index#considerations]], github
 [^colonial-exhibitions]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
 
 [^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^3bc905]]]
+
+[^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta2]]
+
 
 [^expo98]: [[The Memorialization of Empire in Postcolonial Portugal, Identity Politics and the Commodification of History]]
