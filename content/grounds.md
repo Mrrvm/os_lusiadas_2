@@ -18,7 +18,7 @@ Not considering the current neocolonialist empires, Portugal was both the first 
 (add timeline of events)
 [[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]]
 
-Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
+Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, objects, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
 ### Monuments, streets and festivals
 
 Having lived in the south of Portugal, Algarve, up until I was 17 (in 2014), I was always confronted with the economic discrepancies between retired northern europeans and the locals. Whole cities and regions, such as Vilamoura, Vale de Lobo, Quinta do Lago, were and are completely catered to this social class of immigrants (which we call *estrangeiros* - foreigners, rather than immigrants), with lavish golf resorts, beach hotels, empty holiday mansions, and whatnot, while, the basic needs of the local population remain chronically under-resourced — water, public transport, healthcare, education, ... Beaches, dunes and their biodiversity have also been destroyed for the sake of touristic profit (e.g. the beaches and dunes of Quarteira). 
