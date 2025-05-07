@@ -39,5 +39,9 @@ According to this reading, national identities are constructed, debated, negoti-
 
 "Under the sign of the oceans, Expo’98 bridged the past—the Portuguese navigations and the maritime explorations—to the future: environmental concerns and oceanographic research."
 
+"History is now used by the democratic power as a mere reference for cultural and tourist marketing, stripped as much as possible of its ideological burden, (...)"
+
+"In those negotiations, the image of an imperialism without colonies emerges, picturing the country as having pioneered cultural encounters around the globe according to its new self-conceived position within a modern, democratic, multicultural, and cosmo- politan Europe (...)"
+
 ![[PLCS+36-37+pdfx-168-191.pdf]]
 

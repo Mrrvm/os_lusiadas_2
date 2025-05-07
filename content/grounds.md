@@ -41,8 +41,7 @@ The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million v
 
 In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition -, with 3 million visitors, and leaving behind the famous touristic attraction - *Padrão dos "Descobrimentos"* - mentioned earlier. Both exhibitions, as Alves, B. notes (together with Peralta, E. and Vicente, F.), contributed to a stereotyped view of the colonised as those who lack civilisation and order, by presenting them as "primitive" in "their natural habitats". Vicente goes further to say that these spaces served as a means to eroticise the empire, making a parallel between femininity and becoming colonised, in contrast with the imperial European masculinity that would dominate it.[^vicente] 
 
-Another more subtle example, was Expo 98[^expo-98], that commemorated the 500 years since Vasco da Gama's journey to India. Dressing the ocean as the main theme - "The Oceans, a Heritage for the Future" - and associating it with greenwashed sustainability and environmental protection, the expo attempted to arrange Portuguese national identity to meet the symbolic demands of European democracies neoliberal agendas.
-fill the gaps between a perspective of commodification, in which the past gains an exchange value in the cultural and tourist consumption market.
+Another more subtle example, was Expo 98, that commemorated the 500 years since Vasco da Gama's journey to India. Dressing the ocean as the main theme - "The Oceans, a Heritage for the Future" - and associating it with greenwashed sustainability and environmental protection, the expo attempted to rearrange Portuguese earlier national identity (centered around imperialism and othering) to meet the symbolic demands of European democracies' neoliberal agendas. Commodifying its violent past into an exchange value in the cultural and tourist consumption market, as well showcasing an open, expansionist and enterprising attitude to secure foreign investment.[^expo-98]
 
 All these exhibitions helped at sanitising colonialism, establishing a mystical national identity originating from "the Portuguese as a marine folk, descendant of the 'heroic discoverers of the world', held by fate to the higher call of helping others 'reach civilisation'", “uninterruptedly transmitting the sacred blood” of their heroes, while perpetuating collective epic narratives.[^elsa-epic] [^colonial-exhibitions] Lusotropicalism, further helped, as an ideological tool, at legitimising this myth, stating that Portuguese colonialism was (in comparison to other coloniser nations) softer, peaceful, gentle, hybrid, miscegenated, multicultural, and somehow Creole.[^elsa-creole] 
 
@@ -53,6 +52,7 @@ in a rhetoric that still holds a strong grip over Portuguese society, which can 
 - lusotropicalism
 - tourism
 - contemporary examples: marcelo, web submitt, OTHER OBJECTS (selos, estatuas)
+- “Discovering the City of the Sea; The City of Explorers” and “Europe Starts Here—Welcome to Europe’s West Coast!” GoLisbon
 ### Language and things
 
 Yet, the miscegenation between languages is only desirable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they then become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
