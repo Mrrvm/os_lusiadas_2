@@ -37,11 +37,20 @@ According to this reading, national identities are constructed, debated, negoti-
 
 "To evoke the pioneering and decisive contribution of the Portuguese Discoveries to the process of European expansion, in the fifteenth and sixteenth centuries, which led to an improved understanding of Man and the configuration of the planet, by projecting it into the future; "
 
-"Under the sign of the oceans, Expo’98 bridged the past—the Portuguese navigations and the maritime explorations—to the future: environmental concerns and oceanographic research."
+"==Under the sign of the oceans, Expo’98 bridged the past—the Portuguese navigations and the maritime explorations—to the future: environmental concerns and oceanographic research.=="
 
 "History is now used by the democratic power as a mere reference for cultural and tourist marketing, stripped as much as possible of its ideological burden, (...)"
 
-"In those negotiations, the image of an imperialism without colonies emerges, picturing the country as having pioneered cultural encounters around the globe according to its new self-conceived position within a modern, democratic, multicultural, and cosmo- politan Europe (...)"
+"In those negotiations, the image of an imperialism without colonies emerges, picturing the country as having pioneered cultural encounters around the globe according to its new self-conceived position within a modern, democratic, multicultural, and cosmopolitan Europe (...)"
+
+"(...) ==a refusal to accept the symbolic loss of the empire that had previously provided a sense of coherence to national culture.=="
+
+"(...) although there has been an increasing tendency toward the commodification of the national past (which contributes to a deflation of its ideological content), ==areas of contestation and articulation of counter- memories with regard to the legacy of the country’s imperial past have also emerged, especially in recent years. Calls for a more problematizing representation of Portugal’s colonial past reached unprecedented proportions in 2017.== In that year, the Testimonials of Slavery: African Memory series of exhibitions was organized as part of the Lisbon 2017 Ibero-American Capital of Culture agenda (Lusa 2017b). This agenda also included the exhibition Racism and Citizenship, held in the Monument to the Discoveries (Padrão dos Descobrimentos 2017)."
+
+"One of these disputes was triggered during the state visit of the President of the Portuguese Republic, Marcelo Rebelo de Sousa, to Senegal in April 2017. Specifically, at the end of his visit to a former slave-trading post on the island of Gorée, where Pope John Paul II had apologized for slavery, ==Marcelo Rebelo de Sousa stated that Portugal recognized the injustice of slavery when it abolished the institution in part of its territory “by the hand of the Marquis of Pombal in 1761”== (Lusa 2017a). In response to these statements, an open letter was pub- lished in the newspaper Diário de Notícias on 19 April 2017, entitled “A Return to the Past in Gorée: Not in Our Name” and signed by numerous academics and intellectuals, who thus repudiated the “politics of memory advocated by the political powers in Portugal” in relation to the country’s legacy of colonialism (Diário de Notícias 2017).
+Another controversy that arose that year was associated with the inauguration of a statue in Largo Trindade Coelho, in Lisbon, to honor Father António Vieira (...) because António Vieira accepted slav- ery, albeit selectively, and, secondly, because of the sculptural design chosen for the statue, which depicts the clergyman in a clear position of dominance over indigenous figures who are represented as children"
+
+"==in Europe as a whole==, which, as Benoit De L’Estoile (2008) has claimed, ==was shaped both objectively and subjectively by the imperial experience==. As scholars, it is our task to continue to observe and analyze the unfolding of events that point to the renewed ways in which ==individuals and communities make sense of times past and present.=="
 
 ![[PLCS+36-37+pdfx-168-191.pdf]]
 
