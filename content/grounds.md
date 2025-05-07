@@ -36,7 +36,7 @@ The same goes for Porto, where you can find active (re)erected ruins of the colo
 
 ### Dictatorship, government and lusotropicalism
 
-The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat.[^colonial-exhibitions] On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort - that was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (such as [[Unearthing memories]]), but it has also been used by the right-wing party "Ergue-te" as a celebratory artifact.
+The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat.[^colonial-exhibitions] On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".
 
 In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibtion. 
 
@@ -123,6 +123,9 @@ references: [[index#thought log]], [[index#considerations]], github
 
 ![[Pasted image 20250506152303.png]]
 **Fig. 4** - The caravela and the crows are symbols of the city of Lisbon. Bucket List Portugal, https://bucketlistportugal.com/calcada-portuguesa-the-art-of-portuguese-pavement/ ^fig-rosa-dos-ventos-lagos
+
+![[Pasted image 20250507123638.png]]
+**Fig. 5** - Photo of graffiti reading "FASCISTS OUT". Câmara Municipal do Porto, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/ ^fig-fascists-out
 
 ![[Pasted image 20250506142729.png]]
 
