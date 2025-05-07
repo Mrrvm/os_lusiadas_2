@@ -33,5 +33,11 @@ According to this reading, national identities are constructed, debated, negoti-
 
 "It was essential, when defining the concept, to understand that the Lisbon exhibition should distinguish itself from other recent events of the same type by the attention given to its main theme."
 
+"The sea (or oceans) as the route to cultural encounters on a global scale and as a metaphor for a modern nation that is multifaceted and tolerant was con- verted into the chief rhetorical tool to locate Portugal in a new European iden- tity space. This metaphor strategically publicizes an image of a modern and pro- gressive country, one that is not stuck in its own past but that, then and now, is essentially expansionist, modern, and enterprising, a reading very accommo- dating to the neoliberal agendas with which the country’s representatives were aiming to dialogue."
+
+"To evoke the pioneering and decisive contribution of the Portuguese Discoveries to the process of European expansion, in the fifteenth and six- teenth centuries, which led to an improved understanding of Man and the configuration of the planet, by projecting it into the future; "
+
+"Under the sign of the oceans, Expo’98 bridged the past—the Portuguese nav- igations and the maritime explorations—to the future: environmental concerns and oceanographic research."
+
 ![[PLCS+36-37+pdfx-168-191.pdf]]
 
