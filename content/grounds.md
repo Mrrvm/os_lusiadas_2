@@ -40,18 +40,16 @@ In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibiti
 
 Another more subtle example, was Expo 98, that commemorated the 500 years since Vasco da Gama's journey to India. Dressing the ocean as the main theme - "The Oceans, a Heritage for the Future" - and associating it with greenwashed sustainability and environmental protection, the expo attempted to rearrange Portuguese earlier national identity (centered around imperialism and othering) to meet the symbolic demands of European democracies' neoliberal agendas. Commodifying its violent past into "an exchange value in the cultural and tourist consumption market", as seen above with the city of Lagos. As well showcasing an open, expansionist and enterprising attitude to secure foreign investment.[^expo98]
 
-All these exhibitions helped at sanitising colonialism, establishing a mystical national identity originating from "the Portuguese as a marine folk, descendant of the 'heroic discoverers of the world', held by fate to the higher call of helping others 'reach civilisation'", “uninterruptedly transmitting the sacred blood” of their heroes, while perpetuating collective epic narratives.[^colonial-exhibitions] [^elsa-epic] Lusotropicalism, further helped, as an ideological tool, at legitimising the myth, stating that Portuguese colonialism was (in comparison to other coloniser nations) softer, peaceful, gentle, hybrid, miscegenated, multicultural, and somehow Creole.[^elsa-creole] 
-
-
+All these exhibitions helped at sanitising colonialism, establishing a mystical national identity originating from "the Portuguese as a marine folk, descendant of the 'heroic discoverers of the world', held by fate to the higher call of helping others 'reach civilisation'", “uninterruptedly transmitting the sacred blood” of their heroes, while perpetuating collective epic narratives.[^colonial-exhibitions] [^elsa-epic] Lusotropicalism, as an ideological tool, further helped at legitimising the myth, stating that Portuguese colonialism was (in comparison to other coloniser nations) softer, peaceful, gentle, hybrid, miscegenated, multicultural, and somehow Creole.[^elsa-creole] 
 
 [[Marcas de Lusotropicalismo no Marcelo]] / Luca argel
 
-- contemporary examples: marcelo, web submitt, OTHER OBJECTS (selos, estatuas)
-- “Discovering the City of the Sea; The City of Explorers” and “Europe Starts Here—Welcome to Europe’s West Coast!” GoLisbon
 ### Language and things
 
 Yet, the miscegenation between languages is only desirable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they then become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
 
+- contemporary examples: marcelo, web submitt, OTHER OBJECTS (selos, estatuas)
+- “Discovering the City of the Sea; The City of Explorers” and “Europe Starts Here—Welcome to Europe’s West Coast!” GoLisbon
 ### **[[Os Lusíadas]]** and education
 - Lack of critical analysis in school
 - The relation between Canto I - Israel/Palestine
