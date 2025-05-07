@@ -126,3 +126,5 @@ https://link.springer.com/article/10.1007/s11196-023-10088-x EXPO 98
 ![[Pasted image 20250506161550.png]]
 
 https://www.museudoaljube.pt/
+
+Carta Orgânica do Império Colonial Português
