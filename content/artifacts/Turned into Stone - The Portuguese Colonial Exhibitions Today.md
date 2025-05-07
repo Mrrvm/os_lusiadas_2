@@ -7,7 +7,12 @@ tags:
   - text
   - national-identity
 link: https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
-bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/'
+bib: |-
+  B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
+
+  Vicente, F. “’Rosita’ e o Império Como Objecto de Desejo”. Publico, Ípsilon. 25 August 2013. Available at https://www.buala.org/pt/corpo/rosita-e-o-imperio-como-objecto-de-desejo. Quoted by B. Alves.
+
+  Commissioner of the exhibition, Augusto de Castro. Cited in Peralta, Elsa. “A composição de um complexo de memória: O caso de Belém, Lisboa” In Cidade e império: dinâmicas coloniais e reconfigurações pós-coloniais. Edited by Nuno Domingos and Elsa Peralta. Lisbon: Edições 70. 2013. p. Quoted by B. Alves.
 ---
 "==As scholar and curator Elsa Peralta notes, after over five centuries of holding power over colonies, the end of the empire and the democratisation of the country did not erase Portugal’s self-image as an imperial nation. The national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact.==”"
 
