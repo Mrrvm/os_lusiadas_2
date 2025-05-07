@@ -33,9 +33,9 @@ In respect to memorial sites, Lisbon does not fall much further. In 2017, the as
 
 Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of colonial participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other directly connected infrastructure, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
 
-The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] without any affirmations surrounding its inherent violence. The city not only has an amusement park - the World of Discoveries -, but also held the "Portuguese Colonial Exhibition" in 1934, during the dictatorship, similarly to other European countries.
+The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] without any affirmations surrounding its inherent violence. The city not only has an interactive museum - the World of Discoveries -, but also held the "Portuguese Colonial Exhibition" in 1934, during the dictatorship, similarly to other European countries.
 
-### Dictatorship, government and lusotropicalism
+### Exhibitionist governments
 
 The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort -, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
 
@@ -50,7 +50,11 @@ In this sense Lusotropicalism, served as an ideological tool to legitimise this 
 [[Marcas de Lusotropicalismo no Marcelo]] / Luca argel
 
 =="(...) As Peralta remarks, narratives that were previously mobilised because of ideological agendas are now repositioned in reference to the demands of the consumer and leisure markets and tourism, with the empire making place for the voyage, looking to build a story of these locations that can add revenue to the tourist industry."==
-### Music, language and objects
+
+- lusotropicalism
+- tourism
+- contemporary examples: marcelo, web submitt
+### Music, language and things
 
 THowever, this miscegenation between languages is only favourable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, then they become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
 
@@ -60,7 +64,7 @@ THowever, this miscegenation between languages is only favourable sometimes. Not
 - radio music
 - fado
 
-### **[[Os Lusíadas]]** and schools
+### **[[Os Lusíadas]]** and education
 - Lack of critical analysis in school
 - The relation between Canto I - Israel/Palestine
 - [[Bárbora e Jau]]
@@ -180,4 +184,6 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^elsa-epic]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^831bb3]]
 
-[^expo98]: [[The Memorialization of Empire in Postcolonial Portugal, Identity Politics and the Commodification of History]]
+[^expo98]: [[Expo 98 and the Memorialization of the Empire]]
+
+[^world-discoveries]: *World of Discoveries. [https://www.worldofdiscoveries.com/](https://www.worldofdiscoveries.com/). Accessed May 7, 2025.* - An interactive museum about the maritime expansion catered to kids. The website has no reference to colonisation or violence whatsoever. In fact, in the corporate ethics section of the website, they claim: "At World of Discoveries, corporate ethics is not just a term; it is a commitment that governs all our actions and decisions. We are driven by a deep respect for our heritage, the community we serve and ==the responsibility to preserve and pass on the history of great discoveries with integrity and accuracy==.", "Integrity – ==We act with honesty and transparency==, ensuring that the content we present is authentic and based on rigorous research.", "Respect – ==We value the diversity and pluralism of historical narratives==, approaching each story objectively.", "This is a space where every opinion is valued and ==every voice is heard==."

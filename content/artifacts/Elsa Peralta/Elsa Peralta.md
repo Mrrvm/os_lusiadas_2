@@ -3,8 +3,5 @@ tags:
   - portugal
   - text
 ---
-[[The Memorialization of Empire in Postcolonial Portugal, Identity Politics and the Commodification of History]]
-
-[[The Portuguese Colonial Empire - Nationalism, Multiculturalism and Citizenship]]
-
+[[Expo 98 and the Memorialization of the Empire]]
 [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
