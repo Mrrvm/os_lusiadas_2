@@ -4,12 +4,13 @@ tags:
   - visual
   - monument
 link: https://museu.cm-lagos.pt/polos/rota-da-escravatura/
-bib: CEsA – Centro de Estudos sobre África e do Desenvolvimento. (n.d.). Cooperação – Rota do Escravo. https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12
+bib: CEsA – Centro de Estudos sobre África e do Desenvolvimento, n.d, "Cooperação – Rota do Escravo", accessed May 7, 2025, https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12
 ---
 ### Information on the museum
 
- **Município de Lagos e Centro de Estudos sobre África e Desenvolvimento afinam estratégia para a criação do Museu da Escravatura de Lagos**
-"Recorde-se que o projeto Museu da Escravatura de Lagos visa atingir dez objetivos (expressos na declaração do Município de Lagos de 16 de dezembro de 2011) dos quais se destacam alguns, designadamente: 1) a requalificação arquitetónica do paradigmático edifício do Mercado de Escravos; 2) a organização do espaço museológico – núcleo do Mercado de Escravos (exposições dos achados arqueológicos e outros associados) e um segundo núcleo no Parque de Estacionamento do Anel Verde (onde funcionará um Centro de Informação e Interpretação Histórica e Arqueológica do local – Memorial da Escravatura) onde os trabalhos arqueológicos levados a cabo em 2009 revelaram a existência de 155 esqueletos humanos de antigos escravos. Também está prevista a publicação de diversos estudos, quer no que diz respeito ao “cemitério de escravos”, quer sobre a Escravatura no Sul de Portugal, um Roteiro da Rota do Escravo ou ainda a publicação de brochuras turístico-culturais sobre os Lugares de Memória da Escravatura e do Comércio de Escravos em Lagos.
+ "**Município de Lagos e Centro de Estudos sobre África e Desenvolvimento afinam estratégia para a criação do Museu da Escravatura de Lagos**
+ 
+Recorde-se que o projeto Museu da Escravatura de Lagos visa atingir dez objetivos (expressos na declaração do Município de Lagos de 16 de dezembro de 2011) dos quais se destacam alguns, designadamente: 1) a requalificação arquitetónica do paradigmático edifício do Mercado de Escravos; 2) a organização do espaço museológico – núcleo do Mercado de Escravos (exposições dos achados arqueológicos e outros associados) e um segundo núcleo no Parque de Estacionamento do Anel Verde (onde funcionará um Centro de Informação e Interpretação Histórica e Arqueológica do local – Memorial da Escravatura) onde os trabalhos arqueológicos levados a cabo em 2009 revelaram a existência de 155 esqueletos humanos de antigos escravos. Também está prevista a publicação de diversos estudos, quer no que diz respeito ao “cemitério de escravos”, quer sobre a Escravatura no Sul de Portugal, um Roteiro da Rota do Escravo ou ainda a publicação de brochuras turístico-culturais sobre os Lugares de Memória da Escravatura e do Comércio de Escravos em Lagos.
 
 (...)
 
@@ -26,7 +27,6 @@ Sempre defendendo que “_Lagos pretende fazer jus à sua marca e afirmar-se com
 (...)
 
 Isabel Henriques aproveitou a ocasião para recordar que, no que diz respeito aos achados arqueológicos aquando a construção do Parque do Anel Verde, em 2009, “_estes se traduziram na descoberta do mais antigo «cemitério» de escravos do mundo e o único até agora descoberto na Europa_”. Além disso, adiantou que este Museu será o 2º museu da Europa estritamente subordinado ao tema da escravatura (o 1º está localizado em Liverpool – Inglaterra)”.
-(https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12) ^360996
 
 ### Visiting the museum
 

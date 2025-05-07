@@ -4,17 +4,13 @@ tags:
   - lisboa
   - monument
   - READ
-bib: Djass – Associação de Afrodescendentes. (n.d.). Memorial da Escravatura e Tráfico Negreiro. Facebook. https://www.facebook.com/memorialescravatura/?locale=pt_BR
+bib: Djass – Associação de Afrodescendentes, n.d, "Memorial da Escravatura e Tráfico Negreiro", Facebook, accessed May 7, 2025 https://www.facebook.com/memorialescravatura/?locale=pt_BR.
 link: https://www.facebook.com/memorialescravatura/?locale=pt_BR
 ---
 ![[Pasted image 20250407105153.png]]
 Plantation by Kiluanji Kia Henda © Djass - Associação de Afrodescendentes Artistic project selected for the Memorial to Enslaved People, to be erected at Largo José Saramago (known as Campo das Cebolas) in the historic centre of Lisbon.
 
-https://www.rtp.pt/play/p2057/e447261/o-fio-da-meada
-
-https://djass.pt/atividades-2019/memorial-de-homenagem-as-pessoas-escravizadas/
-
-COMUNICADO: Câmara Municipal de Lisboa não quer Memorial de Homenagem às Pessoas Escravizadas
+"COMUNICADO: Câmara Municipal de Lisboa não quer Memorial de Homenagem às Pessoas Escravizadas
 
 Em 2017, a proposta de criação de um Memorial de Homenagem às Pessoas Escravizadas foi uma das vencedoras do Orçamento Participativo de Lisboa desse ano. Cinco anos e meio depois, esta proposta da sociedade civil, apresentada pela Djass – Associação de Afrodescendentes, ainda não foi construída e os obstáculos à sua concretização permanecem.
 
@@ -68,10 +64,14 @@ Nada disto, porém, nos surpreende. Quando decidimos propor a criação, em Lisb
 
 Sabemos que podemos contar com o apoio de muitas pessoas e organizações, a nível nacional e internacional, que querem que este projeto seja uma realidade e que a memorialização da História de Portugal seja feita de forma crítica e verdadeira e não assente em mitos que tentam ocultar toda a opressão que ela encerrou.
 
-A Direção da Djass – Associação de Afrodescendentes
+A Direção da Djass – Associação de Afrodescendentes"
 
 https://www.publico.pt/2024/06/23/culturaipsilon/noticia/camara-lisboa-djass-procura-lugar-memorial-escravizados-2094961
 
 https://www.publico.pt/2024/06/26/culturaipsilon/noticia/ribeira-naus-novo-hipotese-memorial-pessoas-escravizadas-2095411?fbclid=IwY2xjawJfOzxleHRuA2FlbQIxMAABHmUm-3XNnSG_jHArrxymMRzPnA-JqeYJBINrh_heI1BuDBaB_yrbNWZHI0Q0_aem_Xxz9IV9jncqhXeeoYKD9Pw
 
 https://www.publico.pt/2020/03/12/culturaipsilon/entrevista/kiluanji-kia-henda-memorial-nao-filme-hollywood-1907132
+
+https://www.rtp.pt/play/p2057/e447261/o-fio-da-meada
+
+https://djass.pt/atividades-2019/memorial-de-homenagem-as-pessoas-escravizadas/

@@ -142,17 +142,17 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^lagos-brochura]: see [[Brochura do Turismo de Portugal em Lagos]]
 
-[^slave-market-essay]: see  [[Enslaved Market Museum - Contested Stories#^displayed-body]]
+[^slave-market-essay]: see  [["Slave" Market Museum in Portugal#^displayed-body]]
 
 [^lagos-minigolf]: see [[Found bodies#^burial-site]]
 
 [^atlantica-colonial-pain]: see [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]
 
-[^lagos-museum-tourism-erasure]: see [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]] and [[Enslaved Market Museum - Contested Stories#^museum-erasure]]
+[^lagos-museum-tourism-erasure]: [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]] in *CEsA – Centro de Estudos sobre África e do Desenvolvimento, n.d, "Cooperação – Rota do Escravo", accessed May 7, 2025, https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12* in and [["Slave" Market Museum in Portugal#^museum-erasure]] in *The Contested Histories Initiative, 2022, “Slave Market Museum in Portugal” Contested Histories Case Study #130, June 2022, retrieved from https://contestedhistories.org/wp-content/uploads/Portugal-Slave-Market-Museum-in-Lagos.pdf* 
 
-[^memorial]: see [[Memorial de homenagem às pessoas escravizadas]]
+[^memorial]: see Djass – Associação de Afrodescendentes, n.d, [[Memorial de homenagem às pessoas escravizadas]], Facebook, accessed May 7, 2025 https://www.facebook.com/memorialescravatura/?locale=pt_BR.
 
-[^papa]: see https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38
+[^papa]: *"JMJ: Oeiras prevê gastar um milhão de euros com evento com Papa Francisco e voluntários", 2023, Expresso, February 15, 2023, https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38*
 
 [^padrao-descobrimentos]: in *Padrão dos Descobrimentos. Accessed May 7, 2025, https://padraodosdescobrimentos.pt/* there is absolutely no reference to coloniality, violence or wrong-doing. This monument is seen as a major sightseeing point when visiting Lisbon as a tourist.
 
@@ -160,10 +160,10 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^irene-rodrigo]: inspired by the first verse of the song *Irene* by Rodrigo Amarante
 
-[^contested-legacies]: see *Contested Legacies Portugal, accessed May 7, 2025, https://contestedlegaciesportugal.org/* - "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown."
+[^contested-legacies]: *Contested Legacies Portugal, accessed May 7, 2025, https://contestedlegaciesportugal.org/* - "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown."
 
 [^noticia-publico]: In *S. Vaz, "Desmascarar o lado colonial do Porto: ‘o passado não passou’," Público, December 21, 2019, [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132)*, the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
 
 [^colonial-exhibitions]: *B. Alves, [[Turned into Stone - The Portuguese Colonial Exhibitions Today]], PARSE, accessed May 6, 2025, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/*
 
-[^elsa-peralta]:  *Castro, A., quoted in E. Peralta, “A composição de um complexo de memória: O caso de Belém, Lisboa,” in Cidade e império: dinâmicas coloniais e reconfigurações pós-coloniais, ed. Nuno Domingos and E. Peralta, Lisbon, Edições 70, 2013, quoted in B. Alves, "Turned into Stone: The Portuguese Colonial Exhibitions Today," PARSE, accessed May 6, 2025, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/*
+[^elsa-peralta]:  *Castro, A., quoted in E. Peralta, “A composição de um complexo de memória: O caso de Belém, Lisboa,” in Cidade e império: dinâmicas coloniais e reconfigurações pós-coloniais, ed. Nuno Domingos and E. Peralta, Lisbon, Edições 70, 2013, quoted in B. Alves, [[Turned into Stone - The Portuguese Colonial Exhibitions Today]], PARSE, accessed May 6, 2025, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/*
