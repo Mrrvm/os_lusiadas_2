@@ -36,11 +36,24 @@ The same goes for Porto, where you can find active (re)erected ruins of the colo
 
 ### Dictatorship, government and lusotropicalism
 
-The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
+The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort -, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
 
-In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition, with 3 million visitors.
+In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition -, with 3 million visitors, and leaving behind the famous touristic attraction - "Padrão dos Descobrimentos" - mentioned earlier. Both exhibitions, as B. Alves notes (together with the work of E. Peralta and Vicente, F.), contributed to a 
 
-LISBOA
+
+After 500 centuries of colonisation, the national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact. However, this miscegenation between languages is only favourable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, then they become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
+
+An idea of empire built upon the notion of the Portuguese as a marine folk, descendant of the “heroic discoverers of the world”, held by fate to the higher call of helping others “reach civilisation”—through colonisation. This rhetoric rendered invisible the violence of Portuguese colonialism, by inscribing the idea of a softer, miscegenated and multicultural colonialism
+
+==The exhibition received 1.3 million visitors and largely contributed to the construction of a colonial narrative by setting up a communication apparatus that showcased the empire not “through words alone, but through live, animated truths. For example, by presenting “villages” in which inhabitants from the colonised countries—brought to Porto—were exhibited while living in a simulation of their habitats, creating stereotyped visions of “the other” by presenting these people as “primitive” and incapable of contributing to a civilisational process.=="
+
+=="According to Vicente, the exhibiting of people from the colonised countries represented “colonial spaces that emerged as feminized, made of disorderly nature that the imperial European masculinity would control”—eroticising the empire, made highly seductive and available, in its appeal to “become colonized” and obscuring inequalities of origin, gender and sexuality."==
+
+=="(...) as Peralta remarks, without historical scrutiny, thus allowing for a sanitised version of colonial history, in which the imperial was equated with the civilisational quality of Portuguese colonialism, mixing distinct temporal and geographic scales to form an idealised and mystical “Portuguese identity” associated with Portuguese maritime expansion and solitary heroes creating collective epic narratives.
+
+=="(...) As Peralta remarks, narratives that were previously mobilised because of ideological agendas are now repositioned in reference to the demands of the consumer and leisure markets and tourism, with the empire making place for the voyage, looking to build a story of these locations that can add revenue to the tourist industry."==
+
+=="Hyperbolic language is used to surround the monument with myths and stories of the sea, conveying ideas of permanence and strength, and positioning the Portuguese people as “uninterruptedly transmiting the sacred blood” of their heroes. In this way, binding bodies of the past to the present and future, in a rhetoric that still holds a strong grip over Portuguese society, which can be perceived in the difficulty in accepting other narratives that contest or disturb this account of history, and in revisiting the end of colonisation or its violence."==
 
 references: [[Lusotropicalismo]]
 
