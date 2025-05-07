@@ -165,3 +165,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [^noticia-publico]: In S. Vaz, "Desmascarar o lado colonial do Porto: ‘o passado não passou’," _Público_, December 21, 2019, [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132), the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
 
 [^colonial-exhibitions]: see [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
+
+	[^elsa-peralta]: E. Peralta, *Title of Original Work* (Place of Publication: Publisher, Year), page number, quoted in Secondary Author First Name Last Name, *Title of Secondary Work* (Place of Publication: Publisher, Year), page number.
