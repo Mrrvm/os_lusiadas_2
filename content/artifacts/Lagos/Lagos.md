@@ -78,7 +78,7 @@ Again no reference to the kidnapping and commercialisation of enslaved people.
 
 *"Na ilha onde os portugueses desembarcaram, Tanegashima, o senhor local, Tokitaka, interessou-se muito pela espingarda. Serviu-se da sua filha, a princesa Wakasa, para descobrir o segredo da nova arma junto dos estrangeiros. Porém, **Wakasa acabou por se apaixonar** por Fernão Mendes Pinto e teve um filho. Entretanto, os portugueses partiram e Wakasa **esperou pelo seu amado durante anos**. Diz-se que vendo uma caravela no horizonte, **partiu mar adentro na sua direção**. O túmulo da princesa, no Cabo Kadakura, tem flores frescas todos os dias. É o **símbolo da primeira história de amor entre um ocidental e uma japonesa**, um amor impossível e a lenda de uma princesa desaparecida."*
 
-We find here not only a patriarchal discourse, but also a romanticization of miscegenation, without any reference to its violence or coercion (see [[Lusotropicalismo]]). 
+We find here not only a patriarchal discourse, but also a romanticization of miscegenation, without any reference to its violence or coercion (see [[Marcas de Lusotropicalismo no Marcelo]]). 
 
 ![[Pasted image 20250404161341.png]]
 
