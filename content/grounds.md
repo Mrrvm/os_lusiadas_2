@@ -11,7 +11,6 @@ I intend to investigate how I can rewrite [[Os Lusíadas]], using experimental w
 I will begin by explaining how Portugal played a massive role in the transatlantic enslaved trade until the last century, how colonial violence has been omitted in the last decades and in which ways colonialism is still celebrated in Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Further on I will shortly dive in the concept of national identity and nation, in order to understand its relation to epic poems and its tumultuous case within Portugal. Lastly, I analyse experimental writing in this context, presenting the methodologies I am using for the re-writing of the original book and their potential to be rhizomatic, and explain how I intend to carry both transparency and opacity along the project.
 
 ## How are narratives of colonialism celebrated within Portuguese culture?
-
 ### The role of Portugal in colonialism
 
 Not considering the current neocolonialist empires, Portugal was both the first and last European empire.
@@ -20,7 +19,6 @@ Not considering the current neocolonialist empires, Portugal was both the first 
 [[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]]
 
 Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
-
 ### Monuments, streets and festivals
 
 Having lived in the south of Portugal, Algarve, up until I was 17 (in 2014), I was always confronted with the economic discrepancies between retired northern europeans and the locals. Whole cities and regions, such as Vilamoura, Vale de Lobo, Quinta do Lago, were and are completely catered to this social class of immigrants (which we call *estrangeiros* - foreigners, rather than immigrants), with lavish golf resorts, beach hotels, empty holiday mansions, and whatnot, while, the basic needs of the local population remain chronically under-resourced — water, public transport, healthcare, education, ... Beaches, dunes and their biodiversity have also been destroyed for the sake of touristic profit (e.g. the beaches and dunes of Quarteira). 
@@ -34,7 +32,6 @@ In respect to memorial sites, Lisbon does not fall much further. In 2017, the as
 Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of colonial participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other directly connected infrastructure, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
 
 The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] without any affirmations surrounding its inherent violence. The city not only has an interactive museum - the World of Discoveries -, but also held the "Portuguese Colonial Exhibition" in 1934, during the dictatorship, similarly to other European countries.
-
 ### Exhibitionist governments
 
 The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort -, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
