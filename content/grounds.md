@@ -176,9 +176,8 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^colonial-exhibitions]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
 
-[^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^3bc905]]]
+[^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^3bc905]]
 
-[^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta2]]
-
+[^elsaperalta2]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsaperalta2]]
 
 [^expo98]: [[The Memorialization of Empire in Postcolonial Portugal, Identity Politics and the Commodification of History]]

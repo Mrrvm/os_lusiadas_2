@@ -47,7 +47,7 @@ bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions T
 
 "The exhibition was visited by three million people, and filmed for posterity."
 
-=="(...) as Peralta remarks, without historical scrutiny, thus allowing for a sanitised version of colonial history, in which the imperial was equated with the civilisational quality of Portuguese colonialism, mixing distinct temporal and geographic scales to form an idealised and mystical “Portuguese identity” associated with Portuguese maritime expansion and solitary heroes creating collective epic narratives."[^elsa-peralta2]==
+=="(...) as Peralta remarks, without historical scrutiny, thus allowing for a sanitised version of colonial history, in which the imperial was equated with the civilisational quality of Portuguese colonialism, mixing distinct temporal and geographic scales to form an idealised and mystical “Portuguese identity” associated with Portuguese maritime expansion and solitary heroes creating collective epic narratives."==[^elsaperalta2]
 
 "In 1983, the Monastery of the Hieronymites and the Tower of Belém became UNESCO world heritage sites."
 
@@ -83,7 +83,7 @@ bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions T
 
 [^elsa-peralta1]: Peralta, Elsa. “Fictions of a Creole Nation: (Re)Presenting Portugal’s Imperial Past”. In _Negotiating identities: constructed selves and others_. Edited by Helen Vella Bonavita. Amsterdam and New York, NY: Rodopi. 2011. p. 193. Quoted by B. Alves. 
 
-[^elsa-peralta2]: Commissioner of the exhibition, Augusto de Castro. Cited in Peralta, Elsa. “A composição de um complexo de memória: O caso de Belém, Lisboa” In _Cidade e império: dinâmicas coloniais e reconfigurações pós-coloniais_. Edited by Nuno Domingos and Elsa Peralta. Lisbon: Edições 70. 2013. p. 380.
+[^elsaperalta2]: Commissioner of the exhibition, Augusto de Castro. Cited in Peralta, Elsa. “A composição de um complexo de memória: O caso de Belém, Lisboa” In _Cidade e império: dinâmicas coloniais e reconfigurações pós-coloniais_. Edited by Nuno Domingos and Elsa Peralta. Lisbon: Edições 70. 2013. p. 380.
 
 [^elsa-peralta3]: Peralta, “A composição de um complexo de memória”, p. 389.
 
