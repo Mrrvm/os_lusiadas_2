@@ -36,9 +36,9 @@ The same goes for Porto, where you can find active (re)erected ruins of the colo
 
 ### Dictatorship, government and lusotropicalism
 
-The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat.[^colonial-exhibitions] On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".
+The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
 
-In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibtion. 
+In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition, with 3 million visitors.
 
 LISBOA
 
