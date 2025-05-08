@@ -34,7 +34,7 @@ Throughout the city you can find numerous instruments glorifying the colonial pe
 The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] without any affirmations surrounding its inherent violence. The city not only has an interactive museum - the World of Discoveries[^world-discoveries] -, but also held the "Portuguese Colonial Exhibition" in 1934 (during the dictatorship), similarly to other European countries.
 ### Exhibitionist governments
 
-The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort -, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibtions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
+The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort -, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibitions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
 
 In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition -, with 3 million visitors, and leaving behind the famous touristic attraction - *Padrão dos "Descobrimentos"* - mentioned earlier. Both exhibitions, as Alves, B. notes (together with Peralta, E. and Vicente, F.), contributed to a stereotyped view of the colonised as those who lack civilisation and order, by presenting them as "primitive" in "their natural habitats". Vicente goes further to say that these spaces served as a means to eroticise the empire, making a parallel between femininity and becoming colonised, in contrast with the imperial European masculinity that would dominate it.[^vicente] 
 
@@ -107,6 +107,7 @@ references: [[Omeros, Derek Walcott]]
 references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 #####  Mapping different fonts (research by making)
 
+material references difficulty, experimental writing as a decolonial/educational method
 ##### Writing from the Netherlands
 
 ### Usage of Obsidian as a research tool
@@ -116,6 +117,7 @@ references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2a
 #### Transparency 
 references: [[index#thought log]], [[index#considerations]], github
 
+### Looking ahead
 
 ## Figures
 

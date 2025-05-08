@@ -12,5 +12,3 @@ I will begin by explaining how Portugal played a massive role in the transatlant
 
 ## How are narratives of colonialism celebrated within Portuguese culture?
 
-
-## Reflecting and looking ahead
