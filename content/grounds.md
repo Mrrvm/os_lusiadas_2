@@ -122,7 +122,7 @@ references: [[index#thought log]], [[index#considerations]], github
 ## Figures
 
 ![[Pasted image 20250506153934.png]]
-**Fig. 1** - *Padrão dos "Descobrimentos"* in Lisbon with graffiti saying "Blindly sailing for money, humanity is down". Publico, https://imagens.publico.pt/imagens.aspx/1611845?tp=UH&db=IMAGENS&type=JPG ^fig-padrao
+**Fig. 1** - *Padrão dos "Descobrimentos"* in Lisbon with graffiti saying "Blindly sailing for money, humanity is drowning". Publico, https://imagens.publico.pt/imagens.aspx/1611845?tp=UH&db=IMAGENS&type=JPG ^fig-padrao
 
 ![[Pasted image 20250506151633.png]]
 **Fig. 2** - Rosa dos Ventos (Compass Rose) at *Padrão dos "Descobrimentos"* in Lisbon gifted by the South African Apartheid regime. Portuguese Museum, https://portuguesemuseum.org/?page_id=1808&category=4&exhibit=&event=82#images-1 ^fig-rosa-dos-ventos
