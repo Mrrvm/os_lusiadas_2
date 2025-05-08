@@ -101,6 +101,7 @@ references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-te
 ##### Balancing between appropriation and appreciation
 references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
 ##### Collaboration and translation
+
 ##### Examples of such epic poems
 references: [[Omeros, Derek Walcott]]
 ##### Methods within rewriting 
