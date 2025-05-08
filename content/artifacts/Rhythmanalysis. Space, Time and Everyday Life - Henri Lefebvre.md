@@ -2,5 +2,4 @@
 tags:
   - rhythm
   - text
-  - READ
 ---

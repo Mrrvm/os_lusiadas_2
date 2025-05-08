@@ -51,10 +51,9 @@ Yet, the miscegenation between languages is only desirable sometimes. Not only a
 - contemporary examples: marcelo, web submitt, OTHER OBJECTS (selos, estatuas)
 - “Discovering the City of the Sea; The City of Explorers” and “Europe Starts Here—Welcome to Europe’s West Coast!” GoLisbon
 ### **[[Os Lusíadas]]** and education
-- Lack of critical analysis in school
+- Lack of critical analysis in school, what can my contribution be?
 - The relation between Canto I - Israel/Palestine
 - [[Bárbora e Jau]]
-- Coming from me as a white person
 - [[A Mensagem]]
 
 ### Artists around the issue

@@ -2,5 +2,4 @@
 tags:
   - brasil
   - text
-  - READ
 ---
