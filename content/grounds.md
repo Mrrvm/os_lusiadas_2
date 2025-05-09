@@ -54,12 +54,14 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 ### **[[Os Lusíadas]]** and education
 
-Which leads me to the book I intend on re-writing - [[Os Lusíadas]].
+Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - "unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of Portuguese poetry"! In fact, what would come second would be a book - [[A Mensagem]]
+
+In school's language classes, it's mandatory to analyse and "interpret" around 123 out of 1102 stanzas of the epic poem. Yet not once, do we reflect upon the underlines we are actually reading. 
 
 - Lack of critical analysis in school, what can my contribution be?
 - The relation between Canto I - Israel/Palestine
 - [[Bárbora e Jau]]
-- [[A Mensagem]]
+
 
 While.... there is space for more.. and the government.... justify writting os lusiadas
 [[Peça Desculpas, Senhor Presidente - Luca Argel]]
