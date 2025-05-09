@@ -1,4 +1,4 @@
-For further research on #national-identity
+#national-identity
 https://www.bloomsbury.com/uk/legacies-of-the-portuguese-colonial-empire-9781350289796/
 https://www.jstor.org/stable/26771190
 
@@ -6,7 +6,7 @@ https://www.jstor.org/stable/26771190
 
 https://www.alaaabuasad.com/
 
-https://video.alexanderstreet.com/watch/edouard-glissant-one-world-in-relation
+
 https://open.spotify.com/track/6VJPmBDhOJ8r1Zv0cLbbhV?si=d2d3dd419f5c4960
 
 Mia Couto – _Sleepwalking Land_
@@ -95,8 +95,6 @@ https://ensina.rtp.pt/artigo/navegacoes-de-sophia-de-mello-breyner-andresen/
 
 https://www.museudoaljube.pt/expo/antes-de-ser-independencia-foi-luta-de-libertacao/
 
-Joaquim Furtado, “Guerra” https://www.youtube.com/watch?v=n-96S4DxUBM&list=PLtjGobLxy4C66lZVM92KZlPwSVKqRhVte
-
 [gio_cattuco](https://www.instagram.com/gio_cattuco/
 
 https://batotoyetu.pt/o-que-fazemos/fado-dancado/
@@ -111,9 +109,9 @@ https://www.youtube.com/@RAPLUSOVIVEAQUI/videos
 
 https://www.academia.edu/25018403/Experi%C3%AAncias_de_colonialismo_no_Porto_de_1934_na_Primeira_Exposi%C3%A7%C3%A3o_Colonial_Portuguesa_IX_Edi%C3%A7%C3%A3o_do_Congresso_Ib%C3%A9rico_de_Estudos_Africanos_VOLUME_I
 
-
 https://www.artedopovo.com/produto/pretinho-da-sorte/
 A história do boneco perde-se nos tempos, mas tudo indica remontar ao tempo da abolição da escravatura, no século XVIII. A moeda que o pretinho segura representaria o seu primeiro salário de homem livre – e o curioso ícone asseguraria ao seu detentor um ano de felicidade. (https://jornaldiabo.com/sociedade/feira-da-luz/)
+![[Pasted image 20250506161715.png]]
 
 ![[Pasted image 20250506142401.png]]
 

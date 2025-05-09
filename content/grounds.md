@@ -15,8 +15,7 @@ I will begin by explaining how Portugal played a massive role in the transatlant
 
 Not considering the current neocolonialist empires, Portugal was both the first and last European empire.
 
-(add timeline of events)
-[[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]]
+(add timeline of events - [[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]])
 
 Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, objects, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
 ### Monuments, streets and festivals
@@ -51,13 +50,7 @@ In 2017, in a visit to Senegal, he recognises slavery's injustice and consequent
 
 In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an astrolabe to the founder of the conference, pointing out that "Lisbon was the capital of the world five centuries ago, (...) From Lisbon departed a great adventure that connected the human race. . . . Today it is you, the engineers, the entrepreneurs, the creators, the innovators, the start-ups, all the companies".[^websummit] 
 
-The list goes on. And we only need to walk around to see it. 
-
-The miscegenation between languages is only desirable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they then become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
-
-OTHER OBJECTS (selos, bugigangas)
-
-“Discovering the City of the Sea; The City of Explorers” and “Europe Starts Here—Welcome to Europe’s West Coast!” GoLisbon
+The list goes on. You don't have to look far; even the stamps I got at the post office were illustrated accordingly - [[grounds#^fig-stamps]]. The rhetoric bleeds out in dialogues explicitly or implicitly throughout the whole country. Paradoxically, we have included a great amount of words from former colonies' languages in our quotidian. For example, the widely used *bué* and *bazar* (from Kimbundu language *mbuwe* and *kubaza*, respectively). Yet not only are these not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they become slang. As if the miscegenation between languages is only desirable, when the objective is to re-iterate our inclusive nature.
 
 ### **[[Os Lusíadas]]** and education
 - Lack of critical analysis in school, what can my contribution be?
@@ -150,8 +143,8 @@ references: [[index#thought log]], [[index#considerations]], github
 **Fig. 7** - A map published for Portugal’s 1934 Colonial Exhibition. Saying “Portugal is not a small country”. Al Jazeera, Courtesy of Paulo Moreira. https://www.aljazeera.com/wp-content/uploads/2021/03/PORTUGAL_NAO_E_UM_PAIS_PEQUENO.jpg?resize=770%2C513&quality=80 ^fig-pequeno
 
 ![[Pasted image 20250506142729.png]]
+**Fig. 8** - Official stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas".^fig-stamps
 
-![[Pasted image 20250506161715.png]]
 ---
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
