@@ -32,6 +32,7 @@ In respect to memorial sites, Lisbon does not fall much further. In 2017, the as
 Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of the many colonial participants (such as the statue of Father António Vieira surround by what seems to be indigenous children from the Americas, erected in 2017 - [[grounds#^fig-padre]]), shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other directly connected infrastructure, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
 
 The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] without any affirmations surrounding its inherent violence. The city not only has an interactive museum catered to children - the World of Discoveries[^world-discoveries] -, but also held the "Portuguese Colonial Exhibition" in 1934, similarly to other European countries.
+
 ### Exhibitionist governments
 
 The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort -, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibitions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
@@ -45,13 +46,8 @@ All these exhibitions helped at sanitising colonialism, establishing a mystical 
 Gilberto Freyre, the developer of this theory, was invited by the Portuguese government in the 1950s, to visit and analyse the former colonies. His "independent" views on the benign nature of our colonialism became the official doctrine of the dictatorial regime in the 1960s, in order to appease the criticism from other European nations whose colonial regimes had collapsed. Disseminated through textbooks, media, and official documents, the ideas became ingrained in Portuguese culture[^gilberto] and can still be seen in the words of our current President - Marcelo Rebelo de Sousa (whose father, interestingly enough, used to be a Governor-General of Mozambique from 1968 until 1970[^rebelo] ). 
 ### Language and things
 
-In 2016, in a newspaper, our President claims we, as a nation, have an exceptional ability to learn and include others, creating bridges between cultures, civilisations and continents.[^marcelo] In 2017, in a visit to Senegal, he recognises slavery's injustice and consequentially affirms that our country abolished it in 1761 (a lie pushed as anti-racist discourse in both school and day-to-day conversations). The latter generated protests that called for the President to apologise for slavery in name of the country, which he still has not. In fact, there is a song about it.
-
-==Na oportunidade, o presidente reconheceu a injustiça da escravatura, lembrando que Portugal a aboliu em 1761. Motivou, no entanto, o lançamento de uma petição que ia no sentido de que Portugal devia pedir desculpas por ter sido esclavagista, à semelhança do que fez o papa João Paulo II, quando visitou o mesmo local, e que originou um debate crispado nos média portugueses==" 
-
-==“uma pátria sem complexos pelo passado, na construção do presente e na armação do futuro, num conjunto de vários portugais muito para além das fronteiras geográficas”== 
-
-Luca argel
+In 2016, in a newspaper, our President claims we, as a nation, have an exceptional ability to learn and include others, creating bridges between cultures, civilisations and continents.[^marcelo] 
+In 2017, in a visit to Senegal, he recognises slavery's injustice and consequentially affirms that our country abolished it in 1761 (a lie pushed as anti-racist discourse in both school and day-to-day conversations). This generated protests that called for the President to apologise for slavery in name of the country, which he still has not. In 2019, in the Day of Portugal (the day that commemorates the death of [[Luís de Camões]]), Marcelo insists that we are a nation at ease with its past, actively constructing the present and arming the future, encompassed by many 'Portugals' that extend beyond its geographic boundaries.
 
 The miscegenation between languages is only desirable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they then become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
 
@@ -149,6 +145,10 @@ references: [[index#thought log]], [[index#considerations]], github
 
 ![[Pasted image 20250509143801.png]]
 **Fig. 6** - Photo of Father António Vieira in Lisbon. A.MUSE.ARTE, https://amusearte.hypotheses.org/files/2020/06/antoniovieira.jpg ^fig-padre
+
+![[Pasted image 20250509144953.png]]
+**Fig. 7** - Photo of Father António Vieira in Lisbon. A.MUSE.ARTE, https://amusearte.hypotheses.org/files/2020/06/antoniovieira.jpg ^fig-padre
+
 
 ![[Pasted image 20250506142729.png]]
 
