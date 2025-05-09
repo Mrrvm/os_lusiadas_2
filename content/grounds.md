@@ -29,7 +29,7 @@ In 2016, the city opened the [[Núcleo Museológico Rota da Escravatura]], a mus
 
 In respect to memorial sites, Lisbon does not fall much further. In 2017, the association DJES (Association of Afrodescendents) proposed the city's council, as part of the participatory budget contest, to build a memorial site paying homage to the victims of the Atlantic enslaved trade. The municipality agreed to the project, and DJES made an open-call for 5 invited artists to foresee this project. The idea of Kiluanji Kia Henda - a plantation of sugar cane - was chosen to be implemented, but after 8 years is yet to become a reality, as the city's council keeps creating various obstacles towards execution, including inexplicable times between replies, changing previously set locations, producing fake images in relation to the artist's original idea, etc. A similar case, happened with Batoto Yetu Portugal, who tried to create 20 signs and a bust honouring African presence in Lisbon. The artworks were fully completed in 2020, there is a budget for setting them up in the city funded by the association itself, yet the process remains stale[^10]. One could argue in defense for the economic condition of the country (and consequential waiting times), however, in 2023, the government, the city of Loures and Lisbon, spent together 75 million euros[^papa] to receive the pope, which then is already deemed acceptable due to the returns on tourism.
 
-Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of colonial participants, such as Pedro Alvares Cabral and [[Luís de Camões]], shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other directly connected infrastructure, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
+Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of the many colonial participants (such as the statue of Father António Vieira surround by what seems to be indigenous children from the Americas, erected in 2017 - [[grounds#^fig-padre]]), shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other directly connected infrastructure, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
 
 The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] without any affirmations surrounding its inherent violence. The city not only has an interactive museum catered to children - the World of Discoveries[^world-discoveries] -, but also held the "Portuguese Colonial Exhibition" in 1934, similarly to other European countries.
 ### Exhibitionist governments
@@ -42,21 +42,31 @@ Another more subtle example, was Expo 98, that commemorated 500 years since Vasc
 
 All these exhibitions helped at sanitising colonialism, establishing a mystical national identity originating from "the Portuguese as a marine folk, descendant of the 'heroic discoverers of the world', held by fate to the higher call of helping others 'reach civilisation'", “uninterruptedly transmitting the sacred blood” of their heroes, while perpetuating collective epic narratives. [^elsa-epic] Lusotropicalism, as an ideological tool, further helped at legitimising the myth, stating that Portuguese colonialism was (in comparison to other coloniser nations) softer, peaceful, gentle, hybrid, miscegenated, multicultural, and somehow Creole,[^elsa-creole] completely omitting all the sexual violence. 
 
-Gilberto Freyre, the developer of this theory, was invited by the Portuguese government in the 1950s, to visit and analyse the former colonies. His "independent" views on the benign nature of our colonialism became the official doctrine of the dictatorial regime in the 1960s, in order to appease the criticism from other European nations whose colonial regimes had collapsed. Disseminated through textbooks, media, and official documents, the ideas became ingrained in Portuguese culture[^gilberto] and can nowadays be seen in the words of our current President - Marcelo Rebelo de Sousa (whose father, interestingly enough, used to be a Governor-General of Mozambique from 1968 until 1970[^rebelo] ).
-
-[[Marcas de Lusotropicalismo no Marcelo]] / Luca argel
-
+Gilberto Freyre, the developer of this theory, was invited by the Portuguese government in the 1950s, to visit and analyse the former colonies. His "independent" views on the benign nature of our colonialism became the official doctrine of the dictatorial regime in the 1960s, in order to appease the criticism from other European nations whose colonial regimes had collapsed. Disseminated through textbooks, media, and official documents, the ideas became ingrained in Portuguese culture[^gilberto] and can still be seen in the words of our current President - Marcelo Rebelo de Sousa (whose father, interestingly enough, used to be a Governor-General of Mozambique from 1968 until 1970[^rebelo] ). 
 ### Language and things
 
-Yet, the miscegenation between languages is only desirable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they then become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
+In 2016, in a newspaper, our President claims we, as a nation, have an exceptional ability to learn and include others, creating bridges between cultures, civilisations and continents.[^marcelo] In 2017, in a visit to Senegal, he recognises slavery's injustice and consequentially affirms that our country abolished it in 1761 (a lie pushed as anti-racist discourse in both school and day-to-day conversations). The latter generated protests that called for the President to apologise for slavery in name of the country, which he still has not. In fact, there is a song about it.
 
-- contemporary examples: marcelo, web submitt, OTHER OBJECTS (selos, estatuas)
-- “Discovering the City of the Sea; The City of Explorers” and “Europe Starts Here—Welcome to Europe’s West Coast!” GoLisbon
+==Na oportunidade, o presidente reconheceu a injustiça da escravatura, lembrando que Portugal a aboliu em 1761. Motivou, no entanto, o lançamento de uma petição que ia no sentido de que Portugal devia pedir desculpas por ter sido esclavagista, à semelhança do que fez o papa João Paulo II, quando visitou o mesmo local, e que originou um debate crispado nos média portugueses==" 
+
+==“uma pátria sem complexos pelo passado, na construção do presente e na armação do futuro, num conjunto de vários portugais muito para além das fronteiras geográficas”== 
+
+Luca argel
+
+The miscegenation between languages is only desirable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they then become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
+
+"At the opening ceremony of the Eleventh Web Summit in Lisbon, in early November 2019, the mayor of Lisbon, Fernando Medina, offered an astrolabe to Paddy Cosgrave, the founder of the technology and entrepreneurship conference. As an instrument used by the navigators during the so-called Portuguese “Discoveries,” the astrolabe possessed a symbolism that Medina emphasized at the time: Lisbon was the capital of the world five centuries ago, this was the starting point for routes to discover new worlds, new people, new ideas. ==From Lisbon departed a great adventure that connected the human race. . . . Today it is you, the engineers, the entrepreneurs, the creators, the innovators, the start-ups, all the companies==.
+
+OTHER OBJECTS (selos, bugigangas)
+
+“Discovering the City of the Sea; The City of Explorers” and “Europe Starts Here—Welcome to Europe’s West Coast!” GoLisbon
+
 ### **[[Os Lusíadas]]** and education
 - Lack of critical analysis in school, what can my contribution be?
 - The relation between Canto I - Israel/Palestine
 - [[Bárbora e Jau]]
 - [[A Mensagem]]
+- dia de portugal 10 de junho
 
 ### Artists around the issue
 While.... there is space for more.. and the government.... justify writting os lusiadas
@@ -66,7 +76,6 @@ While.... there is space for more.. and the government.... justify writting os l
 
 - radio music - valete and the radio issue
 
-As Peralta remarks, narratives that were previously mobilised because of ideological agendas are now repositioned in reference to the demands of the consumer and leisure markets and tourism, with the empire making place for the voyage, looking to build a story of these locations that can add revenue to the tourist industry."==
 
 in a rhetoric that still holds a strong grip over Portuguese society, which can be perceived in the difficulty in accepting other narratives that contest or disturb this account of history, and in revisiting the end of colonisation or its violence."
 
@@ -138,6 +147,9 @@ references: [[index#thought log]], [[index#considerations]], github
 ![[Pasted image 20250507123638.png]]
 **Fig. 5** - Photo of graffiti reading "FASCISTS OUT". Câmara Municipal do Porto, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/ ^fig-fascists-out
 
+![[Pasted image 20250509143801.png]]
+**Fig. 6** - Photo of Father António Vieira in Lisbon. A.MUSE.ARTE, https://amusearte.hypotheses.org/files/2020/06/antoniovieira.jpg ^fig-padre
+
 ![[Pasted image 20250506142729.png]]
 
 ![[Pasted image 20250506161715.png]]
@@ -151,7 +163,7 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^escravizados-palavra]: see [[Memórias da plantação#^palavras-usadas]] both regarding the word *"Descobrimentos"* - "Discoveries" and *"escravx"* - "slave"
 
-[^lagos-brochura]: s[[Brochura do Turismo de Portugal em Lagos]]
+[^lagos-brochura]: [[Brochura do Turismo de Portugal em Lagos]]
 
 [^slave-market-essay]:  [["Slave" Market Museum in Portugal#^displayed-body]]
 
@@ -177,11 +189,11 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^colonial-exhibitions]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
 
-[^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^87af7a]]
+[^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^vicente]]
 
-[^elsa-epic]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^831bb3]] and [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
+[^elsa-epic]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsaperalta2]] and [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
 
-[^elsa-creole]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^6ed1b9]]
+[^elsa-creole]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta1]]
 
 [^expo98]: [[Expo 98 and the Memorialization of the Empire]]
 
@@ -189,4 +201,6 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^gilberto]: *Bastos, C., and Castelo, C. "Lusotropicalismo." Oxford Research Encyclopedia of African History. 2024. [https://doi.org/10.1093/acrefore/9780190277734.013.1486](https://doi.org/10.1093/acrefore/9780190277734.013.1486).*
 
-[^rebelo]: Wikipédia, a enciclopédia livre. "Baltazar Rebelo de Sousa." Last modified March 28, 2023. [https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa](https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa).
+[^rebelo]: Wikipédia, a enciclopédia livre. "Baltazar Rebelo de Sousa." Last modified March 28, 2023. [https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa](https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa)
+
+[^marcelo]: [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]]

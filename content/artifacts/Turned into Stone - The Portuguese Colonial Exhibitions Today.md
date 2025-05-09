@@ -10,7 +10,7 @@ tags:
 link: https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/
 bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/'
 ---
-"==As scholar and curator Elsa Peralta notes, after over five centuries of holding power over colonies, the end of the empire and the democratisation of the country did not erase Portugal’s self-image as an imperial nation. The national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact.==”[^elsa-peralta1]" ^6ed1b9
+"==As scholar and curator Elsa Peralta notes, after over five centuries of holding power over colonies, the end of the empire and the democratisation of the country did not erase Portugal’s self-image as an imperial nation. The national narrative still revolves around symbols of Portugal as an imperial maritime entity, and ideas of the Portuguese “as peaceful, non-racist, gentler colonialists, and of their culture as universal, hybrid, somehow Creole, enriched by centuries of colonial contact.==”[^elsa-peralta1]"^elsa-peralta1
 
 "Portugal’s colonial exhibitions took place in 1934 and 1940, the first in Porto and the second in Lisbon."
 
@@ -28,7 +28,7 @@ bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions T
 
 "==The exhibition received 1.3 million visitors and largely contributed to the construction of a colonial narrative by setting up a communication apparatus that showcased the empire not “through words alone, but through live, animated truths. For example, by presenting “villages” in which inhabitants from the colonised countries—brought to Porto—were exhibited while living in a simulation of their habitats, creating stereotyped visions of “the other” by presenting these people as “primitive” and incapable of contributing to a civilisational process.=="
 
-=="According to Vicente, the exhibiting of people from the colonised countries represented “colonial spaces that emerged as feminized, made of disorderly nature that the imperial European masculinity would control”—eroticising the empire, made highly seductive and available, in its appeal to “become colonized” and obscuring inequalities of origin, gender and sexuality."==[^vicente] ^87af7a
+=="According to Vicente, the exhibiting of people from the colonised countries represented “colonial spaces that emerged as feminized, made of disorderly nature that the imperial European masculinity would control”—eroticising the empire, made highly seductive and available, in its appeal to “become colonized” and obscuring inequalities of origin, gender and sexuality."==[^vicente]^vicente
 
 "The Portuguese Monument to Colonial Effort was commissioned as an ex libris of the exhibition, occupying an important place on the Square of the Empire, in front of the main entrance to the Palace of the Colonies. (...) it was ten metres tall and composed of a pillar surrounded by six parallelepipeds at the base, all presenting a figure “personifying Portuguese colonisation”. Each of these figures was naked and carried a symbol on its torso: the warrior the sword; the missionary the cross; the merchant the caduceus; the doctor the serpent and the cock; the farmer the ear of wheat; and the women prominent breasts.”
 
@@ -48,7 +48,7 @@ bib: 'B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions T
 
 "The exhibition was visited by three million people, and filmed for posterity."
 
-=="(...) as Peralta remarks, without historical scrutiny, thus allowing for a sanitised version of colonial history, in which the imperial was equated with the civilisational quality of Portuguese colonialism, mixing distinct temporal and geographic scales to form an idealised and mystical “Portuguese identity” associated with Portuguese maritime expansion and solitary heroes creating collective epic narratives."==[^elsaperalta2] ^831bb3
+=="(...) as Peralta remarks, without historical scrutiny, thus allowing for a sanitised version of colonial history, in which the imperial was equated with the civilisational quality of Portuguese colonialism, mixing distinct temporal and geographic scales to form an idealised and mystical “Portuguese identity” associated with Portuguese maritime expansion and solitary heroes creating collective epic narratives."==[^elsaperalta2]^elsaperalta2
 
 "In 1983, the Monastery of the Hieronymites and the Tower of Belém became UNESCO world heritage sites."
 
