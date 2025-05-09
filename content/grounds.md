@@ -77,34 +77,30 @@ references: [[The Power and Limits of Cultural Myths in Portugal’s Search for 
  
 ## Rhizomatic methodologies for rewriting
 
+Obviously, as a white Portuguese person, the idea of "retelling our history" can become quite biased and can looked quite dangerous from afar, given the point I am trying to make. Thus, the methodology use is of utmost importance. Thus, I intend to guide this process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
 ### Why the rhizome matters?
 references: [[Rhizome - Gille Deleuze]]
-
 ### What is experimental writing and how can it be applied as tool in this context?
 
 #### Can experimental writing be rhizomatic?
 
 #### Examples of experimental writing within this context
 references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
+#### Maintaining the structure of [[Os Lusíadas]]
 
-#### Rewriting [[Os Lusíadas]] with with ex-colonial and diasporic media
-
-[[Worlding or How to Embrace the End of an Era]]
-##### Maintaining its structure or not
-
+While given the rhizomatic properties I wish to embed in the methods, the immediate question would be, does it make sense to keep the strict structure of the original book?
 ###### Decasyllables and accents (research by making)
-##### Balancing between appropriation and appreciation
+#### Balancing between appropriation and appreciation
 references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
-##### Collaboration and translation
-
-##### Examples of such epic poems
+#### Collaboration and translation
+references: [[Tavares Cebola]], [[Sandim Mendes]]
+#### Examples of such epic poems
 references: [[Omeros, Derek Walcott]]
-##### Methods within rewriting 
+#### Methods within rewriting 
 references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
-#####  Mapping different fonts (research by making)
-
+####  Fonts and ethics (research by making)
 material references difficulty, experimental writing as a decolonial/educational method, women and non white 
-##### Writing from the Netherlands
+### Writing from the Netherlands
 
 ### Usage of Obsidian as a research tool
 
@@ -114,6 +110,7 @@ material references difficulty, experimental writing as a decolonial/educational
 references: [[index#thought log]], [[index#considerations]], github
 
 ### Looking ahead
+[[Worlding or How to Embrace the End of an Era]]
 
 ## Figures
 
