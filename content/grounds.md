@@ -46,12 +46,14 @@ All these exhibitions helped at sanitising colonialism, establishing a mystical 
 Gilberto Freyre, the developer of this theory, was invited by the Portuguese government in the 1950s, to visit and analyse the former colonies. His "independent" views on the benign nature of our colonialism became the official doctrine of the dictatorial regime in the 1960s, in order to appease the criticism from other European nations whose colonial regimes had collapsed. Disseminated through textbooks, media, and official documents, the ideas became ingrained in Portuguese culture[^gilberto] and can still be seen in the words of our current President - Marcelo Rebelo de Sousa (whose father, interestingly enough, used to be a Governor-General of Mozambique from 1968 until 1970[^rebelo] ). 
 ### Language and things
 
-In 2016, in a newspaper, our President claims we, as a nation, have an exceptional ability to learn and include others, creating bridges between cultures, civilisations and continents.[^marcelo] 
-In 2017, in a visit to Senegal, he recognises slavery's injustice and consequentially affirms that our country abolished it in 1761 (a lie pushed as anti-racist discourse in both school and day-to-day conversations). This generated protests that called for the President to apologise for slavery in name of the country, which he still has not. In 2019, in the Day of Portugal (the day that commemorates the death of [[Luís de Camões]]), Marcelo insists that we are a nation at ease with its past, actively constructing the present and arming the future, encompassed by many 'Portugals' that extend beyond its geographic boundaries.
+In 2016, in a newspaper, our President claims we, as a nation, have an exceptional ability to learn and include others, creating bridges between cultures, civilisations and continents.
+In 2017, in a visit to Senegal, he recognises slavery's injustice and consequentially affirms that our country abolished it in 1761 (a lie pushed as anti-racist discourse in both school and day-to-day conversations). This generated protests that called for the President to apologise for slavery in name of the country, which he still has not. In 2019, in the Day of Portugal (the day that commemorates the death of [[Luís de Camões]]), Marcelo again insists that we are a nation at ease with its past, actively constructing the present and arming the future, encompassed by many 'Portugals' that extend beyond its geographic boundaries - a rhetoric similar to 1934's propaganda: [[grounds#^fig-pequeno]].[^marcelo] 
+
+In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an astrolabe to the founder of the conference, pointing out that "Lisbon was the capital of the world five centuries ago, (...) From Lisbon departed a great adventure that connected the human race. . . . Today it is you, the engineers, the entrepreneurs, the creators, the innovators, the start-ups, all the companies".[^websummit] 
+
+The list goes on. And we only need to walk around to see it. 
 
 The miscegenation between languages is only desirable sometimes. Not only are they not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they then become slang, for example with the widely used words *bué* and *bazar* (from Kimbundu language *mbuwe* and kubaza, respectively).
-
-"At the opening ceremony of the Eleventh Web Summit in Lisbon, in early November 2019, the mayor of Lisbon, Fernando Medina, offered an astrolabe to Paddy Cosgrave, the founder of the technology and entrepreneurship conference. As an instrument used by the navigators during the so-called Portuguese “Discoveries,” the astrolabe possessed a symbolism that Medina emphasized at the time: Lisbon was the capital of the world five centuries ago, this was the starting point for routes to discover new worlds, new people, new ideas. ==From Lisbon departed a great adventure that connected the human race. . . . Today it is you, the engineers, the entrepreneurs, the creators, the innovators, the start-ups, all the companies==.
 
 OTHER OBJECTS (selos, bugigangas)
 
@@ -64,14 +66,12 @@ OTHER OBJECTS (selos, bugigangas)
 - [[A Mensagem]]
 - dia de portugal 10 de junho
 
-### Artists around the issue
 While.... there is space for more.. and the government.... justify writting os lusiadas
 [[Peça Desculpas, Senhor Presidente - Luca Argel]]
 
 [[The presence of Africans in Portugal during this period not only influenced the country's demographic composition but also left a lasting impact on its cultural and social fabric - Aurora Almada e Santos]]
 
 - radio music - valete and the radio issue
-
 
 in a rhetoric that still holds a strong grip over Portuguese society, which can be perceived in the difficulty in accepting other narratives that contest or disturb this account of history, and in revisiting the end of colonisation or its violence."
 
@@ -147,8 +147,7 @@ references: [[index#thought log]], [[index#considerations]], github
 **Fig. 6** - Photo of Father António Vieira in Lisbon. A.MUSE.ARTE, https://amusearte.hypotheses.org/files/2020/06/antoniovieira.jpg ^fig-padre
 
 ![[Pasted image 20250509144953.png]]
-**Fig. 7** - Photo of Father António Vieira in Lisbon. A.MUSE.ARTE, https://amusearte.hypotheses.org/files/2020/06/antoniovieira.jpg ^fig-padre
-
+**Fig. 7** - A map published for Portugal’s 1934 Colonial Exhibition. Saying “Portugal is not a small country”. Al Jazeera, Courtesy of Paulo Moreira. https://www.aljazeera.com/wp-content/uploads/2021/03/PORTUGAL_NAO_E_UM_PAIS_PEQUENO.jpg?resize=770%2C513&quality=80 ^fig-pequeno
 
 ![[Pasted image 20250506142729.png]]
 
@@ -203,4 +202,6 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^rebelo]: Wikipédia, a enciclopédia livre. "Baltazar Rebelo de Sousa." Last modified March 28, 2023. [https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa](https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa)
 
-[^marcelo]: [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]]
+[^marcelo]: [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo3]]
+
+[^websummit]: [[Expo 98 and the Memorialization of the Empire#^websummit]]
