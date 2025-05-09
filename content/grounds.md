@@ -54,21 +54,21 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 ### **[[Os Lusíadas]]** and education
 
-Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - "unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of Portuguese poetry". In fact, what would come second would be a book - [[A Mensagem]]
+Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - "unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of Portuguese poetry", due to its rhymes, extremely strict structure, and embezzlement of the nation. In fact, second to this would only be [[A Mensagem]], an homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
 
-In school's language classes, it's mandatory to analyse and "interpret" around 123 out of 1102 stanzas of the epic poem. Yet not once, do we reflect upon the underlines we are actually reading. 
+In school's Portuguese classes, it's mandatory to "analyse" around 123 out of 1102 stanzas of [[Os Lusíadas]], as well as studying (or rather memorising) the interpretation of [[A Mensagem]]. Yet not once, do we reflect upon the contemporary and huge underlying issue behind these two texts. The manner in which they contribute to the rhetoric delineated above is unfathomable. 
 
-- Lack of critical analysis in school, what can my contribution be?
+
+
+
+
 - The relation between Canto I - Israel/Palestine
 - [[Bárbora e Jau]]
-
 
 While.... there is space for more.. and the government.... justify writting os lusiadas
 [[Peça Desculpas, Senhor Presidente - Luca Argel]]
 
-[[The presence of Africans in Portugal during this period not only influenced the country's demographic composition but also left a lasting impact on its cultural and social fabric - Aurora Almada e Santos]]
-
-- radio music - valete and the radio issue
+Therefore, while there are numerous lusophone[^lusophone] works tackling this very urgent concern, from academic texts (e.g. [[Amílcar Cabral]], [[Elsa Peralta]], [[Ana Balona de Oliveira]], [[Aurora Almada e Santos]], [[Joacine Katar Moreira]], Eduardo Lourenço, Cristina Roldão, ...), to books (e.g. [[Memórias da plantação]], [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]] and the remaining series, [[Epistemologias do sul - Boaventura de Sousaa Santos]], [[Volta para tua terra]], ...), to music (e.g. [[Dino d' Santiago]], [[Valete]], [[Allen Halloween]], [[Azagaia]], [[Terapia de grupo, Os Heróis]], [[Peça Desculpas, Senhor Presidente - Luca Argel]], [[Povo pequenino - Fado Bicha]], ...), to films ([[A Guerra - Joaquim Furtado]], [[Welket Bungué]], [[Quilombo]], ...), to performances (e.g. [[Panaibra Gabriel Canda]],[[Opera to a Black Venus]], [[De-Re-Memorization of Portuguese Colonialism and Dictatorship]],  [[A Nossa Última Manhã Aqui - Manuel Tur]], , ...), to visual art (e.g. [[Sandim Mendes]], [[Mónica de Miranda]], [[Irineu Destourelles]], [[The singularity of Tchiloli - René Tavares]], [[(Re)descobertas - Olavo Amado]]), to exhibitions (e.g.[[Unearthing memories]] ) and other documents like [[Jornal O negro]].
 
 in a rhetoric that still holds a strong grip over Portuguese society, which can be perceived in the difficulty in accepting other narratives that contest or disturb this account of history, and in revisiting the end of colonisation or its violence."
 
@@ -81,6 +81,7 @@ references: [[Narration and Nation - Homi K. Bhabha]]
 references: [[Hegel's Lectures on Aesthetics]]
 
 ### Matar a saudade de fome [^13]
+(myth making in Lusiadas and mensagem)
 references: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]], [[“Portugality” - a nothingness that is nothing]], [[An analysis of the Portuguese destiny - Eduardo Lourenço]]
  
 ## Rhizomatic methodologies for rewriting
@@ -111,7 +112,7 @@ references: [[Omeros, Derek Walcott]]
 references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 #####  Mapping different fonts (research by making)
 
-material references difficulty, experimental writing as a decolonial/educational method
+material references difficulty, experimental writing as a decolonial/educational method, women and non white 
 ##### Writing from the Netherlands
 
 ### Usage of Obsidian as a research tool
@@ -202,3 +203,7 @@ references: [[index#thought log]], [[index#considerations]], github
 [^marcelo]: [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo3]]
 
 [^websummit]: [[Expo 98 and the Memorialization of the Empire#^websummit]]
+
+[empire]: The first four would be the Assyrian, Persian, Greek, and Roman
+
+[lusophone]: COMPLETE
