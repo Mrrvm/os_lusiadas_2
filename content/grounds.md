@@ -53,11 +53,13 @@ In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an
 The list goes on. You don't have to look far; even the stamps I got at the post office were illustrated accordingly - [[grounds#^fig-stamps]]. The rhetoric bleeds out in dialogues explicitly or implicitly throughout the whole country. Paradoxically, we have included a great amount of words from former colonies' languages in our quotidian. For example, the widely used *bué* and *bazar* (from Kimbundu language *mbuwe* and *kubaza*, respectively). Yet not only are these not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they become slang. As if the miscegenation between languages is only desirable, when the objective is to re-iterate our inclusive nature.
 
 ### **[[Os Lusíadas]]** and education
+
+Which leads me to the book I intend on re-writing - [[Os Lusíadas]].
+
 - Lack of critical analysis in school, what can my contribution be?
 - The relation between Canto I - Israel/Palestine
 - [[Bárbora e Jau]]
 - [[A Mensagem]]
-- dia de portugal 10 de junho
 
 While.... there is space for more.. and the government.... justify writting os lusiadas
 [[Peça Desculpas, Senhor Presidente - Luca Argel]]
