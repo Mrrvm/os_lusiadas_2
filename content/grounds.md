@@ -54,7 +54,7 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 ### **[[Os Lusíadas]]** and education
 
-Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - "unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of Portuguese poetry"! In fact, what would come second would be a book - [[A Mensagem]]
+Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - "unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of Portuguese poetry". In fact, what would come second would be a book - [[A Mensagem]]
 
 In school's language classes, it's mandatory to analyse and "interpret" around 123 out of 1102 stanzas of the epic poem. Yet not once, do we reflect upon the underlines we are actually reading. 
 
