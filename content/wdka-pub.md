@@ -12,3 +12,4 @@ I will begin by explaining how Portugal played a massive role in the transatlant
 
 ## How are narratives of colonialism celebrated within Portuguese culture?
 
+(mention which prototypes you are writing - proposition, invocation, ....)

@@ -11,16 +11,17 @@ tags:
   - ruins
 bib: Camões, L., 2000, "Os Lusíadas", 4th ed, Preface by Álvaro Júlio da Costa Pimpão, Presentation by António Pinheiro de Castro, Instituto Camões, Ministério dos Negócios Estrangeiros.
 ---
-Written by Luís Vaz de Camões (1524-1580). He began writing in 1550 and it was published in 1572. D. Sebastian (1554) became king in 1557 and took control of the throne in 1568 (14 years old). When he went to North Africa in 1578, he was 24. Sebastian’s disastrous campaign led to Portugal’s decline and eventual annexation by Spain in 1580 (when Camões died).
+Written by [[Luís de Camões]] (1524-1580). He began writing in 1550 and it was published in 1572.  Sebastian (1554) became king in 1557 and took control of the throne in 1568 (14 years old). When he went to North Africa in 1578, he was 24. Sebastian’s disastrous campaign led to Portugal’s decline and eventual annexation by Spain in 1580 (when Camões died).
+
+**The journey to India was as follows:**
+Leaves Lisbon: July 1497
+Arrives to Calecute: May 1498
+Returns to Lisbon: September 1499
 
 ![[Pasted image 20250328173226.png]]
 
 ![[Pasted image 20250324184245.png]]
 
-The journey to India was as follows:
-Leaves Lisbon: July 1497
-Arrives to Calecute: May 1498
-Returns to Lisbon: September 1499
 
 ![[Pasted image 20250324184328.png]]
 
@@ -35,15 +36,13 @@ The poet begins his poem by ==stating what he intends to do== and then indicatin
 ==The poet dedicates his work to King Sebastian.== Making this dedication accentuates the nationalism embedded in the work, yet it also reflects the status of the artist who is economically dependent on a patron, a protector.
 Camões saw King Sebastian as the last hope for Portugal’s empire, while at the same time, expressing deep anxieties about its decline. He was loyal to the monarchy but aware of the realities of the time.
 
-Why dedicate _Os Lusíadas_ to King Sebastian?
+**Why dedicate _Os Lusíadas_ to King Sebastian?**
 
-- **Patronage and Recognition** – dedicating work to a monarch to secure royal favours and financial support. Camões, had spent years in poverty and exile, and probably needed recognition from the young king.
+Camões likely dedicated his work to King Sebastian for patronage, seeking royal favours and financial support after years of difficulties. He also held some hope that the young king would restore Portugal's glory, and viewed him as a potential saviour of the Portuguese empire. Thus, _Os Lusíadas_ served as a call to action, urging the king to govern wisely and avoid the pitfalls of corruption and greed observed in past governments.
 
-- **Hope in a new Ruler** – Sebastian became king in 1557 as a child, and he was seen by many as the potential saviour of Portugal and its colonial ambitions. Camões, despite his cynicism, likely wanted to inspire the king to reclaim the Portugal’s former glory.
+**Why was the Portuguese empire declining?**
 
-- **A Call to Action** – Throughout the book, Camões celebrates Portugal’s past but also warns about the government's corruption and greed. It seemed like he was trying to urge the new king to lead wisely and avoid the mistakes of his predecessors.
-
-Why was the Portuguese empire declining?
+Portugal's empire was big for the country's size, stretching from Brasil to Africa and Asia, exacerbated by corruption and poor leadership, it relied a lot on colonial wealth rather than internal production. External threats from rivals like Spain, the Ottomans, and especially the Dutch, further challenged its dominance. Internally, Camões criticized the ruling class's moral decline, a corruption he personally experienced through imprisonment in Goa. King Sebastian's ill-fated North African crusade ultimately sealed the empire's tragic decline.
 
 - **Overextension and economic strain** – Portugal’s empire was vast, stretching from Brasil to Africa and Asia, but maintaining it was costly. Corruption, poor leadership, and the reliance on colonial wealth rather than internal production weakened the economy.
 
