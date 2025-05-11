@@ -122,3 +122,6 @@ https://www.museudoaljube.pt/
 Carta Orgânica do Império Colonial Português
 
 https://paulomoreira.net/cultural/angola-not-small-country/
+
+https://youtu.be/SOLFp8eap1U Fado dancado, Lundum
+https://amensagem.pt/2023/12/08/tour-batoto-yetu-unveils-african-stories-lisbon/

@@ -23,6 +23,6 @@ link: https://www.rchunitau.com.br/index.php/rch/article/view/744
 
 =="Com a vandalização da estátua do Padre António Vieira, em Lisboa, a estar na ordem do dia, o que tinha sido aplaudido por parte daqueles que sempre disseram que a estátua era anacrónica pois, tendo sido inaugurada em 2017, mostrava Vieira rodeado de pequenos índios, o que evidenciava um paternalismo associado à época colonial portuguesa.== (...) Defendeu que a história deve ser assumida como um todo, referindo-se em particular à estátua de Vieira. Considerou ainda que Portugal tem sectores racistas e xenófobos, mas defendeu que a maneira de lutar contra as discriminações “não é estar a destruir história, é fazer história diferente”"
 
-"“Orgulhosamente português e por isso universalista. Convictamente católico e por isso dan- do primazia à dignidade da pessoa, ecuménico e contrário a um Estado confessional”"
+"“Orgulhosamente português e por isso universalista. Convictamente católico e por isso dando primazia à dignidade da pessoa, ecuménico e contrário a um Estado confessional”"
 
 ![[744-Texto do artigo-2955-1-10-20210809 1.pdf]]
