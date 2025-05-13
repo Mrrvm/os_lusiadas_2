@@ -60,7 +60,7 @@ In school's Portuguese classes, it's mandatory to "analyse" around 123 out of 11
 
 - [[Bárbora e Jau]]
 
-- The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
+- Example The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
 
 Therefore, while there is numerous works tackling this very urgent concern, 
 
@@ -89,7 +89,7 @@ references: [[The Power and Limits of Cultural Myths in Portugal’s Search for 
  
 ## Rhizomatic methodologies for rewriting
 
-Obviously, as a white Portuguese person, the idea of "retelling our history" can become quite biased and can looked quite dangerous from afar, given the point I am trying to make. Thus, the methodology use is of utmost importance. Thus, I intend to guide this process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
+As a white Portuguese person, the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology use is of utmost importance in this work. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
 ### Why the rhizome matters?
 references: [[Rhizome - Gille Deleuze]]
 ### What is experimental writing and how can it be applied as tool in this context?
