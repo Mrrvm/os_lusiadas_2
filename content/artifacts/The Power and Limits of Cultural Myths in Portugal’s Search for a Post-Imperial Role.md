@@ -26,6 +26,20 @@ when Salazar responded militarily to the first major anti-colonial uprising in A
 
 "And yet, one can find traces of a strong attachment to the myth of Portugal’s special relationship with Africa – no longer as an imperial metropole but as a particularly able ‘bridge-building’ state – even among more pro- European elites"
 
+"One of the concrete milestones of this Portuguese policy of détente towards Africa was the unanimous support by the PALOP to the successful Portuguese candidacy for a seat on the UN Security Council in 1982 (...)"
+
+"The Cold War, the near economic collapse and complex politics of these former colonies should have led Portuguese decision-makers – if following simply a cold Realist logic – to have given-up on the possibility or interest of strong post- colonial relations. But this was very often and very widely perceived, as we saw in previous pages, as a family relationship, often tense, but naturally intense, and not optional."
+
+"Even in a period often presented as entirely dominated by the prospect and challenges of European integration, therefore, we cannot but be struck by the refashioning of old modes of thinking and the persistent preference in Portuguese foreign policy for trying to maintain a Portuguese influence in its former African colonies. Equally striking is the prevalence in Portuguese diplomatic discourse and practice of symbols, memories and myths associated with the Empire (although refashioned, as demonstrated by the disappearance of the word ‘empire’ from public discourse and its replacement by more more positive terms such as Overseas Expansion and Discoveries)."
+
+"The more Portugal was becoming fully a part of the EEC/EU, the more Portuguese elites seemed to identify with a certain Lusotropical vision of the Portuguese imperial past, with a significant impact in the discourse and practice of Portuguese foreign policy to fit a re-constructed identity."
+
+"The Jerónimos Monastery, burial site of the kings and heroes of the golden period of Portuguese maritime discoveries, was chosen as the place for this symbolic act that marked the integration of post-authoritarian Portugal into the community of Western European democracies."
+
+"==The re-engagement with Portuguese-speaking Africa seems to be both a way to address the delayed identity crisis that followed decolonisation, and a reflection of an increasing confidence by more Realpolitiker pro-Western Portuguese elites that this Lushopone identity was not incompatible with Portugal becoming a full member of the EEC, in fact it could provide additional leverage in Brussels.=="
+
+==‘the April Revolution was not aimed at putting an end to the image of Portugal as an exemplary coloniser, but rather to fit within it an equally exemplary Portuguese decolonisation.’==
+
 ![[Bruno_REIS_Pedro_OLIVEIRA_IHR_2017.pdf]]
 
 
