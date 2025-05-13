@@ -3,7 +3,6 @@ tags:
   - national-identity
   - text
   - book
-link: https://api.pageplace.de/preview/DT0400.9781136769313_A23880051/preview-9781136769313_A23880051.pdf
 bib: "Bhabha, Homi K., Nation and Narration. London: Routledge, 1990."
 ---
 ==Nations are stories and stories can be retold==
@@ -19,10 +18,16 @@ Gaul, Spain and Italy, prior to their absorption by the Roman Empire, were colle
 I would even go so far as to say historical error, is a crucial factor in the creation of a nation, which is why progress in historical studies often constitutes a danger for the principle of nationality. Indeed, historical enquiry brings to light deeds of violence which took place at the origin of all political formations, even of those whose consequences have been altogether beneficial."
 
 **The National Longing for Form** - **Timothy Brennan**
+"We live in a world obsessed with national pride, and rampant with boundary wars, with nationalism on the banner of countless parties, no matter how conflicting their place or destination.
+(...)
+“If one inclusive sense can be given, it is Malinowski's, where: ==myth acts as a charter for the present-day social order; it supplies a retrospective pattern of moral values, sociological order, and magical belief, the function of which is to strengthen tradition and endow it with a greater value and prestige by tracing it back to a higher, better, more supernatural reality of initial events.==
+”
 
+Excerpt From
+Nation and Narration
+Bhabha, Homi K.; 
+This material may be protected by copyright.
 
 **DissemiNation**
 
 **The Other Question**
-
-![[preview-9781136769313_A23880051.pdf]]
