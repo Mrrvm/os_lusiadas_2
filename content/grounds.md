@@ -46,7 +46,7 @@ Gilberto Freyre, the developer of this theory, was invited by the Portuguese gov
 ### Language and things
 
 In 2016, in a newspaper, our President claims we, as a nation, have an exceptional ability to learn and include others, creating bridges between cultures, civilisations and continents.
-In 2017, in a visit to Senegal, he recognises slavery's injustice and consequentially affirms that our country abolished it in 1761 (a lie pushed as anti-racist discourse in both school and day-to-day conversations). This generated protests that called for the President to apologise for slavery in the name of the country, which he still has not. In 2019, in the Day of Portugal (the day that commemorates the death of [[Luís de Camões]]), Marcelo again insists that we are a nation at ease with its past, actively constructing the present and arming the future, encompassed by many 'Portugals' that extend beyond its geographic boundaries - a rhetoric similar to 1934's propaganda: [[grounds#^figpequeno]].[^marcelo] 
+In 2017, in a visit to Senegal, he recognises slavery's injustice and consequentially affirms that our country abolished it in 1761 (a lie pushed as anti-racist discourse in both school and day-to-day conversations). This generated protests that called for the President to apologise for slavery in the name of the country, which he still has not. In 2019, in the Day of Portugal (the day that commemorates the death of [[Luís de Camões]]), Marcelo again insists that we are a nation at ease with its past, actively constructing the present and arming the future, encompassed by many 'Portugals' that extend beyond its geographic boundaries. In 2018, in Boston, he states that the USA is a big country, but that Portugal is even bigger, that in fact we have the biggest country in the world. This rhetoric could be comparable to 1934's propaganda: [[grounds#^figpequeno]].[^marcelo] 
 
 In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an astrolabe to the founder of the conference, pointing out that "Lisbon was the capital of the world five centuries ago, (...) From Lisbon departed a great adventure that connected the human race. . . . Today it is you, the engineers, the entrepreneurs, the creators, the innovators, the start-ups, all the companies".[^websummit] 
 
@@ -189,7 +189,7 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^rebelo]: Wikipédia, a enciclopédia livre. "Baltazar Rebelo de Sousa." Last modified March 28, 2023. [https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa](https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa)
 
-[^marcelo]: [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo3]]
+[^marcelo]: [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo3]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo4]]
 
 [^websummit]: [[Expo 98 and the Memorialization of the Empire#^websummit]]
 
