@@ -73,7 +73,7 @@ Therefore, while there is numerous lusophone[^lusophone] work tackling this very
 - to exhibitions (e.g. [[Unearthing memories]],  [[Problemas do Primitivismo – a partir de Portugal]]) 
 - and other artifacts (e.g. [[Jornal O negro]], Hangar, Bazofo & Dentu Zona, ...), 
 
-I feel like I can make a meaningful contribution by re-writing this treasured and deeply cherished book in order to retell our history, revisit colonisation and its perpetual violence.
+I feel like I can make a meaningful contribution by re-writing this treasured and deeply cherished book in order to retell our history, revisit colonisation and its perpetual violence, through the writings of de-colonial thinkers and makers.
 
 ## What is national identity (a nation) and how does it relate to these narratives?
 
