@@ -62,7 +62,7 @@ In school's Portuguese classes, it's mandatory to "analyse" around 123 out of 11
 
 - The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
 
-Therefore, while there is numerous lusophone[^lusophone] work tackling this very urgent concern, 
+Therefore, while there is numerous works tackling this very urgent concern, 
 
 - from texts (e.g. by [[Amílcar Cabral]], [[Elsa Peralta]], [[Ana Balona de Oliveira]], [[Aurora Almada e Santos]], [[Joacine Katar Moreira]], Eduardo Lourenço, Cristina Roldão, ...), 
 - to books (e.g. [[Memórias da plantação]], [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]] and the remaining series, [[Epistemologias do sul - Boaventura de Sousa Santos]], [[Volta para tua terra]], ...), 
@@ -205,7 +205,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [^websummit]: [[Expo 98 and the Memorialization of the Empire#^websummit]]
 
 [empire]: The first four would be the Assyrian, Persian, Greek, and Roman
-
-[lusophone]: COMPLETE
 
 [batoto]: "Lisbon Inaugurates Street Signs African History," _A Mensagem_, January 13, 2024, [https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/](https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/)

@@ -34,7 +34,5 @@ The 'national idea', in other words, flourished in the soil of foreign conquest.
 (...)
 According to Kohn, modern nationalism took three concepts from Old Testament mythology: 'the idea of a chosen people, the emphasis on a common stock of memory of the past and of hopes for the future, and finally national messianism'.48 If the concept of superiority ('chosen people') characterizes the outlook of the European adventurer, it is the Hebraic underdog, the sense of being an outcast people, that characterizes the other
 
-
 **DissemiNation**
 
-**The Other Question**
