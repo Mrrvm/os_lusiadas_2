@@ -24,8 +24,15 @@ I would even go so far as to say historical error, is a crucial factor in the cr
 (...)
 the claims of fiction on national thought, saying simply that 'The nation ... is an abstraction, an allegory, a myth that does not correspond to a reality that can be scientifically defined.'17 Race, geography, tradition, language, size, or some combination of these seem finally insufficient for determining national essence, and yet people die for nations, fight wars for them, and write fictions on their behalf.
 (...)
-“Read in isolation, the novel was nevertheless a mass ceremony; one could read alone with the conviction that millions of others were doing the same, at the same time.”
-
+Read in isolation, the novel was nevertheless a mass ceremony; one could read alone with the conviction that millions of others were doing the same, at the same time.
+(...)
+The nation-state is not only the by-product of the conditions created by European exploration; it was, more or less from the start, forged in acts of separation from the European centers of Madrid and London.
+(...)
+European nationalism itself was motivated by what Europe was doing in its farflung dominions.”
+(...)
+The 'national idea', in other words, flourished in the soil of foreign conquest. 
+(...)
+According to Kohn, modern nationalism took three concepts from Old Testament mythology: 'the idea of a chosen people, the emphasis on a common stock of memory of the past and of hopes for the future, and finally national messianism'.48 If the concept of superiority ('chosen people') characterizes the outlook of the European adventurer, it is the Hebraic underdog, the sense of being an outcast people, that characterizes the other
 
 
 **DissemiNation**
