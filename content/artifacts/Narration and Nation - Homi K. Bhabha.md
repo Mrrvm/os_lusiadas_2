@@ -22,7 +22,10 @@ I would even go so far as to say historical error, is a crucial factor in the cr
 (...)
 “If one inclusive sense can be given, it is Malinowski's, where: ==myth acts as a charter for the present-day social order; it supplies a retrospective pattern of moral values, sociological order, and magical belief, the function of which is to strengthen tradition and endow it with a greater value and prestige by tracing it back to a higher, better, more supernatural reality of initial events.==
 (...)
-the claims of fiction on national thought, saying simply that 'The nation ... is an abstraction, an allegory, a myth that does not correspond to a reality that can be scientifically defined.'17 Race, geography, tradition, language, size, or some combination of these seem finally insufficient for determining national essence, and yet people die for nations, fight wars for them, and write fictions on their behalf.”
+the claims of fiction on national thought, saying simply that 'The nation ... is an abstraction, an allegory, a myth that does not correspond to a reality that can be scientifically defined.'17 Race, geography, tradition, language, size, or some combination of these seem finally insufficient for determining national essence, and yet people die for nations, fight wars for them, and write fictions on their behalf.
+(...)
+“Read in isolation, the novel was nevertheless a mass ceremony; one could read alone with the conviction that millions of others were doing the same, at the same time.”
+
 
 
 **DissemiNation**
