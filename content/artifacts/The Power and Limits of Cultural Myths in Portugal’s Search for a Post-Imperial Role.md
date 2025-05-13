@@ -24,7 +24,7 @@ when Salazar responded militarily to the first major anti-colonial uprising in A
 "What emerged instead as the dominant memory of Portuguese decolonization was an ambiguous, somewhat contradictory narrative, a collage of old myths of empire and ==new myths of decolonisation linked to a Portuguese identity that was only partly refashioned==. (...)
 'now that political power in Portugal is at the service of the less privileged classes, committed to a progressive policy of national independence, our historical role has changed radically. Portugal is finally apt, thanks to a decolonisation carried out without any neo-colonial ambitions, to act as the harbinger of a new model relationship between the core countries in terms of wealth and power and the poor exploited nations of the Third World.' (...) ==Portuguese foreign policy, towards the Global South in general and some specific areas in particular, was not simply ideology-driven. It also had a strong dimension of cultural identification==."
 
-
+"And yet, one can find traces of a strong attachment to the myth of Portugal’s special relationship with Africa – no longer as an imperial metropole but as a particularly able ‘bridge-building’ state – even among more pro- European elites"
 
 ![[Bruno_REIS_Pedro_OLIVEIRA_IHR_2017.pdf]]
 
