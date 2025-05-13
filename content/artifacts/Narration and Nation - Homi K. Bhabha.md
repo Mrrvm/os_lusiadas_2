@@ -6,6 +6,8 @@ tags:
 link: https://api.pageplace.de/preview/DT0400.9781136769313_A23880051/preview-9781136769313_A23880051.pdf
 bib: "Bhabha, Homi K., Nation and Narration. London: Routledge, 1990."
 ---
+==Nations are stories and stories can be retold==
+
 **Introduction: narrating the nation**
 "Nations, like narratives, lose their origins in the myths of time and only fully realize their horizons in the mind’s eye. Such an image of the nation — or narration — might seem impossibly romantic and excessively metaphorical, but it is from those traditions of political thought and literary language that the nation emerges as a powerful historical idea in the west."
 
@@ -16,6 +18,15 @@ Europe is so divided that any bid for universal domination would very rapidly gi
 (...)
 Gaul, Spain and Italy, prior to their absorption by the Roman Empire, were collec tions of clans, which were often allied among themselves but had no central institutions and no dynasties.
 (...)
-When conqueror or conquered have the same religion or, rather, when the conqueror adopts the religion o f the conquered, the Turkish system — that is, the absolute distinction between men in terms of their religion — can no longer arise. The second circumstance was the forgetting, by the conquerors, of their own language. "
+When conqueror or conquered have the same religion or, rather, when the conqueror adopts the religion o f the conquered, the Turkish system — that is, the absolute distinction between men in terms of their religion — can no longer arise. The second circumstance was the forgetting, by the conquerors, of their own language. 
+(...)
+I would even go so far as to say historical error, is a crucial factor in the creation of a nation, which is why progress in historical studies often constitutes a danger for the principle of nationality. Indeed, historical enquiry brings to light deeds o f violence which took place at the origin o f all political formations, even of those whose conse quences have been altogether beneficial. "
+
+**The National Longing for Form** - **Timothy Brennan**
+
+
+**DissemiNation**
+
+**The Other Question**
 
 ![[preview-9781136769313_A23880051.pdf]]
