@@ -85,8 +85,8 @@ references: [[Hegel's Lectures on Aesthetics]]
 
 ### Matar a saudade de fome [^13]
 (myth making in Lusiadas and mensagem)
-references: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]], [[“Portugality” - a nothingness that is nothing]], [[An analysis of the Portuguese destiny - Eduardo Lourenço]]
- 
+references: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]], 
+and [[O Labirinto da Saudade - Eduardo Lourenço]]
 ## Rhizomatic methodologies for rewriting
 
 As a white Portuguese person, the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology use is of utmost importance in this work. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
