@@ -17,7 +17,7 @@ tags:
 
 "O viver nacional (...) orienta-se nessa época para um futuro de antemão utópico pela mediação primordial, obsessiva, do passado. Descontentes com o presente, mortos como existência nacional imediata, nós começámos a sonhar simultaneamente o futuro e o passado"
 
-""
+"A tentativa de recriar uma alma à século xvi não foi longe: um excesso de lógica nas suas ambições, legítimas mas incómodas, ministraria ao mundo europeu a prova absoluta da nossa absoluta subalternidade."
 
 
 ![[o-labirinto-da-saudade-9789722004336.pdf]]
