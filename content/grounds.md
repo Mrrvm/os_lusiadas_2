@@ -79,12 +79,12 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
-My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during the dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (one of 2.5M others), avoiding military duties. The 13 years of war drained the country by 1974, with 40% of the national budget going on armament and 40% of the population illiterate.[^25abril]
+My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during the dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (a french stereotype), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal 
 
 Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
 
-The former colonies' natural resources were crucial to enrich the country's elites, specially Angola, Mozambique and Brasil. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising these relationships for additional leverage when integrating European Union.
+The former colonies' natural resources were crucial to enrich the country's elites. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising these relationships for additional leverage when integrating European Union.
 
 
 "Salazar was attuned to the “vision thing”, to this power of culture, claiming: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’"
@@ -221,4 +221,4 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [cia]: [[The outlook for portugal - CIA]]
 
-[25abril]: Alan Woods. “Portuguese Revolution 1974,” _In Defence of Marxism_, accessed May 15, 2025, [https://marxist.com/portuguese-revolution1974.htm](https://marxist.com/portuguese-revolution1974.htm).
+[25abril]: “Efeitos humanos e económicos da Guerra Colonial,” _RTP Ensina_, last modified 2021, accessed May 15, 2025, [https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial](https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial).
