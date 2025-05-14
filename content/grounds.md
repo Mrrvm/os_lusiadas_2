@@ -79,6 +79,8 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
+My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during the dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (one of 2.5M others), avoiding military duties. The 13 years of war drained the country by 1974, with 40% of the national budget going on armament and 40% of the population illiterate.[^25abril]
+
 Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
 
@@ -218,3 +220,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [caledonia]:  *"France's Colonial Strategy Blamed for Division in Troubled New Caledonia," Al Jazeera, August 1, 2024, https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia* and *"Insult to All Africans': Macron Under Fire from Burkina Strongman," APA News, January 14, 2025, [https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/](https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/)*
 
 [cia]: [[The outlook for portugal - CIA]]
+
+[25abril]: Alan Woods. “Portuguese Revolution 1974,” _In Defence of Marxism_, accessed May 15, 2025, [https://marxist.com/portuguese-revolution1974.htm](https://marxist.com/portuguese-revolution1974.htm).
