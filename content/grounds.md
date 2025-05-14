@@ -10,8 +10,8 @@ I intend to investigate how I can rewrite [[Os Lusíadas]], using experimental w
 
 I will begin by explaining how Portugal played a massive role in the transatlantic enslaved trade until the last century, how colonial violence has been omitted in the last decades and in which ways colonialism is still celebrated in Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Further on I will shortly dive in the concept of national identity and nation, in order to understand its relation to epic poems and its tumultuous case within Portugal. Lastly, I analyse experimental writing in this context, presenting the methodologies I am using for the re-writing of the original book and their potential to be rhizomatic, and explain how I intend to carry both transparency and opacity along the project.
 
-## What are the narratives of colonialism celebrated within Portuguese culture?
-### The role of Portugal in colonialism
+## Narratives of colonialism celebrated within Portuguese culture
+### The role of Portugal
 
 Not considering the current neocolonialist empires, Portugal was both the first and last European empire.
 
@@ -75,8 +75,7 @@ Therefore, while there is numerous works tackling this very urgent concern,
 
 I feel like I can make a meaningful contribution by re-writing this treasured and deeply cherished book in order to retell our history, revisit colonisation and its perpetual violence, through the writings of de-colonial thinkers and makers.
 
-## What is national identity (a nation) and how does it relate to these narratives?
-
+## The mythification of national identity
 ### Nation as defined per myth
 references: [[Narration and Nation - Homi K. Bhabha]]
 
@@ -87,6 +86,7 @@ references: [[Hegel's Lectures on Aesthetics]]
 (myth making in Lusiadas and mensagem)
 references: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]], 
 and [[O Labirinto da Saudade - Eduardo Lourenço]]
+
 ## Rhizomatic methodologies for rewriting
 
 As a white Portuguese person, the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology use is of utmost importance in this work. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
