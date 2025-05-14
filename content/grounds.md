@@ -76,6 +76,8 @@ Therefore, while there is numerous works tackling this very urgent concern,
 I feel like I can make a meaningful contribution by re-writing this treasured and deeply cherished book in order to retell our history, revisit colonisation and its perpetual violence, through the writings of de-colonial thinkers and makers.
 
 ## The mythification of national identity
+
+The traces of colonialism in other European countries, as well as current neocolonialist practices, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso (ADD REF). Yet, they feel different to Portuguese efforts. For an empire who claimed to have been so large and impactful, becoming one of EU's poorest countries certainly makes it look like a myth. And in fact, the empire has been falling since the 1500s. 
 ### Nation as defined per myth
 references: [[Narration and Nation - Homi K. Bhabha]]
 
