@@ -19,5 +19,6 @@ tags:
 
 "A tentativa de recriar uma alma à século xvi não foi longe: um excesso de lógica nas suas ambições, legítimas mas incómodas, ministraria ao mundo europeu a prova absoluta da nossa absoluta subalternidade."
 
+"(...) voltámos à costumada e agora voluntária e irrealística pose de nos considerarmos, por provincianice incurável ou despeito infantil, uma espécie de nação idílica sem igual. O fim do século xIx, por reacção ao criticismo devastador e impotente da década de Setenta, mas também como resposta à agressão do monstro civilizado (Inglaterra) verá eclodir a mais nefasta flor do amor pátrio, a do misticismo nacionalista, fuga estelar a um encontro com a nossa autêntica realidade, (...) O Saudosismo será, mais tarde, a tradução poético- ideológica desse nacionalismo místico (...)"
 
 ![[o-labirinto-da-saudade-9789722004336.pdf]]
