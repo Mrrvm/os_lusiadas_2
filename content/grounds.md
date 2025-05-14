@@ -77,16 +77,15 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 ## The mythification of national identity
 
-The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claims to have been so large, becoming one of EU's poorest countries certainly makes it look more like a myth. 
+The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
 Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
 
-The former colonies' natural resources were crucial to enrich the country's elites, specially Angola, Mozambique and Brasil. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising its relationships for additional leverage while integrating European Union.
+The former colonies' natural resources were crucial to enrich the country's elites, specially Angola, Mozambique and Brasil. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising these relationships for additional leverage when integrating European Union.
 
-ref: [[The outlook for portugal - CIA]]
 
-"Salazar was attuned to the “vision thing”, to this power of culture, claiming: ‘==this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.==’"
+"Salazar was attuned to the “vision thing”, to this power of culture, claiming: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’"
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
 
 Tornou-se então claro que a consciência nacional (nos que a podiam ter) que a nossa razão de ser, a raiz de toda a esperança, era o termos sido. E dessa ex-vida são Os Lusíadas a prova do fogo.
