@@ -28,6 +28,6 @@ tags:
 
 "Não se percebeu nada do espírito do antigo regime e do seu êxito histórico quando não se vê até que ponto ele foi ==a mais grandiosa e sistemática exploração do fervor nacionalista de um povo que precisa dele como de pão para a boca em virtude da distância objectiva que separa a sua mitologia da antiga nação gloriosa da sua diminuida realidade presente.=="
 
-
+"É sob o seu império ou na sua movência que se cria em relação à clássica imagem de Portugal como país cristão, harmonioso, paternal e salazarista, suave, guarda-avançada da civilização ocidental antimarxista, ==uma outra-imagem que não é exactamente uma contra-imagem, mas uma complexa distorção desse protótipo que nalguns aspectos se apresenta como o pólo oposto dela== (sobretudo pela «ocultação» do carácter repressivo de índole cristã). ==Na realidade, a oposição ideológico-cultural ao antigo regime não se apresentou nunca== (...)"
 
 ![[o-labirinto-da-saudade-9789722004336.pdf]]
