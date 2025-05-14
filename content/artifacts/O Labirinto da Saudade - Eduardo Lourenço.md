@@ -13,4 +13,11 @@ tags:
 
 "Sessenta anos em contacto directo (e na economia invisível da história porventura frutuoso) com o interlocutor imediato de um viver que foi e é sempre múltiplo diálogo mas que nós teimamos em contemplar como solilóquio, permitiram, enfim, que nos descobríssemos às avessas, que sentíssemos na carne que éramos (também) um povo naturalmente destinado à subalternidade."
 
+"Tornou-se então claro que a consciência nacional (nos que a podiam ter) que a nossa razão de ser, a raiz de toda a esperança, era o termos sido. E dessa ex-vida são Os Lusíadas a prova do fogo."
+
+"O viver nacional (...) orienta-se nessa época para um futuro de antemão utópico pela mediação primordial, obsessiva, do passado. Descontentes com o presente, mortos como existência nacional imediata, nós começámos a sonhar simultaneamente o futuro e o passado"
+
+""
+
+
 ![[o-labirinto-da-saudade-9789722004336.pdf]]
