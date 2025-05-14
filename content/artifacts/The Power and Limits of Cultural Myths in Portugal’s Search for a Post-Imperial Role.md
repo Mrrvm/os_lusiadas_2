@@ -8,7 +8,7 @@ link: https://run.unl.pt/bitstream/10362/32015/1/Bruno_REIS_Pedro_OLIVEIRA_IHR_2
 
 "In Portugal the myth of empire in its late colonial stage was developed from pre-existing cultural materials by the authoritarian nationalism of the Estado Novo regime led by Oliveira Salazar (head of government from 1932 to 1968) around the slogan that “Portugal was not a small country”" (see [[Marcas de Lusotropicalismo no Marcelo]])
 
-"Salazar was attuned to the “vision thing”, to this power of culture, claiming: ‘==this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.==’"
+"Salazar was attuned to the “vision thing”, to this power of culture, claiming: ‘==this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.==’"^salazar
 
 "The mainstream vision in Portuguese political culture of the country as an overseas power legitimized a massive mobilization in a violent , intransigent response to a perceived existential threat to Portuguese identity. ==As stated in a key article of Portuguese constitutional law it was ‘part of the organic essence of the Portuguese Nation to pursue the historical mission of possessing and colonizing overseas territories, and civilizing their native populations’.== (...)
 when Salazar responded militarily to the first major anti-colonial uprising in Angola ‘he had with him the majority of the [Portuguese] people, including some of his most prestigious political adversaries’"[^constituion]
