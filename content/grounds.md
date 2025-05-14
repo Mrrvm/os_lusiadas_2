@@ -77,11 +77,14 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 ## The mythification of national identity
 
-The traces of colonialism in other European countries, as well as current neocolonialist practices, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso (ADD REF). Yet, they feel different to Portuguese efforts. For an empire who claimed to have been so large and impactful, becoming one of EU's poorest countries certainly makes it look like a myth. And in fact, the empire has been falling since the 1500s. 
-### Nation as defined per myth
-references: [[Narration and Nation - Homi K. Bhabha]]
+The traces of colonialism in other European countries, as well as current neocolonialist practices, are numerous, for example the 2024's unrest in New Caledonia[^caledonia], or Macron's recent statements regarding Burkina Faso (ADD REF). Yet, they feel different to Portuguese efforts. For an empire who claimed to have been so large and impactful, becoming one of EU's poorest countries certainly makes it look like a myth. 
 
-### How do epic poems solidify the myth?
+The Portuguese empire was made of trade posts, rather than 
+
+
+[[The outlook for portugal - CIA]]
+### Nations and their epic myths 
+references: [[Narration and Nation - Homi K. Bhabha]]
 references: [[Hegel's Lectures on Aesthetics]]
 
 ### Matar a saudade de fome [^13]
@@ -209,3 +212,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [empire]: The first four would be the Assyrian, Persian, Greek, and Roman
 
 [batoto]: "Lisbon Inaugurates Street Signs African History," _A Mensagem_, January 13, 2024, [https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/](https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/)
+
+[caledonia]:  "France's Colonial Strategy Blamed for Division in Troubled New Caledonia," _Al Jazeera_, August 1, 2024, https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia
