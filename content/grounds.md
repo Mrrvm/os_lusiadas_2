@@ -77,7 +77,7 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 ## The mythification of national identity
 
-The traces of colonialism in other European countries, as well as current neocolonialist policies regarding former colonies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claimed to have been so large and impactful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
+The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claimed to have been so large and impactful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
 Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
