@@ -86,12 +86,13 @@ ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-
 
 The former colonies' natural resources were crucial to enrich the country's elites. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising these relationships for additional leverage when integrating European Union.
 
-Looking through this prism, Eduardo Lourenço's believes start to make more sense - for the last centuries, Portugal has been living an inferiority complex, trying to convince itself out of its subaltern position in Europe. Turning to a myth of a past and glorious empire to compensate. You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in [[Os Lusíadas]], where this fictional journey is shouted into culture as a make-believe
+Looking through this prism, Eduardo Lourenço's believes start to make more sense - for the last centuries, Portugal has been living an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity and turning to a myth of a past and glorious empire to compensate, in a longing to be what it "once was". You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose literal basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is aggressively shouted as a fundamental pillar of Portuguese culture. 
 
-Tornou-se então claro que a consciência nacional (nos que a podiam ter) que a nossa razão de ser, a raiz de toda a esperança, era o termos sido. E dessa ex-vida são Os Lusíadas a prova do fogo.
-ref: [[O Labirinto da Saudade - Eduardo Lourenço]]
+ref: [[O Labirinto da Saudade - Eduardo Lourenço]] 
 ### Nations and their epic myths 
-ref: [[Narration and Nation - Homi K. Bhabha]]
+
+Now, this book could be anything, it could be a novel (ref: [[Narration and Nation - Homi K. Bhabha]]), lyrical poetry, 
+
 ref: [[Hegel's Lectures on Aesthetics]]
 
 ## Rhizomatic methodologies for rewriting
