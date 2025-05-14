@@ -30,4 +30,8 @@ tags:
 
 "É sob o seu império ou na sua movência que se cria em relação à clássica imagem de Portugal como país cristão, harmonioso, paternal e salazarista, suave, guarda-avançada da civilização ocidental antimarxista, ==uma outra-imagem que não é exactamente uma contra-imagem, mas uma complexa distorção desse protótipo que nalguns aspectos se apresenta como o pólo oposto dela== (sobretudo pela «ocultação» do carácter repressivo de índole cristã). ==Na realidade, a oposição ideológico-cultural ao antigo regime não se apresentou nunca== (...)"
 
+"Mas marcas duradouras na alma de quem «teve» quinhentos anos de Império nada, ou só a ficção encarecente que nOs Lusíadas ecoa, não como mudadora da sua alma, mas como simples nomenclatura extasiada de terras e lugares que na verdade, salvo Goa, nunca habitámos como senhores delas."
+
+"Chorámos na praça pública, não por riquezas perdidas que eram literalmente fictícias, mas por nos darmos conta sem remissão que não pesávamos nada na balança da Europa civilizada e imperialista."
+
 ![[o-labirinto-da-saudade-9789722004336.pdf]]
