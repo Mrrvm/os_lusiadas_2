@@ -77,9 +77,9 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 ## The mythification of national identity
 
-The traces of colonialism in other European countries, as well as current neocolonialist practices, are numerous, for example the 2024's unrest in New Caledonia[^caledonia], or Macron's recent statements regarding Burkina Faso (ADD REF). Yet, they feel different to Portuguese efforts. For an empire who claimed to have been so large and impactful, becoming one of EU's poorest countries certainly makes it look like a myth. 
+The traces of colonialism in other European countries, as well as current neocolonialist policies regarding former colonies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claimed to have been so large and impactful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
-The Portuguese empire was made of trade posts, rather than 
+The former colonies' natural resources were crucial to enrich the country's elites. But Portugal was willing to go beyond - it gripped hard to these territories even when they weren't profitable
 
 
 [[The outlook for portugal - CIA]]
@@ -211,6 +211,7 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [empire]: The first four would be the Assyrian, Persian, Greek, and Roman
 
-[batoto]: "Lisbon Inaugurates Street Signs African History," _A Mensagem_, January 13, 2024, [https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/](https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/)
+[batoto]: *"Lisbon Inaugurates Street Signs African History," A Mensagem, January 13, 2024, [https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/](https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/)*
 
-[caledonia]:  "France's Colonial Strategy Blamed for Division in Troubled New Caledonia," _Al Jazeera_, August 1, 2024, https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia
+[caledonia]:  *"France's Colonial Strategy Blamed for Division in Troubled New Caledonia," Al Jazeera, August 1, 2024, https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia* and *"Insult to All Africans': Macron Under Fire from Burkina Strongman," APA News, January 14, 2025, [https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/](https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/)*
+
