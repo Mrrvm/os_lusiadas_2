@@ -12,9 +12,9 @@ tags:
 
 "Da nossa intrínseca e gloriosa ficção Os Lusíadas são a ficção. Da nossa sonâmbula e trágica grandeza de um dia de cinquenta anos, ferida e corroída pela morte próxima, o poema é o eco sumptuoso e triste. Já se viu um poema épico assim tão triste, tão heroicamente triste ou tristemente heróico, simultaneamente sinfonia e requiem? O livro singular é o lençol de púrpura dos nossos deuses (heróis) mortos."
 
-"Sessenta anos em contacto directo (e na economia invisível da história porventura frutuoso) com o interlocutor imediato de um viver que foi e é sempre múltiplo diálogo mas que nós teimamos em contemplar como solilóquio, permitiram, enfim, que nos descobríssemos às avessas, que sentíssemos na carne que éramos (também) um povo naturalmente destinado à subalternidade."
+"Sessenta anos em contacto directo (e na economia invisível da história porventura frutuoso) com o interlocutor imediato de um viver que foi e é sempre múltiplo diálogo mas que nós teimamos em contemplar como solilóquio, permitiram, enfim, que nos descobríssemos às avessas, ==que sentíssemos na carne que éramos (também) um povo naturalmente destinado à subalternidade==."
 
-"Tornou-se então claro que a consciência nacional (nos que a podiam ter) que a nossa razão de ser, a raiz de toda a esperança, era o termos sido. E dessa ex-vida são Os Lusíadas a prova do fogo."
+"==Tornou-se então claro que a consciência nacional (nos que a podiam ter) que a nossa razão de ser, a raiz de toda a esperança, era o termos sido. E dessa ex-vida são Os Lusíadas a prova do fogo.=="
 
 "O viver nacional (...) orienta-se nessa época para um futuro de antemão utópico pela mediação primordial, obsessiva, do passado. Descontentes com o presente, mortos como existência nacional imediata, nós começámos a sonhar simultaneamente o futuro e o passado"
 
@@ -32,6 +32,6 @@ tags:
 
 "Mas marcas duradouras na alma de quem «teve» quinhentos anos de Império nada, ou só a ficção encarecente que nOs Lusíadas ecoa, não como mudadora da sua alma, mas como simples nomenclatura extasiada de terras e lugares que na verdade, salvo Goa, nunca habitámos como senhores delas."
 
-"Chorámos na praça pública, não por riquezas perdidas que eram literalmente fictícias, mas por nos darmos conta sem remissão que não pesávamos nada na balança da Europa civilizada e imperialista."
+"==Chorámos na praça pública, não por riquezas perdidas que eram literalmente fictícias, mas por nos darmos conta sem remissão que não pesávamos nada na balança da Europa civilizada e imperialista==."
 
 ![[o-labirinto-da-saudade-9789722004336.pdf]]

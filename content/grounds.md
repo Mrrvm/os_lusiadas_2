@@ -79,18 +79,21 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 The traces of colonialism in other European countries, as well as current neocolonialist policies regarding former colonies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claimed to have been so large and impactful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
-The former colonies' natural resources were crucial to enrich the country's elites. But Portugal was willing to go beyond - it gripped hard to these territories even when they weren't profitable
+Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
+ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
 
+The former colonies' natural resources were crucial to enrich the country's elites, specially Angola, Mozambique and Brasil. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power", and later instrumentalising its relationships for additional leverage when integrating European Union.
 
-[[The outlook for portugal - CIA]]
+ref: [[The outlook for portugal - CIA]]
+
+"Salazar was attuned to the “vision thing”, to this power of culture, claiming: ‘==this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.==’"
+ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
+
+Tornou-se então claro que a consciência nacional (nos que a podiam ter) que a nossa razão de ser, a raiz de toda a esperança, era o termos sido. E dessa ex-vida são Os Lusíadas a prova do fogo.
+ref: [[O Labirinto da Saudade - Eduardo Lourenço]]
 ### Nations and their epic myths 
-references: [[Narration and Nation - Homi K. Bhabha]]
-references: [[Hegel's Lectures on Aesthetics]]
-
-### Matar a saudade de fome [^13]
-(myth making in Lusiadas and mensagem)
-references: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]], 
-and [[O Labirinto da Saudade - Eduardo Lourenço]]
+ref: [[Narration and Nation - Homi K. Bhabha]]
+ref: [[Hegel's Lectures on Aesthetics]]
 
 ## Rhizomatic methodologies for rewriting
 
@@ -215,3 +218,4 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [caledonia]:  *"France's Colonial Strategy Blamed for Division in Troubled New Caledonia," Al Jazeera, August 1, 2024, https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia* and *"Insult to All Africans': Macron Under Fire from Burkina Strongman," APA News, January 14, 2025, [https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/](https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/)*
 
+[cia]: [[The outlook for portugal - CIA]]
