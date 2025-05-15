@@ -45,4 +45,14 @@ Chegou a hora de fugir para dentro de casa, de nos barricarmos dentro dela, de c
 
 "(...) mas não encontrou ainda aquele ponto de apoio que sem precisar de ter o odioso perfil de um nacionalismo chauvinista, paranóico e irrealista, corresponda ao sentimento de natural fruição da autonomia e da dignidade nacionais."
 
+**Camões no Presente**
+
+"O evocado, quando se trata de Camões, há muito constitui, por direito próprio, a referência unânime do que pode chamar-se, com toda a ambiguidade, o espírito nacional."
+
+"Celebrando-o, a nós, como entidade colectiva, nos celebramos."
+
+"O que convém é saber como Camões e a sua obra, em particular Os Lusíadas, não são uma realidade intemporal e de significação unívoca. ==Deslocá-los, arbitrariamente, da sua significação própria, enquanto expressão exemplar de um momento da nossa existência histórica e da aventura mais vasta da expansão do Ocidente, para a falsa eternidade de um mito moral, histórico e ideológico cujas bases continuariam intocáveis, é celebrá-lo às avessas==, querer que o dividido presente nosso tenha a claridade sublimada de um passado irrevogável no seu ser e nas suas coordenadas espirituais. (...) Na sua literalidade anacrónica, a ideologia do sumo cantor da Fé e do Império mais propícia lhe pareceria a uma apropriação por parte da sonambúlica classe dirigente da Monarquia."
+
+"(...), através do Épico e sem pensar traí-lo, buscávam menos uma caução que uma ilustração para uma nova concepção dos interesses reais do povo português e da espécie nova de amor pátrio que lhe correspondia."
+
 ![[o-labirinto-da-saudade-9789722004336.pdf]]
