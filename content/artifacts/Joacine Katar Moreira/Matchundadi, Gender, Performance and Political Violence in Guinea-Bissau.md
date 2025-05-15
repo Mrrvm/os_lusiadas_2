@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - text
   - book
 bib: "Moreira, J. K. (2020). Matchundadi: Género, performance e violência política na Guiné-Bissau (P. Vasconcelos, Preface). Sistema Solar. ​"

@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - portugal
   - lisboa
 link: https://www.ananaomidesousa.com/

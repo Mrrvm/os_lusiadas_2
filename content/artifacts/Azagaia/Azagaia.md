@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - moçambique
 to-dos: "[] Contact label Kongoloti Records, kongolotirecords@gmail.com"
 ---

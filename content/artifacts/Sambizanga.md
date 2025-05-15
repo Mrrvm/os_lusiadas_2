@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - angola
   - film
   - fiction

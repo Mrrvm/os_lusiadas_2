@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - portugal
   - transatlantic-enslaved-trade
 link: https://novaresearch.unl.pt/en/publications/the-portuguese-slave-trade

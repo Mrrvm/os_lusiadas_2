@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+# Sites
 ### online
 
 https://sites.google.com/site/ciberlusofonia/Lit-Afric-de-Ling-Port

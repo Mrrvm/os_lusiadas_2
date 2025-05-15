@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - film
   - angola
   - journal

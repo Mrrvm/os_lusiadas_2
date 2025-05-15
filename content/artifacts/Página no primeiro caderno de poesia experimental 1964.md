@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - portugal
   - experimental-text
   - text

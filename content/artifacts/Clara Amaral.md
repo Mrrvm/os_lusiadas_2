@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - experimental-text
   - performance
   - portugal

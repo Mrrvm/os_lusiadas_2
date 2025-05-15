@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - text
 ---
 https://www.marxists.org/portugues/tematica/livros/paigc/43.pdf

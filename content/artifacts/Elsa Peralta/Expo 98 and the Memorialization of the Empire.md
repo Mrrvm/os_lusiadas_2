@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - text
   - paper
   - national-identity

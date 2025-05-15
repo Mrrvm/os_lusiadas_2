@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - text
   - book
 link: https://www.ufrb.edu.br/ppgcom/images/MEMORIAS_DA_PLANTACAO_-_EPISODIOS_DE_RAC_1_GRADA.pdf

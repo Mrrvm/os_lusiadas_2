@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - caribbean
   - diaspora
 link: https://www.nourbese.com/

@@ -1,6 +1,7 @@
 ---
 title: ExplicitPublish
 tags:
+
   - plugin/filter
 ---
 

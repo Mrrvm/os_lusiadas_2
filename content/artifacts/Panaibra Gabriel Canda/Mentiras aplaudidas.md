@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - dance
   - performance
   - experimental-text

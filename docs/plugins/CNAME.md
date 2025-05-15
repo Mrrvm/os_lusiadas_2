@@ -1,6 +1,7 @@
 ---
 title: CNAME
 tags:
+
   - plugin/emitter
 ---
 

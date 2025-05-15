@@ -1,6 +1,7 @@
 ---
 title: Comments
 tags:
+
   - component
 ---
 

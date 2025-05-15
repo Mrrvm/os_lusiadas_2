@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - caribbean
   - education
   - transatlantic-enslaved-trade

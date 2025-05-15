@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 tags:
+  
   - caribbean
   - text
   - transatlantic-enslaved-trade
