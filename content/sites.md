@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+dg-hide-in-graph: true
 ---
 # Sites
 ### online
