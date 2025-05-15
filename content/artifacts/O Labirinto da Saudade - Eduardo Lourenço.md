@@ -34,4 +34,9 @@ tags:
 
 "==Chorámos na praça pública, não por riquezas perdidas que eram literalmente fictícias, mas por nos darmos conta sem remissão que não pesávamos nada na balança da Europa civilizada e imperialista==."
 
+"Nenhum povo e mais a mais um povo de tantos séculos de vida comum e tão prodigioso destino pode viver sem uma imagem ideal de si mesmo. Mas nós temos vivido sobretudo em função de uma imagem irrealista, o que não é a mesma coisa. (...)
+Chegou a hora de fugir para dentro de casa, de nos barricarmos dentro dela, de construir com constância o país habitável de todos, sem esperar de um eterno lá fora ou lá-longe a solução que como no apólogo célebre está enterrada no nosso exíguo quintal."
+
+"udo parecia dispor-se para enfim, após um longo período de convívio hipertrofiado e mistificado connosco mesmos surgisse uma época de implacável e viril confronto com a nossa realidade nacional de povo empobrecido, atrasado social e economicamente, com uma percentagem de analfabetismo única na Europa, com quase um terço da sua população obrigada a emigrar, imagem capaz de suscitar um sobressalto colectivo para Lhe atenuar os traços mais intoleráveis. Mas o que sucedeu, o que tem tendência a acentuar-se é a ==reconstituição em moldes análogos da imagem «camoniana» de nós mesmos, do benfiquismo ingénuo mas nefasto com que nos contemplamos e nos descrevemos nos indestrutíveis discursos oficiais e==, quando não basta, com a promoção eufórica e cara da nossa imagem exterior que em seguida reimportamos como se fosse de facto a dos outros sobre nós."
+
 ![[o-labirinto-da-saudade-9789722004336.pdf]]
