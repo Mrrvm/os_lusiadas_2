@@ -39,4 +39,10 @@ Chegou a hora de fugir para dentro de casa, de nos barricarmos dentro dela, de c
 
 "udo parecia dispor-se para enfim, após um longo período de convívio hipertrofiado e mistificado connosco mesmos surgisse uma época de implacável e viril confronto com a nossa realidade nacional de povo empobrecido, atrasado social e economicamente, com uma percentagem de analfabetismo única na Europa, com quase um terço da sua população obrigada a emigrar, imagem capaz de suscitar um sobressalto colectivo para Lhe atenuar os traços mais intoleráveis. Mas o que sucedeu, o que tem tendência a acentuar-se é a ==reconstituição em moldes análogos da imagem «camoniana» de nós mesmos, do benfiquismo ingénuo mas nefasto com que nos contemplamos e nos descrevemos nos indestrutíveis discursos oficiais e==, quando não basta, com a promoção eufórica e cara da nossa imagem exterior que em seguida reimportamos como se fosse de facto a dos outros sobre nós."
 
+"A distorção consistiu em tentar impor uma nova imagem de Portugal, logo após o 25 de Abril na aparência oposta à do antigo Regime, mas cuja estrutura e função eram exactamente as mesmas: instalar o País no lisonjeiro papel de país revolucionário exemplar, dotado de Forças Armadas essencialmente democráticas , considerando os cinquenta anos precedentes como um parêntesis lamentável, uma conta errada que se apagava no quadro histórico para recomeçar uma gesta perpétua na qual o salazarismo tinha sido uma nódoa indelével."
+
+"A verdade é que a nova classe política - por razões aliás explicáveis - descolonizou exactamente nos mesmos termos em que o antigo regime levara a cabo a sua cruzada colonialista."
+
+"(...) mas não encontrou ainda aquele ponto de apoio que sem precisar de ter o odioso perfil de um nacionalismo chauvinista, paranóico e irrealista, corresponda ao sentimento de natural fruição da autonomia e da dignidade nacionais."
+
 ![[o-labirinto-da-saudade-9789722004336.pdf]]
