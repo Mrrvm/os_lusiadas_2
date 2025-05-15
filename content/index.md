@@ -1,3 +1,7 @@
+---
+dg-home: true
+dg-publish: true
+---
 *An unstable research platform for attempting to rewrite [[Os Lusíadas]] using experimental writing and knowledge sources from former colonies' authors, its diaspora and other de-colonial thinkers or makers.*
 
 **If you want to participate in the project, or provide any feedback, thoughts, or complaints, please email mariana@mardrew.art.**

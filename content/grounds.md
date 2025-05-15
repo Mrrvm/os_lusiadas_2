@@ -1,3 +1,7 @@
+---
+dg-home: false
+dg-publish: true
+---
 # How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?
 
 ## Introduction
@@ -111,7 +115,7 @@ references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2a
 #### Examples of experimental writing within this context
 references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 
-### Very concrete problems
+### Concrete re-writing problems
 #### Maintaining the structure of [[Os Lusíadas]]
 
 While given the rhizomatic properties I wish to embed in the methods, the immediate question would be, does it make sense to keep the strict structure of the original book?
