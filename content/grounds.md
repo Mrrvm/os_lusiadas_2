@@ -54,9 +54,9 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 ### **[[Os Lusíadas]]** and education
 
-Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of Portuguese poetry, due to its rhymes, extremely strict structure, and embezzlement of the nation. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
+Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of poetry in the eyes of Portuguese society. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
 
-In school's Portuguese classes, it's mandatory to "analyse" around 123 out of 1102 stanzas of [[Os Lusíadas]], as well as studying (or rather memorising) the interpretation of [[A Mensagem]]. Yet not once, do we reflect upon the contemporary and huge underlying issue behind these two texts. The manner in which they contribute to the rhetoric delineated above is unfathomable. 
+In school's Portuguese classes, it's mandatory to "analyse" around 123 out of 1102 stanzas of [[Os Lusíadas]], as well as studying (or rather memorising) the interpretation of [[A Mensagem]]. Yet not once, do we reflect upon the contemporary and huge underlying issue behind these two texts. The manner in which they contribute to the rhetoric delineated above is unfathomable, even if that was not the authors' intents. 
 
 - [[Bárbora e Jau]]
 
@@ -73,7 +73,7 @@ Therefore, while there is numerous works tackling this very urgent concern,
 - to exhibitions (e.g. [[Unearthing memories]],  [[Problemas do Primitivismo – a partir de Portugal]]) 
 - and other artifacts (e.g. [[Jornal O negro]], Hangar, Bazofo & Dentu Zona, ...), 
 
-I feel like I can make a meaningful contribution by re-writing this treasured and deeply cherished book in order to retell our history, revisit colonisation and its perpetual violence, through the writings of de-colonial thinkers and makers.
+I feel like I can make a meaningful contribution by re-writing this treasured and deeply cherished book in order to retell our history, revisit colonisation and its perpetual violence, through the writings of de-colonial thinkers and makers. 
 
 ## The mythification of national identity
 
@@ -95,31 +95,36 @@ Now, this book could be anything, it could be a novel (ref: [[Narration and Nati
 
 ref: [[Hegel's Lectures on Aesthetics]]
 
+
 ## Rhizomatic methodologies for rewriting
 
-As a white Portuguese person, the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology use is of utmost importance in this work. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
-### Why the rhizome matters?
-references: [[Rhizome - Gille Deleuze]]
-### What is experimental writing and how can it be applied as tool in this context?
+As it may seem unclear until now, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]], as unfortunately his work is merely product of his time, as mine is of mine. But rather to re-instrumentalise the symbolism and grandiosity in which the book has been positioned in contemporary society, to make amends with our past - first in a personal, and then on an educational level. Within the point of view I operate - a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
+### In rhizome
 
+The rhizome ...
+references: [[Rhizome - Gille Deleuze]]
+### Experimental writing as tool
 #### Can experimental writing be rhizomatic?
 
+#### Methods within rewriting 
+references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 #### Examples of experimental writing within this context
 references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
+
+### Very concrete problems
 #### Maintaining the structure of [[Os Lusíadas]]
 
 While given the rhizomatic properties I wish to embed in the methods, the immediate question would be, does it make sense to keep the strict structure of the original book?
-###### Decasyllables and accents (research by making)
+##### Decasyllables and accents (research by making)
 #### Balancing between appropriation and appreciation
 references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
 #### Collaboration and translation
 references: [[Tavares Cebola]], [[Sandim Mendes]]
+#### Fonts and ethics (research by making)
+material references difficulty, experimental writing as a decolonial/educational method, women and non white/ work as a library
 #### Examples of such epic poems
 references: [[Omeros, Derek Walcott]]
-#### Methods within rewriting 
-references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
-####  Fonts and ethics (research by making)
-material references difficulty, experimental writing as a decolonial/educational method, women and non white 
+
 ### Writing from the Netherlands
 
 ### Usage of Obsidian as a research tool
