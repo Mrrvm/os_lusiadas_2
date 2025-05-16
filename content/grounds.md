@@ -111,7 +111,7 @@ ref: [[Hegel's Lectures on Aesthetics]]
 
 ## Rhizomatic methodologies for rewriting
 
-As it may seem unclear until now, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]], as unfortunately his work is merely product of his time, as mine will be of mine. But rather to re-instrumentalise the symbolism and grandiosity in which the book has been positioned in contemporary society, to make amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
+As it may seem unclear until now, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]], as unfortunately his work is merely product of his time, as mine will be of mine. But rather to re-instrumentalise the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
 ### In rhizome
 
 The rhizome ...
