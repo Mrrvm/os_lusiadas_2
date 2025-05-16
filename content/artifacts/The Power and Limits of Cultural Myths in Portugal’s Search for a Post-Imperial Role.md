@@ -36,7 +36,7 @@ when Salazar responded militarily to the first major anti-colonial uprising in A
 
 "The Jerónimos Monastery, burial site of the kings and heroes of the golden period of Portuguese maritime discoveries, was chosen as the place for this symbolic act that marked the integration of post-authoritarian Portugal into the community of Western European democracies."
 
-"==The re-engagement with Portuguese-speaking Africa seems to be both a way to address the delayed identity crisis that followed decolonisation, and a reflection of an increasing confidence by more Realpolitiker pro-Western Portuguese elites that this Lushopone identity was not incompatible with Portugal becoming a full member of the EEC, in fact it could provide additional leverage in Brussels.=="
+"==The re-engagement with Portuguese-speaking Africa seems to be both a way to address the delayed identity crisis that followed decolonisation, and a reflection of an increasing confidence by more Realpolitiker pro-Western Portuguese elites that this Lushopone identity was not incompatible with Portugal becoming a full member of the EEC, in fact it could provide additional leverage in Brussels.=="^eeclang
 
 ==‘the April Revolution was not aimed at putting an end to the image of Portugal as an exemplary coloniser, but rather to fit within it an equally exemplary Portuguese decolonisation.’==
 

@@ -81,14 +81,23 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 ## The mythification of national identity
 
-The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous, for example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
+The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous. For example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
-My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (a french stereotype), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal 
+My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal wasn't the empire it claims to have been. [REF]
 
 Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
 
-The former colonies' natural resources were crucial to enrich the country's elites. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising these relationships for additional leverage when integrating European Union.
+The former colonies' natural resources were crucial to enrich the country's elites. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising linguistic relationships for additional leverage when integrating European Union.[^eec]
+
+-- 
+decolonizer myth
+==‘the April Revolution was not aimed at putting an end to the image of Portugal as an exemplary coloniser, but rather to fit within it an equally exemplary Portuguese decolonisation.’==
+
+What emerged instead as the dominant memory of Portuguese decolonization was an ambiguous, somewhat contradictory narrative, a collage of old myths of empire and ==new myths of decolonisation linked to a Portuguese identity that was only partly refashioned==.
+
+The more Portugal was becoming fully a part of the EEC/EU, the more Portuguese elites seemed to identify with a certain Lusotropical vision of the Portuguese imperial past, with a significant impact in the discourse and practice of Portuguese foreign policy to fit a re-constructed identity"
+-
 
 Looking through this prism, Eduardo Lourenço's believes start to make more sense - for the last centuries, Portugal has been living an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity and turning to a myth of a past and glorious empire to compensate, in a longing to be what it "once was". You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose literal basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is aggressively shouted as a fundamental pillar of Portuguese culture. 
 
@@ -102,7 +111,7 @@ ref: [[Hegel's Lectures on Aesthetics]]
 
 ## Rhizomatic methodologies for rewriting
 
-As it may seem unclear until now, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]], as unfortunately his work is merely product of his time, as mine is of mine. But rather to re-instrumentalise the symbolism and grandiosity in which the book has been positioned in contemporary society, to make amends with our past - first in a personal, and then on an educational level. Within the point of view I operate - a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
+As it may seem unclear until now, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]], as unfortunately his work is merely product of his time, as mine will be of mine. But rather to re-instrumentalise the symbolism and grandiosity in which the book has been positioned in contemporary society, to make amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance. I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation.
 ### In rhizome
 
 The rhizome ...
@@ -232,3 +241,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [^25abril]: “Efeitos humanos e económicos da Guerra Colonial,” _RTP Ensina_, last modified 2021, accessed May 15, 2025, [https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial](https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial).
 
 [^salazar]: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^salazar]]
+
+[^eec]: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^13a99c]]
