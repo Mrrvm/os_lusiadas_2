@@ -66,6 +66,8 @@ In school's Portuguese classes, it's mandatory to "analyse" around 123 out of 11
 
 - Example The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
 
+- Books 9ano 
+
 Therefore, while there is numerous works tackling this very urgent concern, 
 
 - from texts (e.g. by [[Amílcar Cabral]], [[Elsa Peralta]], [[Ana Balona de Oliveira]], [[Aurora Almada e Santos]], [[Joacine Katar Moreira]], Eduardo Lourenço, Cristina Roldão, ...), 
