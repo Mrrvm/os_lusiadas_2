@@ -69,7 +69,7 @@ In school's Portuguese classes, it's mandatory to "analyse" around 123 out of 11
 Therefore, while there is numerous works tackling this very urgent concern, 
 
 - from texts (e.g. by [[Amílcar Cabral]], [[Elsa Peralta]], [[Ana Balona de Oliveira]], [[Aurora Almada e Santos]], [[Joacine Katar Moreira]], Eduardo Lourenço, Cristina Roldão, ...), 
-- to books (e.g. [[Memórias da plantação]], [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]] and the remaining series, [[Epistemologias do sul - Boaventura de Sousa Santos]], [[Volta para tua terra]], ...), 
+- to books (e.g. [[Memórias da plantação]], [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]] and the remaining series, [[Epistemologias do sul]], [[Volta para tua terra]], ...), 
 - to music (e.g. by [[Dino d' Santiago]], [[Valete]], [[Allen Halloween]], [[Azagaia]], [[Terapia de grupo & Os Heróis - Capicua]], [[Peça Desculpas, Senhor Presidente - Luca Argel]], [[Povo pequenino - Fado Bicha]], ...), 
 - to films (by [[Welket Bungué]], [[A Guerra - Joaquim Furtado]], [[Quilombo]], ...), 
 - to performances (e.g. by [[Panaibra Gabriel Canda]], [[Opera to a Black Venus]], [[De-Re-Memorization of Portuguese Colonialism and Dictatorship]],  [[A Nossa Última Manhã Aqui - Manuel Tur]], ...), 
