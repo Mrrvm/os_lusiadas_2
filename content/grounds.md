@@ -89,37 +89,12 @@ My father's childhood was marked by poverty and watching dead bodies come back f
 
 After restoring independence, and with its empire shrunk to the Netherlands, Portugal turned to Brazil's gold reserves. In 1750 Portugal's output per capital was considerably higher than those of France or Spain, yet just a century later, it became Western Europe’s poorest country. Brazilian gold influx, crucial to enrich the country's elites, caused a 30% real exchange rate appreciation, making labour and capital shift to luxury goods and services, consequently collapsing domestic industries (e.g. textiles) and leaving the country de-industrialised, "reduced to a poor, quasi-dependent primary product exporter in Britain’s orbit" - a phenomenon known as Dutch disease.[^gold] Fast-forwarding without the proper detail and nuance, Napoleonic wars led the king to flee to Brazil, and later claim its independence. The dissolution of the former colony left Portugal economically peripheral, with no industry, faced by a crippling British ultimatum and consequent civil war. This paved the way to the first republic, which equally unstable, culminated in a Salazar's dictatorship from 1930 till 1974. 
 
-During that period, Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia]. After "decolonization"[^deco], 
+During that period, Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia]. Following "decolonization"[^deco], a dominant memory emerged as an adapted colonial myth legitimising the transition as a mutual, fraternal liberation retaining strong cultural bonds. It depicted Portugal as a soft coloniser, multiracial and naturally capable of managing future post-colonial relations, as mentioned earlier through the words of our current President. This perspective not only guided Portuguese foreign policy to fit an identity that could prove advantageous when integrating EEC/EU,[^eec] but also completely undermined the liberation movements inspired by [[Amílcar Cabral]]’s revolutionary ideas, that restored Portugal's democracy. The Armed Forces Movement that staged the coup d’état on April 25, 1974, was born in Bissau in August 1973 and "led by war-fatigued junior officers who admired Cabral". His party, the PAIGC was also in contact with Mozambique’s FRELIMO and Angola's MPLA. 
 
-
-
-
-it instrumentalised the linguistic relationships for additional leverage when integrating European Union.[^eec] 
-
-What emerged instead as the dominant memory of Portuguese decolonization was an ambiguous, somewhat contradictory narrative, a collage of old myths of empire and ==new myths of decolonisation linked to a Portuguese identity that was only partly refashioned==.
-
- attractive to the younger, more internationally connected, generations of Portuguese elites (...) What also happened, however, we argue, was a refashioning of the powerful cultural myth of a special connection between Portugal and tropical Africa. A colonial myth was turned into a post-colonial myth legitimising decolonisation as a mutual and fraternal liberation from the same oppressive regime without a loss of strong “natural” cultural bonds. (...) ==A myth of decolonisation was born, one strongly tinged by Lusotropicalism – the myth of the Portuguese as uniquely soft colonisers, adapted to the tropics and capable of embracing cultural hybridity and multiracialism and therefore also naturally adept at managing post-colonial relations once the authoritarian regime had been removed.=="
-"==The re-engagement with Portuguese-speaking Africa seems to be both a way to address the delayed identity crisis that followed decolonisation, and a reflection of an increasing confidence by more Realpolitiker pro-Western Portuguese elites that this Lushopone identity was not incompatible with Portugal becoming a full member of the EEC, in fact it could provide additional leverage in Brussels.=="
-
-The more Portugal was becoming fully a part of the EEC/EU, the more Portuguese elites seemed to identify with a certain Lusotropical vision of the Portuguese imperial past, with a significant impact in the discourse and practice of Portuguese foreign policy to fit a re-constructed identity"
-
-==‘the April Revolution was not aimed at putting an end to the image of Portugal as an exemplary coloniser, but rather to fit within it an equally exemplary Portuguese decolonisation.’==
-
-Amilcar Cabral 
-
-
-
-
-
-Now a country based on a volatile tourism industry.
-
-It seem that for the last centuries, Portugal has been living an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity and mythifying oneself through the remnants of a barely existent glorious empire, to compensate for a longing to be what it "once was". You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose literal basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is still aggressively shouted as a fundamental pillar of Portuguese culture.[^eduardo]
-
-
- ==pointed to the overseas empire as central in the nationalist self-image of Portugal because it ‘added a mythical dimension to the country […] avoiding the painful necessity of confronting our smallness’
+The empire has been in free fall since the epic poem was written. The country still lives an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity other than coloniality; mythifying oneself through the remnants of this glorious empire, to compensate for a longing to be what it "once was"; and avoiding the "painful necessity of confronting" its smallness. You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is still aggressively shouted as a fundamental pillar of Portuguese culture.[^eduardo] 
 ### Nations and their epic myths 
 
-Now, this book could be anything, it could be a novel (ref: [[Narration and Nation - Homi K. Bhabha]]), lyrical poetry, 
+Now, this book could be anything, it could be a novel (ref: [[Narration and Nation - Homi K. Bhabha]]), lyrical poetry, but [[Luís de Camões]] chose to make it an epic. According to Hegel, 
 
 ref: [[Hegel's Lectures on Aesthetics]]
 

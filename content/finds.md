@@ -140,3 +140,9 @@ maria paula meneses
 https://www.worldhistory.org/Portuguese_Empire/
 
 https://itvs.org/films/cuba-an-african-odyssey/
+
+https://en.wikipedia.org/wiki/Claridade _**Claridade**_ ([Portuguese](https://en.wikipedia.org/wiki/Portuguese_language "Portuguese language") for "light") was a literary review inaugurated in 1936 in the city of [Mindelo](https://en.wikipedia.org/wiki/Mindelo "Mindelo") on the island of [São Vicente](https://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde "São Vicente, Cape Verde"), [Cape Verde](https://en.wikipedia.org/wiki/Cape_Verde "Cape Verde").
+
+Agostinho Neto and Mario de Andrade from Angola, and Marcelino dos Santos
+
+https://arquivos.rtp.pt/conteudos/discurso-de-marcelo-caetano-3/
