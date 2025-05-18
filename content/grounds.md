@@ -19,7 +19,7 @@ I will begin by explaining how Portugal played a massive role in the transatlant
 
 Not considering the current neocolonialist empires, Portugal was both the first and last European empire.
 
-(add timeline of events - [[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]])
+(add timeline of events - [[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]], https://www.worldhistory.org/Portuguese_Empire/)
 
 Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, objects, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
 ### Monuments, streets and festivals
