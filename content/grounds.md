@@ -85,7 +85,7 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous. For example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to contemporary Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
-My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal was a declining empire: in 1750 Portugal's output per capital was  considerably higher than those of France or Spain, yet just a century later, it became Western Europe’s poorest country. Brazilian gold influx, crucial to enrich the country's elites, caused a 30% real exchange rate appreciation, making labour and capital shift to luxury goods and services, consequently collapsing domestic industries (e.g. textiles) and leaving the country de-industrialised, "reduced to a poor, quasi-dependent primary product exporter in Britain’s orbit" - a phenomenon [^gold]
+My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal was a declining empire: in 1750 Portugal's output per capital was  considerably higher than those of France or Spain, yet just a century later, it became Western Europe’s poorest country. Brazilian gold influx, crucial to enrich the country's elites, caused a 30% real exchange rate appreciation, making labour and capital shift to luxury goods and services, consequently collapsing domestic industries (e.g. textiles) and leaving the country de-industrialised, "reduced to a poor, quasi-dependent primary product exporter in Britain’s orbit" - a phenomenon known as Dutch disease.[^gold]
 
 
 The loss of Brazil and failure to adapt to industrialization left Portugal economically peripheral until recent decades
@@ -93,19 +93,18 @@ The loss of Brazil and failure to adapt to industrialization left Portugal econo
 Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
 
-Concretamente, o salazarismo foi o preço forte que uma nação agrária desfasada do sistema ocidental a que pertence teve de pagar para ascender ao nível de nação em vias de industrialização. 
+as psychological crutches
 
-- To compensate for the inferiority complex (as european), it grips to former colonies even if unprofitable
 But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising linguistic relationships for additional leverage when integrating European Union.[^eec]
 
--- 
-- + it creates a myth of a huge empire
+Using faith as a tool for the people.
 
-Looking through this prism, Eduardo Lourenço's believes start to make more sense - for the last centuries, Portugal has been living an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity and turning to a myth of a past and glorious empire to compensate, in a longing to be what it "once was". You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose literal basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is aggressively shouted as a fundamental pillar of Portuguese culture. 
+Looking through this prism, Eduardo Lourenço's believes start to make more sense - for the last centuries, Portugal has been living an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity and turning to a myth of a past and glorious empire to compensate, in a longing to be what it "once was". You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose literal basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is still aggressively shouted as a fundamental pillar of Portuguese culture.[^eduardo]
 
-ref: [[O Labirinto da Saudade - Eduardo Lourenço]] 
+Concretamente, o salazarismo foi o preço forte que uma nação agrária desfasada do sistema ocidental a que pertence teve de pagar para ascender ao nível de nação em vias de industrialização. 
 
-- until it no longer can, so the myth becomes decolonization
+As a matter of fact, even after "decolonization" happened, 
+
 ==‘the April Revolution was not aimed at putting an end to the image of Portugal as an exemplary coloniser, but rather to fit within it an equally exemplary Portuguese decolonisation.’==
 
 What emerged instead as the dominant memory of Portuguese decolonization was an ambiguous, somewhat contradictory narrative, a collage of old myths of empire and ==new myths of decolonisation linked to a Portuguese identity that was only partly refashioned==.
@@ -113,13 +112,11 @@ What emerged instead as the dominant memory of Portuguese decolonization was an 
 The more Portugal was becoming fully a part of the EEC/EU, the more Portuguese elites seemed to identify with a certain Lusotropical vision of the Portuguese imperial past, with a significant impact in the discourse and practice of Portuguese foreign policy to fit a re-constructed identity"
 
 Now a country based on a volatile tourism industry.
-
 ### Nations and their epic myths 
 
 Now, this book could be anything, it could be a novel (ref: [[Narration and Nation - Homi K. Bhabha]]), lyrical poetry, 
 
 ref: [[Hegel's Lectures on Aesthetics]]
-
 
 ## Rhizomatic methodologies for rewriting
 
@@ -257,3 +254,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [^eec]: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^13a99c]]
 
 [^gold]: *Kedrosky, D. & Palma, N. 2024. "The cross of gold, Brazilian treasure, and the decline of Portugal." CEPR: VoxEU. [https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal](https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal)*
+
+[^eduardo]: [[O Labirinto da Saudade - Eduardo Lourenço]] 
