@@ -136,3 +136,5 @@ Renata Cambra https://www.youtube.com/watch?v=71gl1Y06JyY 25 abril
 eva cruzeiro rapper https://www.youtube.com/watch?v=-CfaQFbOeT4 
 
 maria paula meneses
+
+https://www.worldhistory.org/Portuguese_Empire/
