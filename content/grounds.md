@@ -83,12 +83,9 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 
 ## The mythification of national identity
 
-- Portugal's empire was smaller than it is said
 The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous. For example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to contemporary Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
-My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal was a declining empire: in 1750 Portugal's output per capital was  considerably higher than those of France or Spain, yet just a century later, it became Western Europe’s poorest country. Brazilian gold influx, crucial to enrich the country's elites, crushed the traded industries (e.g. textiles)[^gold]
-
-Gold wealth caused a 30% real exchange rate appreciation, making Portuguese exports (e.g., textiles) uncompetitive against cheaper British imports. Domestic industries collapsed as labor and capital shifted to non-traded sectors like services and luxury goods
+My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal was a declining empire: in 1750 Portugal's output per capital was  considerably higher than those of France or Spain, yet just a century later, it became Western Europe’s poorest country. Brazilian gold influx, crucial to enrich the country's elites, caused a 30% real exchange rate appreciation, making labour and capital shift to luxury goods and services, consequently collapsing domestic industries (e.g. textiles) and leaving the country de-industrialised, "reduced to a poor, quasi-dependent primary product exporter in Britain’s orbit".[^gold]
 
  By 1800, Portugal’s GDP per capita was **40% lower** than a counterfactual scenario without gold, leaving the economy reliant on volatile resource wealth rather than productive sectors
 Leaving the country de-industriliesed.
