@@ -82,9 +82,9 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 ## The mythification of national identity
 
 - Portugal's empire was smaller than it is said
-The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous. For example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
+The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous. For example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to contemporary Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
-My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal wasn't the empire it claims to have been. [REF]
+My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal was a declining empire . [REF]
 
 Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
