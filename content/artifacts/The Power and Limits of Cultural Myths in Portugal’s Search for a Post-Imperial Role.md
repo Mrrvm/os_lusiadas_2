@@ -8,10 +8,10 @@ link: https://run.unl.pt/bitstream/10362/32015/1/Bruno_REIS_Pedro_OLIVEIRA_IHR_2
 
 "In Portugal the myth of empire in its late colonial stage was developed from pre-existing cultural materials by the authoritarian nationalism of the Estado Novo regime led by Oliveira Salazar (head of government from 1932 to 1968) around the slogan that “Portugal was not a small country”" (see [[Marcas de Lusotropicalismo no Marcelo]])
 
-"Salazar was attuned to the “vision thing”, to this power of culture, claiming: ‘==this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.==’"^salazar
+"Salazar was attuned to the “vision thing”, to this power of culture, claiming: ‘==this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.==’" ^salazar
 
 "The mainstream vision in Portuguese political culture of the country as an overseas power legitimized a massive mobilization in a violent , intransigent response to a perceived existential threat to Portuguese identity. ==As stated in a key article of Portuguese constitutional law it was ‘part of the organic essence of the Portuguese Nation to pursue the historical mission of possessing and colonizing overseas territories, and civilizing their native populations’.== (...)
-when Salazar responded militarily to the first major anti-colonial uprising in Angola ‘he had with him the majority of the [Portuguese] people, including some of his most prestigious political adversaries’"[^constituion]
+when Salazar responded militarily to the first major anti-colonial uprising in Angola ‘he had with him the majority of the Portuguese people, including some of his most prestigious political adversaries’"[^constituion]
 
 "It is clear that the accumulated human and economic costs of facing three simultaneous, protracted anti-colonial insurgencies eroded this overseas creed and made Catholic and Marxist strands of anticolonialism increasingly attractive to the younger, more internationally connected, generations of Portuguese elites (...) What also happened, however, we argue, was a refashioning of the powerful cultural myth of a special connection between Portugal and tropical Africa. A colonial myth was turned into a post-colonial myth legitimising decolonisation as a mutual and fraternal liberation from the same oppressive regime without a loss of strong “natural” cultural bonds. (...) ==A myth of decolonisation was born, one strongly tinged by Lusotropicalism – the myth of the Portuguese as uniquely soft colonisers, adapted to the tropics and capable of embracing cultural hybridity and multiracialism and therefore also naturally adept at managing post-colonial relations once the authoritarian regime had been removed.=="
 
@@ -36,7 +36,7 @@ when Salazar responded militarily to the first major anti-colonial uprising in A
 
 "The Jerónimos Monastery, burial site of the kings and heroes of the golden period of Portuguese maritime discoveries, was chosen as the place for this symbolic act that marked the integration of post-authoritarian Portugal into the community of Western European democracies."
 
-"==The re-engagement with Portuguese-speaking Africa seems to be both a way to address the delayed identity crisis that followed decolonisation, and a reflection of an increasing confidence by more Realpolitiker pro-Western Portuguese elites that this Lushopone identity was not incompatible with Portugal becoming a full member of the EEC, in fact it could provide additional leverage in Brussels.=="^eeclang
+"==The re-engagement with Portuguese-speaking Africa seems to be both a way to address the delayed identity crisis that followed decolonisation, and a reflection of an increasing confidence by more Realpolitiker pro-Western Portuguese elites that this Lushopone identity was not incompatible with Portugal becoming a full member of the EEC, in fact it could provide additional leverage in Brussels.==" ^eeclang
 
 ==‘the April Revolution was not aimed at putting an end to the image of Portugal as an exemplary coloniser, but rather to fit within it an equally exemplary Portuguese decolonisation.’==
 
