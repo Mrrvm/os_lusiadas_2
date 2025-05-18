@@ -86,13 +86,22 @@ I feel like I can make a meaningful contribution by re-writing this treasured an
 - Portugal's empire was smaller than it is said
 The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous. For example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to contemporary Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
 
-My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal was a declining empire . [REF]
+My father's childhood was characterized by poverty and watching dead bodies come back from the colonial war during Salazar's dictatorship. My mother's by an absent father, smuggled to Paris to work as a construction worker (like many), avoiding military duties. The 14 years of war drained the country by 1974 consuming around 40% of the national budget.[^25abril] But even before that, Portugal was a declining empire: in 1750 Portugal's output per capital was  considerably higher than those of France or Spain, yet just a century later, it became Western Europe’s poorest country. Brazilian gold influx, crucial to enrich the country's elites, crushed the traded industries (e.g. textiles)[^gold]
+
+Gold wealth caused a 30% real exchange rate appreciation, making Portuguese exports (e.g., textiles) uncompetitive against cheaper British imports. Domestic industries collapsed as labor and capital shifted to non-traded sectors like services and luxury goods
+
+ By 1800, Portugal’s GDP per capita was **40% lower** than a counterfactual scenario without gold, leaving the economy reliant on volatile resource wealth rather than productive sectors
+Leaving the country de-industriliesed.
+
+The loss of Brazil and failure to adapt to industrialization left Portugal economically peripheral until recent decades
 
 Portugal was a mere semi-peripheral facilitator of foreign exploitation of colonial riches, carried out by powerful foreign companies, while the ==Portuguese continued to devote significant financial resources to maintaining a colonial apparatus, with little or no benefit to their own development.=="
 ref: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]],
 
+Concretamente, o salazarismo foi o preço forte que uma nação agrária desfasada do sistema ocidental a que pertence teve de pagar para ascender ao nível de nação em vias de industrialização. 
+
 - To compensate for the inferiority complex (as european), it grips to former colonies even if unprofitable
-The former colonies' natural resources were crucial to enrich the country's elites. But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising linguistic relationships for additional leverage when integrating European Union.[^eec]
+But Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia], and later instrumentalising linguistic relationships for additional leverage when integrating European Union.[^eec]
 
 -- 
 - + it creates a myth of a huge empire
@@ -108,6 +117,7 @@ What emerged instead as the dominant memory of Portuguese decolonization was an 
 
 The more Portugal was becoming fully a part of the EEC/EU, the more Portuguese elites seemed to identify with a certain Lusotropical vision of the Portuguese imperial past, with a significant impact in the discourse and practice of Portuguese foreign policy to fit a re-constructed identity"
 
+Now a country based on a volatile tourism industry.
 
 ### Nations and their epic myths 
 
@@ -250,3 +260,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [^salazar]: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^salazar]]
 
 [^eec]: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^13a99c]]
+
+[^gold]: *Kedrosky, D. & Palma, N. 2024. "The cross of gold, Brazilian treasure, and the decline of Portugal." CEPR: VoxEU. [https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal](https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal)*
