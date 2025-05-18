@@ -105,7 +105,7 @@ ref: [[O Labirinto da Saudade - Eduardo Lourenço]]
 What emerged instead as the dominant memory of Portuguese decolonization was an ambiguous, somewhat contradictory narrative, a collage of old myths of empire and ==new myths of decolonisation linked to a Portuguese identity that was only partly refashioned==.
 
 The more Portugal was becoming fully a part of the EEC/EU, the more Portuguese elites seemed to identify with a certain Lusotropical vision of the Portuguese imperial past, with a significant impact in the discourse and practice of Portuguese foreign policy to fit a re-constructed identity"
--
+
 
 ### Nations and their epic myths 
 
