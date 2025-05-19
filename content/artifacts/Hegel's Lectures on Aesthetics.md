@@ -57,4 +57,29 @@ In spite of this separation in time, a close connection must nevertheless still 
 
 **The general position which the poet has to take up in the case of epic proper**
 
-"(...) However much the epic must be of a factual kind, i.e. the objective presentation of a self-grounded world, made real in virtue of its own necessity, a world to which the poet’s own way of looking at things is akin and with which he can identify himself, still the work of art that portrays such a world is and remains the free production of an individual."
+"(...) However much the epic must be of a factual kind, i.e. the objective presentation of a self-grounded world, made real in virtue of its own necessity, a world to which the poet’s own way of looking at things is akin and with which he can identify himself, still the work of art that portrays such a world is and remains the free production of an individual.
+(...)
+==In the Iliad, for example, we see now Calchas, now Nestor interpreting the events, and yet these are explanations which the poet provides. Indeed even what passes within the minds of the heroes he interprets objectively as an intervention of the gods as when Athene appears to the wrathful Achilles, trying to bring him to his senses==. This is the poet’s invention, but because the epic presents not the poet’s own inner world but the objective events, the subjective side of the production must be put into the background precisely as the poet completely immerses himself in the world which he unfolds before our eyes. This is why the great epic style consists in the work’s seeming to be its own minstrel and appearing independently without having any author to conduct it or be at its head.
+(...)
+==Although an epic does express the affairs of an entire nation, it is only individuals who can write poetry, a nation collectively cannot.== The spirit of an age or a nation is indeed the underlying efficient cause, but the effect, an actual work of art, is only produced when this cause is concentrated into the individual genius of a single poet; he then brings to our minds and particularizes this universal spirit, and all that it contains, as his own vision and his own work.
+(...)
+But many pieces composed on and on in the same tone do not make up that unitary work which can be the product only of a single mind. This is a point of importance in connection with the Homeric poems and the _Nibelungenlied,_ because we cannot prove the authorship of the latter with any historical certainty, while, in regard to the Iliad and the Odyssey we all know that some have advanced the opinion that Homer, supposedly the single author of both, never existed and single pieces were produced by single hands and then assembled together to form these two great works. ==The fundamental question in relation to this contention is whether each of these poems forms an organic epic whole, or, according to widespread opinion today, has no necessary beginning or end and therefore could have been prolonged indefinitely==.
+(...)
+==What they reveal is solely the thing itself, the people’s objective way of looking at things==."
+
+####  Particular Characteristics of Epic Proper
+
+"(...) the traits which seem to me to be the chief characteristics naturally belonging to epic. These can be grouped together under the following heads:
+
+**(a)** First, the question arises about what character the general world-situation must have if it is to provide a ground on which an epic event can be adequately portrayed.
+
+**(b)** Secondly, we have to examine the quality of this individual event and consider of what sort it is.
+
+**(c)** Thirdly, we must cast a glance at the form in which these two sides are intertwined and moulded into the unity of a work of art."
+
+**(a) The General World-Situation of Epic**
+"We saw right at the beginning that what is accomplished in the genuinely epical event is not a single casual deed, and that consequently it is not a purely accidental happening which is related, but an action ramified into the whole of its age and national circumstances so that it can be brought before us only within an outspread world and demands the portrayal of this world in its entirety.
+(...)
+The state of human life most suitable as the background of an epic is that in which it exists for individuals _already_ as a present reality hut which remains most closely connected with them by the tie of a common primitive life. For if the heroes who are placed at the head of affairs have first to found an entire social order, (...) on their subjective character and cannot appear as an objective reality.
+
+The relations of ethical life, the bond of the family, as well as the bond of the people – as an entire nation – in war and peace must all have been discovered, framed, and developed;"
