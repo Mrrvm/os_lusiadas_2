@@ -8,8 +8,14 @@ tags:
 bib: 'Hegel, G. W. F. "C. The Beautiful Ideal." Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 19th, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm'
 link: https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm
 ---
-Mentioned in [[Poetics of Relation]] as
+From [[Poetics of Relation]]:
 =="*Hegel, in book 3 of his Aesthetics, shows how the founding works of communities appear spontaneously at the moment in which a still naive collective consciousness reassures itself about its own legitimacy, or, not to mince words: about its right to possess a land. In this sense Epic thought is close to that of Myth."==
+
+"During this period of invading nomads the passion for self-definition first appears in the guise of personal adventure. Along the route of their voyages conquerors established empires that collapsed at their death. Their capitals went where they went. “Rome is no longer in Rome, it is wherever I am.” The root is not important. Movement is. The idea of errantry, still inhibited in the face of this mad reality, this too-functional nomadism, whose ends it could not know, does not yet make an appearance. Center and periphery are equivalent. Conquerors are the moving, transient root of their people.
+
+The West, therefore, is where this movement becomes fixed and nations declare themselves in preparation for their repercussions in the world. This fixing, this declaration, this expansion, all require that the idea of the root gradually take on the intolerant sense that Deleuze and Guattari, no doubt, meant to challenge. The reason for our return to this episode in Western history is that it spread throughout the world. The model came in handy. Most of the nations that gained freedom from colonization have tended to form around an idea of power—the totalitarian drive of a single, unique root—rather than around a fundamental relationship with the Other. Culture’s self-conception was dualistic, pitting citizen against barbarian. Nothing has ever more solidly opposed the thought of errantry than this period in human history when Western nations were established and then made their impact on the world.
+
+At first this thought of errantry, bucking the current of nationalist expansion, was disguised “within” very personalized adventures just as the appearance of Western nations had been preceded by the ventures of empire builders. (...)"
 
 #### General Character of Epic
 
@@ -79,6 +85,6 @@ The relations of ethical life, the bond of the family, as well as the bond of th
 (...)
 the sole origin and support of these relations in an epic world must clearly be a _sense_ of justice and equity, together with custom and the general mind and character, so that no intellectualism in the form of a prosaic reality can stand and be consolidated against the heart, individual attitudes of mind, and passion. (...) The relations of an objective ethical order must indeed have already been willed and developing, but they can acquire their existence only in and through the actions and character of individuals, and not yet otherwise in a universally valid and independently justified form. ==Thus in epic we find an underlying community of objective life and action, but nevertheless a freedom in this action and life which appear to proceed entirely from the subjective will of individuals.=="
 
----
+...
 
 "In addition to the cited epics with a classical education as their basis, we may add the Lusiads of Camoens. With this work, wholly national in its contents because it sings the bold sea-voyages of the Portuguese, we have already left what is properly medieval, and it takes us over into interests proclaiming a new era. Here, however, despite the fire of patriotism, the liveliness of the descriptions drawn for the most part from the poet’s own vision and experience of life, and the epically rounded unity-of the whole, we cannot but feel the cleavage between the national subject-matter and the artistic formation derived partly from antiquity and partly from the Italians, and this destroys the impression of the primitive originality of epic."
