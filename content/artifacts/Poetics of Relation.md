@@ -21,7 +21,7 @@ Glissant uses the **ship** as a symbol of the forced crossing of enslaved Africa
 
 ### Os Lusíadas in Poetics of Relation
 
-While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power) through conquest (through the creation of myth, and consequential legitimasation), Glissant’s **errantry** suggests a more fluid, non-hierarchical relationship with space, culture, and identity. The Portuguese takes an approach of massive arrow nomadism, as it is not fully rooted in the idea of Portugal, nor is open to mix with other cultures. They have a defined goal: trade, and a pride attached to it.
+While _Os Lusíadas_ is about anchoring Portuguese identity (and economic power) through conquest (through the creation of myth, and consequential legitimization), Glissant’s **errantry** suggests a more fluid, non-hierarchical relationship with space, culture, and identity. The Portuguese takes an approach of massive arrow nomadism, as it is not fully rooted in the idea of Portugal, nor is open to mix with other cultures. They have a defined goal: trade, and a pride attached to it.
 
 Foundational texts like the _Iliad_, _Odyssey_, _Eneid_, and _Sagas_ are books of exile rather than fixed national certainties. [[Os Lusíadas]] follows the same pattern: it tells the story of an errant journey across the seas within this epic past, in which the Portuguese empire is not yet fully realised but is imagined through narratives of travel, movement, exile, and expansion into unknown lands, but at the same time it tries to root Portuguese identity and be its foundation. ==In fact, the book itself talks about the fragility of empire at the time.==
 
