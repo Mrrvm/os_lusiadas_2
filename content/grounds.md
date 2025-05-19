@@ -107,9 +107,15 @@ ref: [[Hegel's Lectures on Aesthetics]]
 
 - Os lusiadas procuram legitimizar portugal, establecendo uma filiacao crista, expandir a fe, justificar a captura de territorio, tudo o resto passando a ser o outro. Bula do Papa, passa a ser providencia divina - com assimilacao ou aniquilacao.
 
-- Lusiadas como compensacao para a quebra de filiacao
+- Lusiadas e usado como compensacao para a quebra de filiacao na morte de D. Sebastiao, e independencia do Brasil. Ouro enquanto tentative de legitimizar, que levou ao declinio epico.
+
+as a mirror of Portugal’s anxieties and as a tool for mythmaking during a transformative crisis.
+
 
 ## Rhizomatic methodologies for rewriting
+
+- filiacao -> raiz -> rizomas -> como seria um epico baseado em rizoma (barca, relacao com o outro, creolo). Amaranhado num visao nao rizomatica, na tendencia generalizadora, vejo tudo como outro, cheio de opacidades, tudo e uma afronta a legitimadade da raiz, assimilado ou aniquilando tornando as transparentes ->>>>> como adicionar a historia atravez da opacidade? apreciacao, a procura de conhecimento na relacao com o outro, enaltecer e nao  assimilar e aniquilar esta palavras por partilhar da sua ideologia no que entendo da leitura do outro. Respeitando a sua opacidade, que e inversamente proporcional ao recorte das palavras.
+-  embody a multiplicity of voices and fragmented truths, not linear
 
 As it may seem unclear until now, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]], as unfortunately his work is merely product of his time, as mine will be of mine. But rather to re-instrumentalise the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance and for that reason I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation. The latter has become the foundation for my work, and has informed me throughly on multiple aspects, including the close relationship between epic poetry and the legitimization of colonialim through filiation.
 ### In rhizome
