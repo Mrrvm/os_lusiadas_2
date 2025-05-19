@@ -8,15 +8,8 @@ tags:
 bib: 'Hegel, G. W. F. "C. The Beautiful Ideal." Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 19th, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm'
 link: https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm
 ---
-Mentioned in [[Poetics of Relation]]
-
-Hegel’s view of the epic as a reflection of national spirit helps explain _Os Lusíadas_ as a project of **territorial justification**. The poem doesn’t just recount Vasco da Gama’s journey—it frames Portuguese expansion as part of a divine and historical mandate. By blending mythological validation (gods endorsing the Portuguese, and the mission to spread Christianism) with historical narrative (real conquests), Camões **normalises colonialism** as a heroic and inevitable mission. The text functions as a **justification for empire** by:
-
-1. **Creating a myth** – The journey is not just economic expansion, but framed as a civil duty, guided by fate and faith.
-2. **Defining a moral superiority** – The Portuguese are depicted as brave and righteous, while indigenous people and rival powers are often shown as obstacles to be overcome.
-3. **Making up a divine endorsement** – Venus supports the Portuguese, reinforcing their conquests as sanctioned by higher powers.
-
-This aligns with Hegel’s idea that epics are **expressions of a national consciousness**, shaping how people perceive themselves in relation to land and history.
+Mentioned in [[Poetics of Relation]] as
+=="*Hegel, in book 3 of his Aesthetics, shows how the founding works of communities appear spontaneously at the moment in which a still naive collective consciousness reassures itself about its own legitimacy, or, not to mince words: about its right to possess a land. In this sense Epic thought is close to that of Myth."==
 
 #### General Character of Epic
 
@@ -86,6 +79,6 @@ The relations of ethical life, the bond of the family, as well as the bond of th
 (...)
 the sole origin and support of these relations in an epic world must clearly be a _sense_ of justice and equity, together with custom and the general mind and character, so that no intellectualism in the form of a prosaic reality can stand and be consolidated against the heart, individual attitudes of mind, and passion. (...) The relations of an objective ethical order must indeed have already been willed and developing, but they can acquire their existence only in and through the actions and character of individuals, and not yet otherwise in a universally valid and independently justified form. ==Thus in epic we find an underlying community of objective life and action, but nevertheless a freedom in this action and life which appear to proceed entirely from the subjective will of individuals.=="
 
-
+---
 
 "In addition to the cited epics with a classical education as their basis, we may add the Lusiads of Camoens. With this work, wholly national in its contents because it sings the bold sea-voyages of the Portuguese, we have already left what is properly medieval, and it takes us over into interests proclaiming a new era. Here, however, despite the fire of patriotism, the liveliness of the descriptions drawn for the most part from the poet’s own vision and experience of life, and the epically rounded unity-of the whole, we cannot but feel the cleavage between the national subject-matter and the artistic formation derived partly from antiquity and partly from the Italians, and this destroys the impression of the primitive originality of epic."
