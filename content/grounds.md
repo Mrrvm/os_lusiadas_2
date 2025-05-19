@@ -102,7 +102,12 @@ The empire has been in free fall since the epic poem was written. The country st
 
 The book could have been anything, a novel (ref: [[Narration and Nation - Homi K. Bhabha]]), lyrical poetry, a theatre play, but [[Luís de Camões]] chose to make it an epic. According to Hegel, 
 
+- Como os lusiadas se enquadram na definicao de Hegel, excepto em algumas ideias, apesar disso considera-o um epico romantico -> didatico, propagandista, nationalista, a establecer a sua legitimidade.
 ref: [[Hegel's Lectures on Aesthetics]]
+
+- Os lusiadas procuram legitimizar portugal, establecendo uma filiacao crista, expandir a fe, justificar a captura de territorio, tudo o resto passando a ser o outro. Bula do Papa, passa a ser providencia divina - com assimilacao ou aniquilacao.
+
+- Lusiadas como compensacao para a quebra de filiacao
 
 ## Rhizomatic methodologies for rewriting
 
