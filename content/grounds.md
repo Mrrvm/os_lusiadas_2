@@ -56,17 +56,19 @@ In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an
 
 The list goes on. Like I had mentioned before, you don't have to look far; even the stamps I got at the post office were illustrated accordingly - [[grounds#^fig-stamps]]. The rhetoric bleeds out in dialogues explicitly or implicitly. Paradoxically, we have included a great amount of words from former colonies' languages in our quotidian. For example, the widely used *bué* and *bazar* (from Kimbundu language *mbuwe* and *kubaza*, respectively). Yet not only are these not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they become slang. As if the miscegenation between languages is only desirable when the objective is to re-iterate our inclusive nature for means of later commodification.
 
+(no voting rights)
+
 ### **[[Os Lusíadas]]** and education
 
 Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of poetry in the eyes of Portuguese society. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
 
-In school's Portuguese classes, it's mandatory to "analyse" around 123 out of 1102 stanzas of [[Os Lusíadas]], as well as studying (or rather memorising) the interpretation of [[A Mensagem]]. Yet not once, do we reflect upon the contemporary and huge underlying issue behind these two texts. The manner in which they contribute to the rhetoric delineated above is unfathomable, even if that was not the authors' intents. 
+In school's Portuguese classes, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying (or rather memorising) the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. The manner in which they contribute to the rhetoric delineated above is unfathomable, even if that was not the authors' intents. For example, 
 
-- [[Bárbora e Jau]]
-
-- Example The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
-
+(
 - Books 9ano 
+- [[Bárbora e Jau]]
+- Example The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
+)
 
 Therefore, while there is numerous work tackling this very urgent concern, 
 
@@ -93,24 +95,19 @@ During that period, Portugal was willing to go beyond economic exchange value - 
 
 The empire has been in free fall since the epic poem was written. The country still lives an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity other than coloniality; mythifying oneself through the remnants of this glorious empire, to compensate for a longing to be what it "once was"; and avoiding the "painful necessity of confronting" its smallness. You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is still aggressively shouted as a fundamental pillar of Portuguese culture.[^eduardo] 
 
- ==a epopeia camoniana é, entre outras coisas, um genial manifesto, uma máquina de guerra coerente, e não um poema asséptico e intemporal dedicado à exaltação de um amor pátrio sem conteúdo histórico preciso.==
-
-. ==Que essa mitificação contribuiu - e continua contribuindo - mais do que tudo o resto para nos descentrar em relação a nós mesmos e nos instalar numa perspectiva autista de configuração esquizofrénica, também não parece poder pôr-se em dúvida.==
-
-==Historicamente, a hipertrofia do sentimento nacional, tal como Os Lusíadas a configuraram, só se tornará grave e patológica à medida, ou nos momentos, em que a distância entre a nossa hora solar e a realidade decaída que a prolonga se acentuará.== ==O que no Poema aparece já numa luz traumatizante para o futuro é sobretudo a nossa imagem no conjunto das dos outros povos.== A topologia imaginária onde Camões nos situou era já na época perigosamente irrealista e fonte de irrealismo como o exterior e concludente Alcácer Quibir o mostraria (...)
 ### Nations and their epic poems 
 
-The book could have been anything, a novel (ref: [[Narration and Nation - Homi K. Bhabha]]), lyrical poetry, a theatre play, but [[Luís de Camões]] chose to make it an epic. According to Hegel, 
+(on nation and national identity - ref: [[Narration and Nation - Homi K. Bhabha]])
 
-- Como os lusiadas se enquadram na definicao de Hegel, excepto em algumas ideias, apesar disso considera-o um epico romantico -> didatico, propagandista, nationalista, a establecer a sua legitimidade.
-ref: [[Hegel's Lectures on Aesthetics]]
+The book could have been a novel, or lyrical poetry, but [[Luís de Camões]] deliberately chose epic poetry, a tool close to that of myth. He himself states it by asking Virgil's Aeneid and Homer's Odyssey to be ceased immediately in the first chapter.[^canto1] According to Hegel's eurocentric perspectives[^hegel2], this kind of poetry is not an expression of personal feelings or individual reflections, it's the manifestation of a national spirit presented through a "heroic" event rooted in a nation’s collective consciousness; integrating a "total view" (divine, natural and human) and balancing individual agency with a divine mandate.[^hegel1] In our case, the latter was the mission to "expand christian faith" and "civilize the world", consolidated by multiple papal bulls (e.g. _Dum Diversas_, that authorised Portugal to extract resources and subjugate Africans to "perpetual servitude"). The event is the journey to India that is semi-orchestrated by Venus and Bacchus interventions expressed through natural phenomenon, like tempests, battles, allies or favourable currents. However, in Hegel's view, one could say that [[Os Lusíadas]] is not actually a pure epic, since its self-aware of its nationalistic tendencies, turning it instead into a didactic tool, or as Lourenço puts it - a coherent war machine[^eduardo2] - geared towards inspiring a falling empire.
+
+In the quest to legitimise land theft, filiation becomes crucial.
 
 - Os lusiadas procuram legitimizar portugal, establecendo uma filiacao crista, expandir a fe, justificar a captura de territorio, tudo o resto passando a ser o outro. Bula do Papa, passa a ser providencia divina - com assimilacao ou aniquilacao.
 
 - Lusiadas e usado como compensacao para a quebra de filiacao na morte de D. Sebastiao, e independencia do Brasil. Ouro enquanto tentative de legitimizar, que levou ao declinio epico.
 
-as a mirror of Portugal’s anxieties and as a tool for mythmaking during a transformative crisis.
-
+a tool for mythmaking during a transformative crisis.
 
 ## Rhizomatic methodologies for rewriting
 
@@ -254,7 +251,14 @@ references: [[index#thought log]], [[index#considerations]], github
 
 [^eduardo]: [[O Labirinto da Saudade - Eduardo Lourenço]] 
 
-[^deco]: I use "decolonisation" in quotes, as neocolonial structures remain in place to this day.
+[^eduardo2]: [[O Labirinto da Saudade - Eduardo Lourenço#^eduardo2]] 
+
+[^deco]: I use "decolonisation" in quotes, as neocolonial structures remain in place to this day, just like coloniality does.
 
 [^lie]: This is so easily debunkable, that it becomes laughable. In a quick search to Wikipedia, it states: "In 1761, the Marquis of Pombal banned the importation of African slaves to Portugal and Portuguese India; this however was not intended as an anti-slavery measure, but to ensure the slaves went to Brazil instead. Portugal abolished its involvement in the Atlantic slave trade in 1836, primarily due to Brazil becoming independent and British diplomatic pressure. Finally, in 1869, slavery was abolished for good in the Portuguese Empire". However, as Cartwright notes "(...) slaves continued to be imported to São Tomé and Principe until prohibition in 1908. Slaves were then replaced by African labourers who had to be repatriated after a certain number of years, but their living conditions were little different from those their slave predecessors had suffered.", and this is evident through official government documents like [[Código do trabalho dos indígenas nas colónias portuguesas de África]], and interviews conducted in [[Forced labour by those who lived through it]]. From *Wikipedia. "Slavery in Portugal." Last modified April 14, 2025. [https://en.wikipedia.org/wiki/Slavery_in_Portugal](https://en.wikipedia.org/wiki/Slavery_in_Portugal) and Cartwright, Mark. "Portuguese Empire." World History Encyclopedia. Last modified July 19, 2021. [https://www.worldhistory.org/Portuguese_Empire/](https://www.worldhistory.org/Portuguese_Empire/).
 
+[^canto1]: in the verse "Cessem do sábio Grego e do Troiano" in [[Os Lusíadas]]
+
+[^hegel1]: Hegel, G. W. F. "C. The Beautiful Ideal." Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 19th, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm
+
+[^hegel2]: Hegel’s definition of epic poetry privileges Greco-Roman and Western Christian models as the pure form of epic. Considering, for example _Mahabharata_, _Ramayana_, African griot traditions, oral epics (e.g.  _Ozidi Saga_), as less developed or primitive, and justifying Europe’s "civilizing mission".
