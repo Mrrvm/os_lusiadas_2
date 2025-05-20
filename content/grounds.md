@@ -56,7 +56,7 @@ In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an
 
 The list goes on. Like I had mentioned before, you don't have to look far; even the stamps I got at the post office were illustrated accordingly - [[grounds#^fig-stamps]]. The rhetoric bleeds out in dialogues explicitly or implicitly. Paradoxically, we have included a great amount of words from former colonies' languages in our quotidian. For example, the widely used *bué* and *bazar* (from Kimbundu language *mbuwe* and *kubaza*, respectively). Yet not only are these not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they become slang. As if the miscegenation between languages is only desirable when the objective is to re-iterate our inclusive nature for means of later commodification.
 
-(no voting rights)
+%% (ref: no voting rights) %%
 
 ### **[[Os Lusíadas]]** and education
 
@@ -64,11 +64,11 @@ Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book -
 
 In school's Portuguese classes, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying (or rather memorising) the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. The manner in which they contribute to the rhetoric delineated above is unfathomable, even if that was not the authors' intents. For example, 
 
-(
+%% (ref:
 - Books 9ano 
 - [[Bárbora e Jau]]
 - Example The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
-)
+) %%
 
 Therefore, while there is numerous work tackling this very urgent concern, 
 
@@ -95,8 +95,9 @@ During that period, Portugal was willing to go beyond economic exchange value - 
 
 The empire has been in free fall since the epic poem was written. The country still lives an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity other than coloniality; mythifying oneself through the remnants of this glorious empire, to compensate for a longing to be what it "once was"; and avoiding the "painful necessity of confronting" its smallness. You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is still aggressively shouted as a fundamental pillar of Portuguese culture.[^eduardo] 
 
-(on nation and national identity - ref: [[Narration and Nation - Homi K. Bhabha]])
-
+%% (on nation and national identity - ref: [[Narration and Nation - Homi K. Bhabha]])
+ %%
+ 
 The book could have been a novel, or lyrical poetry, but author deliberately chose epic poetry, a tool close to that of myth. He himself states it by asking Virgil's Aeneid and Homer's Odyssey to be ceased immediately in the first chapter.[^canto1] According to Hegel's eurocentric perspectives[^hegel2], this kind of poetry is not an expression of personal feelings or individual reflections, it's the manifestation of a national spirit presented through a "heroic" event rooted in a nation’s collective consciousness; integrating a "total view" (divine, natural and human) and balancing individual agency with a divine mandate.[^hegel1] In our case, this was the mission to "expand christian faith" and "civilize the world", consolidated by multiple papal bulls (e.g. _Dum Diversas_, that authorised Portugal to extract resources and subjugate Africans to "perpetual servitude"). The event was the journey to India that was semi-orchestrated by Venus and Bacchus interventions expressed through natural phenomenon, like tempests, battles, allies or favourable currents, i.e. colonial expansion framed as a cosmic battle. However, in Hegel's view, one could say that [[Os Lusíadas]] is not actually a pure epic for its self-conscious nationalism and didactic interventions, but instead, as Lourenço puts it - a coherent war machine[^eduardo2] - geared towards inspiring a falling empire.
 
 In the quest to justify land and body theft, filiation becomes crucial and takes place through Christianity's mechanisms as a temporarily linear and universalising spirit. In other words, anything that was opaque to these believes, anything that was not affiliated with them (not from the same root), the other, had to be either assimilated or annihilated, as it posed a threat to it's universal truth.[^gliss] A threat analogous to how Palestine has been framed by Israel - an opaque obstacle to a mythic filiation rooted in biblical narratives. The Portuguese filiation was broken by the king's death in 1578 without succession, and started a century-long pursuit of legitimisation through the myth-making of the epic poem - bypassing bloodlines, and transforming into a lineage of "heroes" held together by inevitable "destiny" and faith. Rather than confront the end of this fictive filiation and recognise it as a violent imposition, "decolonisation", as mentioned before, was refashioned to fit a new national identity. Not a loss of legitimacy but a continuation of "Portugals" role, not an imperial patriarchy, but a benevolent mediator between Europe and the Global South. It revealed not the collapse of the myth, but its plasticity till today.
@@ -111,18 +112,16 @@ As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to critic
 
 To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes experimental writing can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a non-linear narrative (see [[grounds#^fig-zong]]). In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth. In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
 
-In the re-writing of [[Os Lusíadas]], the original idea was to put cut-outs of the epic poem together with cut-outs from texts of lusophonic decolonial thinkers and makers (focusing mostly on authors from former colonies and its diaspora, but also including works that I find crucial, like Poetics of Relation), embodying a multiplicity of voices, with a set of rules:
+In the re-writing of [[Os Lusíadas]], the idea is to put cut-outs of the epic poem together with cut-outs from texts of lusophonic decolonial thinkers and makers (focusing mostly on authors from former colonies and its diaspora, but also including works that I find crucial, like Poetics of Relation), embodying a multiplicity of voices, with a set of rules:
 
 - The texts can vary and derive from interviews, to academic papers, songs, poetry, books, theatre pieces, performances, visual art, conversations, or others. All in equal grounds.
 - To make use of a text, I engage theoretically with the text, the words are not just removed and decontextualised, since the point is not to assimilate or annihilate them, but to elevate them. 
 - I give priority to whole sentences over words, in order to limit the amount of freedom I have with the emerging combination of texts. The more of the cut-out text remains, the more opacity is preserved, the more I facilitate rather than write.
-- The combination of all emerging texts will not be a linear narrative. The place where one starts reading shall not matter.
 
-However, the deeper I dive in the work, the more I come across problems that I don't necessarily have a definitive answer to.
 ### Concrete issues
-#### Maintaining the structure of [[Os Lusíadas]]
+#### Maintaining structure 
 
-While given the rhizomatic properties I wish to embed in the methods, the immediate question would be, does it make sense to keep the strict structure of the original book?
+The immediate question that arises is if it makes sense to keep the same structure. Although, the original poem is not completely linear (as it jumps back and fourth time periods), it is chronological. Beyond that, it has delineated chapters, rigid stanzas and decasyllabic verses.  Replicating this structure could mean to be rooted in the original, to be the opposite of rhizomatic. And while that is true, I can still see advantages that lead me to take that decision. Other than the divine elements and the nationalist rhetoric that praises the Portuguese, the structure of the epic poem is also what makes it so mystical - the making of such work is perceived as extremely complex and genius. Choosing to 
 ##### Decasyllables and accents (research by making)
 #### Balancing between appropriation and appreciation
 references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
