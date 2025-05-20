@@ -103,24 +103,26 @@ The book could have been a novel, or lyrical poetry, but [[Luís de Camões]] de
 
 In the quest to justify land and body theft, filiation becomes crucial and takes place through Christianity's mechanisms as a temporarily linear and universalising spirit. In other words, anything that was opaque to these believes, anything that was not affiliated with them (not from the same root), the other, had to be either assimilated or annihilated, as it posed a threat to it's universal truth.[^gliss] A threat analogous to how Palestine has been framed by Israel - an opaque obstacle to a mythic filiation rooted in biblical narratives. The Portuguese filiation was broken by the king's death in 1578 without succession, and started a century-long pursuit of legitimisation through the myth-making of the epic poem - bypassing bloodlines, and transforming into a lineage of "heroes" held together by inevitable "destiny" and faith. Rather than confront the end of this fictive filiation and recognise it as a violent imposition, "decolonisation", as mentioned before, was refashioned to fit a new national identity. Not a loss of legitimacy but a continuation of "Portugals" role, not an imperial patriarchy, but a benevolent mediator between Europe and the Global South. It revealed not the collapse of the myth, but its plasticity till today.
 
-## Rhizomatic methodologies for rewriting
+## Rhizomatic methodologies
 
-Filiation, like a root, means the absolute exclusion of the other. Unlike a rhizome, where new shoots can emerge and become their own individuals, spread but kept connected through a decentralised network.[^gliss2] An example of a rhizome would be the 
+Filiation, like a root, means the absolute exclusion of the other. Unlike a rhizome, where new shoots can emerge and become their own individuals, spread but kept connected through a decentralised network.[^gliss2]  In Glissant's Poetics of Relation (the book that has been serving as the foundation for my work), an example of a rhizome would be the formation of creolised societies, and the creole languages themselves. Perpetuated by the Portuguese, the forced displacement of Africans taken from multiple origins, carrying an opaqueness to each other and to the unknown land without their roots, formed complex and often untraceable new identities, languages, cultures through the Relation with the Other. This is the opposite to a singular dominant root embodied by the colonisers.[^gliss3]
 
-filiacao -> raiz -> rizomas -> como seria um epico baseado em rizoma (barca, relacao com o outro, creolo). 
+As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]]. But rather to re-instrumentalize the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance and for that reason I look for an understanding of what it means to work rhizomatically.
+
+### Experimental writing as tool
+
+The term experimental writing is hard to define. Instead I have created a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text".[^mariana] Regarding colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a narrative that is not straightforward (see [[grounds#^fig-zong]]). In the Portuguese context, there are a few examples from 60's poetry movement - [PO.EX](https://po-ex.net/), like *Barros*'s *Gritos de Angústia*.
+
+
+
+#### Examples of experimental writing within this context
+references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
+
+#### Can experimental writing be rhizomatic?
 
 como adicionar a historia atravez da opacidade? apreciacao, a procura de conhecimento na relacao com o outro, enaltecer e nao  assimilar e aniquilar esta palavras por partilhar da sua ideologia no que entendo da leitura do outro. Respeitando a sua opacidade, que e inversamente proporcional ao recorte das palavras.
 -  embody a multiplicity of voices and fragmented truths, not linear
 
-As it may seem unclear until now, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]], as unfortunately his work is merely product of his time, as mine will be of mine. But rather to re-instrumentalise the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance and for that reason I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation. The latter has become the foundation for my work, and has informed me throughly on multiple aspects, including the close relationship between epic poetry and the legitimization of colonialim through filiation.
-
-### Experimental writing as tool
-#### Can experimental writing be rhizomatic?
-
-#### Methods within rewriting 
-references: https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
-#### Examples of experimental writing within this context
-references: [[Zong!]], https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f#7a6b6f8c621f4a5c812232a7d261186c
 
 ### Concrete re-writing problems
 #### Maintaining the structure of [[Os Lusíadas]]
@@ -173,6 +175,12 @@ references: [[index#thought log]], [[index#considerations]], github
 
 ![[Pasted image 20250506142729.png]]
 **Fig. 8** - Official stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas".^fig-stamps
+
+![[Pasted image 20250520175707.png]]
+**Fig. 9** - Page 85 of [[Zong!]] by [[NourbeSe Philip]]".^fig-zong
+
+![[Pasted image 20250226190145.png]]
+**Fig. 9** - Page 85 of [[Zong!]] by [[NourbeSe Philip]]".^fig-zong
 
 ---
 
@@ -261,3 +269,7 @@ references: [[index#thought log]], [[index#considerations]], github
 [^gliss]: [[Poetics of Relation]] p.53-66
 
 [^gliss2]: [[Poetics of Relation]] p.11 on [[Rhizome - Gille Deleuze]]
+
+[^gliss3]: [[Poetics of Relation]] p.17-24
+
+[^mariana]: Martins, M. "references, ideas and techniques". 2024. https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f
