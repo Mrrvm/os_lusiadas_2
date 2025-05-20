@@ -107,17 +107,15 @@ Filiation, like a root, means the absolute exclusion of the other. Unlike a rhiz
 
 As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]]. But rather to re-instrumentalize the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance and for that reason I look for an understanding of what it means to work rhizomatically.
 
-### Experimental writing as tool
+### Experimental writing
 
-The term experimental writing is hard to define. Instead I have created a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text".[^mariana] Regarding colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a narrative that is not straightforward (see [[grounds#^fig-zong]]). In the Portuguese context, from 60's experimental poetry movement ([PO.EX](https://po-ex.net/)), there's *Barros*'s *Gritos de Angústia*, where the artist transforms the words "*escravos*" ("slaves") and "cravos" ( carnations - the symbol of the 1974's revolution) back and fourth. In the Netherlands, Patricia Kaersenhout's uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-zong]])
+To grasp the term experimental writing, I have created a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a non-linear narrative (see [[grounds#^fig-zong]]). In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth. In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
 
-#### Can experimental writing be rhizomatic?
 
 como adicionar a historia atravez da opacidade? apreciacao, a procura de conhecimento na relacao com o outro, enaltecer e nao  assimilar e aniquilar esta palavras por partilhar da sua ideologia no que entendo da leitura do outro. Respeitando a sua opacidade, que e inversamente proporcional ao recorte das palavras.
 -  embody a multiplicity of voices and fragmented truths, not linear
 
-
-### Concrete re-writing problems
+### Concrete problems
 #### Maintaining the structure of [[Os Lusíadas]]
 
 While given the rhizomatic properties I wish to embed in the methods, the immediate question would be, does it make sense to keep the strict structure of the original book?
@@ -129,7 +127,7 @@ references: [[Tavares Cebola]], [[Sandim Mendes]]
 #### Fonts and ethics (research by making)
 material references difficulty, experimental writing as a decolonial/educational method, women and non white/ work as a library
 #### Examples of such epic poems
-references: [[Omeros, Derek Walcott]]
+references: [[Omeros - Derek Walcott]]
 
 ### Writing from the Netherlands
 
@@ -173,11 +171,11 @@ references: [[index#thought log]], [[index#considerations]], github
 **Fig. 9** - Page 85 of [[Zong!]] by [[NourbeSe Philip]]".^fig-zong
 
 ![[Pasted image 20250226190145.png]]
-**Fig. 9** - Images from the book *"Exposição de Poesia Experimental Portuguesa". PO.EX.80. Galeria Nacional de Arte Moderna - Belém. Consulted in May 2024.*^fig-barros
+**Fig. 10** - Images from the book *"Exposição de Poesia Experimental Portuguesa". PO.EX.80. Galeria Nacional de Arte Moderna - Belém. Consulted in May 2024.*^fig-barros
 
 ![[Picture 1.png]]
 ![[Pasted image 20250520204633.png]]
-**Fig. 10** - Photos of the work "THE DREAM OF A THOUSAND SHIPWRECKS" and "We refuse..." by [[Patricia Kaersenhout]]. De Appel, Amsterdam. 2018. Photo: Konstantin Guz. https://www.pkaersenhout.com/copy-of-les-eclaireurs ^fig-patricia
+**Fig. 11** - Photos of the work "THE DREAM OF A THOUSAND SHIPWRECKS" and "We refuse..." by [[Patricia Kaersenhout]]. De Appel, Amsterdam. 2018. Photo: Konstantin Guz. https://www.pkaersenhout.com/copy-of-les-eclaireurs ^fig-patricia
 
 ---
 
