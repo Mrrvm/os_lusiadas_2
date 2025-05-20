@@ -109,7 +109,7 @@ As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to critic
 
 ### Experimental writing as tool
 
-The term experimental writing is hard to define. Instead I have created a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text".[^mariana] Regarding colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a narrative that is not straightforward (see [[grounds#^fig-zong]]). In the Portuguese context, from 60's experimental poetry movement ([PO.EX](https://po-ex.net/)), there's *Barros*'s *Gritos de Angústia*, where the artist transforms the words "*escravos*" ("slaves") and "cravos" ( carnations - the symbol of the 1974's revolution) back and fourth. And in the Netherlands, Patricia Kaersenhout's
+The term experimental writing is hard to define. Instead I have created a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text".[^mariana] Regarding colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a narrative that is not straightforward (see [[grounds#^fig-zong]]). In the Portuguese context, from 60's experimental poetry movement ([PO.EX](https://po-ex.net/)), there's *Barros*'s *Gritos de Angústia*, where the artist transforms the words "*escravos*" ("slaves") and "cravos" ( carnations - the symbol of the 1974's revolution) back and fourth. In the Netherlands, Patricia Kaersenhout's uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-zong]])
 
 #### Can experimental writing be rhizomatic?
 
@@ -174,6 +174,10 @@ references: [[index#thought log]], [[index#considerations]], github
 
 ![[Pasted image 20250226190145.png]]
 **Fig. 9** - Images from the book *"Exposição de Poesia Experimental Portuguesa". PO.EX.80. Galeria Nacional de Arte Moderna - Belém. Consulted in May 2024.*^fig-barros
+
+![[Picture 1.png]]
+![[Pasted image 20250520204633.png]]
+**Fig. 10** - Photos of the work "THE DREAM OF A THOUSAND SHIPWRECKS" and "We refuse..." by [[Patricia Kaersenhout]]. De Appel, Amsterdam. 2018. Photo: Konstantin Guz. https://www.pkaersenhout.com/copy-of-les-eclaireurs ^fig-patricia
 
 ---
 
