@@ -111,15 +111,12 @@ As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to critic
 
 To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes experimental writing can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a non-linear narrative (see [[grounds#^fig-zong]]). In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth. In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
 
-In the re-writing of [[Os Lusíadas]], the original idea was to put cut-outs of the epic poem together with cut-outs from texts of lusophonic decolonial thinkers and makers (focusing mostly on authors from former colonies and its diaspora, but also including works that I find crucial, like Poetics of Relation), with a set of rules:
+In the re-writing of [[Os Lusíadas]], the original idea was to put cut-outs of the epic poem together with cut-outs from texts of lusophonic decolonial thinkers and makers (focusing mostly on authors from former colonies and its diaspora, but also including works that I find crucial, like Poetics of Relation), embodying a multiplicity of voices, with a set of rules:
 
 - The texts can vary and derive from interviews, to academic papers, songs, poetry, books, theatre pieces, performances, visual art, conversations, or others. All in equal grounds.
 - To make use of a text, I engage theoretically with the text, the words are not just removed and decontextualised, since the point is not to assimilate or annihilate them, but to elevate them. 
 - I give priority to whole sentences over words, in order to limit the amount of freedom I have with the emerging combination of texts. The more of the cut-out text remains, the more opacity is preserved, the more I facilitate rather than write.
-- The combination of all emerging texts is not a linear narrative.
-
-como adicionar a historia atravez da opacidade? apreciacao, a procura de conhecimento na relacao com o outro, enaltecer e nao  assimilar e aniquilar esta palavras por partilhar da sua ideologia no que entendo da leitura do outro. Respeitando a sua opacidade, que e inversamente proporcional ao recorte das palavras.
--  embody a multiplicity of voices and fragmented truths, not linear
+- The combination of all emerging texts will not be a linear narrative. The place where one starts reading shall not matter.
 
 ### Concrete issues
 #### Maintaining the structure of [[Os Lusíadas]]
