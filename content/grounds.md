@@ -118,6 +118,7 @@ In the re-writing of [[Os Lusíadas]], the original idea was to put cut-outs of 
 - I give priority to whole sentences over words, in order to limit the amount of freedom I have with the emerging combination of texts. The more of the cut-out text remains, the more opacity is preserved, the more I facilitate rather than write.
 - The combination of all emerging texts will not be a linear narrative. The place where one starts reading shall not matter.
 
+However, the deeper I dive in the work, the more I come across problems that I don't necessarily have a definitive answer to.
 ### Concrete issues
 #### Maintaining the structure of [[Os Lusíadas]]
 
