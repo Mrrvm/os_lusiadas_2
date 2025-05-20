@@ -142,7 +142,9 @@ references: [[Omeros - Derek Walcott]]
 #### Transparency 
 references: [[index#thought log]], [[index#considerations]], github
 
-### Looking ahead
+### Preliminary results
+
+### Reflection and looking ahead
 [[Worlding or How to Embrace the End of an Era]]
 
 ## Figures
