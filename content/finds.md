@@ -146,3 +146,5 @@ https://en.wikipedia.org/wiki/Claridade _**Claridade**_ ([Portuguese](https://e
 Agostinho Neto and Mario de Andrade from Angola, and Marcelino dos Santos
 
 https://arquivos.rtp.pt/conteudos/discurso-de-marcelo-caetano-3/
+
+djamila ribeiro
