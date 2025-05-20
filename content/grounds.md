@@ -101,24 +101,19 @@ The empire has been in free fall since the epic poem was written. The country st
 
 The book could have been a novel, or lyrical poetry, but [[Luís de Camões]] deliberately chose epic poetry, a tool close to that of myth. He himself states it by asking Virgil's Aeneid and Homer's Odyssey to be ceased immediately in the first chapter.[^canto1] According to Hegel's eurocentric perspectives[^hegel2], this kind of poetry is not an expression of personal feelings or individual reflections, it's the manifestation of a national spirit presented through a "heroic" event rooted in a nation’s collective consciousness; integrating a "total view" (divine, natural and human) and balancing individual agency with a divine mandate.[^hegel1] In our case, the latter was the mission to "expand christian faith" and "civilize the world", consolidated by multiple papal bulls (e.g. _Dum Diversas_, that authorised Portugal to extract resources and subjugate Africans to "perpetual servitude"). The event is the journey to India that is semi-orchestrated by Venus and Bacchus interventions expressed through natural phenomenon, like tempests, battles, allies or favourable currents. However, in Hegel's view, one could say that [[Os Lusíadas]] is not actually a pure epic, since its self-aware of its nationalistic tendencies, turning it instead into a didactic tool, or as Lourenço puts it - a coherent war machine[^eduardo2] - geared towards inspiring a falling empire.
 
-In the quest to legitimise land theft, filiation becomes crucial.
-
-- Os lusiadas procuram legitimizar portugal, establecendo uma filiacao crista, expandir a fe, justificar a captura de territorio, tudo o resto passando a ser o outro. Bula do Papa, passa a ser providencia divina - com assimilacao ou aniquilacao.
-
-- Lusiadas e usado como compensacao para a quebra de filiacao na morte de D. Sebastiao, e independencia do Brasil. Ouro enquanto tentative de legitimizar, que levou ao declinio epico.
-
-a tool for mythmaking during a transformative crisis.
+In the quest to justify land and body theft, filiation becomes crucial and takes place through Christianity's mechanisms as a temporarily linear and universalising spirit. In other words, anything that was opaque to these believes, anything that was not affiliated with them (not from the same root), the other, had to be either assimilated or annihilated, as it posed a threat to it's universal truth. A threat like Palestine is to Israel. The Portuguese filiation was broken by the king's death in 1580, without succession, it started a century-lasting pursuit of legitimisation through the myth-making of the epic poem. As well as through a delusional gold rush, seeking to reassert power after the "feminizing" Dutch and Spanish incursions to Portuguese sovereignty. The last tragedy was "decolonisation", as mentioned above, refashioned to fit a new cultural identification, and prevent further realisation of being in "a sacred legitimacy provided by filiation but in the problematic (threatening) relation to the other".[^gliss]
 
 ## Rhizomatic methodologies for rewriting
 
-- filiacao -> raiz -> rizomas -> como seria um epico baseado em rizoma (barca, relacao com o outro, creolo). Amaranhado num visao nao rizomatica, na tendencia generalizadora, vejo tudo como outro, cheio de opacidades, tudo e uma afronta a legitimadade da raiz, assimilado ou aniquilando tornando as transparentes ->>>>> como adicionar a historia atravez da opacidade? apreciacao, a procura de conhecimento na relacao com o outro, enaltecer e nao  assimilar e aniquilar esta palavras por partilhar da sua ideologia no que entendo da leitura do outro. Respeitando a sua opacidade, que e inversamente proporcional ao recorte das palavras.
+Filiation, like a root, means the absolute exclusion of the other. Unlike a rhizome, where new shoots can emerge and become their own individuals. (ref: [[Rhizome - Gille Deleuze]]) 
+
+filiacao -> raiz -> rizomas -> como seria um epico baseado em rizoma (barca, relacao com o outro, creolo). 
+
+como adicionar a historia atravez da opacidade? apreciacao, a procura de conhecimento na relacao com o outro, enaltecer e nao  assimilar e aniquilar esta palavras por partilhar da sua ideologia no que entendo da leitura do outro. Respeitando a sua opacidade, que e inversamente proporcional ao recorte das palavras.
 -  embody a multiplicity of voices and fragmented truths, not linear
 
 As it may seem unclear until now, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]], as unfortunately his work is merely product of his time, as mine will be of mine. But rather to re-instrumentalise the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance and for that reason I intend to guide the process through the frameworks delineated by Édouard Glissant in Poetics of Relation. The latter has become the foundation for my work, and has informed me throughly on multiple aspects, including the close relationship between epic poetry and the legitimization of colonialim through filiation.
-### In rhizome
 
-The rhizome ...
-references: [[Rhizome - Gille Deleuze]]
 ### Experimental writing as tool
 #### Can experimental writing be rhizomatic?
 
@@ -262,3 +257,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [^hegel1]: Hegel, G. W. F. "C. The Beautiful Ideal." Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 19th, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm
 
 [^hegel2]: Hegel’s definition of epic poetry privileges Greco-Roman and Western Christian models as the pure form of epic. Considering, for example _Mahabharata_, _Ramayana_, African griot traditions, oral epics (e.g.  _Ozidi Saga_), as less developed or primitive, and justifying Europe’s "civilizing mission".
+
+[^gliss]: [[Poetics of Relation]]]:
