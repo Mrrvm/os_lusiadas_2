@@ -108,30 +108,26 @@ Filiation, like a root, means the absolute exclusion of the other. Unlike a rhiz
 
 As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]]. But rather to re-instrumentalize the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology I decide to use is of utmost importance and for that reason I look for an understanding of what it means to work rhizomatically, and if and how experimental writing can be rhizomatic.
 
-### Experimental writing
-
 To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes experimental writing can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a non-linear narrative (see [[grounds#^fig-zong]]). In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth. In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
 
-In the re-writing of [[Os Lusíadas]], the idea is to put cut-outs of the epic poem together with cut-outs from texts of lusophonic decolonial thinkers and makers (focusing mostly on authors from former colonies and its diaspora, but also including works that I find crucial, like Poetics of Relation), embodying a multiplicity of voices, with a set of rules:
+%% ref: [[Omeros - Derek Walcott]] %%
 
-- The texts can vary and derive from interviews, to academic papers, songs, poetry, books, theatre pieces, performances, visual art, conversations, or others. All in equal grounds.
-- To make use of a text, I engage theoretically with the text, the words are not just removed and decontextualised, since the point is not to assimilate or annihilate them, but to elevate them. 
-- I give priority to whole sentences over words, in order to limit the amount of freedom I have with the emerging combination of texts. The more of the cut-out text remains, the more opacity is preserved, the more I facilitate rather than write.
+### Re-writing [[Os Lusíadas]]
 
-### Concrete issues
+In re-writing [[Os Lusíadas]], the idea is to put cut-outs of the epic poem together with cut-outs from texts of lusophonic decolonial thinkers and makers (focusing mostly on authors from former colonies and its diaspora, but also including works that I find crucial, like Poetics of Relation), embodying a multiplicity of voices. The texts can vary and derive from interviews, to academic papers, songs, poetry, books, theatre pieces, performances, visual art, conversations, or others, all in equal grounds. To make use of a text, I engage theoretically with the text, the words are not just removed and decontextualised, since the point is not to assimilate or annihilate them, but to elevate them.  Whole sentences are prioritized over words, in order to limit the amount of freedom I have with the emerging combination of texts. The more of the cut-out text remains, the more opacity is preserved, the more I facilitate rather than write.
 #### Maintaining structure 
 
-The immediate question that arises is if it makes sense to keep the same structure. Although, the original poem is not completely linear (as it jumps back and fourth time periods), it is chronological. Beyond that, it has delineated chapters, rigid stanzas and decasyllabic verses.  Replicating this structure could mean to be rooted in the original, to be the opposite of rhizomatic. And while that is true, I can still see advantages that lead me to take that decision. Other than the divine elements and the nationalist rhetoric that praises the Portuguese, the structure of the epic poem is also what makes it so mystical - the making of such work is perceived as extremely complex and genius. Choosing to 
-##### Decasyllables and accents (research by making)
+The immediate question that arises is if it makes sense to keep the same structure as the epic poem. Although, [[Os Lusíadas]] is not completely linear (as in it jumps back and fourth time periods), it is chronological. Beyond that, it has delineated chapters, rigid stanzas and decasyllabic verses. Replicating this structure could mean to be rooted in the original. And while that is true, I can still see advantages that lead me to take that decision. Other than the content-wise divine elements and the nationalist rhetoric that praises the Portuguese, the structure of the epic poem is what makes it so mystical - the making of such a work is perceived as extremely complex and genius. Choosing not to do so could mean losing an opportunity to overshadow its ingenuity - relevant when the goal is to get past it and actually talk about the underlying coloniality. Thus, it makes sense to create ABABABCC stanzas and decasyllabic verses as well.
+#### Decasyllables
+
+The decasyllables are counted as poetic syllables, rather than gramatical. For instance, *te-le-vi-são* (te-le-vi-sion)
+
 #### Balancing between appropriation and appreciation
 references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
 #### Collaboration and translation
 references: [[Tavares Cebola]], [[Sandim Mendes]]
 #### Fonts and ethics (research by making)
 material references difficulty, experimental writing as a decolonial/educational method, women and non white/ work as a library
-#### Examples of such epic poems
-references: [[Omeros - Derek Walcott]]
-
 ### Writing from the Netherlands
 
 ### Usage of Obsidian as a research tool
