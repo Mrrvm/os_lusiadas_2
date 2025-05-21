@@ -126,9 +126,12 @@ After that, the most crucial point for the work is how to balance between approp
 
 A relevant case-study is Rana Hamadeh and [[Zong!]], where the author is in dispute with Hamadeh for what it seemed to have been a misunderstanding on the consent to use the text for the work "The Ten Murders of Josephine", "which draws on several 'cues; to create the compositions for the opera, one of which is the case of the atrocities of the Zong massacre".[^rana] Knowing Rana, I would like to enter in dialogue to understand her take on the issue. The intention is to talk to each living author (or in case of deceased those who hold rights to the work) and ask for their participation. Depending on the author's will, this could mean asking for permission to use the text in this context, having a conversation or actively having them re-write part of [[Os Lusíadas]] with their own words.
 
-At the moment, I am in contact with [[Tavares Cebola]], a mozambican journalist who integrates a  a bookstore in Maputo (called Rizoma). He has accepted the invite to participate and has helped me with references and his own articles. I have also talked to the dutch artist [[Sandim Mendes]], who navigates the concept of identity between Cape Verdean (a former Portuguese colony) and the Netherlands. Sandim has helped me figure out the project's direction, contributed with questions, references and has accepted to participate too.
-#### Translation
+At the moment, I am in contact with [[Tavares Cebola]], a mozambican journalist who integrates a  a bookstore in Maputo (called Rizoma). He has accepted the invite to participate and has helped me with references and his own articles. I have also talked to the dutch artist [[Sandim Mendes]], who navigates the concept of identity between Cape Verdean (a former Portuguese colony) and the Netherlands. Sandim has helped me figure out the project's direction, contributed with questions, references and has accepted to participate too, possibly writing in Badiu.
+#### Translations
 
+This raises the question of if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, Kimbundu, etc, when I don't speak them. While incorporating these could prove useful at undermining Portuguese as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, it should be done only in collaboration to avoid extractive linguistic tourism.
+
+In relation to using works written in English (or other languages I feel more comfortable with), and translating them in Portuguese. I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough relevant lusophonic work that deserves more attention.
 #### Fonts and ethics
 
 
