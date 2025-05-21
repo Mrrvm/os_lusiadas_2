@@ -18,3 +18,4 @@ Erasure (She scrubs the legal documents of Gregson v. Gilbert, a case about 150 
 
 ### Notes
 On the usage of Zong! by Rana Hamadeh, https://www.setspeaks.com/ ^zong-and-rana
+*Philip, M. NourbeSe. "Set Speaks" (blog). Accessed May 21, 2025. [https://www.setspeaks.com/](https://www.setspeaks.com/)*

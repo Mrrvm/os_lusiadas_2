@@ -118,11 +118,17 @@ In re-writing [[Os Lusíadas]], the idea is to put cut-outs of the epic poem tog
 #### Maintaining structure 
 
 The immediate question that arises is if it makes sense to keep the same structure as the epic poem. Although, [[Os Lusíadas]] is not completely linear (as in it jumps back and fourth time periods), it is chronological. Beyond that, it has delineated chapters, rigid stanzas and decasyllabic verses. Replicating this structure could mean to be rooted in the original. And while that is true, I can still see advantages that lead me to take that decision. Other than the content-wise divine elements and the nationalist rhetoric that praises the Portuguese, the structure of the epic poem is what makes it so mystical - the making of such a work is perceived as extremely complex and genius. Choosing not to do so could mean losing an opportunity to overshadow its ingenuity - relevant when the goal is to get past it and actually talk about the underlying coloniality. Thus, it makes sense to create ABABABCC stanzas and decasyllabic verses as well.
-##### Decasyllables
 
-The decasyllables are counted as poetic syllables, rather than gramatical. For instance, *te-le-vi-são* (te-le-vi-sion) has 4 grammatical syllables, but 3 poetic syllables *tle-vi-são* (tle-vi-sion) when recited in Portuguese. This then means that when well-recited, keeping its rhythm, one is forced to read with a certain regional accent.  
+On that note, decasyllables must be counted as poetic syllables, rather than gramatical. For instance, *te-le-vi-são* (te-le-vi-sion) has 4 grammatical syllables, but 3 poetic syllables *tle-vi-são* (tle-vi-sion) when recited in Portuguese. This then means that when well-recited, keeping its rhythm, one is forced to read with a certain regional accent.   
+#### Appropriation or appreciation
 
-#### Balancing between appropriation and appreciation
+After that, the most crucial point for the work is how to balance between appropriating the texts and appreciating them: how to incorporate multiple voices while at the same time operating from a Portuguese perspective; how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice; how to navigate between intentional fragmentation and accidental incoherence. Together in conversation with [[Sandim Mendes]] and [[Mariana Aboim]], it has become clear that the only possible way to achieve this is through thorough collaboration. But than the question transforms into what this collaboration encompasses.
+
+A relevant case-study is Rana Hamadeh and [[Zong!]], where the author is in dispute with Hamadeh for what it seemed to have been a misunderstanding on the consent to use the text for the work "The Ten Murders of Josephine", "which draws on several 'cues; to create the compositions for the opera, one of which is the case of the atrocities of the Zong massacre".[^rana] Knowing Rana, I would like to enter in dialogue to understand her take on the issue. My intention is to talk to each living author (or in case of deceased those who hold rights to the work) and ask for their participation. 
+##### Fonts and ethics
+
+of the sources for rewriting, how much I am using, how I am using? We reached the conclusion that I should contact each source as much as possible, and she referenced a book as a guide for ethical sourcing (whose name i have forgotten in the meantime, and need to re-ask), but it talked about the case of Rana Hamadeh and Zong! (see ). 
+
 references: [[Zong!#^zong-and-rana]], [[Mariana Aboim#^meeting-1]]
 ##### Collaboration and translation
 references: [[Tavares Cebola]], [[Sandim Mendes]]
@@ -268,3 +274,5 @@ references: [[index#thought log]], [[index#considerations]], github
 [^gliss3]: [[Poetics of Relation]] p.17-24
 
 [^mariana]: Martins, M. "references, ideas and techniques". 2024. https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f
+
+[^rana]: *Philip, M. NourbeSe. "Set Speaks" (blog). Accessed May 21, 2025. [https://www.setspeaks.com/](https://www.setspeaks.com/)* and *Himada, Nasrin. "Ethics Beyond Language." Canadian Art. October 11, 2018. [https://canadianart.ca/essays/ethics-beyond-language/](https://canadianart.ca/essays/ethics-beyond-language/).*
