@@ -126,12 +126,13 @@ After that, the most crucial point for the work is how to balance between approp
 
 A relevant case-study is Rana Hamadeh and [[Zong!]], where the author is in dispute with Hamadeh for what it seemed to have been a misunderstanding on the consent to use the text for the work "The Ten Murders of Josephine", "which draws on several 'cues; to create the compositions for the opera, one of which is the case of the atrocities of the Zong massacre".[^rana] Knowing Rana, I would like to enter in dialogue to understand her take on the issue. The intention is to talk to each living author (or in case of deceased those who hold rights to the work) and ask for their participation. Depending on the author's will, this could mean asking for permission to use the text in this context, having a conversation or actively having them re-write part of [[Os Lusíadas]] with their own words.
 
-At the moment, I am in contact with [[Tavares Cebola]], a mozambican journalist who also works at a bookstore in Maputo (called Rizoma). He has accepted the invite to participate and has helped me with references. As well as, with the dutch artist [[Sandim Mendes]], navigating the concept of identity between Cape Verdean (a former Portuguese colony) and the Netherlands. Sandim has helped me figure out the project's direction, contributed with questions, references and has accepted to participate too.
-##### Fonts and ethics
+At the moment, I am in contact with [[Tavares Cebola]], a mozambican journalist who also works at a bookstore in Maputo (called Rizoma). He has accepted the invite to participate and has helped me with references and his own articles. As well as, with the dutch artist [[Sandim Mendes]], navigating the concept of identity between Cape Verdean (a former Portuguese colony) and the Netherlands. Sandim has helped me figure out the project's direction, contributed with questions, references and has accepted to participate too.
+#### Translation
+
+#### Fonts and ethics
 
 
-##### Collaboration and translation
-references: 
+
 ##### Fonts and ethics (research by making)
 material references difficulty, experimental writing as a decolonial/educational method, women and non white/ work as a library
 
