@@ -134,9 +134,7 @@ This raises the question of if and how to include other languages - if it makes 
 In relation to using works written in English (or other languages I feel more comfortable with), and translating them in Portuguese. I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough relevant lusophonic work that deserves more attention.
 #### Fonts and ethics
 
-
-##### Fonts and ethics (research by making)
-material references difficulty, experimental writing as a decolonial/educational method, women and non white/ work as a library
+The book is not meant
 
 ### Usage of Obsidian as a research tool
 
