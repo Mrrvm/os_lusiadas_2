@@ -149,7 +149,7 @@ Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapter
 
 #### Navigating chaos
 
-Since I intend to work with an insane amount of sources rhizomatically, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can instead visualise, navigate and search these sources through a graph view.
+Since I intend to work rhizomatically with an insane amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view.
 
 ![[Pasted image 20250522162542.png]]
 Due to the sensitivity of the project and for transparency proposes, all the pages and code present in this platform are stored publicly on [github]( https://github.com/Mrrvm/os-tugas) (with automatic versioning).
