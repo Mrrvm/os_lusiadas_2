@@ -126,20 +126,25 @@ On that note, decasyllables are counted as poetic syllables, rather than gramati
 
 After that, the most crucial point for the work is how to balance between appropriating the texts and appreciating them: how to incorporate multiple voices while at the same time operating from a Portuguese perspective; how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice; how to navigate between intentional fragmentation and accidental incoherence. It has become clear that the only way to achieve this is through thorough collaboration. But the question then becomes about what this collaboration encompasses.
 
-The intention is to talk to each living author (or in case of deceased those who hold rights to the work) and ask for their participation. Depending on the author's will, this could mean asking for permission to use the text in this context, having a conversation or actively having them re-write part of [[Os Lusíadas]] with their own words (rather than having me in-between).
-
+The intention is to talk to each author and ask for their participation. Depending on the author's will, this could mean asking for permission to use the text in this context, having a conversation or actively having them re-write part of [[Os Lusíadas]] with their own words (rather than having me in-between). For the purposes of prototyping and clearly showing the idea when making contact, I have combined the original poem, Azagaia's [[Cães de raça]] and [[Maçonaria]], and [[Poetics of Relation]] translated by Marta Mendonça, but have not yet contacted the responsible entities for the works.
 #### Translations
 
 This leads me to the next question of if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, Kimbundu, etc, when I don't speak them. While incorporating these could prove useful at undermining Portuguese as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, it should only be done in collaboration to avoid extractive linguistic tourism.
 
-In relation to using works written in English (or other languages I feel more comfortable with), and translating them to Portuguese. I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough lusophonic work worthy of attention.
-#### Typography and ethics
+In relation to using works written in English (or other languages I feel more comfortable with), and translating them to Portuguese. I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough lusophonic work worthy of attention. However, works that I incredibly crucial for the process (like Poetics of Relation), I will use if there are available trustworthy translations.
+#### Typographies or Topographies
 
-I see the outcome of the re-writing not just as a book, but as a library of resources that don't currently belong to the mainstream bookshelves, or to the Portuguese literary canon. I think that the idea of making a new epic poem to characterise Portuguese society can drive enough curiosity in the public, and thus be able to achieve its role as gateway to other artifacts. For this reason, a question of ethicality, and an organisational standpoint while working, its imperative that the cut-outs used are clearly referenced. I have attached a specific font size and typography to each source (that may later become a design principle for the book), like so:
+I see the outcome of the re-writing not just as a book, but as a library of resources that don't currently belong to the mainstream bookshelves, or to the Portuguese literary canon. I think that the idea of making a new epic poem to characterise Portuguese society can drive enough curiosity in the public, and thus be able to achieve its role as gateway to other artifacts. For this reason, for a question of ethicality, and from an organisational standpoint while working, its imperative that the cut-outs used are clearly referenced. I have defined a specific font size and typography to each source (that may later become a design principle for the book), in order to map them.
 
 ![[WhatsApp Image 2025-05-22 at 15.16.23.jpeg]]
 
+Each source also has its own bucket and plastic bag for storage of the already cut-out words.
+
+![[WhatsApp Image 2025-05-22 at 15.52.43 (1).jpeg]]
+![[WhatsApp Image 2025-05-22 at 15.52.43.jpeg]]
+
 ### Usage of Obsidian as a research tool
+
 
 
 #### Navigating chaos
