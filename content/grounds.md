@@ -32,13 +32,31 @@ In 2016, the city opened the [[Núcleo Museológico Rota da Escravatura]], a mus
 
 In respect to memorial sites, Lisbon does not fall much further. In 2017, the association DJES (Association of Afrodescendents) proposed the city's council, as part of the participatory budget contest, to build a memorial site paying homage to the victims of the Atlantic enslaved trade. The municipality agreed to the project, and DJES made an open-call for 5 invited artists to foresee this project. The idea of Kiluanji Kia Henda - a plantation of sugar cane - was chosen to be implemented, but after 8 years is yet to become a reality, as the city's council keeps creating various obstacles towards execution, including inexplicable waiting times between replies, changing previously set locations, producing fake images in relation to the artist's original idea, etc. A similar case, happened with Batoto Yetu Portugal, who created 20 signs and a bust honouring African presence in Lisbon. The artworks were fully completed in 2020, there was a budget for setting them up in the city funded by the association itself, yet the process remained stale until 2024[^batoto]. One could argue in defense for the economic condition of the country (and consequential waiting times), however, in 2023, the government, the city of Loures and Lisbon, spent together 75 million euros[^papa] to receive the pope, which then is already deemed acceptable due to the returns on tourism.
 
-Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]]), statues of the many colonial participants (such as the statue of Father António Vieira[^vieira] surround by what seems to be indigenous children from the Americas, erected in 2017 - [[grounds#^fig-padre]]), shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other directly connected infrastructure, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
+Throughout the city you can find numerous instruments glorifying the colonial period, such as *Padrão dos "Descobrimentos"* [^padrao-descobrimentos](that includes a statue of [[Luís de Camões]] writing [[Os Lusíadas]], see [[grounds#^fig-padrao]]), countless caravels and compasses drawn in the sidewalks (see [[grounds#^fig-rosa-dos-ventos]], [[grounds#^fig-rosa-dos-ventos-lagos]], [[grounds#^fig-caravel-lisboa]]), statues of the many colonial participants (such as the statue of Father António Vieira[^vieira] surround by what seems to be indigenous children from the Americas, erected in 2017 - [[grounds#^fig-padre]]), shopping malls designed as caravels or allusive to the colonial period (e.g. Vasco da Gama, Colombo), Villa of the Count of Monte Cristo in Sintra[^sintra-casa], as well as other directly connected infrastructure, like *Rua do Poço dos Negros*, that appears to be one more pit for the dead bodies of the enslaved[^contested-legacies].
+
+![[Pasted image 20250506153934.png]]
+**Fig. 1** - *Padrão dos "Descobrimentos"* in Lisbon with graffiti saying "Blindly sailing for money, humanity is drowning". Publico, https://imagens.publico.pt/imagens.aspx/1611845?tp=UH&db=IMAGENS&type=JPG ^fig-padrao
+
+![[Pasted image 20250506151633.png]]
+**Fig. 2** - Rosa dos Ventos (Compass Rose) at *Padrão dos "Descobrimentos"* in Lisbon gifted by the South African Apartheid regime. Portuguese Museum, https://portuguesemuseum.org/?page_id=1808&category=4&exhibit=&event=82#images-1 ^fig-rosa-dos-ventos
+
+![[IMG_20250110_145412.jpg]]
+**Fig. 3** - Rosa dos Ventos (Compass Rose) at Lagos ^fig-rosa-dos-ventos-lagos
+
+![[Pasted image 20250506152303.png]]
+**Fig. 4** - The caravela and the crows are symbols of the city of Lisbon. Bucket List Portugal, https://bucketlistportugal.com/calcada-portuguesa-the-art-of-portuguese-pavement/ ^fig-caravel-lisboa
+
+![[Pasted image 20250509143801.png]]
+**Fig. 5** - Photo of Father António Vieira in Lisbon. A.MUSE.ARTE, https://amusearte.hypotheses.org/files/2020/06/antoniovieira.jpg ^fig-padre
 
 The same goes for Porto, where you can find active (re)erected ruins of the colonial period [^noticia-publico] without any affirmations surrounding its inherent violence. The city not only has an interactive museum catered to children - the World of Discoveries[^world-discoveries] -, but also held the "Portuguese Colonial Exhibition" in 1934, similarly to other European countries.
 
 ### Exhibitionist governments
 
 The exhibition took place in *Palácio de Cristal*, a garden where 1.3 million visitors could go by foot, train or cable car, visit a theatre, a zoo, a tea house, several monuments, as well as inhabitants from the former colonies living on display for the duration of the event - to simulate their "real" habitat. On the entrance of the exhibition stood a temporary statue - the Portuguese Monument to Colonial Effort -, which was later replicated in stone, dismantled in 1943, and re-erected in 1984 under the city's council orders. The statue has been contested through grafitti and art exhibitions (e.g. [[Unearthing memories]] and [[grounds#^fig-fascists-out]]), while it has also been celebrated by the extreme right-wing party "Ergue-te".[^colonial-exhibitions]
+
+![[Pasted image 20250507123638.png]]
+**Fig. 6** - Photo of graffiti reading "FASCISTS OUT". Câmara Municipal do Porto, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/ ^fig-fascists-out
 
 In Lisbon, a similar exhibition was held in 1940 - the Portuguese World Exhibition -, attended by 3 million visitors, that left behind the famous touristic attraction - *Padrão dos "Descobrimentos"* - mentioned earlier. Both exhibitions, as Alves, B. notes (together with Peralta, E. and Vicente, F.), contributed to a stereotyped view of the colonised as those who lack civilisation and order, by presenting them as "primitive" in "their natural habitats". Vicente goes further to say that these spaces served as a means to eroticise the empire, making a parallel between femininity and becoming colonised, in contrast with the imperial European masculinity that would dominate it.[^vicente] 
 
@@ -52,9 +70,16 @@ Gilberto Freyre, the developer of this theory, was invited by the Portuguese gov
 In 2016, in a newspaper, our President claims we, as a nation, have an exceptional ability to learn and include others, creating bridges between cultures, civilisations and continents.
 In 2017, in a visit to Senegal, he recognises slavery's injustice and consequentially affirms that our country abolished it in 1761 (a lie pushed as anti-racist discourse in both school and day-to-day conversations[^lie] ). This generated protests that called for the President to apologise for slavery in the name of the country, which he still has not. In 2019, in the Day of Portugal (the day that commemorates the death of [[Luís de Camões]]), Marcelo again insists that we are a nation at ease with its past, actively constructing the present and arming the future, encompassed by many 'Portugals' that extend beyond its geographic boundaries. In 2018, in Boston, he states that the USA is a big country, but that Portugal is even bigger, that in fact we have the biggest country in the world. This rhetoric could be comparable to 1934's propaganda: [[grounds#^figpequeno]].[^marcelo] 
 
+![[Pasted image 20250509144953.png]]
+**Fig. 7** - A map published for Portugal’s 1934 Colonial Exhibition. Saying “Portugal is not a small country”. Al Jazeera, Courtesy of Paulo Moreira. https://www.aljazeera.com/wp-content/uploads/2021/03/PORTUGAL_NAO_E_UM_PAIS_PEQUENO.jpg?resize=770%2C513&quality=80 ^figpequeno
+
 In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an astrolabe to the founder of the conference, pointing out that "Lisbon was the capital of the world five centuries ago, (...) From Lisbon departed a great adventure that connected the human race. . . . Today it is you, the engineers, the entrepreneurs, the creators, the innovators, the start-ups, all the companies".[^websummit] 
 
 The list goes on. Like I had mentioned before, you don't have to look far; even the stamps I got at the post office were illustrated accordingly - [[grounds#^fig-stamps]]. The rhetoric bleeds out in dialogues explicitly or implicitly. Paradoxically, we have included a great amount of words from former colonies' languages in our quotidian. For example, the widely used *bué* and *bazar* (from Kimbundu language *mbuwe* and *kubaza*, respectively). Yet not only are these not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they become slang. As if the miscegenation between languages is only desirable when the objective is to re-iterate our inclusive nature for means of later commodification.
+
+
+![[Pasted image 20250506142729.png]]
+**Fig. 8** - Official stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas".^fig-stamps
 
 %% (ref: no voting rights) %%
 
@@ -110,6 +135,18 @@ As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to critic
 
 Experimental writing is difficult to define. To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship (see [[grounds#^fig-zong]]).  In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth (see [[grounds#^fig-barros]]). In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
 
+
+![[Pasted image 20250520175707.png]]
+**Fig. 9** - Page 85 of [[Zong!]] by [[NourbeSe Philip]]".^fig-zong
+
+
+![[Pasted image 20250226190145.png]]
+**Fig. 10** - Images from the book *"Exposição de Poesia Experimental Portuguesa". PO.EX.80. Galeria Nacional de Arte Moderna - Belém. Consulted in May 2024.*^fig-barros
+
+![[Picture 1.png]]
+![[Pasted image 20250520204633.png]]
+**Fig. 11** - Photos of the work "THE DREAM OF A THOUSAND SHIPWRECKS" and "We refuse..." by [[Patricia Kaersenhout]]. De Appel, Amsterdam. 2018. Photo: Konstantin Guz. https://www.pkaersenhout.com/copy-of-les-eclaireurs ^fig-patricia
+
 When analysing Zong! through Glissant's lens, we can see that the scattering of its words and phrases (and the intentional spacing they each have to breath), refuses a hierarchical structure. Each fragment has its roots but as whole, they become unpredictable and open-ended. The work is opaque as the text does not form a linear narrative, nor structures cohesive sentences whose meaning can be objectively extracted, or reduced in its complexity - it rejects logic in favor of an emotional resonance.
 
 In helm of epic poems, St Lucian Derek Walcott's [[Omeros]] "draws on the language, imagery, and themes of Homer, as well as Virgil’s _Aeneid_", to describe his struggled with identity. This epic does not follow a linear path and has no main protagonist, as the narrative is jumps both in time and between characters and his own voice.[^omero]
@@ -134,66 +171,33 @@ This leads me to the next question of if and how to include other languages - if
 In relation to using works written in English (or other languages I feel more comfortable with), and translating them to Portuguese. I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough lusophonic work worthy of attention. However, works that I incredibly crucial for the process (like Poetics of Relation), I will use if there are available trustworthy translations.
 #### Typographies and Topographies
 
-I see the outcome of the re-writing not just as a book, but as a library of resources that don't currently belong to the mainstream bookshelves, or to the Portuguese literary canon. I think that the idea of making a new epic poem to characterise Portuguese society can drive enough curiosity in the public, and thus be able to achieve its role as gateway to other artifacts. For this reason, for a question of ethicality, and from an organisational standpoint while working, its imperative that the cut-outs used are clearly referenced. I have defined a specific font size and typography to each source (that may later become a design principle for the book), in order to map them.
+I see the outcome of the re-writing not just as a book, but as a library of resources that don't currently belong to the mainstream bookshelves, or to the Portuguese literary canon. I think that the idea of making a new epic poem to characterise Portuguese society can drive enough curiosity in the public, and thus be able to achieve its role as gateway to other artifacts. For this reason, for a question of ethicality, and from an organisational standpoint while working, its imperative that the cut-outs used are clearly referenced. I have defined a specific font size and typography to each source (that may later become a design principle for the book), in order to map them (see [[grounds#^fig-sources]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.16.23.jpeg]]
+**Fig. 12** - Photos of used sources in different font sizes and typographies ^fig-sources
 
-Each source has a bucket and a plastic bag for storage of cut-outs. What I choose or not to cut-out from a text is initially based on intuition and later on, as it becomes more complicated, on what can be puzzled into the existing stanza to maintain a decasyllabic-8-versed stanza, and obviously the message I want to convey within the possibilities.
+Each source has a bucket and a plastic bag for storage of cut-outs. What I choose or not to cut-out from a text is initially based on intuition and later on, as it becomes more complicated, on what can be puzzled into the existing stanza to maintain a decasyllabic-8-versed stanza, and obviously the message I want to convey within the possibilities (see [[grounds#^fig-org]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (1).jpeg]]
 ![[WhatsApp Image 2025-05-22 at 15.52.43.jpeg]]
+**Fig. 13, 14** - Photos of used sources organised ^fig-org
 
-Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapters, or if and how to relate each chapter (called *canto*) to which texts I am sourcing. As of now, I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what that can organically bring.
+Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapters, or if and how to relate each chapter (called *canto*) to which texts I am sourcing. As of now, I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what that can organically bring (see [[grounds#^fig-diss]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (2).jpeg]]
-
+**Fig. 15** - Photo dissecting [[Os Lusíadas]]^fig-diss
 #### Navigating chaos
 
-Since I intend to work rhizomatically with an insane amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view.
+Since I intend to work rhizomatically with an insane amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[grounds#^fig-graph]]).
 
 ![[Pasted image 20250522162542.png]]
+**Fig. 16** - Screenshot of the graph view locally. ^fig-graph
+
 Due to the sensitivity of the project and for transparency proposes, all the pages and code present in this platform are stored publicly on [github]( https://github.com/Mrrvm/os-tugas) (with automatic versioning).
 ### Hopes and fears
 
 %% ref: [[Worlding or How to Embrace the End of an Era]]
  %%
-## Figures
-
-![[Pasted image 20250506153934.png]]
-**Fig. 1** - *Padrão dos "Descobrimentos"* in Lisbon with graffiti saying "Blindly sailing for money, humanity is drowning". Publico, https://imagens.publico.pt/imagens.aspx/1611845?tp=UH&db=IMAGENS&type=JPG ^fig-padrao
-
-![[Pasted image 20250506151633.png]]
-**Fig. 2** - Rosa dos Ventos (Compass Rose) at *Padrão dos "Descobrimentos"* in Lisbon gifted by the South African Apartheid regime. Portuguese Museum, https://portuguesemuseum.org/?page_id=1808&category=4&exhibit=&event=82#images-1 ^fig-rosa-dos-ventos
-
-![[IMG_20250110_145412.jpg]]
-**Fig. 3** - Rosa dos Ventos (Compass Rose) at Lagos ^fig-rosa-dos-ventos-lagos
-
-![[Pasted image 20250506152303.png]]
-**Fig. 4** - The caravela and the crows are symbols of the city of Lisbon. Bucket List Portugal, https://bucketlistportugal.com/calcada-portuguesa-the-art-of-portuguese-pavement/ ^fig-rosa-dos-ventos-lagos
-
-![[Pasted image 20250507123638.png]]
-**Fig. 5** - Photo of graffiti reading "FASCISTS OUT". Câmara Municipal do Porto, https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/ ^fig-fascists-out
-
-![[Pasted image 20250509143801.png]]
-**Fig. 6** - Photo of Father António Vieira in Lisbon. A.MUSE.ARTE, https://amusearte.hypotheses.org/files/2020/06/antoniovieira.jpg ^fig-padre
-
-![[Pasted image 20250509144953.png]]
-**Fig. 7** - A map published for Portugal’s 1934 Colonial Exhibition. Saying “Portugal is not a small country”. Al Jazeera, Courtesy of Paulo Moreira. https://www.aljazeera.com/wp-content/uploads/2021/03/PORTUGAL_NAO_E_UM_PAIS_PEQUENO.jpg?resize=770%2C513&quality=80 ^figpequeno
-
-![[Pasted image 20250506142729.png]]
-**Fig. 8** - Official stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas".^fig-stamps
-
-![[Pasted image 20250520175707.png]]
-**Fig. 9** - Page 85 of [[Zong!]] by [[NourbeSe Philip]]".^fig-zong
-
-![[Pasted image 20250226190145.png]]
-**Fig. 10** - Images from the book *"Exposição de Poesia Experimental Portuguesa". PO.EX.80. Galeria Nacional de Arte Moderna - Belém. Consulted in May 2024.*^fig-barros
-
-![[Picture 1.png]]
-![[Pasted image 20250520204633.png]]
-**Fig. 11** - Photos of the work "THE DREAM OF A THOUSAND SHIPWRECKS" and "We refuse..." by [[Patricia Kaersenhout]]. De Appel, Amsterdam. 2018. Photo: Konstantin Guz. https://www.pkaersenhout.com/copy-of-les-eclaireurs ^fig-patricia
-
----
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
