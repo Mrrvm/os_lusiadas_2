@@ -121,7 +121,7 @@ During that period, Portugal was willing to go beyond economic exchange value - 
 
 The empire has been in free fall since the epic poem was written. The country still lives an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity other than coloniality; mythifying oneself through the remnants of this "glorious" empire, to compensate for a longing to be what it "once was"; and avoiding the "painful necessity of confronting" its smallness. You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is still aggressively shouted as a fundamental pillar of Portuguese culture.[^eduardo] 
 
-%% (on nation and national identity - ref: [[Narration and Nation - Homi K. Bhabha]])
+%% (on nation and national identity/lyrical - ref: [[Narration and Nation - Homi K. Bhabha]])
  %%
  
 The book could have been a novel, or lyrical poetry, but the author deliberately chose epic poetry, a tool close to that of myth. He himself states it by asking Virgil's Aeneid and Homer's Odyssey to be ceased immediately in the first chapter.[^canto1] According to Hegel's eurocentric perspectives[^hegel2], this kind of poetry is not an expression of personal feelings or individual reflections, it's the manifestation of a national spirit presented through a "heroic" event rooted in a nation’s collective consciousness; integrating a "total view" (divine, natural and human) and balancing individual agency with a divine mandate.[^hegel1] In our case, this was the mission to "expand christian faith" and "civilize the world", consolidated by multiple papal bulls (e.g. _Dum Diversas_, that authorised Portugal to extract resources and subjugate Africans to "perpetual servitude"). The event was the journey to India that was semi-orchestrated by Venus and Bacchus interventions expressed through natural phenomenons, like tempests, battles, allies or favourable currents, i.e. colonial expansion framed as a cosmic battle. However, in Hegel's view, one could say that [[Os Lusíadas]] is not actually a pure epic for its self-conscious nationalism and didactic interventions, but instead, as Lourenço puts it - a coherent war machine[^eduardo2] - geared towards inspiring a falling empire.
@@ -210,7 +210,7 @@ Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapter
 **Fig. 15** - Photo dissecting [[Os Lusíadas]]^fig-diss
 #### Navigating chaos
 
-Since I intend to work rhizomatically with an insane amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[grounds#^fig-graph]]).
+Since I intend to work rhizomatically with an insane amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference, notes and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[grounds#^fig-graph]]).
 
 ![[Pasted image 20250522162542.png]]
 **Fig. 16** - Screenshot of the graph view locally. ^fig-graph
@@ -218,7 +218,7 @@ Since I intend to work rhizomatically with an insane amount of sources, I have d
 Due to the sensitivity of the project and for transparency proposes, all the pages and code present in this platform are stored publicly on [github]( https://github.com/Mrrvm/os-tugas) (with automatic versioning).
 ### Hopes and fears
 
-%% ref: [[Worlding or How to Embrace the End of an Era]]
+Referencing %% ref: [[Worlding or How to Embrace the End of an Era]]
  %%
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
@@ -318,3 +318,5 @@ Due to the sensitivity of the project and for transparency proposes, all the pag
 [^lusiadas]: [[Os Lusíadas]]
 
 [^lusiads]: *Camões, L. _The Lusiad; or, The Discovery of India_. Translated by William Julius Mickle. 5th ed. Revised by E. Richmond Hodges. London: George Bell and Sons, 1877. Project Gutenberg (eBook). Accessed May 22, 2025. [https://www.gutenberg.org/files/32528/32528-h/32528-h.htm](https://www.gutenberg.org/files/32528/32528-h/32528-h.htm).*
+
+[^worlding]: Campagna, Federico. "World-ing, or: How to Embrace the End of an Era." _Mousse Magazine_. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).
