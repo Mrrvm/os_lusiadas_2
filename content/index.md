@@ -32,7 +32,7 @@ Within the folder - artifacts -, there is no hierarchy or rootedness of content 
 
 ### ideal external partners
 
-[[Tavares Cebola]], [[Grada Kilomba]], [[Sandim Mendes]], [[Mariana Aboim]], [[Clara Amaral]], [[Patricia Kaersenhout]], Catarina Simão, Ana Balona de Oliveira
+[[Tavares Cebola]], [[Grada Kilomba]], [[Sandim Mendes]], [[Mariana Aboim]], [[Clara Amaral]], [[Patricia Kaersenhout]], Catarina Simão, Ana Balona de Oliveira, ...
 
 ### funding
 https://www.cgd.pt/Institucional/Caixa-Cultura/Pages/Caixa-Cultura.aspx
