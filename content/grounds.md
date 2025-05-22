@@ -210,7 +210,7 @@ Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapter
 **Fig. 15** - Photo dissecting [[Os Lusíadas]]^fig-diss
 #### Navigating chaos
 
-Since I intend to work rhizomatically with an insane amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference, notes and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[grounds#^fig-graph]]).
+Given the big amount of sources (which will grow), I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference, notes and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[grounds#^fig-graph]]).
 
 ![[Pasted image 20250522162542.png]]
 **Fig. 16** - Screenshot of the graph view locally. ^fig-graph
@@ -220,8 +220,7 @@ Due to the sensitivity of the project and for transparency proposes, all the pag
 
 In reference to Campgna on being "at the end of a certain historical era" (i.e. near the end of capitalism), [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future.[^worlding] I see this project as an open structure - a library - due to its hopeful plurality of voices, where future ones can craft new relations from. 
 
-I intend on working on this as rhizomatically as I understand it over the next 3 to 4 years, while organically seeking to have more and more collaborators.
-
+I intend on working on this as rhizomatically as I understand it over the next 3 to 4 years, while organically seeking to have more and more collaborators, or other forms of input.
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
