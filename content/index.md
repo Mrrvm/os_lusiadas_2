@@ -34,7 +34,7 @@ Within the folder - artifacts -, there is no hierarchy or rootedness of content 
 
 [[Tavares Cebola]], [[Grada Kilomba]], [[Sandim Mendes]], [[Mariana Aboim]], [[Clara Amaral]], [[Patricia Kaersenhout]], Catarina Simão, Ana Balona de Oliveira, ...
 
-### funding
+### funding options
 https://www.cgd.pt/Institucional/Caixa-Cultura/Pages/Caixa-Cultura.aspx
 
 https://gulbenkian.pt/apoios-lista/apoio-a-criacao-artistica/
