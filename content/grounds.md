@@ -110,7 +110,9 @@ As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to critic
 
 ### Experimental writing and examples
 
-Experimental writing is difficult to define. To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship, recovering their stories in a non-linear narrative (see [[grounds#^fig-zong]]).  In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth (see [[grounds#^fig-barros]]). In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
+Experimental writing is difficult to define. To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship (see [[grounds#^fig-zong]]).  In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth (see [[grounds#^fig-barros]]). In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
+
+Analysing Zong! through Glissant's lens, we can see that the scattering of its words and phrases (and the intentional spacing they each have to breath), refuses a hierarchical structure. Each fragment has its roots but as whole, they become unpredictable and open-ended. The work also enacts the principle of opacity as the text does not form a linear narrative, nor structures cohesive sentences whose meaning can be objectively extracted, instead it rejects logic in favor of an emotional resonance.
 
 %% ref: [[Omeros - Derek Walcott]] %%
 
@@ -152,10 +154,7 @@ Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapter
 Since I intend to work with an insane amount of sources rhizomatically, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can instead visualise, navigate and search these sources through a graph view.
 
 ![[Pasted image 20250522162542.png]]
-
-
-#### Transparency 
-references: [[index#thought log]], [[index#considerations]], github
+Due to the sensitivity of the project and for transparency proposes, all the pages and code present in this platform are stored publicly on [github]( https://github.com/Mrrvm/os-tugas) (with automatic versioning).
 
 ### Preliminary results
 
