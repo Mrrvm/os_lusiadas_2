@@ -108,20 +108,18 @@ Filiation, like a root, means the absolute exclusion of the other. Unlike a rhiz
 
 As it may seem unclear, my point in re-writing [[Os Lusíadas]] is not to criticise [[Luís de Camões]]. But rather to re-instrumentalize the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology laid out below is of utmost importance and in a constant metamorphosis as I learn and look for an understanding on how to work rhizomatically, and if and how experimental writing can be rhizomatic. 
 
-### Experimental writing and examples
-
 Experimental writing is difficult to define. To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship (see [[grounds#^fig-zong]]).  In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth (see [[grounds#^fig-barros]]). In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
 
 When analysing Zong! through Glissant's lens, we can see that the scattering of its words and phrases (and the intentional spacing they each have to breath), refuses a hierarchical structure. Each fragment has its roots but as whole, they become unpredictable and open-ended. The work is opaque as the text does not form a linear narrative, nor structures cohesive sentences whose meaning can be objectively extracted, or reduced in its complexity - it rejects logic in favor of an emotional resonance.
 
-%% ref: [[Omeros - Derek Walcott]] %%
+In helm of epic poems, St Lucian Derek Walcott's [[Omeros]] "draws on the language, imagery, and themes of Homer, as well as Virgil’s _Aeneid_", to describe his struggled with identity. This epic does not follow a linear path and has no main protagonist, as the narrative is jumps both in time and between characters and his own voice.
 
 ### Re-writing [[Os Lusíadas]]
 
 The idea is to put cut-outs of the epic poem together with cut-outs from texts of lusophonic de-colonial thinkers and makers (focusing mostly on authors from former colonies and its diaspora, but also including works that I find crucial, like Poetics of Relation), embodying a multiplicity of voices. The texts can vary and derive from interviews, to academic papers, songs, poetry, books, theatre pieces, performances, visual art, conversations, or others, all in equal grounds. To make use of a text, I engage theoretically with the text, the words are not just removed and decontextualised, since the point is not to assimilate or annihilate them, but to elevate them. Whole sentences are prioritised over words, in order to limit the amount of freedom I have with the emerging combination of texts. The more of the cut-out text remains, the more opacity is preserved, the more I facilitate rather than write.
 #### Maintaining structure 
 
-The immediate question that arises is if it makes sense to keep the same structure as the epic poem. Although, [[Os Lusíadas]] is not completely linear (as in it jumps back and fourth time periods), it is chronological. Beyond that, it has delineated chapters, 1102 rigid stanzas and decasyllabic verses. Replicating this structure could mean to be rooted in the original. And while that is true, I can still see advantages that lead me into taking that decision. Other than the content-wise divine elements and the nationalist rhetoric that praises the Portuguese, the structure of the epic poem is what makes it so mystical - the making of such a work is perceived as extremely complex and genius. Choosing not to do so could mean losing an opportunity to overshadow its ingenuity - relevant when the goal is to get past it and actually talk about the underlying coloniality. Thus, it makes sense to create about 1102 ABABABCC stanzas and decasyllabic verses as well.
+The immediate question that arises is if it makes sense to keep the same structure as the epic poem. Although, [[Os Lusíadas]] is not completely linear (as in it jumps back and fourth time periods), it is chronological. Beyond that, it has delineated chapters, 1102 rigid stanzas and decasyllabic verses. Replicating this structure could mean to be rooted in the original. And while that is true, I can still see advantages that lead me into taking that decision. Other than the content-wise divine elements and the nationalist rhetoric that praises the Portuguese, the structure of the epic poem is what makes it so mystical - the making of such a work is perceived as extremely complex and genius. Choosing not to do so could mean losing an opportunity to overshadow its ingenuity - relevant when the goal is to dismantle it and actually talk about the underlying violence. Thus, it makes sense to create 1102 ABABABCC stanzas with decasyllabic verses, but in a non-linear narrative. Additionally, if a structure is to be followed rigidly, suddenly breaking it in certain verses could amplify its power.
 
 On that note, decasyllables are counted as poetic syllables, rather than gramatical. For instance, *te-le-vi-são* (te-le-vi-sion) has 4 grammatical syllables, but 3 poetic syllables *tle-vi-são* (tle-vi-sion) when recited in Portuguese. This then means that when well-recited, keeping its rhythm, one is forced to read with a certain regional accent.   
 #### Appropriation or appreciation
@@ -149,14 +147,16 @@ Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapter
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (2).jpeg]]
 
-### Navigating chaos
+#### Navigating chaos
 
 Since I intend to work with an insane amount of sources rhizomatically, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can instead visualise, navigate and search these sources through a graph view.
 
 ![[Pasted image 20250522162542.png]]
 Due to the sensitivity of the project and for transparency proposes, all the pages and code present in this platform are stored publicly on [github]( https://github.com/Mrrvm/os-tugas) (with automatic versioning).
 
-### Preliminary results
+#### Preliminary results
+
+
 
 ### Reflection and looking ahead
 [[Worlding or How to Embrace the End of an Era]]
