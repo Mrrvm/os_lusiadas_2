@@ -80,7 +80,7 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 
 ![[Pasted image 20250506142729.png]]
-**Fig. 8** - Official stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas".^fig-stamps
+**Fig. 8** - Official stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas". ^fig-stamps
 
 %% (ref: no voting rights) %%
 
@@ -263,7 +263,7 @@ Due to the sensitivity of the project and for transparency proposes, all the pag
 
 [^expo98]: [[Expo 98 and the Memorialization of the Empire]]
 
-[^world-discoveries]: *World of Discoveries. [https://www.worldofdiscoveries.com/](https://www.worldofdiscoveries.com/). Accessed May 7, 2025.* - An interactive museum about the maritime expansion catered to kids. The website has no reference to colonisation or violence whatsoever. In fact, in the corporate ethics section of the website, they claim: "At World of Discoveries, corporate ethics is not just a term; it is a commitment that governs all our actions and decisions. We are driven by a deep respect for our heritage, the community we serve and ==the responsibility to preserve and pass on the history of great discoveries with integrity and accuracy==.", "Integrity – ==We act with honesty and transparency==, ensuring that the content we present is authentic and based on rigorous research.", "Respect – ==We value the diversity and pluralism of historical narratives==, approaching each story objectively.", "This is a space where every opinion is valued and ==every voice is heard==."
+[^world-discoveries]: *World of Discoveries. [https://www.worldofdiscoveries.com/](https://www.worldofdiscoveries.com/). Accessed May 7, 2025.* - An interactive museum about the maritime expansion catered to kids. The website has no reference to colonisation or violence whatsoever. In fact, in the corporate ethics section of the website, they claim: "At World of Discoveries, corporate ethics is not just a term; it is a commitment that governs all our actions and decisions. We are driven by a deep respect for our heritage, the community we serve and the responsibility to preserve and pass on the history of great discoveries with integrity and accuracy.", "Integrity – We act with honesty and transparency, ensuring that the content we present is authentic and based on rigorous research.", "Respect – We value the diversity and pluralism of historical narratives, approaching each story objectively.", "This is a space where every opinion is valued and every voice is heard."
 
 [^gilberto]: *Bastos, C., and Castelo, C. "Lusotropicalismo." Oxford Research Encyclopedia of African History. 2024. [https://doi.org/10.1093/acrefore/9780190277734.013.1486](https://doi.org/10.1093/acrefore/9780190277734.013.1486).*
 
