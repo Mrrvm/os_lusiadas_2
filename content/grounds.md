@@ -132,22 +132,27 @@ The intention is to talk to each author and ask for their participation. Dependi
 This leads me to the next question of if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, Kimbundu, etc, when I don't speak them. While incorporating these could prove useful at undermining Portuguese as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, it should only be done in collaboration to avoid extractive linguistic tourism.
 
 In relation to using works written in English (or other languages I feel more comfortable with), and translating them to Portuguese. I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough lusophonic work worthy of attention. However, works that I incredibly crucial for the process (like Poetics of Relation), I will use if there are available trustworthy translations.
-#### Typographies or Topographies
+#### Typographies and Topographies
 
 I see the outcome of the re-writing not just as a book, but as a library of resources that don't currently belong to the mainstream bookshelves, or to the Portuguese literary canon. I think that the idea of making a new epic poem to characterise Portuguese society can drive enough curiosity in the public, and thus be able to achieve its role as gateway to other artifacts. For this reason, for a question of ethicality, and from an organisational standpoint while working, its imperative that the cut-outs used are clearly referenced. I have defined a specific font size and typography to each source (that may later become a design principle for the book), in order to map them.
 
 ![[WhatsApp Image 2025-05-22 at 15.16.23.jpeg]]
 
-Each source also has its own bucket and plastic bag for storage of the already cut-out words.
+Each source has a bucket and a plastic bag for storage of cut-outs. What I choose or not to cut-out from a text is initially based on intuition and later on, as it becomes more complicated, on what can be puzzled into the existing stanza to maintain a decasyllabic-8-versed stanza, and obviously the message I want to convey within the possibilities.
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (1).jpeg]]
 ![[WhatsApp Image 2025-05-22 at 15.52.43.jpeg]]
 
-### Usage of Obsidian as a research tool
+Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapters, or if and how to relate each chapter (called *canto*) to which texts I am sourcing. As of now, I have been dissecting what each stanza means and which relations I can find, but also just cutting-out from the first chapter and see what that can organically bring.
 
+![[WhatsApp Image 2025-05-22 at 15.52.43 (2).jpeg]]
 
+### Navigating chaos
 
-#### Navigating chaos
+Since I intend to work with an insane amount of sources rhizomatically, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can instead visualise, navigate and search these sources through a graph view.
+
+![[Pasted image 20250522162542.png]]
+
 
 #### Transparency 
 references: [[index#thought log]], [[index#considerations]], github
