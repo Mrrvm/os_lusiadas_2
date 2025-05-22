@@ -126,7 +126,7 @@ On that note, decasyllables are counted as poetic syllables, rather than gramati
 
 After that, the most crucial point for the work is how to balance between appropriating the texts and appreciating them: how to incorporate multiple voices while at the same time operating from a Portuguese perspective; how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice; how to navigate between intentional fragmentation and accidental incoherence. It has become clear that the only way to achieve this is through thorough collaboration. But the question then becomes about what this collaboration encompasses.
 
-The intention is to talk to each author and ask for their participation. Depending on the author's will, this could mean asking for permission to use the text in this context, having a conversation or actively having them re-write part of [[Os Lusíadas]] with their own words (rather than having me in-between). For the purposes of prototyping and clearly showing the idea when making contact, I have combined the original poem, Azagaia's [[Cães de raça]] and [[Maçonaria]], and [[Poetics of Relation]] translated by Marta Mendonça, but have not yet contacted the responsible entities for the works.
+The intention is to talk to each author and ask for their participation. Depending on the author's will, this could mean asking for permission to use the text in this context, having a conversation or actively having them re-write part of [[Os Lusíadas]] with their own words (rather than having me in-between). **For the purposes of prototyping and clearly showing the idea when making contact, I have combined the original poem, Azagaia's [[Cães de raça]] and [[Maçonaria]], and [[Poetics of Relation]] translated by Marta Mendonça, but have not yet contacted the responsible entities for the works.**
 #### Translations
 
 This leads me to the next question of if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, Kimbundu, etc, when I don't speak them. While incorporating these could prove useful at undermining Portuguese as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, it should only be done in collaboration to avoid extractive linguistic tourism.
@@ -153,14 +153,10 @@ Since I intend to work with an insane amount of sources rhizomatically, I have d
 
 ![[Pasted image 20250522162542.png]]
 Due to the sensitivity of the project and for transparency proposes, all the pages and code present in this platform are stored publicly on [github]( https://github.com/Mrrvm/os-tugas) (with automatic versioning).
+### Hopes and fears
 
-#### Preliminary results
-
-
-
-### Reflection and looking ahead
-[[Worlding or How to Embrace the End of an Era]]
-
+%% ref: [[Worlding or How to Embrace the End of an Era]]
+ %%
 ## Figures
 
 ![[Pasted image 20250506153934.png]]
