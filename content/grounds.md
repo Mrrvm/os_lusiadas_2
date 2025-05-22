@@ -129,6 +129,7 @@ The book could have been a novel, or lyrical poetry, but the author deliberately
 In the quest to justify land and body theft, filiation becomes crucial and takes place through Christianity's mechanisms as a temporarily linear and universalising spirit. In other words, anything that was opaque to these believes, anything that was not affiliated with them (not from the same root), the other, had to be either assimilated or annihilated, as it posed a threat to it's universal truth.[^gliss] A threat analogous to how Palestine has been framed by Israel - an opaque obstacle to a mythic filiation rooted in biblical narratives. 
 
 The concept of filiation is visible, for example, in stanza 53 of *Canto I*: 
+
 > "Somos (um dos das Ilhas lhe tornou) 
 > Estrangeiros na terra, Lei e nação; 
 > Que os próprios são aqueles que criou 
@@ -138,7 +139,7 @@ The concept of filiation is visible, for example, in stanza 53 of *Canto I*:
 > (...)"[^lusiadas]
 
 > "Rude are the natives here," the Moor replied;  
-> "Dark are their minds, and brute-desire their guide:  
+> Dark are their minds, and brute-desire their guide:  
 > But we, of alien blood, and strangers here,  
 > Nor hold their customs nor their laws revere.  
 > From Abram's race our holy prophet sprung,
