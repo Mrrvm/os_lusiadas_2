@@ -218,9 +218,9 @@ Given the big amount of sources (which will grow), I have decided to use the sof
 Due to the sensitivity of the project and for transparency proposes, all the pages and code present in this platform are stored publicly on [github]( https://github.com/Mrrvm/os-tugas) (with automatic versioning).
 ### Outcomes
 
-In reference to Campgna on being "at the end of a certain historical era" (i.e. near the end of capitalism), [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future.[^worlding] I see this project as an open structure - a library - due to its hopeful plurality of voices, where future ones can craft new relations from. 
+In reference to Campgna on being near the end of an era (i.e. near the end of capitalism), [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future.[^worlding] I see this project as an open incubator - a library - with its hopeful plurality of voices, where future ones can craft new relations from, a fertile ruin.
 
-I intend on working on this as rhizomatically as I understand it over the next 3 to 4 years, while organically seeking to have more and more collaborators, or other forms of input.
+I intend on working on this as rhizomatically as I understand it over the next 3 to 4 years, while organically seeking to have more and more collaborators, as well as other possible forms of input. My purpose is far from speaking in the name of anyone, in actual fact that is my biggest fear for the project. Here the process matters as much as the product will. If looking away ahead time and it works out well enough, I don't see why it should not replace [[Os Lusíadas]] in Portuguese educational systems, unless the objective is to silence it.
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
