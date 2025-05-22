@@ -138,7 +138,7 @@ Experimental writing is difficult to define. To grasp the term, I have a small l
 
 
 ![[Pasted image 20250520175707.png]]
-**Fig. 9** - Page 85 of [[Zong!]] by [[NourbeSe Philip]]".^fig-zong
+**Fig. 9** - Page 85 of [[Zong!]] by [[NourbeSe Philip]].^fig-zong
 
 
 ![[Pasted image 20250226190145.png]]
@@ -152,7 +152,7 @@ When analysing Zong! through Glissant's lens, we can see that the scattering of 
 
 In helm of epic poems, St Lucian Derek Walcott's [[Omeros]] "draws on the language, imagery, and themes of Homer, as well as Virgil’s _Aeneid_", to describe his struggled with identity. This epic does not follow a linear path and has no main protagonist, as the narrative is jumps both in time and between characters and his own voice.[^omero]
 
-### Re-writing [[Os Lusíadas]]
+### Re-writting [[Os Lusíadas]]
 
 In re-writing [[Os Lusíadas]], the idea is to put cut-outs of the epic poem together with cut-outs from texts of lusophonic de-colonial thinkers and makers (focusing mostly on authors from former colonies and its diaspora, but also including works that I find crucial, like Poetics of Relation), embodying a multiplicity of voices. The texts can vary and derive from interviews, to academic papers, songs, poetry, books, theatre pieces, performances, visual art, conversations, or others, all in equal grounds. To make use of a text, I engage theoretically with the text, the words are not just removed and decontextualised, since the point is not to assimilate or annihilate them, but to elevate them. Whole sentences are prioritised over words, in order to limit the amount of freedom I have with the emerging combination of texts. The more of the cut-out text remains, the more opacity is preserved, the more I facilitate rather than write.
 #### Maintaining structure 
