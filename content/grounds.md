@@ -204,23 +204,20 @@ Each source has a bucket and a plastic bag for storage of cut-outs. What I choos
 ![[WhatsApp Image 2025-05-22 at 15.52.43.jpeg]]
 **Fig. 13, 14** - Photos of used sources organised ^fig-org
 
-Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapters, or if and how to relate each chapter (called *canto*) to which texts I am sourcing. As of now, I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what that can organically bring (see [[grounds#^fig-diss]]).
+Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapters, or if and how to relate each chapter (called *canto*) to which texts I am sourcing. As of now, I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what it can organically bring (see [[grounds#^fig-diss]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (2).jpeg]]
 **Fig. 15** - Photo dissecting [[Os Lusíadas]]^fig-diss
 #### Navigating chaos
 
-Given the big amount of sources (which will grow), I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference, notes and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[grounds#^fig-graph]]).
+Due to the big amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference, notes and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[grounds#^fig-graph]]).
 
 ![[Pasted image 20250522162542.png]]
 **Fig. 16** - Screenshot of the graph view locally. ^fig-graph
 
-Due to the sensitivity of the project and for transparency proposes, all the pages and code present in this platform are stored publicly on [github]( https://github.com/Mrrvm/os-tugas) (with automatic versioning).
-### Outcomes
+## Outcomes
 
-In reference to Campgna on being near the end of an era (i.e. near the end of capitalism), [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future.[^worlding] I see this project as an open incubator - a library - with its hopeful plurality of voices, where future ones can craft new relations from, a fertile ruin.
-
-I intend on working on this as rhizomatically as I understand it over the next 3 to 4 years, while organically seeking to have more and more collaborators, as well as other possible forms of input. My purpose is far from speaking in the name of anyone, in actual fact that is my biggest fear for the project. Here the process matters as much as the product will. If looking away ahead time and it works out well enough, I don't see why it should not replace [[Os Lusíadas]] in Portuguese educational systems, unless the objective is to silence it.
+In reference to Campgna on being near the end of an era (i.e. near the end of capitalism), [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future.[^worlding] I see this project as an open incubator - a library - hopefully with a plurality of voices, where future ones can craft new relations from, a fertile ruin.
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
