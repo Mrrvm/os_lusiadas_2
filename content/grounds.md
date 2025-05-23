@@ -95,19 +95,6 @@ In school's Portuguese classes, it's mandatory to "analyse" [[Os Lusíadas]], as
 - Example The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
 ) %%
 
-Therefore, while there is numerous work tackling this very urgent concern, 
-
-- from texts (e.g. by [[Amílcar Cabral]], [[Elsa Peralta]], [[Ana Balona de Oliveira]], [[Aurora Almada e Santos]], [[Joacine Katar Moreira]], Eduardo Lourenço, Cristina Roldão, ...), 
-- to books (e.g. [[Memórias da plantação]], [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]] and the remaining series, [[Epistemologias do sul]], [[Volta para tua terra]], ...), 
-- to music (e.g. by [[Dino d' Santiago]], [[Valete]], [[Allen Halloween]], [[Azagaia]], [[Terapia de grupo & Os Heróis - Capicua]], [[Peça Desculpas, Senhor Presidente - Luca Argel]], [[Povo pequenino - Fado Bicha]], ...), 
-- to films (by [[Welket Bungué]], [[A Guerra - Joaquim Furtado]], [[Quilombo]], ...), 
-- to performances (e.g. by [[Panaibra Gabriel Canda]], [[Opera to a Black Venus]], [[De-Re-Memorization of Portuguese Colonialism and Dictatorship]],  [[A Nossa Última Manhã Aqui - Manuel Tur]], ...), 
-- to visual art (e.g. by [[Sandim Mendes]], [[Mónica de Miranda]], [[Irineu Destourelles]], [[Catarina Simão]], [[The singularity of Tchiloli - René Tavares]], [[(Re)descobertas - Olavo Amado]], ...), 
-- to exhibitions (e.g. [[Unearthing memories]],  [[Problemas do Primitivismo – a partir de Portugal]]) 
-- and other artifacts (e.g. [[Jornal O negro]], Hangar, Bazofo & Dentu Zona, ...), 
-
-I feel like I can make a meaningful contribution by rewriting this treasured and deeply cherished book in order to retell our history, revisit colonisation and its perpetual violence, through the writings of de-colonial thinkers and makers. 
-
 ## Myths and epics
 
 The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous. For example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to contemporary Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
@@ -146,13 +133,26 @@ The concept of filiation is visible, for example, in stanza 53 of *Canto I*:
 
 Partly broken by the king's death in 1578 without succession, it started a century-long pursuit of legitimisation through the myth-making of the epic poem - bypassing bloodlines, and transforming into a lineage of "heroes" held together by inevitable "destiny" and faith. 
 
-Rather than confronting the end of this fictive filiation and recognise it as a violent imposition, "decolonisation", as mentioned before, was refashioned to fit a new national identity. Not a loss of legitimacy but a continuation of "Portugals" role, not an imperial patriarchy, but a benevolent mediator between Europe and the Global South. It revealed not the collapse of the myth, but its plasticity till today.
+Rather than confronting the end of this fictive filiation and recognise it as a violent imposition, "decolonisation", as mentioned before, was refashioned to fit a new national identity. Not a loss of legitimacy but a continuation of Portugal's role, not as an imperial patriarchy, but as a benevolent mediator between Europe and the Global South. It revealed not the collapse of the myth, but its plasticity till today.
 
-## Rhizomatic methodologies
+## Methodologies
 
-Filiation, like a root, means the absolute exclusion of the other. Unlike a rhizome, where new shoots can emerge and become their own individuals, spread but kept connected through a decentralised network.[^gliss2] In Glissant's Poetics of Relation (the book that has been serving as the foundation for my work), an example of a rhizome would be the formation of creolised societies, and the creole languages themselves. Perpetuated by the Portuguese, the forced displacement of Africans taken from multiple origins, carrying an opaqueness to each other and to the unknown land without their roots, formed complex and often untraceable new identities, languages, cultures through the Relation with the Other. This is the opposite to a singular dominant root embodied by the colonisers.[^gliss3]
+Filiation, like a root, means the absolute exclusion of the other. Unlike a rhizome, where new shoots can emerge and become their own individuals, spread but kept connected through a decentralised network.[^gliss2] In Glissant's Poetics of Relation (the book that has been serving as the foundation for my work), an example of a rhizome would be the formation of creolised societies, and the creole languages themselves. Perpetuated by the Portuguese, the forced displacement of Africans taken from multiple origins, carrying an opaqueness to each other and to the unknown land without their roots, formed complex and often untraceable new identities, languages, cultures through the Relation with the Other (opposite to a singular dominant root embodied by the colonisers).[^gliss3] This concept of rhizome is what w 
 
-As it may seem unclear, my point in rewriting [[Os Lusíadas]] is not to criticise [[Luís de Camões]]. But rather to re-instrumentalize the symbolism and grandiosity that has been positioned upon his book from the last centuries until now, making necessary amends with our past - first in a personal, and then on an educational level. Through the limited position I operate from - as a white Portuguese woman - the idea of "retelling our history" is biased and can be looked at dangerously from afar. Thus, the methodology laid out below is of utmost importance and in a constant metamorphosis as I learn and look for an understanding on how to work rhizomatically, and if and how experimental writing can be rhizomatic. 
+As it may seem unclear, my point in rewriting [[Os Lusíadas]] is not to criticise [[Luís de Camões]]. But rather to re-instrumentalize the symbolism and grandiosity that has been positioned upon his book from the last centuries until now
+
+Therefore, while there is numerous work tackling this very urgent concern, 
+
+- from texts (e.g. by [[Amílcar Cabral]], [[Elsa Peralta]], [[Ana Balona de Oliveira]], [[Aurora Almada e Santos]], [[Joacine Katar Moreira]], Eduardo Lourenço, Cristina Roldão, ...), 
+- to books (e.g. [[Memórias da plantação]], [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas]] and the remaining series, [[Epistemologias do sul]], [[Volta para tua terra]], ...), 
+- to music (e.g. by [[Dino d' Santiago]], [[Valete]], [[Allen Halloween]], [[Azagaia]], [[Terapia de grupo & Os Heróis - Capicua]], [[Peça Desculpas, Senhor Presidente - Luca Argel]], [[Povo pequenino - Fado Bicha]], ...), 
+- to films (by [[Welket Bungué]], [[A Guerra - Joaquim Furtado]], [[Quilombo]], ...), 
+- to performances (e.g. by [[Panaibra Gabriel Canda]], [[Opera to a Black Venus]], [[De-Re-Memorization of Portuguese Colonialism and Dictatorship]],  [[A Nossa Última Manhã Aqui - Manuel Tur]], ...), 
+- to visual art (e.g. by [[Sandim Mendes]], [[Mónica de Miranda]], [[Irineu Destourelles]], [[Catarina Simão]], [[The singularity of Tchiloli - René Tavares]], [[(Re)descobertas - Olavo Amado]], ...), 
+- to exhibitions (e.g. [[Unearthing memories]],  [[Problemas do Primitivismo – a partir de Portugal]]) 
+- and other artifacts (e.g. [[Jornal O negro]], Hangar, Bazofo & Dentu Zona, ...), 
+
+I feel like I can make a meaningful contribution by rewriting this treasured and deeply cherished book in order to revisit colonisation and its perpetual violence, through the writings of de-colonial thinkers and makers. 
 
 Experimental writing is difficult to define. To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps at understanding the many shapes it can take. For example: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", etc.[^mariana] Concerning colonialism, [[NourbeSe Philip]]'s [[Zong!]] would perhaps be one the best references. In her work, she erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship (see [[grounds#^fig-zong]]).  In the Portuguese context, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth (see [[grounds#^fig-barros]]). In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts (see [[grounds#^fig-patricia]]).
 
