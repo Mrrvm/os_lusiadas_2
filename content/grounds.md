@@ -185,7 +185,6 @@ On that note, decasyllables are counted as poetic syllables, rather than gramati
 
 After that, the most crucial point for the work is how to balance between appropriating the texts and appreciating them: how to incorporate multiple voices while at the same time operating from a Portuguese perspective; how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice; how to navigate between intentional fragmentation and accidental incoherence. It has become clear that the only way to achieve this is through thorough collaboration. But the question then becomes about what this collaboration encompasses.
 
-The intention is to talk to each author and ask for their participation. Depending on the author's will, this could mean asking for permission to use the text in this context, having a conversation or actively having them re-write part of [[Os Lusíadas]] with their own words (rather than having me in-between). ==For the purposes of prototyping and clearly showing the idea when making contact, I have combined the original poem, Azagaia's [[Cães de raça]] and [[Maçonaria]], and [[Poetics of Relation]] translated by Marta Mendonça, but have not yet contacted the responsible entities for the works.==
 #### Translations
 
 This leads me to the next question of if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, Kimbundu, etc, when I don't speak them. While incorporating these could prove useful at undermining Portuguese as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, it should only be done in collaboration to avoid extractive linguistic tourism.
@@ -217,7 +216,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 ## Outcomes
 
-In reference to Campgna on being near the end of an era (i.e. near the end of capitalism), [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future.[^worlding] I see this project as an open incubator - a library - hopefully with a plurality of voices, where future ones can craft new relations from, a fertile ruin.
+In reference to Campgna on being near the end of an era (i.e. near the end of capitalism), [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future.[^worlding] I see this project as an open incubator - a library - where new relations can be crafted from, a fertile ruin.
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
