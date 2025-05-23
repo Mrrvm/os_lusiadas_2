@@ -10,10 +10,9 @@ In Portugal, the violence of colonisation is not fully acknowledged but is inste
 
 One of the mechanisms is the mandatory school reading and interpretation of [[Os Lusíadas]]. This very famous book is an epic poem written by [[Luís de Camões]] in the 16th century, that recounts an imagined version of the first journey to India by sea. The book is very strict - it contains 10 chapters, consisting of 8816 ten-syllable verses (mostly heroic deca-syllables: stressed on the 6th and 10th syllables) and 1102 eight-line stanzas (octaves). The rhymes used are alternating and paired. 
 
-I intend to investigate how I can rewrite [[Os Lusíadas]], using experimental writing techniques together with texts, books, media, scripts, and other artifacts within Lusophony. In this text, I create a solid understanding of why I am doing this, its context, meaning, relevance to this day, materiality, resources and methodologies of work. This is a dynamic research in constant change that will be carried on through continuous collaboration with others, as I look for an understanding on how to work rhizomatically.
+I intend to investigate how I can rewrite [[Os Lusíadas]], using experimental writing techniques together with texts, books, media, scripts, and other artifacts within Lusophony. In this text, I create a solid understanding of why I am doing this, its context, meaning, relevance to this day, materiality, resources and methodologies of work. This is an unstable research, in constant change through time and through collaboration with others.
 
-I will begin by explaining how Portugal played a massive role in the transatlantic enslaved trade until the last century, how colonial violence has been omitted in the last decades and in which ways colonialism is still celebrated in Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Further on I will shortly dive in the concept of national identity and nation, in order to understand its relation to epic poems and its tumultuous case within Portugal. Lastly, I analyse experimental writing in this context, presenting the methodologies I am using for the rewriting of the original book and their potential to be rhizomatic, and explain how I intend to carry both transparency and opacity along the project.
-
+I will begin by explaining how colonial violence has been omitted for the last decades and in which ways colonialism is still celebrated in today's Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Later I will dive into mythification through epic poems and present the methodologies I am using for the rewriting of the original book.
 ## Narratives of colonialism celebrated within Portuguese culture
 ### The role of Portugal
 
@@ -216,7 +215,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 ## Outcomes
 
-In reference to Campgna on being near the end of an era (i.e. near the end of capitalism), [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future.[^worlding] I see this project as an open incubator - a library - where new relations can be crafted from, a fertile ruin.
+ [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future,[^worlding] that can work as tool to return "colonial pain and trauma to its thinkers".[^joacine] I see the project as an open incubator - a library - where new relations could be crafted from, a fertile ruin.
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
@@ -317,3 +316,5 @@ In reference to Campgna on being near the end of an era (i.e. near the end of ca
 [^lusiads]: *Camões, L. _The Lusiad; or, The Discovery of India_. Translated by William Julius Mickle. 5th ed. Revised by E. Richmond Hodges. London: George Bell and Sons, 1877. Project Gutenberg (eBook). Accessed May 22, 2025. [https://www.gutenberg.org/files/32528/32528-h/32528-h.htm](https://www.gutenberg.org/files/32528/32528-h/32528-h.htm).*
 
 [^worlding]: Campagna, Federico. "World-ing, or: How to Embrace the End of an Era." _Mousse Magazine_. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).
+
+[^joacine]: [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]
