@@ -86,8 +86,21 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of poetry in the eyes of Portuguese society. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
 
-In school, it's mandatory to "analyse" both [[Os Lusíadas]] and [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. In 8th grade History books while there is a slight connection between the "discoveries" and violence (found predominantly as side notes), there is no mention of our founding contribution to the Atlantic enslaved trade, for how long and how it occurred, how many people were displaced or died at sea, or its overall impact in the present day. Mostly you learn about the chronology of occupation and economics, that converge in "Portugal was the main economic European power in the second half of XVI".[^historia] Putting that aside, once we move into 9th grade Portuguese, [[Os Lusíadas]]  is taught under the framework of narrative text, epic poetry, pronouns, rhymes, metaphors, perifrasis, etc., i.e. "objectively", without any mention to colonisation.[^portugues] The connection between the two is not made, no thoughts are put into understanding what is actually being said. For example,
+In school, it's mandatory to "analyse" both [[Os Lusíadas]] and [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. In 8th grade History books while there is a slight connection between the "discoveries" and violence (found predominantly as side notes), there is no mention of our founding contribution to the Atlantic enslaved trade, for how long and how it occurred, how many people were displaced or died at sea, or its overall impact in the present day. Mostly you learn about the chronology of occupation and economics, that converge in "Portugal was the main economic European power in the second half of XVI".[^historia] Putting that aside, once we move into 9th grade Portuguese, [[Os Lusíadas]]  is taught under the framework of narrative text, epic poetry, pronouns, rhymes, metaphors, perifrasis, etc., i.e. "objectively", without any mention to colonisation.[^portugues] The connection between the two is not made, no thoughts are put into understanding what is actually being said. 
 
+For instance, close to the end of chapter I (*canto* I), the Portuguese arrive to Mozambique
+
+"Destarte o Português, enfim, castiga A vil malícia, pérfida, inimiga."
+
+"Mas o malvado Mouro, não podendo Tal determinação levar avante, Outra maldade inica cometendo,"
+
+O recado que trazem é de amigos, Mas debaxo o veneno vem coberto, Que os pensamentos eram de inimigos, Segundo foi o engano descoberto. Ó grandes e gravíssimos perigos, Ó caminho de vida nunca certo, Que aonde a gente põe sua esperança Tenha a vida tão pouca segurança!
+
+Porém disto que o Mouro aqui notou, E de tudo o que viu com olho atento, Um ódio certo na alma lhe ficou, Ũa vontade má de pensamento; Nas mostras e no gesto o não mostrou, Mas, com risonho e ledo fingimento, Tratá-los brandamente determina, Até que mostrar possa o que imagina.
+
+Um ódio certo na alma lhe ficou, Ũa vontade má de pensamento; Nas mostras e no gesto o não mostrou, Mas, com risonho e ledo fingimento,
+
+Lhe diz como eram gentes roubadoras Estas que ora de novo são chegadas; Que das nações na costa moradoras, Correndo a fama veio que roubadas Foram por estes homens que passavam,
 %% (ref:
 - Example The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
 ) %%
