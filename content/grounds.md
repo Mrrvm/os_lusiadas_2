@@ -326,6 +326,6 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^portugues]: [[Português 9ano]]
 
-[^memorias1]: [[Memórias da plantação^memorias1]]
+[^memorias1]: [[Memórias da plantação#^memorias1]]
 
 [^aurora]: [[Quinta Essência]] and [[Portugal and the invention of the Atlantic trade of enslaved people]]
