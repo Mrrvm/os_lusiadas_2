@@ -178,7 +178,7 @@ The immediate question that arises is if it makes sense to keep the same structu
 On that note, decasyllables are counted as poetic syllables, rather than gramatical. For instance, *te-le-vi-são* (te-le-vi-sion) has 4 grammatical syllables, but 3 poetic syllables *tle-vi-são* (tle-vi-sion) when recited in Portuguese. This then means that when well-recited, keeping its rhythm, one is forced to read with a certain regional accent.   
 #### Collaboration
 
-A crucial point for the work is how to balance between appropriating the texts and appreciating them: how to incorporate multiple voices while at the same time operating from a Portuguese perspective; how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice; how to navigate between intentional fragmentation and accidental incoherence. It has become clear that the only way to achieve this is through collaboration. But the question then becomes about what this collaboration encompasses.
+A crucial point for the work is how to incorporate multiple voices while at the same time operating from a Portuguese perspective; how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice; how to navigate between intentional fragmentation and accidental incoherence. It seems that collaboration is paramount in achieving this. While I am not yet sure what that would look like, in terms of text - would they follow the same structure? make collages as well? write with their own words?
 
 #### Translation
 
