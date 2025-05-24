@@ -77,7 +77,6 @@ In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an
 
 The list goes on. Like I had mentioned before, you don't have to look far; even the stamps I got at the post office were illustrated accordingly - [[grounds#^fig-stamps]]. The rhetoric bleeds out in dialogues explicitly or implicitly. Paradoxically, we have included a great amount of words from former colonies' languages in our quotidian. For example, the widely used *bué* and *bazar* (from Kimbundu language *mbuwe* and *kubaza*, respectively). Yet not only are these not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they become slang. As if the miscegenation between languages is only desirable when the objective is to re-iterate our inclusive nature for means of later commodification.
 
-
 ![[Pasted image 20250506142729.png]]
 **Fig. 8** - Official stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas". ^fig-stamps
 
@@ -87,7 +86,7 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of poetry in the eyes of Portuguese society. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
 
-In school's Portuguese classes, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent, and the manner in which they contribute to this rhetoric is unfathomable. For example, 
+In school's Portuguese classes, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. For example, 
 
 %% (ref:
 - Books 9ano 
