@@ -6,5 +6,20 @@ tags:
   - portugal
   - text
 ---
+![[Pasted image 20250524174338.png]]
+
+![[Pasted image 20250524174347.png]]
+
+![[Pasted image 20250524174417.png]]
+
+![[Pasted image 20250524174435.png]]
+![[Pasted image 20250524174522.png]]
+
+![[Pasted image 20250524174549.png]]
+
+![[Pasted image 20250524174613.png]]
+
+![[Pasted image 20250524174649.png]]
 
 ![[Historia8ano.pdf]]
+
