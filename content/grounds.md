@@ -87,11 +87,10 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of poetry in the eyes of Portuguese society. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
 
-In school's Portuguese classes, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying (or rather memorising) the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. The manner in which they contribute to the rhetoric delineated above is unfathomable, even if that was not the authors' intents. For example, 
+In school's Portuguese classes, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent, and the manner in which they contribute to this rhetoric is unfathomable. For example, 
 
 %% (ref:
 - Books 9ano 
-- [[Bárbora e Jau]]
 - Example The relation between Canto I - Israel/Palestine - [[Memórias da plantação]]
 ) %%
 
