@@ -106,7 +106,6 @@ For example, close to the end of chapter I (*canto* I), the Portuguese arrive to
 > Oh where shall man escape his num'rous foes,  
 > And rest his weary head in safe repose![^lusiads]
 
-
 ## Myths and epics
 
 The traces of colonialism in other European countries, as well as current neocolonialist policies, are numerous. For example the 2024's unrest in New Caledonia, or Macron's recent statements regarding Burkina Faso.[^caledonia] Yet, they feel different to contemporary Portuguese efforts. For an empire who claims to have been so powerful, becoming one of EU's poorest countries certainly makes it look more like a myth. 
@@ -222,7 +221,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 ## End notes
 
- [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future,[^worlding] that can work as tool to return "colonial pain and trauma to its thinkers".[^joacine] I see the project as an open incubator - a library - where new relations could be crafted from, a fertile ruin.
+ [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future[^worlding] that can work as tool to return "colonial pain and trauma to its thinkers".[^joacine] I see the project as an open incubator - a library - where new relations could be crafted from, a fertile ruin.
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
