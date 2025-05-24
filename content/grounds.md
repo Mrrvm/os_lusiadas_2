@@ -178,14 +178,12 @@ The immediate question that arises is if it makes sense to keep the same structu
 On that note, decasyllables are counted as poetic syllables, rather than gramatical. For instance, *te-le-vi-são* (te-le-vi-sion) has 4 grammatical syllables, but 3 poetic syllables *tle-vi-são* (tle-vi-sion) when recited in Portuguese. This then means that when well-recited, keeping its rhythm, one is forced to read with a certain regional accent.   
 #### Collaboration
 
-A crucial point for the work is how to incorporate multiple voices while at the same time operating from a Portuguese perspective and how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice. It seems that collaboration is paramount in achieving this. As of now, I have asked [[Sandim Mendes]], [[Tavares Cebola]], [[Mariana Aboim]] and 
-How to navigate between intentional fragmentation and accidental incoherence. 
-
+A crucial point for the work is how to incorporate multiple voices while at the same time operating from a Portuguese perspective and how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice. It seems that collaboration is paramount in achieving this. As of now I have been in conversation with [[Sandim Mendes]], [[Tavares Cebola]] and [[Mariana Aboim]], who have generously helped me navigate the project and its doubts. Ideally, the objective would be to have co-authors write certain stanzas of the book with their own words. However, what exactly to request of them (in terms of structure) or how to navigate between intentional fragmentation and accidental incoherence, is still uncertain to me and highly depends on the availability of funding to pay for their work.
 #### Translation
 
-This leads me to the next question of if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, Kimbundu, etc, when I don't speak them. While incorporating these could prove useful at undermining Portuguese as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, it should only be done in collaboration to avoid extractive linguistic tourism.
+This leads me to the next question of if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, Kimbundu, etc, when I don't speak them. While incorporating these could prove useful at undermining the Portuguese language as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, I believe it should only be done in collaboration to prevent an extractive linguistic tourism.
 
-In relation to using works written in English (or other languages I feel more comfortable with), and translating them to Portuguese. I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough lusophonic work worthy of attention. However, works that I incredibly crucial for the process (like Poetics of Relation), I will use if there are available trustworthy translations.
+In regards to using works written in English (or other languages I feel more comfortable with), and translating them to Portuguese. I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough lusophonic work worthy of attention. Yet, for works that I find incredibly essential to incorporate (e.g. Poetics of Relation), I intend on resorting to trustworthy translations.
 #### Typographies and Topographies
 
 I see the outcome of the rewriting not just as a book, but as a library of resources that don't currently belong to the mainstream bookshelves, or to the Portuguese literary canon. I think that the idea of making a new epic poem to characterise Portuguese society can drive enough curiosity in the public, and thus be able to achieve its role as gateway to other artifacts. For this reason, for a question of ethicality, and from an organisational standpoint while working, its imperative that the cut-outs used are clearly referenced. I have defined a specific font size and typography to each source (that may later become a design principle for the book), in order to map them (see [[grounds#^fig-sources]]).
@@ -199,7 +197,7 @@ Each source has a bucket and a plastic bag for storage of cut-outs. What I choos
 ![[WhatsApp Image 2025-05-22 at 15.52.43.jpeg]]
 **Fig. 13, 14** - Photos of used sources organised ^fig-org
 
-Regarding [[Os Lusíadas]], I am still unsure on how procede in terms of chapters, or if and how to relate each chapter (called *canto*) to which texts I am sourcing. As of now, I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what it can organically bring (see [[grounds#^fig-diss]]).
+Within the parallelism to [[Os Lusíadas]], I am still unsure on how procede in terms of chapters, or if and how to relate each chapter (called *canto*) to which texts I am sourcing. As of now, I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what it can organically bring (see [[grounds#^fig-diss]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (2).jpeg]]
 **Fig. 15** - Photo dissecting [[Os Lusíadas]]^fig-diss
@@ -210,7 +208,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 ![[Pasted image 20250522162542.png]]
 **Fig. 16** - Screenshot of the graph view locally. ^fig-graph
 
-## Outcomes
+## End notes
 
  [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future,[^worlding] that can work as tool to return "colonial pain and trauma to its thinkers".[^joacine] I see the project as an open incubator - a library - where new relations could be crafted from, a fertile ruin.
 
