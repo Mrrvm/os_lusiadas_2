@@ -2,6 +2,10 @@
 dg-publish: true
 dg-hide-in-graph: true
 ---
+%% 
+- on nation and national identity/lyrical - ref: [[Narration and Nation - Homi K. Bhabha]])
+- no nationality till today
+%%
 # How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?
 
 ## Introduction
@@ -76,9 +80,6 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 ![[Pasted image 20250506142729.png]]
 **Fig. 8** - Official stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas". ^fig-stamps
-
-%% (ref: no voting rights) %%
-
 ### **[[Os Lusíadas]]** and education
 
 Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of poetry in the eyes of Portuguese society. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
@@ -114,9 +115,6 @@ After restoring independence, and with its empire shrunk to the Netherlands, Por
 During that period, Portugal was willing to go beyond economic exchange value - it gripped on to the territories even when they weren't profitable. It saw them as a symbol of its "heroic" past, retaining them "no matter how small or poor", "fearing that any reduction would weaken Portugal's claim to be a world 'civilizing' power"[^cia]. Following "decolonization"[^deco], a dominant memory emerged as an adapted colonial myth legitimising the transition as a mutual, fraternal liberation retaining strong cultural bonds. It depicted Portugal as a soft coloniser, multiracial and naturally capable of managing future post-colonial relations, as mentioned earlier through the words of our current President. This perspective not only guided Portuguese foreign policy to fit an identity that could prove advantageous when integrating EEC/EU,[^eec] but also completely undermined the liberation movements inspired by [[Amílcar Cabral]]’s revolutionary ideas, that restored Portugal's democracy. The Armed Forces Movement that staged the coup d’état on April 25, 1974, was born in Bissau in August 1973 and "led by war-fatigued junior officers who admired Cabral". His party, the PAIGC was also in contact with Mozambique’s FRELIMO and Angola's MPLA. 
 
 The empire has been in free fall since the epic poem was written. The country still lives an inferiority complex, trying to convince itself out of its subaltern position in Europe. Lacking an identity other than coloniality; mythifying oneself through the remnants of this "glorious" empire, to compensate for a longing to be what it "once was"; and avoiding the "painful necessity of confronting" its smallness. You see it in Salazar's words: ‘this union with the overseas territories gives us an optimism and sense of greatness that are indispensable in energising us and driving away any feelings of inferiority.’[^salazar] You see it in Marcelo's words above. You see it in Saudosismo - a literary movement whose basis is the feeling of *saudade* (longing for). You see it in [[Os Lusíadas]], where a past fictional journey is still aggressively shouted as a fundamental pillar of Portuguese culture.[^eduardo] 
-
-%% (on nation and national identity/lyrical - ref: [[Narration and Nation - Homi K. Bhabha]])
- %%
  
 The book could have been a novel, or lyrical poetry, but the author deliberately chose epic poetry, a tool close to that of myth. He himself states it by asking Virgil's Aeneid and Homer's Odyssey to be ceased immediately in the first chapter.[^canto1] According to Hegel's eurocentric perspectives[^hegel2], this kind of poetry is not an expression of personal feelings or individual reflections, it's the manifestation of a national spirit presented through a "heroic" event rooted in a nation’s collective consciousness; integrating a "total view" (divine, natural and human) and balancing individual agency with a divine mandate.[^hegel1] In our case, this was the mission to "expand christian faith" and "civilize the world", consolidated by multiple papal bulls (e.g. _Dum Diversas_, that authorised Portugal to extract resources and subjugate Africans to "perpetual servitude"). The event was the journey to India that was semi-orchestrated by Venus and Bacchus interventions expressed through natural phenomenons, like tempests, battles, allies or favourable currents, i.e. colonial expansion framed as a cosmic battle. However, in Hegel's view, one could say that [[Os Lusíadas]] is not actually a pure epic for its self-conscious nationalism and didactic interventions, but instead, as Lourenço puts it - a coherent war machine[^eduardo2] - geared towards inspiring a falling empire.
 
