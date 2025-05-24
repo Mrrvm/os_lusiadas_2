@@ -18,8 +18,8 @@ I will begin by explaining how colonial violence has been omitted for the last d
 
 Not considering the current neocolonialist empires, Portugal was both the first and last European empire.
 
-%% (add timeline of events - [[Portugal and the invention of the atlantic trade of enslaved people, 15–16th centuries - Aurora Almada e Santos]], https://www.worldhistory.org/Portuguese_Empire/)
- %%
+
+
 Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, objects, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
 ### Monuments, streets and festivals
 
@@ -86,7 +86,7 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of poetry in the eyes of Portuguese society. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
 
-In school's Portuguese classes, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. For example, 
+In middles school, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. In History class books while there is a very slight recognition that the "discoveries" were violent (mostly found on side notes), there is no mention of our founding contribution to the Atlantic enslaved trade, for how long it occurred, how many people were involved, or its overall impact in the present day.
 
 %% (ref:
 - Books 9ano 
