@@ -1,9 +1,9 @@
 ---
 dg-publish: true
 tags:
-  
   - portugal
   - transatlantic-enslaved-trade
+bib: Almada e Santos, A. "Portugal and the invention of the Atlantic trade of enslaved people, 15-16th centuries". Project MANIFEST. 2023. https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-trade-of-enslaved-people-15-16th-centuries/
 link: https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-trade-of-enslaved-people-15-16th-centuries/
 ---
 "From 1501 until 1875, the Portuguese traffic in slaves affected an estimated 6 million Africans."
@@ -12,7 +12,7 @@ link: https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-
 
 "The country found legal justification to enslave Africans through Papal rulings."
 
-"he trade in slaves was also known amongst African societies before Portugal arrived on the continent. Local systems of exploiting labor and of buying and selling unfree people already existed in Africa. Nevertheless, Portugal would compete and supplement the existing practice with the transatlantic slave trade, in which people was forcibly transported across the ocean. (...) This new slave trade transformed Africans into an international commodity and progressively established a racial order among societies at a global level."
+"The trade in slaves was also known amongst African societies before Portugal arrived on the continent. Local systems of exploiting labor and of buying and selling unfree people already existed in Africa. Nevertheless, Portugal would compete and supplement the existing practice with the transatlantic slave trade, in which people was forcibly transported across the ocean. (...) This new slave trade transformed Africans into an international commodity and progressively established a racial order among societies at a global level."
 
 "Trade in slaves, together with gold, was among the most lucrative forms of commercial activity in the Portuguese overseas expansion. Portuguese caravels conducted direct slaving raids on the African coast, assailing villages and ravaging the land."
 

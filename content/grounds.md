@@ -14,13 +14,10 @@ I intend to investigate how I can rewrite [[Os Lusíadas]], using experimental w
 
 I will begin by explaining how colonial violence has been omitted for the last decades and in which ways colonialism is still celebrated in today's Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Later I will dive into mythification through epic poems and present the methodologies I am using for the rewriting of the original book.
 ## Narratives of colonialism celebrated within Portuguese culture
-### The role of Portugal
 
-Not considering the current neocolonialist empires, Portugal was both the first and last European empire.
+Although the traffic of enslaved peoples was practiced in the African continent prior to Portuguese arrival, Portugal significantly boosted the practice through the foundation of the Atlantic enslaved trade, transforming people into one of the most lucrative forms of international commodity at the time, and setting a racial order until today. Capturing was first conducted through direct raids on the the African coast, and later through organised stations whose supply was either a product of war prisoners, unjust judicial trials (analogous to contemporary US prison systems) or earlier social status.[^aurora] In the following centuries, the practice was replicated by the English, French, Dutch, Danish or Swedish, becoming "the largest forced human migration in history" with an estimated "10 to 15 million men, women and children".
 
-
-
-Throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, objects, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
+Today throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, objects, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
 ### Monuments, streets and festivals
 
 Having lived in the south of Portugal, Algarve, up until I was 17 (in 2014), I was always confronted with the economic discrepancies between retired northern europeans and the locals. Whole cities and regions, such as Vilamoura, Vale de Lobo, Quinta do Lago, were and are completely catered to this social class of immigrants (which we call *estrangeiros* - foreigners, rather than immigrants), with lavish golf resorts, beach hotels, empty holiday mansions and whatnot, while, the basic needs of the local population remain chronically under-resourced — water, public transport, healthcare, education, ... Beaches, dunes and their biodiversity have also been destroyed for the sake of touristic profit (e.g. the beaches and dunes of Quarteira). 
@@ -330,3 +327,5 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 [^portugues]: [[Português 9ano]]
 
 [^memorias1]: [[Memórias da plantação^memorias1]]
+
+[^aurora]: [[Quinta Essência]] and [[Portugal and the invention of the Atlantic trade of enslaved people]]
