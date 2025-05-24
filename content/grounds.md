@@ -247,7 +247,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^padrao-descobrimentos]: in *Padrão dos "Descobrimentos". Accessed May 7, 2025, https://padraodosdescobrimentos.pt/* there is absolutely no reference to coloniality, violence or wrong-doing. This monument is seen as a major sightseeing point when visiting Lisbon as a tourist.
 
-[^sintra-casa]: acquired by Manuel Pinto da Fonseca through his participation in the Atlantic enslaved trade, see [[The absence of memorial sites in Portugal - Aurora Almada e Santos]]
+[^sintra-casa]: acquired by Manuel Pinto da Fonseca through his participation in the Atlantic enslaved trade, see [[The absence of memorial sites in Portugal]]
 
 [^irene-rodrigo]: inspired by the first verse of the song *Irene* by Rodrigo Amarante
 

@@ -23,3 +23,15 @@ link: https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-
 "By the early 16th century, initiatives to establish permanent Spanish and Portuguese colonies in the Americas increased the demand for slaves in the New World. In Spanish Americas, the Amerindian population experienced a decline after the arrival of the conquerors in the late 15th century, making it difficult to exploit their labor. (...) With the introduction of sugar cane in the territory, attempts to find resources for sugar production helped the trade in slaves for Brazil to gather pace."
 
 "While direct arrivals of African slaves from the Iberian peninsula already existed, the first direct slave trade voyage from Africa to the Americas occurred in 1525, consisting of 200 captives transported from Sao Tome and Principe to Santo Domingo, currently in the Dominican Republic. (...) British, French, Dutch, Danish, and Swedish merchands also supplied slaves to Spanish Americas, adding to the volume and profits of the traffic."
+
+"In Brazil, African slaves started to be imported after 1530 and the systematic slave trade voyages gained expression from 1560 onward to meet the demand for labor in the territory. Sometimes the owners of the plantations took the initiative to directly import slaves from Africa, but most of the traffic was in the hands of merchants, first Portuguese, then, in the centuries that followed, English, French, Dutch, Danish or Swedish."
+
+"The main source of slaves to Brazil was Sao Tome and Principe and, above all, Angola where the city of Luanda founded in 1575 became increasingly predominant in the supply of enslaved people to the Americas."
+
+"In parallel with the official trade, the widespread contraband of slaves in which ship crews concealed captives, disembarked them in secondary ports and made unregistered voyages, contributed to the volume and effects of the transatlantic slave trade."
+
+"As the largest forced human migration in history, the transatlantic trade of enslaved people involved an estimated 10 to 15 million men, women and children between the 15th and 19th centuries. Portugal laid the foundations for this forced migration, establishing in the 15th and 16th centuries slaving networks across the Atlantic. These networks experienced further developments in the massive slave trade during the 18th and 19th centuries."
+
+**References** 
+[[Quinta Essência]]
+[[A Nossa História]]
