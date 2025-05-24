@@ -86,7 +86,7 @@ The list goes on. Like I had mentioned before, you don't have to look far; even 
 
 Which leads me to what I want to re-write - [[Os Lusíadas]]. This is THE book - unmatched, unrivaled, irreplaceable, incomparable, transcendent, the pinnacle of poetry in the eyes of Portuguese society. In fact, second to this would only be [[A Mensagem]], its homage whose objective was to awake Portugal's "greatness". Published in 1934, the poet Fernando Pessoa sought to rebuild national identity through myth and memory. He revisits Portugal’s past prophetically, contrasting it with the 20th century's decline. And like [[Luís de Camões]], he glorifies national "heroes", urging for a cultural revival into what was called the "Fifth Empire".[^empire]
 
-In middles school, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. In History class books while there is a very slight recognition that the "discoveries" were violent (mostly found on side notes), there is no mention of our founding contribution to the Atlantic enslaved trade, for how long it occurred, how many people were involved, or its overall impact in the present day.
+In middles school, it's mandatory to "analyse" [[Os Lusíadas]], as well as studying the interpretation of [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. In 8th grade History books while there is a very slight recognition that the "discoveries" were violent (mostly found on side notes), there is no mention of our founding contribution to the Atlantic enslaved trade, for how long it occurred, how many people were involved, or its overall impact in the present day.[^historia] But putting that aside, once we move into 9th grade Portuguese, [[Os Lusíadas]]  is taught under the framework of narrative text, epic poetry, pronouns, rhymes, metaphors, perifrasis, etc., i.e. "objectively", without any mention to colonisation.[^portugues] The connection between the two is omitted.
 
 %% (ref:
 - Books 9ano 
@@ -311,3 +311,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 [^worlding]: Campagna, Federico. "World-ing, or: How to Embrace the End of an Era." _Mousse Magazine_. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).
 
 [^joacine]: [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]
+
+[^historia]: [[História 8ano]]
+
+[^portugues]: [[Português 9ano]]
