@@ -2,10 +2,6 @@
 dg-publish: true
 dg-hide-in-graph: true
 ---
-%% 
-- on nation and national identity/lyrical - ref: [[Narration and Nation - Homi K. Bhabha]])
-- no nationality till today
-%%
 # How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?
 
 ## Introduction

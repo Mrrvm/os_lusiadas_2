@@ -151,3 +151,5 @@ djamila ribeiro
 https://www.printedmatter.org/catalog/tables/27782/52864
 
 Sara Tavares
+
+lei da nacionalidade, no voting rights till today
