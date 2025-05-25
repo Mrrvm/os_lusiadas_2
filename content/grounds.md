@@ -200,9 +200,9 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 ![[Pasted image 20250522162542.png]]
 **Fig. 16** - Screenshot of the graph view locally. ^fig-graph
 
-## End notes
+## End note
 
- [[Os Lusíadas]] is a ruin of the past that has served and continuous to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future[^worlding] that can work as tool to return "colonial pain and trauma to its thinkers".[^joacine] I see the project as an open incubator - a library - where new relations could be crafted from, a fertile ruin.
+ [[Os Lusíadas]] is a ruin of the past that has served and continues to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future[^worlding] that can work as tool to return "colonial pain and trauma to its thinkers"[^joacine]. I see the project as an open incubator - a library - where new relations could be crafted from, a fertile ruin.
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
