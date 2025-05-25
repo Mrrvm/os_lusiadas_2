@@ -72,7 +72,7 @@ In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an
 
 The list goes on. Like I had mentioned before, you don't have to look far; even the stamps I got at the post office were illustrated accordingly ([[grounds#^fig-stamps]]). The rhetoric bleeds out in dialogues explicitly or implicitly. Paradoxically, we have included a great amount of words from former colonies' languages in our quotidian. For example, the widely used *bué* and *bazar* (from Kimbundu language *mbuwe* and *kubaza*, respectively). Yet not only are these not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they become slang. As if the miscegenation between languages is only desirable when the objective is to re-iterate our inclusive nature for means of later commodification.
 
-![[Pasted image 20250506142729.png]]
+![[Pasted image 20250525160924.png]]
 **Fig. 8** - Stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas". ^fig-stamps
 ### **[[Os Lusíadas]]** and education
 

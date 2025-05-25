@@ -73,7 +73,7 @@ In the same year in the WebSummit, Lisbon's mayor - Fernando Medina - offered an
 
 The list goes on. Like I had mentioned before, you don't have to look far; even the stamps I got at the post office were illustrated accordingly ([[grounds#^fig-stamps]]). The rhetoric bleeds out in dialogues explicitly or implicitly. Paradoxically, we have included a great amount of words from former colonies' languages in our quotidian. For example, the widely used *bué* and *bazar* (from Kimbundu language *mbuwe* and *kubaza*, respectively). Yet not only are these not considered languages by the Portuguese standard (e.g. Badiu), but when it comes to officially including the terms in formal settings, they become slang. As if the miscegenation between languages is only desirable when the objective is to re-iterate our inclusive nature for means of later commodification.
 
-![[Pasted image 20250506142729.png]]
+![[Pasted image 20250525160912.png]]
 **Fig. 8** - Stamps from the post collected in 2023, saying "5 centuries of Portuguese presence in the Southern Seas". ^fig-stamps
 ### **[[Os Lusíadas]]** and education
 
@@ -83,7 +83,7 @@ In school, it's mandatory to "analyse" both [[Os Lusíadas]] and [[A Mensagem]].
 
 For example, close to the end of chapter I, the Portuguese arrive to Mozambique's islands and come across, what he describes as, the moors, who themselves (through the imagination of [[Camões]]) describe the locals as "*sem Lei e sem Razão*" (without Law or Reason). This immediately reveals and justifies the 'civilising' mission. Then the moors (guided by Bachus, who is trying to prevent the Portuguese "inevitable fate" of arriving to India) attack us, even though we had been "very generous". We of course win the battle and in the last stanzas turn out to be the victim of this unprovoked violence - a projection of the opressor into the oppressed ([[grounds#^fig-lus1]]).[^memorias1]
 
-![[Pasted image 20250525160036.png]]
+![[Pasted image 20250525161127.png]]
 **Fig. 9** - Stanza 106, Chapter I, of [[Os Lusíadas]] and its translation[^lusiadas]. ^fig-lus1
 
 ## Myths and epics
@@ -102,7 +102,7 @@ The book could have been a novel, or lyrical poetry, but the author deliberately
 
 In the quest to justify land and body theft, filiation becomes crucial and takes place through Christianity's mechanisms as a linear and universalising spirit. In other words, anything that was opaque to these believes, anything that was not affiliated with them (not from the same root), the other, had to be either assimilated or annihilated, as it posed a threat to it's universal truth.[^gliss] A threat analogous to how Palestine has been framed by Israel - an opaque obstacle to a mythic filiation rooted in religious narratives. The concept of filiation is visible, for example, in stanza 53 of *Canto I* ([[grounds#^fig-lus2]]).
 
-![[Pasted image 20250525160614.png]]
+![[Pasted image 20250525161143.png]]
 **Fig. 10** - Stanza 53, Chapter I, of [[Os Lusíadas]] and its translation[^lusiadas]. ^fig-lus2
 
 
