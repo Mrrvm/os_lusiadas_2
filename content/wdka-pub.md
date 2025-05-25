@@ -81,23 +81,10 @@ Which leads me to what I want to rewrite, [[Os Lusíadas]]. This is THE book - u
 
 In school, it's mandatory to "analyse" both [[Os Lusíadas]] and [[A Mensagem]]. Yet the efforts to reflect upon the contemporary and huge underlying issue behind these two texts are minimal if even existent. In 8th grade History books while there is a slight connection between the "discoveries" and violence (found predominantly as side notes), there is no mention of our founding contribution to the Atlantic enslaved trade, for how long and how it occurred, how many people were displaced or died at sea, or its overall impact in the present day. Mostly you learn about the chronology of occupation and economics that converge in "Portugal was the main economic European power in the second half of XVI".[^historia] Putting that aside, once we move into 9th grade Portuguese, [[Os Lusíadas]]  is taught under the framework of narrative text, epic poetry, pronouns, rhymes, metaphors, perifrasis, i.e. "objectively", without any mention to colonisation.[^portugues] The connection between the two is not made and no thoughts are put into understanding what is actually being said. 
 
-For example, close to the end of chapter I, the Portuguese arrive to Mozambique's islands and come across, what he describes as, the moors, who themselves (through the imagination of [[Camões]]) describe the locals as "*sem Lei e sem Razão*" (without Law or Reason). This immediately reveals and justifies the 'civilising' mission. Then the moors (guided by Bachus, who is trying to prevent the Portuguese "inevitable fate" of arriving to India) attack us, even though we had been "very generous". We of course win the battle and in the last stanzas turn out to be the victim of this unprovoked violence - a projection of the opressor into the oppressed.[^memorias1]
+For example, close to the end of chapter I, the Portuguese arrive to Mozambique's islands and come across, what he describes as, the moors, who themselves (through the imagination of [[Camões]]) describe the locals as "*sem Lei e sem Razão*" (without Law or Reason). This immediately reveals and justifies the 'civilising' mission. Then the moors (guided by Bachus, who is trying to prevent the Portuguese "inevitable fate" of arriving to India) attack us, even though we had been "very generous". We of course win the battle and in the last stanzas turn out to be the victim of this unprovoked violence - a projection of the opressor into the oppressed ([[grounds#^fig-lus1]]).[^memorias1]
 
-> No mar tanta tormenta e tanto dano, 
-> Tantas vezes a morte apercebida! 
-> Na terra tanta guerra, tanto engano, 
-> Tanta necessidade avorrecida! 
-> Onde pode acolher-se um fraco humano, 
-> Onde terá segura a curta vida, 
-> Que não se arme e se indigne o Céu sereno 
-> Contra um bicho da terra tão pequeno?[^lusiadas]
-
-> By sea what treach'rous calms, what rushing storms,  
-> And death attendant in a thousand forms!  
-> By land what strife, what plots of secret guile,  
-> How many a wound from many a treach'rous smile!  
-> Oh where shall man escape his num'rous foes,  
-> And rest his weary head in safe repose![^lusiads]
+![[Pasted image 20250525160036.png]]
+**Fig. 9** - Stanza 106 of [[Os Lusíadas]] and its translation[^lusiadas]. ^fig-lus1
 
 ## Myths and epics
 
@@ -297,9 +284,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^omero]: *Redmayne, Isabella. "Epic Echoes in Derek Walcott's Omeros." Antigone Journal. April 20, 2024. Accessed May 22, 2025. [https://antigonejournal.com/2024/04/derek-walcott-omeros/](https://antigonejournal.com/2024/04/derek-walcott-omeros/).*
 
-[^lusiadas]: [[Os Lusíadas]]
-
-[^lusiads]: *Camões, L. _The Lusiad; or, The Discovery of India_. Translated by William Julius Mickle. 5th ed. Revised by E. Richmond Hodges. London: George Bell and Sons, 1877. Project Gutenberg (eBook). Accessed May 22, 2025. [https://www.gutenberg.org/files/32528/32528-h/32528-h.htm](https://www.gutenberg.org/files/32528/32528-h/32528-h.htm).*
+[^lusiadas]: Camões, L., 2000, "[[Os Lusíadas]]", 4th ed, Preface by Álvaro Júlio da Costa Pimpão, Presentation by António Pinheiro de Castro, Instituto Camões, Ministério dos Negócios Estrangeiros. and *Camões, L. _The Lusiad; or, The Discovery of India_. Translated by William Julius Mickle. 5th ed. Revised by E. Richmond Hodges. London: George Bell and Sons, 1877. Project Gutenberg (eBook). Accessed May 22, 2025. [https://www.gutenberg.org/files/32528/32528-h/32528-h.htm](https://www.gutenberg.org/files/32528/32528-h/32528-h.htm).*
 
 [^worlding]: Campagna, Federico. "World-ing, or: How to Embrace the End of an Era." _Mousse Magazine_. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).
 
