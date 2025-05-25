@@ -84,7 +84,7 @@ In school, it's mandatory to "analyse" both [[Os Lusíadas]] and [[A Mensagem]].
 For example, close to the end of chapter I, the Portuguese arrive to Mozambique's islands and come across, what he describes as, the moors, who themselves (through the imagination of [[Camões]]) describe the locals as "*sem Lei e sem Razão*" (without Law or Reason). This immediately reveals and justifies the 'civilising' mission. Then the moors (guided by Bachus, who is trying to prevent the Portuguese "inevitable fate" of arriving to India) attack us, even though we had been "very generous". We of course win the battle and in the last stanzas turn out to be the victim of this unprovoked violence - a projection of the opressor into the oppressed ([[grounds#^fig-lus1]]).[^memorias1]
 
 ![[Pasted image 20250525160036.png]]
-**Fig. 9** - Stanza 106 of [[Os Lusíadas]] and its translation[^lusiadas]. ^fig-lus1
+**Fig. 9** - Stanza 106, Chapter I, of [[Os Lusíadas]] and its translation[^lusiadas]. ^fig-lus1
 
 ## Myths and epics
 
@@ -100,22 +100,11 @@ The empire has been in free fall since the epic poem was written. The country st
  
 The book could have been a novel, or lyrical poetry, but the author deliberately chose epic poetry, a tool close to that of myth. He himself states it by asking Virgil's Aeneid and Homer's Odyssey to be ceased immediately in the first chapter.[^canto1] According to Hegel's eurocentric perspectives[^hegel2], this kind of poetry is not an expression of personal feelings or individual reflections, it's the manifestation of a national spirit presented through a "heroic" event rooted in a nation’s collective consciousness; integrating a "total view" (divine, natural and human) and balancing individual agency with a divine mandate.[^hegel1] In our case, this was the mission to "expand christian faith" and "civilize the world", consolidated by multiple papal bulls (e.g. _Dum Diversas_, that authorised Portugal to extract resources and subjugate Africans to "perpetual servitude"). The event was the journey to India that was semi-orchestrated by Venus and Bacchus interventions expressed through natural phenomenons, like tempests, battles, allies or favourable currents, i.e. colonial expansion framed as a cosmic battle. However, in Hegel's view, one could say that [[Os Lusíadas]] is not actually a pure epic for its self-conscious nationalism and didactic interventions, but instead, as Lourenço puts it - a coherent war machine[^eduardo2] - geared towards inspiring a falling empire.
 
-In the quest to justify land and body theft, filiation becomes crucial and takes place through Christianity's mechanisms as a linear and universalising spirit. In other words, anything that was opaque to these believes, anything that was not affiliated with them (not from the same root), the other, had to be either assimilated or annihilated, as it posed a threat to it's universal truth.[^gliss] A threat analogous to how Palestine has been framed by Israel - an opaque obstacle to a mythic filiation rooted in religious narratives. The concept of filiation is visible, for example, in stanza 53 of *Canto I*:
+In the quest to justify land and body theft, filiation becomes crucial and takes place through Christianity's mechanisms as a linear and universalising spirit. In other words, anything that was opaque to these believes, anything that was not affiliated with them (not from the same root), the other, had to be either assimilated or annihilated, as it posed a threat to it's universal truth.[^gliss] A threat analogous to how Palestine has been framed by Israel - an opaque obstacle to a mythic filiation rooted in religious narratives. The concept of filiation is visible, for example, in stanza 53 of *Canto I* ([[grounds#^fig-lus2]]).
 
-> "Somos (um dos das Ilhas lhe tornou) 
-> Estrangeiros na terra, Lei e nação; 
-> Que os próprios são aqueles que criou 
-> A Natura, sem Lei e sem Razão. 
-> Nós temos a Lei certa que ensinou 
-> O claro descendente de Abraão,
-> (...)"[^lusiadas]
+![[Pasted image 20250525160614.png]]
+**Fig. 10** - Stanza 53, Chapter I, of [[Os Lusíadas]] and its translation[^lusiadas]. ^fig-lus2
 
-> "Rude are the natives here," the Moor replied;  
-> Dark are their minds, and brute-desire their guide:  
-> But we, of alien blood, and strangers here,  
-> Nor hold their customs nor their laws revere.  
-> From Abram's race our holy prophet sprung,
-> (...)"[^lusiads]
 
 The king's death in 1578 without succession, started a century-long pursuit of legitimisation through the myth-making of the epic poem - bypassing bloodlines, and transforming into a lineage of "heroes" held together by "inevitable fate". Rather than confronting the end of this fictive filiation and recognise it as a violent imposition, "decolonisation", as mentioned before, was refashioned to fit a new national identity - not a loss of legitimacy but a continuation of Portugal's role, not as an imperial patriarchy, but as a benevolent mediator between Europe and the Global South. It revealed not the collapse of the myth, but its plasticity till today.
 
