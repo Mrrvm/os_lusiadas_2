@@ -8,11 +8,11 @@ dg-hide-in-graph: true
 
 In Portugal, the violence of colonisation is not fully acknowledged but is instead highly glorified. Every child undergoes a socialisation process that fosters a strong national identity aligned with the colonial period, called *"Descobrimentos"* (meaning "Discoveries"). This is executed through a selective apparatus for the production and distribution of knowledge in schools, monuments, public spaces, language, and other tools, as well as at home. The violence is always omitted, minimised, or relativised, shapeshifting into the spread of christian faith, commercial trade towards globalisation, a glorification of "heroic" navigation deeds, or the “civilisation” of other cultures. 
 
-One of the mechanisms is the mandatory school reading of [[Os Lusíadas]]. This very famous book is an epic poem written by [[Camões]] in the 16th century, that recounts an fictive version of the first journey to India by sea. It contains 10 chapters, consisting of 8816 ten-syllable verses and 1102 eight-line stanzas. The rhymes are alternating and paired. 
+One of the mechanisms is the mandatory school reading of [[Os Lusíadas]]. This very famous book is an epic poem written by [[Camões]] in XVI, that recounts an fictive version of the first journey to India by sea. It contains 10 chapters, consisting of 8816 ten-syllable verses and 1102 eight-line stanzas. The rhymes are alternating and paired. 
 
 Here I investigate how I can rewrite [[Os Lusíadas]], using experimental writing together with texts, books, media, scripts, and other artifacts within Lusophony. I envision this project as long-term and I am using my graduation period at WdKA to research and produce prototypes of what it can be while creating a solid understanding of why I am doing this, its context, meaning, relevance to this day, resources and methodologies of work. 
 
-First I explain how colonial violence has been washed for the last decades and in which ways colonialism is still celebrated in today's Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Later I dive into its mythification through epic poems and present the methodologies I am using for the rewriting of the original book.
+First I explain how colonial violence has been washed for the last decades and in which ways colonialism is still celebrated in today's Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Later I dive into its mythification through epic poems and present the methodologies for the rewriting of the original.
 
 ## Celebrated narratives
 
