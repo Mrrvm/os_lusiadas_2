@@ -153,7 +153,8 @@ A crucial point for the work is how to incorporate multiple voices while at the 
 
 This leads me to the next question of if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, Kimbundu, etc, when I don't speak them. While incorporating these could prove useful at undermining the Portuguese language as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, I believe it should only be done in collaboration to prevent extractive linguistic tourism.
 
-In regards to using works written in English (or other languages I feel more comfortable with), and translating them to Portuguese, I have decided to avoid it for a few reasons: translating flattens nuance; my role as a writer over orchestrator gains importance; there is more than enough Lusophonic work worthy of attention. Yet, for works that I find incredibly essential to incorporate (e.g. Poetics of Relation), I resort to trustworthy translations.
+
+I resort to trustworthy translations.
 #### Typographies and Topographies
 
 I see the outcome of the rewriting not just as a book, but as a library of resources that don't currently belong to the mainstream bookshelves, or to the Portuguese literary canon. I think that the idea of making a new epic poem to characterise Portuguese society can drive enough curiosity in the public, and thus be able to achieve its role as gateway to other artifacts. For this reason, for a question of ethicality, and from an organisational standpoint while working, its imperative that the cut-outs used are clearly referenced. I have defined a specific font size and typography to each source (that may later become a design principle for the book), in order to map them ([[grounds#^fig-sources]]).
