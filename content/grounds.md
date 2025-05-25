@@ -189,7 +189,7 @@ Each source has a bucket and a plastic bag for storage of cut-outs. What I choos
 ![[WhatsApp Image 2025-05-22 at 15.52.43.jpeg]]
 **Fig. 13, 14** - Photos of used sources organised ^fig-org
 
-On the parallelism with [[Os Lusíadas]], I am still unsure on how tos procede in terms of chapters, or if and how to relate each chapter to which texts I am sourcing. I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what it can organically bring (see [[grounds#^fig-diss]]).
+On the parallelism with [[Os Lusíadas]], I am still unsure on how to procede in terms of chapters, or if and how to relate each chapter to which texts I am sourcing. I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what it can organically bring (see [[grounds#^fig-diss]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (2).jpeg]]
 **Fig. 15** - Photo dissecting [[Os Lusíadas]]^fig-diss
