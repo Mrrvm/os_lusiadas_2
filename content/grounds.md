@@ -15,7 +15,7 @@ I intend to investigate how I can rewrite [[Os Lusíadas]], using experimental w
 First I explain how colonial violence has been washed for the last decades and in which ways colonialism is still celebrated in today's Portuguese society, including the mandatory reading of  [[Os Lusíadas]] working as a beacon for national identity. Later I dive into its mythification through epic poems and present the methodologies I am using for the rewriting of the original book.
 ##  Celebrated narratives
 
-Although the traffic of enslaved peoples was practiced in the African continent prior to Portuguese arrival, Portugal significantly boosted the practice through the foundation of the Atlantic enslaved trade, transforming people into one of the most lucrative forms of international commodity at the time, and setting a racial order until today. Capturing was first conducted through direct raids on the the African coast, and later through organised stations whose supply was either a product of war prisoners, unjust judicial trials (analogous to contemporary US prison systems) or earlier social status.[^aurora] In the following centuries, the practice was replicated by the English, French, Dutch, Danish or Swedish, becoming "the largest forced human migration in history" affecting an estimated "10 to 15 million men, women and children".
+Although the traffic of enslaved peoples was practiced in the African continent prior to Portuguese arrival, Portugal significantly boosted the practice through the foundation of the Atlantic enslaved trade, transforming people into one of the most lucrative forms of international commodity at the time, and setting a racial order until today. Capturing was first conducted through direct raids on the the African coast, and later through organised stations whose supply was either a product of war prisoners, unjust judicial trials (analogous to contemporary US prison systems) or earlier social status.[^aurora] In the following centuries, the practice was replicated by the English, French, Dutch, Danish or Swedish, becoming "the largest forced human migration in history", affecting an estimated "10 to 15 million men, women and children".
 
 Today throughout the whole country and culture you can find traces of celebration of the colonial period, without looking very far. This goes from monuments, statues, objects, museums street names and festivals, to its presence in music, what is or is not considered language, in education, or even simple interactions with others.
 ### Monuments, streets and festivals
@@ -206,7 +206,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^found-bodies]: [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]
 
-[^portuguese-slave-trade-page]: [[Portuguese Enslaved Trade]]
+[^portuguese-slave-trade-page]: [[The Portuguese "Slave" Trade]]
 
 [^lagos-festival]: [[Lagos#^festival-colonial]]
 
