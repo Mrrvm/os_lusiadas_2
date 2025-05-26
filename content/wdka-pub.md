@@ -219,7 +219,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^gilberto]: *Bastos, Cristiana, and Cláudia Castelo. Lusotropicalismo. Oxford Research Encyclopedia of African History. 2024. [https://doi.org/10.1093/acrefore/9780190277734.013.1486](https://doi.org/10.1093/acrefore/9780190277734.013.1486).*
 
-[^rebelo]: *Wikipédia, a enciclopédia livre. "Baltazar Rebelo de Sousa." Last modified March 28, 2023. [https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa](https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa)*.
+[^rebelo]: *Wikipédia, a enciclopédia livre. Baltazar Rebelo de Sousa. Last modified March 28, 2023. [https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa](https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa)*.
 
 [^marcelo]: *de Sousa, Vítor. As marcas do luso-tropicalismo nas intervenções do Presidente da República português (2016-2021).Revista Ciências Humanas 14, no. 2 (2021): 10–24. https://doi.org/10.32813/2179-1120.2121.v14.n2.a744. Quotes available at [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo3]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo4]].*
 
