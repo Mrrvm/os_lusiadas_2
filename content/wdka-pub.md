@@ -207,7 +207,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^colonial-exhibitions]: *Alves, B. "[[Turned into Stone - The Portuguese Colonial Exhibitions Today]]". PARSE. Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/*.
 
-[^vicente]: *Alves, "[[Turned into Stone - The Portuguese Colonial Exhibitions Today]]" Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^vicente]]*.
+[^vicente]: *Ibid. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^vicente]]*.
 
 [^elsa-epic]: *Alves, "[[Turned into Stone - The Portuguese Colonial Exhibitions Today]]" Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsaperalta2]] and [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]*.
 
