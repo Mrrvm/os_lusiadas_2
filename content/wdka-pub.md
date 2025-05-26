@@ -5,13 +5,9 @@ dg-hide-in-graph: true
 # How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?
 
 **Author:** Mariana Ribeiro dos Reis do Vale Martins 
-
 Student nr 103059
-
 Fine Arts, Honours Programme
-
 **Supervisors:** Mariana d'Aboim Inglez Amaral Fernandes, Maaike van Papeveld
-
 
 ## Introduction
 
