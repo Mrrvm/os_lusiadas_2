@@ -1,9 +1,11 @@
 ---
 dg-publish: true
 dg-hide-in-graph: true
-bib: "Author: Mariana Ribeiro dos Reis do Vale Martins"
-other: "Supervisors: Mariana d'Aboim Inglez Amaral Fernandes, Maaike van Papeveld"
+bib: 26/05/2025
 ---
+Author: Mariana Ribeiro dos Reis do Vale Martins
+
+Supervisors: Mariana d'Aboim Inglez Amaral Fernandes, Maaike van Papeveld
 ## Introduction
 
 In Portugal, the violence of colonisation is not fully acknowledged but instead highly glorified. Every child undergoes a socialisation process that fosters a strong national identity aligned with the colonial period, called *"Descobrimentos"* ("Discoveries"). This is executed through a selective apparatus for the production and distribution of knowledge in schools, monuments, public spaces, language and other tools, as well as at home. The violence is always omitted, minimised or relativised, shapeshifting into the spread of christian faith, commercial trade towards globalisation, a glorification of "heroic" navigation deeds, or the “civilisation” of other cultures. 
