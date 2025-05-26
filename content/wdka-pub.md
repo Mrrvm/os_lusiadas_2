@@ -1,9 +1,8 @@
 ---
 dg-publish: true
 dg-hide-in-graph: true
-bib: |-
-  Author: Mariana Ribeiro dos Reis do Vale Martins
-  Supervisors: Mariana d'Aboim Inglez Amaral Fernandes, Maaike van Papeveld
+bib: "Author: Mariana Ribeiro dos Reis do Vale Martins"
+other: "Supervisors: Mariana d'Aboim Inglez Amaral Fernandes, Maaike van Papeveld"
 ---
 # How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?
 
