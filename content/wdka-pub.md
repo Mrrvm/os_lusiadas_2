@@ -269,16 +269,16 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^lusiadas]: *Camões, Luís. Os Lusíadas. 4th ed. Preface by Álvaro Júlio da Costa Pimpão. Presentation by António Castro. Instituto Camões, Ministério dos Negócios Estrangeiros, 2000. [[Os Lusíadas]]* and *Camões, Luís. The Lusiad; or, The Discovery of India. Translated by William Julius Mickle. 5th ed. Revised by E. Richmond Hodges. London: George Bell and Sons, 1877. Project Gutenberg (eBook). Accessed May 22, 2025. [https://www.gutenberg.org/files/32528/32528-h/32528-h.htm](https://www.gutenberg.org/files/32528/32528-h/32528-h.htm).*
 
-[^worlding]: *Campagna, Federico. "World-ing, or: How to Embrace the End of an Era." Mousse Magazine. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).*
+[^worlding]: *Campagna, Federico. World-ing, or: How to Embrace the End of an Era. Mousse Magazine. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).*
 
-[^joacine]: *Moreira, Schofield and Mónica de Miranda, "TO DECOLONISE." Quotes available at [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]*.
+[^joacine]: *Moreira, Schofield and Mónica de Miranda, TO DECOLONISE. Quotes available at [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]*.
 
-[^historia]: *Castanhede, Francisco, João Silva, Marília Gago and Paula Torrão.. "O fio da História - História | 8 ano." Texto Editores, 2022, 1-8 & 15-48. Available at [[História 8ano]]*.
+[^historia]: *Castanhede, Francisco, João Silva, Marília Gago and Paula Torrão. O fio da História - História | 8 ano. Texto Editores, 2022, 1-8 & 15-48. Available at [[História 8ano]]*.
 
-[^portugues]: *Paiva, Ana, Bárbara Meireles, Gabriela Almeida and Sónia Junqueira. "Palavra CHAVE 9 - Português | 9.0 ano." Porto Editora, 2024, 1-6 & 91-112. Available at [[Português 9ano]]*.
+[^portugues]: *Paiva, Ana, Bárbara Meireles, Gabriela Almeida and Sónia Junqueira. Palavra CHAVE 9 - Português | 9.0 ano. Porto Editora, 2024, 1-6 & 91-112. Available at [[Português 9ano]]*.
 
 [^memorias1]: *Kilomba, Grada. Memórias da plantação: Episódios de racismo quotidiano. Translated by N. Quintas. Lisbon: Orfeu Negro, 2019. Quotes available at [[Memórias da plantação#^memorias1]]*.
 
-[^aurora]: *Caldeira, Arlindo and João Almeida. "[[Quinta Essência]] | Ep. 33. Tráfico de Escravos - Parte 1." 2023. https://www.rtp.pt/play/p319/e670327/quixnta-essencia* and *Almada e Santos, A. "[[Portugal and the invention of the Atlantic trade of enslaved people]], 15-16th centuries." Project MANIFEST. 2023. https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-trade-of-enslaved-people-15-16th-centuries/*.
+[^aurora]: *Caldeira, Arlindo and João Almeida. [[Quinta Essência]] | Ep. 33. Tráfico de Escravos - Parte 1. 2023. https://www.rtp.pt/play/p319/e670327/quixnta-essencia* and *Almada e Santos, Aurora. [[Portugal and the invention of the Atlantic trade of enslaved people]], 15-16th centuries. Project MANIFEST. 2023. https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-trade-of-enslaved-people-15-16th-centuries/*.
 
-[^cabral]: *Mendy, Peter, Sa'eed Husaini. "The Socialist Agronomist Who Helped End Portuguese Colonialism." Jacobin, 2019. Quotes available at [[The Socialist Agronomist Who Helped End Portuguese Colonialism]]*.
+[^cabral]: *Mendy, Peter, Sa'eed Husaini. The Socialist Agronomist Who Helped End Portuguese Colonialism. Jacobin, 2019. Quotes available at [[The Socialist Agronomist Who Helped End Portuguese Colonialism]]*.
