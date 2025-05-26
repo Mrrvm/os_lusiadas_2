@@ -4,8 +4,6 @@ dg-hide-in-graph: true
 bib: "Author: Mariana Ribeiro dos Reis do Vale Martins"
 other: "Supervisors: Mariana d'Aboim Inglez Amaral Fernandes, Maaike van Papeveld"
 ---
-# How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?
-
 ## Introduction
 
 In Portugal, the violence of colonisation is not fully acknowledged but instead highly glorified. Every child undergoes a socialisation process that fosters a strong national identity aligned with the colonial period, called *"Descobrimentos"* ("Discoveries"). This is executed through a selective apparatus for the production and distribution of knowledge in schools, monuments, public spaces, language and other tools, as well as at home. The violence is always omitted, minimised or relativised, shapeshifting into the spread of christian faith, commercial trade towards globalisation, a glorification of "heroic" navigation deeds, or the “civilisation” of other cultures. 
@@ -181,7 +179,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 ![[Pasted image 20250526151440.png]]
 ![[Pasted image 20250526151425.png]]
-![[Pasted image 20250526154441.png]]**Fig. 19, 20, 21** - Photo of 2 initial prototypes and translation. Sources from [[wdka-pub#^fig-sources]]. ^fig-prototypes
+![[Pasted image 20250526154441.png]]**Fig. 19, 20, 21** - Photo of 2 initial prototypes and translation. Sources from [[How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?#^fig-sources]]. ^fig-prototypes
 
 ## End note
 
