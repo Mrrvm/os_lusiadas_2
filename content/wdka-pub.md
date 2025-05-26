@@ -116,15 +116,15 @@ Filiation, like a root, means the absolute exclusion of the other. Unlike a rhiz
 Experimental writing is difficult to define. To grasp the term, I have a small library of [references, ideas and techniques](https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f) that helps in understanding the many shapes it can take: "cut a page in half and switch sides", "write without the letter A", "blackout text", "cut syllables, sentences, paragraphs or shapes, reorder them", "make footnotes that comment on missing text", ...[^mariana] As an example, [[NourbeSe Philip]]'s [[Zong!]] erases parts of the legal documents of Gregson v. Gilbert, a case about 150 Africans who were thrown overboard by the captain of a enslaved ship ([[grounds#^fig-zong]]). In Portugal, within the 1960's experimental poetry movement ([PO.EX](https://po-ex.net/)), *Barros*'s *Gritos de Angústia*, transforms the words "*escravos*" ("slaves") and "cravos" (carnations - the symbol of the 1974's revolution) back and fourth ([[grounds#^fig-barros]]). In the Netherlands, Kaersenhout uses old history books as a medium for cut-outs, collages and texts ([[grounds#^fig-patricia]]).
 
 ![[Pasted image 20250520175707.png]]
-**Fig. 9** - Page 85 of [[Zong!]] by [[NourbeSe Philip]].^fig-zong
+**Fig.11** - Page 85 of [[Zong!]] by [[NourbeSe Philip]].^fig-zong
 
 
 ![[Pasted image 20250226190145.png]]
-**Fig. 10** - Images from the book *"Exposição de Poesia Experimental Portuguesa". PO.EX.80. Galeria Nacional de Arte Moderna - Belém. Consulted in May 2024.*^fig-barros
+**Fig. 12** - Images from the book *"Exposição de Poesia Experimental Portuguesa". PO.EX.80. Galeria Nacional de Arte Moderna - Belém. Consulted in May 2024.*^fig-barros
 
 ![[Picture 1.png]]
 ![[Pasted image 20250520204633.png]]
-**Fig. 11** - Photos of the work "THE DREAM OF A THOUSAND SHIPWRECKS" and "We refuse..." by [[Patricia Kaersenhout]]. De Appel, Amsterdam. 2018. Photo: Konstantin Guz. https://www.pkaersenhout.com/copy-of-les-eclaireurs ^fig-patricia
+**Fig. 13** - Photos of the work "THE DREAM OF A THOUSAND SHIPWRECKS" and "We refuse..." by [[Patricia Kaersenhout]]. De Appel, Amsterdam. 2018. Photo: Konstantin Guz. https://www.pkaersenhout.com/copy-of-les-eclaireurs ^fig-patricia
 
 Analysing Zong! through Glissant's lens, the scattering of its words and phrases (and the intentional spacing they each have to breathe) refuses a hierarchical structure. Each fragment has its roots, but as whole, they become unpredictable and open-ended. The work is opaque as the text does not form a linear narrative, nor structures cohesive sentences whose meaning can be objectively extracted, or reduced in its complexity - it rejects logic in favor of an emotional resonance. In the helm of epic poems, St Lucian Derek Walcott's [[Omeros]] that "draws on the language, imagery, and themes of Homer, as well as Virgil’s _Aeneid_", to describe his struggle with mixed identity. This epic doesn't follow a linear path and has no main protagonist, as the narrative jumps in time, between characters and his own voice.[^omero]
 ### Rewriting [[Os Lusíadas]]
@@ -156,24 +156,30 @@ Another question is if and how to include other languages - if it makes sense to
 I see the outcome of the rewriting not just as a book, but as a library of resources that don't currently belong to the mainstream bookshelves, or to the Portuguese literary canon. I think that the idea of making a new epic poem to characterise Portuguese society can drive enough curiosity in the public, and thus be able to achieve its role as gateway to other artifacts. For this reason, for a question of ethicality, and from an organisational standpoint while working, its imperative that the cut-outs used are clearly referenced. I have defined a specific font size and typography to each source (that may later become a design principle for the book), in order to map them ([[grounds#^fig-sources]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.16.23.jpeg]]
-**Fig. 12** - Photo of used sources in different font sizes and typographies ^fig-sources
+**Fig. 14** - Photo of used sources in different font sizes and typographies ^fig-sources
 
 Each source has a bucket and a plastic bag for storage of cut-outs. What I choose or not to cut-out from a text is initially based on intuition and later on, as it becomes more complicated, on what can be puzzled into a heroic-decasyllabic-8-versed-stanza and the message I want to convey ([[grounds#^fig-org]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (1).jpeg]]
 ![[WhatsApp Image 2025-05-22 at 15.52.43.jpeg]]
-**Fig. 13, 14** - Photos of used sources organised ^fig-org
+**Fig. 15, 16** - Photos of used sources organised ^fig-org
 
 On the parallelism with [[Os Lusíadas]], I am still unsure on how to procede in terms of *cantos*, or if and how to relate each *canto* to which texts I am sourcing. I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what it can organically bring (see [[grounds#^fig-diss]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (2).jpeg]]
-**Fig. 15** - Photo dissecting [[Os Lusíadas]]^fig-diss
+**Fig. 17** - Photo dissecting [[Os Lusíadas]]^fig-diss
 #### Navigating chaos
 
 Due to the big amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder, shall have its bibliographic reference, notes and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[grounds#^fig-graph]]).
 
 ![[Pasted image 20250522162542.png]]
-**Fig. 16** - Screenshot of the graph view locally. ^fig-graph
+**Fig. 18** - Screenshot of the graph view locally. ^fig-graph
+
+#### Prototypes
+
+![[Pasted image 20250526151440.png]]
+![[Pasted image 20250526151425.png]]
+**Fig. 19** - Photo of 2 initial prototypes. Sources in [[wdka-pub#^fig-sources]] ^fig-prototypes
 
 ## End note
 
