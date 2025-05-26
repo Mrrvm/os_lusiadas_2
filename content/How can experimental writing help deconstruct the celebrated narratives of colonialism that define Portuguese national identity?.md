@@ -3,7 +3,9 @@ dg-publish: true
 dg-hide-in-graph: true
 bib: 26/05/2025
 ---
-Author: Mariana Ribeiro dos Reis do Vale Martins
+Mariana Ribeiro dos Reis do Vale Martins (Student nr 1030590)
+
+Fine Arts, Honours Programme
 
 Supervisors: Mariana d'Aboim Inglez Amaral Fernandes, Maaike van Papeveld
 ## Introduction
