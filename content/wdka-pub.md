@@ -186,7 +186,7 @@ On the parallelism with [[Os Lusíadas]], I am still unsure on how to procede in
 
 #### Navigating chaos
 
-Due to the large amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder shall have its bibliographic reference, notes and a collection of tags (e.g. "mozambique", "performance", "fiction"), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[wdka-pub#^fig-graph]]).
+Due to the large amount of sources, I have decided to use the software [Obsidian](https://obsidian.md/) hosted online in this platform. Each page under the artifacts folder shall have its bibliographic reference, notes and a collection of tags (e.g. #mozambique, #performance, #fiction), which allows for connections to later be found between them. Instead of hierarchically, I can visualise, navigate and search these sources through a graph view (see [[wdka-pub#^fig-graph]]).
 
 ![[Pasted image 20250522162542.png]]
 **Fig. 18** - Screenshot of the graph view locally. ^fig-graph
