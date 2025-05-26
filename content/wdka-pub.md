@@ -5,18 +5,11 @@ dg-hide-in-graph: true
 # How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?
 
 > **Author:** Mariana Ribeiro dos Reis do Vale Martins (103059)
-> **Department:** Fine Arts, Honours Programme
+> 
 > **Supervisors:** Mariana d'Aboim Inglez Amaral Fernandes and Maaike van Papeveld
+> **Department:** Fine Arts, Honours Programme
 > 
 > This document was written by me and in my own words, except for quotations from published and unpublished sources which are clearly indicated and acknowledged as such. I am conscious that the incorporation of material from other works or a paraphrase of such material without acknowledgement will be treated as plagiarism, subject to the custom and usage of the subject, according to the Hogeschool Rotterdam / WdKA regulations. The source of any media (picture, map, or illustration, AI bot such as Chat GPT) is also indicated, as is the source, published or unpublished, of any material not resulting from my own experimentation or observation.
-
-```
-**Author:** Mariana Ribeiro dos Reis do Vale Martins (103059)
-**Department:** Fine Arts, Honours Programme
-**Supervisors:** Mariana d'Aboim Inglez Amaral Fernandes and Maaike van Papeveld
-
-This document was written by me and in my own words, except for quotations from published and unpublished sources which are clearly indicated and acknowledged as such. I am conscious that the incorporation of material from other works or a paraphrase of such material without acknowledgement will be treated as plagiarism, subject to the custom and usage of the subject, according to the Hogeschool Rotterdam / WdKA regulations. The source of any media (picture, map, or illustration, AI bot such as Chat GPT) is also indicated, as is the source, published or unpublished, of any material not resulting from my own experimentation or observation.
-```
 
 ## Introduction
 
