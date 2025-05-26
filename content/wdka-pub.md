@@ -183,7 +183,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^portuguese-slave-trade-page]: *Caldeira, A. [[The Portuguese "Slave" Trade]]. Oxford Research Encyclopedia of African History. Edited by Thomas Spear. Oxford: Oxford University Press, 2024. https://doi.org/10.1093/acrefore/9780190277734.013.903*
 
-[^lagos-festival]: [[Lagos#^festival-colonial]]
+[^lagos-festival]: *Festival dos "Descobrimentos. Lagos. https://festivaldosdescobrimentos.pt/www/. Quotes available at [[Lagos#^festival-colonial]]*
 
 [^lagos-brochura]: *Turismo do Algarve. Algarve. Lagos, Portugal: Turismo do Algarve, 2011/12. Photograph available at [[Brochura do Turismo de Portugal em Lagos]]*
 
@@ -191,79 +191,77 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^lagos-minigolf]:  *Museu Digital Afro Português, n.d, “O Cemitério de Escravos de Lagos”, Lagos, accessed May 7, 2025, https://museudigitalafroportugues.wordpress.com/sobre/reino-do-algarve/o-cemiterio-de-escravos-de-lagos/. Quote and photograph available at [[Found bodies#^burial-site]].*
 
-[^atlantica-colonial-pain]: [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]
+[^atlantica-colonial-pain]: *Moreira, J., Schofield, C. & de Miranda, M. "TO DECOLONISE IS TO D.E.P.R.O.G.R.A.M.M.E. Systemic racism, body, gender and diaspora in arts" - eds., Atlantica: Contemporary Art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and Their Diasporas (Lisbon: Hangar Books, 2021), https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/. Quotes available at [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]*
 
-[^lagos-museum-tourism-erasure]: [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]] and [["Slave" Market Museum in Portugal#^museum-erasure]]
+[^lagos-museum-tourism-erasure]: *CEsA – Centro de Estudos sobre África e do Desenvolvimento, n.d, "Cooperação – Rota do Escravo", accessed May 7, 2025, https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12. Quotes available at [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]]* and *The Contested Histories Initiative, 2022, “Slave Market Museum in Portugal” Contested Histories Case Study #130, June 2022, retrieved from https://contestedhistories.org/wp-content/uploads/Portugal-Slave-Market-Museum-in-Lagos.pdf. Quotes available at [["Slave" Market Museum in Portugal#^museum-erasure]]*
 
-[^memorial]: [[Memorial de homenagem às pessoas escravizadas]]
+[^memorial]: *Djass – Associação de Afrodescendentes, n.d, "[[Memorial da Escravatura e Tráfico Negreiro]] ", Facebook, accessed May 7, 2025 https://www.facebook.com/memorialescravatura/?locale=pt_BR.*
 
 [^papa]: *"JMJ: Oeiras prevê gastar um milhão de euros com evento com Papa Francisco e voluntários". Expresso. February 15, 2023. https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38*
 
 [^padrao-descobrimentos]: in *Padrão dos "Descobrimentos". Accessed May 7, 2025, https://padraodosdescobrimentos.pt/* there is absolutely no reference to coloniality, violence or wrong-doing. This monument is seen as a major sightseeing point when visiting Lisbon as a tourist.
 
-[^irene-rodrigo]: inspired by the first verse of the song *Irene* by Rodrigo Amarante
-
 [^contested-legacies]: *Contested Legacies Portugal. The Early Atlantic Slave Trade in Portugal. Accessed May 7, 2025, https://contestedlegaciesportugal.org/* - "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown."
 
 [^noticia-publico]: In *Vaz, S. "Desmascarar o lado colonial do Porto: ‘o passado não passou". Público. December 21, 2019, [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132)*, the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
 
-[^colonial-exhibitions]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
+[^colonial-exhibitions]:  *B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/.
 
-[^vicente]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^vicente]]
+[^vicente]:  *B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^vicente]]*
 
-[^elsa-epic]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsaperalta2]] and [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]
+[^elsa-epic]:  *B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsaperalta2]] and [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]*
 
-[^elsa-creole]: [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta1]]
+[^elsa-creole]: *B. Alves. PARSE. "Turned into Stone: The Portuguese Colonial Exhibitions Today." Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta1]]*
 
-[^expo98]: [[Expo 98 and the Memorialization of the Empire]]
+[^expo98]: *Peralta, E. "The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History," Portuguese Literary & Cultural Studies 36-37. 2022: 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156.*
 
 [^world-discoveries]: *World of Discoveries. [https://www.worldofdiscoveries.com/](https://www.worldofdiscoveries.com/). Accessed May 7, 2025.* - An interactive museum about the maritime expansion catered to kids. The website has no reference to colonisation or violence whatsoever. In fact, in the corporate ethics section of the website, they claim: "At World of Discoveries, corporate ethics is not just a term; it is a commitment that governs all our actions and decisions. We are driven by a deep respect for our heritage, the community we serve and the responsibility to preserve and pass on the history of great discoveries with integrity and accuracy.", "Integrity – We act with honesty and transparency, ensuring that the content we present is authentic and based on rigorous research.", "Respect – We value the diversity and pluralism of historical narratives, approaching each story objectively.", "This is a space where every opinion is valued and every voice is heard."
 
 [^gilberto]: *Bastos, C., and Castelo, C. "Lusotropicalismo." Oxford Research Encyclopedia of African History. 2024. [https://doi.org/10.1093/acrefore/9780190277734.013.1486](https://doi.org/10.1093/acrefore/9780190277734.013.1486).*
 
-[^rebelo]: Wikipédia, a enciclopédia livre. "Baltazar Rebelo de Sousa." Last modified March 28, 2023. [https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa](https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa)
+[^rebelo]: *Wikipédia, a enciclopédia livre. "Baltazar Rebelo de Sousa." Last modified March 28, 2023. [https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa](https://pt.wikipedia.org/wiki/Baltazar_Rebelo_de_Sousa)*
 
-[^marcelo]: [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo3]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo4]]
+[^marcelo]: *Vítor de Sousa, "As marcas do luso-tropicalismo nas intervenções do Presidente da República português (2016-2021)," Revista Ciências Humanas 14, no. 2 (2021): 10–24, https://doi.org/10.32813/2179-1120.2121.v14.n2.a744. Quotes available at [[Marcas de Lusotropicalismo no Marcelo#^marcelo1]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo2]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo3]], [[Marcas de Lusotropicalismo no Marcelo#^marcelo4]].*
 
-[^websummit]: [[Expo 98 and the Memorialization of the Empire#^websummit]]
+[^websummit]: *Peralta, E. "The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History," Portuguese Literary & Cultural Studies 36-37. 2022: 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156. Quotes available at [[Expo 98 and the Memorialization of the Empire#^websummit]]*
 
-[^empire]: The first four would be the Assyrian, Persian, Greek, and Roman
+[^empire]: The first four would be the Assyrian, Persian, Greek, and Roman.
 
 [^batoto]: *"Lisbon Inaugurates Street Signs African History," A Mensagem, January 13, 2024, [https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/](https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/)*
 
 [^caledonia]:  *"France's Colonial Strategy Blamed for Division in Troubled New Caledonia," Al Jazeera, August 1, 2024, https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia* and *"Insult to All Africans': Macron Under Fire from Burkina Strongman," APA News, January 14, 2025, [https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/](https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/)*
 
-[^cia]: [[The outlook for portugal - CIA]]
+[^cia]: *Director of Central Intelligence. "[[The outlook for portugal]]". National Intelligence Estimate, Number 27.2-59. United States Intelligence Board. 1959.*
 
 [^25abril]: “Efeitos humanos e económicos da Guerra Colonial,” _RTP Ensina_, last modified 2021, accessed May 15, 2025, [https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial](https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial).
 
-[^salazar]: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^salazar]]
+[^salazar]: *Reis, B. and Oliveira, P. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role”. International History Review pp. 1-23, 2017. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20*. Quotes available at [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^salazar]]*
 
-[^eec]: [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role]]
+[^eec]: *Reis, B. and Oliveira, P. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role”. International History Review pp. 1-23, 2017. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20*
 
 [^gold]: *Kedrosky, D. & Palma, N. 2024. "The cross of gold, Brazilian treasure, and the decline of Portugal." CEPR: VoxEU. [https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal](https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal)*
 
-[^eduardo]: [[O Labirinto da Saudade - Eduardo Lourenço]] 
+[^eduardo]: *Lourenço, Eduardo. O Labirinto da Saudade: Psicanálise Mítica do Destino Português. 5th ed. Lisbon: Biblioteca Dom Quixote, 1978.*
 
-[^eduardo2]: [[O Labirinto da Saudade - Eduardo Lourenço#^eduardo2]] 
+[^eduardo2]: *Lourenço, Eduardo. O Labirinto da Saudade: Psicanálise Mítica do Destino Português. 5th ed. Lisbon: Biblioteca Dom Quixote, 1978. Quotes available at [[O Labirinto da Saudade - Eduardo Lourenço#^eduardo2]]* 
 
 [^deco]: I use "decolonisation" in quotes, as neocolonial structures remain in place to this day, just like coloniality does.
 
-[^lie]: This is so easily debunkable, that it becomes laughable. In a quick search to Wikipedia, it states: "In 1761, the Marquis of Pombal banned the importation of African slaves to Portugal and Portuguese India; this however was not intended as an anti-slavery measure, but to ensure the slaves went to Brazil instead. Portugal abolished its involvement in the Atlantic slave trade in 1836, primarily due to Brazil becoming independent and British diplomatic pressure. Finally, in 1869, slavery was abolished for good in the Portuguese Empire". However, as Cartwright notes "(...) slaves continued to be imported to São Tomé and Principe until prohibition in 1908. Slaves were then replaced by African labourers who had to be repatriated after a certain number of years, but their living conditions were little different from those their slave predecessors had suffered.", and this is evident through official government documents like [[Código do trabalho dos indígenas nas colónias portuguesas de África]], and interviews conducted in [[Forced labour by those who lived through it]]. From *Wikipedia. "Slavery in Portugal." Last modified April 14, 2025. [https://en.wikipedia.org/wiki/Slavery_in_Portugal](https://en.wikipedia.org/wiki/Slavery_in_Portugal) and Cartwright, Mark. "Portuguese Empire." World History Encyclopedia. Last modified July 19, 2021. [https://www.worldhistory.org/Portuguese_Empire/](https://www.worldhistory.org/Portuguese_Empire/).
+[^lie]: This is so easily de-bunkable, that it becomes laughable. In a quick search to Wikipedia, it states: "In 1761, the Marquis of Pombal banned the importation of African slaves to Portugal and Portuguese India; this however was not intended as an anti-slavery measure, but to ensure the slaves went to Brazil instead. Portugal abolished its involvement in the Atlantic slave trade in 1836, primarily due to Brazil becoming independent and British diplomatic pressure. Finally, in 1869, slavery was abolished for good in the Portuguese Empire". However, as Cartwright notes "(...) slaves continued to be imported to São Tomé and Principe until prohibition in 1908. Slaves were then replaced by African labourers who had to be repatriated after a certain number of years, but their living conditions were little different from those their slave predecessors had suffered.", and this is evident through official government documents like [[Código do trabalho dos indígenas nas colónias portuguesas de África]], and interviews conducted in [[Forced labour by those who lived through it]]. From *Wikipedia. "Slavery in Portugal." Last modified April 14, 2025. [https://en.wikipedia.org/wiki/Slavery_in_Portugal](https://en.wikipedia.org/wiki/Slavery_in_Portugal) and Cartwright, Mark. "Portuguese Empire." World History Encyclopedia. Last modified July 19, 2021. [https://www.worldhistory.org/Portuguese_Empire/](https://www.worldhistory.org/Portuguese_Empire/).
 
-[^canto1]: in the verse "Cessem do sábio Grego e do Troiano" in [[Os Lusíadas]]
+[^canto1]: in the verse "Cessem do sábio Grego e do Troiano"of  stanza 3, *canto* I
 
-[^hegel1]: Hegel, G. W. F. "C. The Beautiful Ideal." Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 19th, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm
+[^hegel1]: *Hegel, G. W. F. "C. The Beautiful Ideal." Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 19th, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm*
 
 [^hegel2]: Hegel’s definition of epic poetry privileges Greco-Roman and Western Christian models as the pure form of epic. Considering, for example _Mahabharata_, _Ramayana_, African griot traditions, oral epics (e.g.  _Ozidi Saga_), as less developed or primitive, and justifying Europe’s "civilizing mission".
 
-[^gliss]: [[Poetics of Relation]] p.53-66
+[^gliss]: *Glissant, É. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011. ISBN 978-972-0-07153-8. pp. 53-66
 
-[^gliss2]: [[Poetics of Relation]] p.11 on [[Rhizome - Gille Deleuze]]
+[^gliss2]: *Glissant, É. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011. ISBN 978-972-0-07153-8. pp. 11* on [[Rhizome - Gille Deleuze]]
 
-[^gliss3]: [[Poetics of Relation]] p.17-24
+[^gliss3]: *Glissant, É. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011. ISBN 978-972-0-07153-8. pp. 17-24.*
 
-[^mariana]: Martins, M. "references, ideas and techniques". 2024. https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f
+[^mariana]: *Martins, M. "references, ideas and techniques". 2024. https://gleaming-join-3fc.notion.site/references-ideas-techniques-2afd4af098b242eda61b21e4ab4bf33f*
 
 [^rana]: *Philip, M. NourbeSe. "Set Speaks" (blog). Accessed May 21, 2025. [https://www.setspeaks.com/](https://www.setspeaks.com/)* and *Himada, Nasrin. "Ethics Beyond Language." Canadian Art. October 11, 2018. [https://canadianart.ca/essays/ethics-beyond-language/](https://canadianart.ca/essays/ethics-beyond-language/).*
 
@@ -271,16 +269,16 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^lusiadas]: *Camões, L., 2000, "[[Os Lusíadas]]", 4th ed, Preface by Álvaro Júlio da Costa Pimpão, Presentation by António Pinheiro de Castro, Instituto Camões, Ministério dos Negócios Estrangeiros.* and *Camões, L. _The Lusiad; or, The Discovery of India_. Translated by William Julius Mickle. 5th ed. Revised by E. Richmond Hodges. London: George Bell and Sons, 1877. Project Gutenberg (eBook). Accessed May 22, 2025. [https://www.gutenberg.org/files/32528/32528-h/32528-h.htm](https://www.gutenberg.org/files/32528/32528-h/32528-h.htm).*
 
-[^worlding]: Campagna, Federico. "World-ing, or: How to Embrace the End of an Era." _Mousse Magazine_. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).
+[^worlding]: *Campagna, Federico. "World-ing, or: How to Embrace the End of an Era." Mousse Magazine. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).*
 
-[^joacine]: [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]
+[^joacine]: *Moreira, J., Schofield, C. & de Miranda, M. "TO DECOLONISE IS TO D.E.P.R.O.G.R.A.M.M.E. Systemic racism, body, gender and diaspora in arts" - eds., Atlantica: Contemporary Art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and Their Diasporas (Lisbon: Hangar Books, 2021), https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/. Quotes available at [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]*
 
-[^historia]: [[História 8ano]]
+[^historia]: *Castanhede, F., Silva, J., Gago, M. & Torrão, P. "O fio da História - História | 8 ano". Texto Editores. 2022. pp. 1-8 & 15-48. Available at [[História 8ano]]*
 
-[^portugues]: [[Português 9ano]]
+[^portugues]: *Paiva, A., Meireles, B., Almeida, G. & Junqueira, S. "Palavra CHAVE 9 - Português | 9.0 ano". Porto Editora. 2024. pp. 1-6 & 91-112. Available at [[Português 9ano]]*
 
-[^memorias1]: [[Memórias da plantação#^memorias1]]
+[^memorias1]: *Kilomba, G. "Memórias da plantação: Episódios de racismo quotidiano". Trans. N. Quintas. Lisbon: Orfeu Negro, 2019. Quotes available at [[Memórias da plantação#^memorias1]]*
 
 [^aurora]: *Caldeira, A. & Almeida, J. "[[Quinta Essência]] | Ep. 33". Tráfico de Escravos - Parte 1. 2023. https://www.rtp.pt/play/p319/e670327/quinta-essencia* and *Almada e Santos, A. "[[Portugal and the invention of the Atlantic trade of enslaved people]], 15-16th centuries". Project MANIFEST. 2023. https://www.projectmanifest.eu/portugal-and-the-invention-of-the-atlantic-trade-of-enslaved-people-15-16th-centuries/*
 
-[^cabral]: [[The Socialist Agronomist Who Helped End Portuguese Colonialism]]
+[^cabral]: *Mendy, P., Husaini, S. "The Socialist Agronomist Who Helped End Portuguese Colonialism". Jacobin, 2019. Quotes available at [[The Socialist Agronomist Who Helped End Portuguese Colonialism]]*

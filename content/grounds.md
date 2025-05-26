@@ -219,7 +219,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^lagos-museum-tourism-erasure]: [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]] and [["Slave" Market Museum in Portugal#^museum-erasure]]
 
-[^memorial]: [[Memorial de homenagem às pessoas escravizadas]]
+[^memorial]: [[Memorial da Escravatura e Tráfico Negreiro]]
 
 [^papa]: *"JMJ: Oeiras prevê gastar um milhão de euros com evento com Papa Francisco e voluntários". Expresso. February 15, 2023. https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38*
 
@@ -257,7 +257,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^caledonia]:  *"France's Colonial Strategy Blamed for Division in Troubled New Caledonia," Al Jazeera, August 1, 2024, https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia* and *"Insult to All Africans': Macron Under Fire from Burkina Strongman," APA News, January 14, 2025, [https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/](https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/)*
 
-[^cia]: [[The outlook for portugal - CIA]]
+[^cia]: [[The outlook for portugal]]
 
 [^25abril]: “Efeitos humanos e económicos da Guerra Colonial,” _RTP Ensina_, last modified 2021, accessed May 15, 2025, [https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial](https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial).
 
