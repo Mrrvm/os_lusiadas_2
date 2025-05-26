@@ -1,13 +1,13 @@
 ---
 tags:
-  
   - music
   - poetry
   - rhythm
   - precarity
 bib: Azagaia. “Combatentes da Fortuna”. 2009. Accessed May 6th, 2025. https://www.youtube.com/watch?v=pVu8R-VWCKs.
+link: https://www.youtube.com/watch?v=pVu8R-VWCKs
 ---
-Esta vai para todos os dirigentes africanos  
+"Esta vai para todos os dirigentes africanos  
 Que prometeram-nos uma África melhor  
 E deram-nos uma pior que a encomenda  
 Cambada de filhos da mãe
@@ -74,4 +74,4 @@ Corrompem a democracia e legitimam a ditadura
 Xi, cuidado que aqui também, há combatentes da fortuna  
 Olhem bem para onde o nosso país ruma  
 Quem não condena um ladrão manos, das duas uma  
-Ou é ladrão, ou vai roubar na ocasião oportuna
+Ou é ladrão, ou vai roubar na ocasião oportuna"

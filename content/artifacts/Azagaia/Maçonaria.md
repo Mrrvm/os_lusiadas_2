@@ -1,13 +1,13 @@
 ---
 tags:
-  
   - religion
   - music
   - poetry
   - rhythm
 bib: "Azagaia. “Maçonaria”. Track 3 on Cubaliwa. Maputo: Kongoloti Records, 2013. Accessed May 6th, 2025. https://www.youtube.com/watch?v=ItKOVrMZCBM."
+link: https://www.youtube.com/watch?v=ItKOVrMZCBM
 ---
-Em nome da ambição, do poder e do espírito materialista  
+"Em nome da ambição, do poder e do espírito materialista  
 A graça da ambição, o amor ao poder em comunhão  
 Com o espírito materialista, estejam convosco  
 Para celebrarmos dignamente os nossos dignos mistérios  
@@ -130,4 +130,4 @@ Salama, salamidee!
 Mulongo nda sukulela, onitetisa  
 Salama, salamide! Yajajawalee
 
-Mulongooo nda sukulela, onitetisa salama
+Mulongooo nda sukulela, onitetisa salama"

@@ -26,7 +26,7 @@ CustomMeta.css = `
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  padding-bottom: 1rem;
+  padding-bottom: 1.5rem;
   border-bottom: 1px solid var(--lightgray);
 }
 `

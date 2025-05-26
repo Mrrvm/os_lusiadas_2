@@ -1,16 +1,14 @@
 ---
 tags:
-  
   - music
   - poetry
   - rhythm
   - futebol
   - bacalhau
 bib: "Azagaia. “Cães de Raça”. Track 2 on Cubaliwa. Maputo: Kongoloti Records, 2013. Accessed May 6th, 2025. https://www.youtube.com/watch?v=1sXYZ-jwyvc."
+link: https://www.youtube.com/watch?v=1sXYZ-jwyvc
 ---
-https://www.youtube.com/watch?v=sIFu09MbySQ
-
-Eu sou mulato, né? Sou mulato sem bandeira  
+"Eu sou mulato, né? Sou mulato sem bandeira  
 Desde a guerra colonial que não tenho trincheira  
 Pai branco intelectual, mãe preta lavadeira  
 Quis ser igual a ele, mas sem esquecer minha parteira  
@@ -149,4 +147,4 @@ Eu sou um cão de raça
 Aqui só passa a minha raça  
 Aqui só passa a minha raça  
 Cadela de raça  
-Aqui só passa a minha raça, raça
+Aqui só passa a minha raça, raça"
