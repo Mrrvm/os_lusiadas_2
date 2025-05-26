@@ -179,7 +179,7 @@ Each source has a bucket and a plastic bag for storage of cut-outs. What I choos
 ![[WhatsApp Image 2025-05-22 at 15.52.43.jpeg]]
 **Fig. 15, 16** - Photos of used sources organised ^fig-org
 
-On the parallelism with [[Os Lusíadas]], I am still unsure on how to procede in terms of _cantos_, or if and how to relate each _canto_ to which texts I am sourcing. I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what it can organically bring (see [[wdka-pub#^fig-diss]]).
+On the parallelism with [[Os Lusíadas]], I am still unsure on how to procede in terms of _cantos_, or if and how to relate each _canto_ to the texts I am sourcing. I have been dissecting what each stanza means and which relations I can find, but also just cutting from the first chapter and see what it can organically bring (see [[wdka-pub#^fig-diss]]).
 
 ![[WhatsApp Image 2025-05-22 at 15.52.43 (2).jpeg]]
 **Fig. 17** - Photo dissecting [[Os Lusíadas]]^fig-diss
