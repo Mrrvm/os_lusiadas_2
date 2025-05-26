@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 bib: Castanhede, Francisco, João Silva, Marília Gago and Paula Torrão. "O fio da História - História | 8 ano". Texto Editores. 2022. pp. 1-8 & 15-48
 tags:
   - education

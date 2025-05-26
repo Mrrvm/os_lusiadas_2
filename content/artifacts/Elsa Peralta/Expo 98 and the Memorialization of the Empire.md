@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 tags:
   
   - text
@@ -10,11 +9,13 @@ tags:
   - READ
 bib: 'Peralta, E. "The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History," Portuguese Literary & Cultural Studies 36-37. 2022: 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156.'
 ---
+### Annotations
+
 Since I can remember, my family had a glass cup with a cartoon called Gil at home. This was the mascot of the Expo 98 meant as a reference to Gil Eanes, the navigator from [[Lagos]], that passed through Western Sahara. 
 
 Expo 98 was a world exhibition whose theme was "The Oceans, a Heritage for the Future", chosen in part to commemorate 500 years of Portuguese maritime expansion.
 
----
+### Citations
 
 "On 12 June 1985, the Treaty of Accession of Portugal to the European Economic Community (EEC) was signed at the Jerónimos Monastery.2 In 1986, the National Commission for the Commemoration of Portuguese Discoveries was created and its activity continued until 2002, representing a huge state effort to revise the historical record and restore historiographical legitimacy to the period of Portuguese maritime expansion. ==This endeavor would culminate in the commemoration of five hundred years of the “Discoveries” and the staging of the 1998 Lisbon World Exposition (Expo’98) with the theme “Oceans."== From then on, two perspectives would be key in the composition of Portugal’s memorial landscape with respect to the country’s imperial past. First, ==a pedagogical perspective on the history of the nation, conveyed by the most diverse sectors of Portuguese society with an interest in signaling the full democratic inclusion of the country in the European context==. Second, ==a perspective of commodification, in which the past gains an exchange value in the cultural and tourist consumption market.=="
 

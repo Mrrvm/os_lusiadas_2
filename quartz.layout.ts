@@ -49,15 +49,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.TagList(),
     Component.CustomMeta(),
-    Component.TagList()
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.Explorer(),
+    Component.Darkmode(),
   ],
   right: [
     // Graph stays in the right for these pages

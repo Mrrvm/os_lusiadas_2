@@ -1,12 +1,2 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
-
-@media not (min-width: 1200px) {
-    .page>#quartz-body {
-        padding: 0;
-    }
-}
-
-.page>#quartz-body .sidebar.left {
-    background-color: oklch(96.22% 0.0569 95.61);
-}

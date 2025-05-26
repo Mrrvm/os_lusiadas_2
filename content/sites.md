@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-hide-in-graph: true
+hideGraph: true
+noTags: true
 ---
-# Sites
 ### online
 
 https://sites.google.com/site/ciberlusofonia/Lit-Afric-de-Ling-Port
