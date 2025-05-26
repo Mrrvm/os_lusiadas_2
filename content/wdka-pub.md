@@ -195,7 +195,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^lagos-museum-tourism-erasure]: *CEsA – Centro de Estudos sobre África e do Desenvolvimento. Cooperação – Rota do Escravo. Accessed May 7, 2025. https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12. Quotes available at [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]]* and *The Contested Histories Initiative, “Slave Market Museum in Portugal.” Quotes available at [["Slave" Market Museum in Portugal#^museum-erasure]]*.
 
-[^memorial]: *Djass – Associação de Afrodescendentes. "[[Memorial da Escravatura e Tráfico Negreiro]]." Facebook. Accessed May 7, 2025. https://www.facebook.com/memorialescravatura/?locale=pt_BR*.
+[^memorial]: *Djass – Associação de Afrodescendentes. [[Memorial da Escravatura e Tráfico Negreiro]]. Facebook. Accessed May 7, 2025. https://www.facebook.com/memorialescravatura/?locale=pt_BR*.
 
 [^papa]: *JMJ: Oeiras prevê gastar um milhão de euros com evento com Papa Francisco e voluntários. Expresso. February 15, 2023. https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38*.
 
@@ -205,7 +205,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^noticia-publico]: In *Duarte, Mariana. Desmascarar o lado colonial do Porto: ‘o passado não passou'. Público. December 21, 2019. [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132)*, the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
 
-[^colonial-exhibitions]: *Alves, Barbara. "[[Turned into Stone - The Portuguese Colonial Exhibitions Today]]". PARSE. Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/*.
+[^colonial-exhibitions]: *Alves, Barbara. [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]. PARSE. Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/*.
 
 [^vicente]: *Ibid. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^vicente]]*.
 
