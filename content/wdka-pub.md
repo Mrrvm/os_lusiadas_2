@@ -179,7 +179,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 ![[Pasted image 20250526151440.png]]
 ![[Pasted image 20250526151425.png]]
-**Fig. 19** - Photo of 2 initial prototypes. Sources in [[wdka-pub#^fig-sources]] ^fig-prototypes
+**Fig. 19** - Photo of 2 initial prototypes. Sources in [[wdka-pub#^fig-sources]]. ^fig-prototypes
 
 ## End note
 
@@ -187,11 +187,11 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^found-bodies]: *Núcleo Museológico Rota da Escravatura, Museu de Lisboa. Text on A lixeira do vale da gafaria, observed January, 2025. Lagos. Photograph of text available at [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]*.
 
-[^portuguese-slave-trade-page]: *Caldeira, Arlindo. The Portuguese "Slave" Trade. Oxford Research Encyclopedia of African History. Edited by Thomas Spear. Oxford: Oxford University Press, 2024. https://doi.org/10.1093/acrefore/9780190277734.013.903*.
+[^portuguese-slave-trade-page]: *Caldeira, Arlindo. The Portuguese "Slave" Trade. Oxford Research Encyclopedia of African History, edited by Thomas Spear. Oxford: Oxford University Press, 2024. https://doi.org/10.1093/acrefore/9780190277734.013.903*.
 
-[^lagos-festival]: *Festival dos "Descobrimentos." Lagos. https://festivaldosdescobrimentos.pt/www/. Quotes available at [[Lagos#^festival-colonial]].*
+[^lagos-festival]: *Festival dos "Descobrimentos." Lagos. Accessed May 7, 2025. https://festivaldosdescobrimentos.pt/www/. Quotes available at [[Lagos#^festival-colonial]].*
 
-[^lagos-brochura]: *Turismo do Algarve. Algarve. Lagos, Portugal: Turismo do Algarve, 2011/12. Photograph available at [[Brochura do Turismo de Portugal em Lagos]]*.
+[^lagos-brochura]: *Turismo do Algarve. Algarve. Lagos, Portugal: Turismo do Algarve, 2011. Photograph available at [[Brochura do Turismo de Portugal em Lagos]]*.
 
 [^slave-market-essay]: *The Contested Histories Initiative. Slave Market Museum in Portugal. Contested Histories Case Study #130, June 2022. https://contestedhistories.org/wp-content/uploads/Portugal-Slave-Market-Museum-in-Lagos.pdf. Quotes available at [["Slave" Market Museum in Portugal#^displayed-body]]*.
 
@@ -205,7 +205,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^papa]: *JMJ: Oeiras prevê gastar um milhão de euros com evento com Papa Francisco e voluntários. Expresso. February 15, 2023. https://expresso.pt/politica/2023-02-15-JMJ-Oeiras-preve-gastar-um-milhao-de-euros-com-evento-com-Papa-Francisco-e-voluntarios-ba690a38*.
 
-[^padrao-descobrimentos]: in *Padrão dos "Descobrimentos." Accessed May 7, 2025. https://padraodosdescobrimentos.pt/* there is absolutely no reference to coloniality, violence or wrong-doing. This monument is seen as a major sightseeing point when visiting Lisbon as a tourist.
+[^padrao-descobrimentos]: in *Padrão dos "Descobrimentos." Accessed May 7, 2025. https://padraodosdescobrimentos.pt/*. (Note: there is absolutely no reference to coloniality, violence or wrong-doing. This monument is seen as a major sightseeing point when visiting Lisbon as a tourist.)
 
 [^contested-legacies]: *Contested Legacies Portugal. The Early Atlantic Slave Trade in Portugal. Accessed May 7, 2025. https://contestedlegaciesportugal.org/* - "The most widely accepted interpretation of the street name _Rua do Poço dos Negros_ suggests it being because it was the site of a pit holding the bodies of enslaved people of African origin. The little that we do know with certainty is that King Manuel I issued a royal law in 1515 complaining about dead bodies of enslaved people being abandoned in a dump in this area of the city. In that law he also ordered the City Council to build a pit in which these bodies should be thrown".
 
@@ -221,7 +221,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^expo98]: *Peralta, Elsa. The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History, Portuguese Literary & Cultural Studies 36-37 (2022): 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156. Quotes available at [[Expo 98 and the Memorialization of the Empire]]*.
 
-[^world-discoveries]: *World of Discoveries. [https://www.worldofdiscoveries.com/](https://www.worldofdiscoveries.com/). Accessed May 7, 2025.* - An interactive museum about the maritime expansion catered to kids. The website has no reference to colonisation or violence whatsoever. In fact, in the corporate ethics section of the website, they claim: "At World of Discoveries, corporate ethics is not just a term; it is a commitment that governs all our actions and decisions. We are driven by a deep respect for our heritage, the community we serve and the responsibility to preserve and pass on the history of great discoveries with integrity and accuracy.", "Integrity – We act with honesty and transparency, ensuring that the content we present is authentic and based on rigorous research.", "Respect – We value the diversity and pluralism of historical narratives, approaching each story objectively.", "This is a space where every opinion is valued and every voice is heard".
+[^world-discoveries]: *World of Discoveries. [https://www.worldofdiscoveries.com/](https://www.worldofdiscoveries.com/). Accessed May 7, 2025.* (Note: An interactive museum about the maritime expansion catered to kids. The website has no reference to colonisation or violence whatsoever. In fact, in the corporate ethics section of the website, they claim: "At World of Discoveries, corporate ethics is not just a term; it is a commitment that governs all our actions and decisions. We are driven by a deep respect for our heritage, the community we serve and the responsibility to preserve and pass on the history of great discoveries with integrity and accuracy.", "Integrity – We act with honesty and transparency, ensuring that the content we present is authentic and based on rigorous research.", "Respect – We value the diversity and pluralism of historical narratives, approaching each story objectively.", "This is a space where every opinion is valued and every voice is heard".)
 
 [^gilberto]: *Bastos, Cristiana, and Cláudia Castelo. Lusotropicalismo. Oxford Research Encyclopedia of African History. 2024. [https://doi.org/10.1093/acrefore/9780190277734.013.1486](https://doi.org/10.1093/acrefore/9780190277734.013.1486).*
 
@@ -273,7 +273,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^omero]: *Redmayne, Isabella. Epic Echoes in Derek Walcott's Omeros. Antigone Journal. April 20, 2024. Accessed May 22, 2025. [https://antigonejournal.com/2024/04/derek-walcott-omeros/](https://antigonejournal.com/2024/04/derek-walcott-omeros/).*
 
-[^lusiadas]: *Camões, Luís. Os Lusíadas. 4th ed. Preface by Álvaro Júlio da Costa Pimpão. Presentation by António Castro. Instituto Camões, Ministério dos Negócios Estrangeiros, 2000. [[Os Lusíadas]]* and *Camões, Luís. The Lusiad; or, The Discovery of India. Translated by William Julius Mickle. 5th ed. Revised by E. Richmond Hodges. London: George Bell and Sons, 1877. Project Gutenberg (eBook). Accessed May 22, 2025. [https://www.gutenberg.org/files/32528/32528-h/32528-h.htm](https://www.gutenberg.org/files/32528/32528-h/32528-h.htm).*
+[^lusiadas]: *Camões, Luís. [[Os Lusíadas]]. 4th ed. Preface by Álvaro Júlio da Costa Pimpão. Presentation by António Castro. Instituto Camões, Ministério dos Negócios Estrangeiros, 2000.* and *Camões, Luís. The Lusiad; or, The Discovery of India. Translated by William Julius Mickle. 5th ed. Revised by E. Richmond Hodges. London: George Bell and Sons, 1877. Project Gutenberg (eBook). Accessed May 22, 2025. [https://www.gutenberg.org/files/32528/32528-h/32528-h.htm](https://www.gutenberg.org/files/32528/32528-h/32528-h.htm).*
 
 [^worlding]: *Campagna, Federico. World-ing, or: How to Embrace the End of an Era. Mousse Magazine. September 17, 2020. [https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/](https://www.moussemagazine.it/magazine/world-ing-federico-campagna-riboca2-2nd-riga-international-biennial-of-contemporary-art-2020/).*
 
