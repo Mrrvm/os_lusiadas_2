@@ -237,7 +237,9 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^elsa-creole]: *Ibid. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta1]]*.
 
-[^expo98]: *Peralta, Elsa. The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History, Portuguese Literary & Cultural Studies 36-37 (2022): 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156. Quotes available at [[Expo 98 and the Memorialization of the Empire]]*.
+[^vieira]: _Peralta, Elsa. The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History, Portuguese Literary & Cultural Studies 36-37 (2022): 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156. Quotes available at [[Expo 98 and the Memorialization of the Empire#^vieira]]_.
+
+[^expo98]: _Peralta, Elsa. The Memorialization of Empire in Postcolonial Portugal. Quotes available at [[Expo 98 and the Memorialization of the Empire]]_.
 
 [^world-discoveries]: *World of Discoveries. [https://www.worldofdiscoveries.com/](https://www.worldofdiscoveries.com/). Accessed May 7, 2025.* (Note: An interactive museum about the maritime expansion catered to kids. The website has no reference to colonisation or violence whatsoever. In fact, in the corporate ethics section of the website, they claim: "At World of Discoveries, corporate ethics is not just a term; it is a commitment that governs all our actions and decisions. We are driven by a deep respect for our heritage, the community we serve and the responsibility to preserve and pass on the history of great discoveries with integrity and accuracy.", "Integrity – We act with honesty and transparency, ensuring that the content we present is authentic and based on rigorous research.", "Respect – We value the diversity and pluralism of historical narratives, approaching each story objectively.", "This is a space where every opinion is valued and every voice is heard".)
 
