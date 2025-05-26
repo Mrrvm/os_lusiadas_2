@@ -235,9 +235,9 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^25abril]: “Efeitos humanos e económicos da Guerra Colonial.” _RTP Ensina_. Last modified 2021. Accessed May 15, 2025. [https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial](https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial).
 
-[^salazar]: *Reis, B., and P. Oliveira. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role.” Quotes available at [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^salazar]]*.
+[^salazar]: *Reis, B., and P. Oliveira. The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role. Quotes available at [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^salazar]]*.
 
-[^eec]: *Reis, B., and P. Oliveira. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role.” International History Review, 2017, 1-23. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20. 
+[^eec]: *Reis, B., and P. Oliveira. The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role. International History Review, 2017, 1-23. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20. 
 
 [^gold]: *Kedrosky, D., and N. Palma. "The cross of gold, Brazilian treasure, and the decline of Portugal." CEPR: VoxEU. 2024. [https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal](https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal)*.
 
@@ -247,11 +247,11 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^deco]: I use "decolonisation" in quotes, as neocolonial structures remain in place to this day, just like coloniality does.
 
-[^lie]: *Wikipedia. "Slavery in Portugal." Last modified April 14, 2025. https://en.wikipedia.org/wiki/Slavery_in_Portugal.* And *Cartwright, Mark. "Portuguese Empire." World History Encyclopedia. Last modified July 19, 2021. https://www.worldhistory.org/Portuguese_Empire/. As Cartwright notes "(...) slaves continued to be imported to São Tomé and Principe until prohibition in 1908. Slaves were then replaced by African labourers who had to be repatriated after a certain number of years, but their living conditions were little different from those their slave predecessors had suffered.", and this is evident through official government documents like [[Código do trabalho dos indígenas nas colónias portuguesas de África]], and interviews conducted in [[Forced labour by those who lived through it]].*
+[^lie]: *Wikipedia. Slavery in Portugal. Last modified April 14, 2025. https://en.wikipedia.org/wiki/Slavery_in_Portugal.* And *Cartwright, Mark. "Portuguese Empire." World History Encyclopedia. Last modified July 19, 2021. https://www.worldhistory.org/Portuguese_Empire/. As Cartwright notes "(...) slaves continued to be imported to São Tomé and Principe until prohibition in 1908. Slaves were then replaced by African labourers who had to be repatriated after a certain number of years, but their living conditions were little different from those their slave predecessors had suffered.", and this is evident through official government documents like [[Código do trabalho dos indígenas nas colónias portuguesas de África]], and interviews conducted in [[Forced labour by those who lived through it]].*
 
 [^canto1]: in the verse "Cessem do sábio Grego e do Troiano" of stanza 3, *canto* I.
 
-[^hegel1]: *Hegel, G. W. F. "C. The Beautiful Ideal." Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 19, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm*.
+[^hegel1]: *Bernard Bosanquet & W.M. Bryant. Chapter 3 in Part 3, Section 3, of Aesthetics: Lectures on Fine Art. Selections from Hegel's Lectures on Aesthetics. The Journal of Speculative Philosophy. 1886. Translated by T. M. Knox. Marxists Internet Archive. Accessed May 19, 2025. https://www.marxists.org/reference/archive/hegel/works/ae/part3-section3-chapter3.htm*.
 
 [^hegel2]: Hegel’s definition of epic poetry privileges Greco-Roman and Western Christian models as the pure form of epic. Considering, for example _Mahabharata_, _Ramayana_, African griot traditions, oral epics (e.g. _Ozidi Saga_), as less developed or primitive, and justifying Europe’s "civilizing mission".
 
