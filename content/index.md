@@ -9,7 +9,7 @@ dg-hide-in-graph: true
 
 ---
 ## theoretical grounds
-==This is where I explain the foundation of the project, why and how I am working on it.==
+This is where I explain the foundation of the project, why and how I am working on it.
 
 [[grounds2#How can experimental writing can deconstruct the celebrated narratives of colonialism that define Portuguese national identity?]]
 

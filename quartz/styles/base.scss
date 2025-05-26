@@ -196,14 +196,12 @@ a {
       display: flex;
       height: 100vh;
       position: sticky;
-      border-radius: 0px;
     }
 
     & .sidebar.left {
       z-index: 1;
       grid-area: grid-sidebar-left;
       flex-direction: column;
-
 
       @media all and ($mobile) {
         gap: 0;
