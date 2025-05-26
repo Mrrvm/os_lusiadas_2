@@ -227,7 +227,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^noticia-publico]: In _Duarte, Mariana. Desmascarar o lado colonial do Porto: ‘o passado não passou'. Público. December 21, 2019. [https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132](https://www.publico.pt/2019/12/21/culturaipsilon/noticia/desmascarar-lado-colonial-porto-passado-nao-passou-1898132)_, the author mentions several artifacts mentioned in the exhibition [[Unearthing memories]].
 
-[^colonial-exhibitions]: _Alves, Barbara. [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]. PARSE. Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/_.
+[^colonial-exhibitions]:  Alves, Barbara. [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]. PARSE. Accessed May 6, 2025. https://parsejournal.com/article/turned-into-stone-the-portuguese-colonial-exhibitions-today/_.
 
 [^vicente]: _Ibid. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^vicente]]_.
 
