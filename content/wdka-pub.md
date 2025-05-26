@@ -211,7 +211,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^elsa-epic]: *Alves, "[[Turned into Stone - The Portuguese Colonial Exhibitions Today]]" Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsaperalta2]] and [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]*.
 
-[^elsa-creole]: *Alves, "[[Turned into Stone - The Portuguese Colonial Exhibitions Today]]" Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta1]]*.
+[^elsa-creole]: *Ibid. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta1]]*.
 
 [^expo98]: *Peralta, E. "The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History," Portuguese Literary & Cultural Studies 36-37 (2022): 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156. Quotes available at [[Expo 98 and the Memorialization of the Empire]]*.
 
@@ -235,9 +235,9 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^25abril]: “Efeitos humanos e económicos da Guerra Colonial.” _RTP Ensina_. Last modified 2021. Accessed May 15, 2025. [https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial](https://ensina.rtp.pt/explicador/efeitos-humanos-e-economicos-da-guerra-colonial).
 
-[^salazar]: *Reis, B., and P. Oliveira. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role.” International History Review, 2017, 1-23. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20. Quotes available at [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^salazar]]*.
+[^salazar]: *Reis, B., and P. Oliveira. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role.” Quotes available at [[The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role#^salazar]]*.
 
-[^eec]: *Reis and Oliveira, “Power and Limits”*.
+[^eec]: *Reis, B., and P. Oliveira. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role.” International History Review, 2017, 1-23. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20. 
 
 [^gold]: *Kedrosky, D., and N. Palma. "The cross of gold, Brazilian treasure, and the decline of Portugal." CEPR: VoxEU. 2024. [https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal](https://cepr.org/voxeu/columns/cross-gold-brazilian-treasure-and-decline-portugal)*.
 
