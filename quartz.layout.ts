@@ -63,7 +63,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Graph stays in the right for these pages
     graph,
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Backlinks(),
   ],
 }
 // Layout for pages that display lists of pages (e.g., tags or folders)

@@ -4,7 +4,7 @@ import { classNames } from "../util/lang"
 const CustomMeta: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
     return (
         <>
-            <div class={classNames(displayClass, "custom-meta")}>
+            <div class={fileData.frontmatter?.bib ? classNames(displayClass, "custom-meta", "meta-border") : classNames(displayClass, "custom-meta")}>
                 {fileData.frontmatter?.bib && <div>{fileData.frontmatter.bib}</div>}
                 {fileData.frontmatter?.link && (
                     <div class="meta">
@@ -26,7 +26,10 @@ CustomMeta.css = `
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  padding-bottom: 1.5rem;
+}
+.meta-border {
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
   border-bottom: 1px solid var(--lightgray);
 }
 `

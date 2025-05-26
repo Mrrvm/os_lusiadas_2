@@ -1,14 +1,14 @@
 ---
 tags:
-  
   - music
   - rhythm
   - poetry
 bib: |-
   Halloween, A., “Raportagem,”  Track 2 on Projecto Mary Witch. Lisbon: Sonoterapia, 2006. Accessed May 6th, 2025. 
   https://www.youtube.com/watch?v=JzzOkJx0HSc
+link: https://www.youtube.com/watch?v=JzzOkJx0HSc
 ---
-**Homem africano, imigrante, desempregado**  
+"**Homem africano, imigrante, desempregado**  
 **O indivíduo considerado o inimigo do Estado**  
 Bem vindo às folhas perdidas dum diário  
 Quotidiano suicida de quem vive num bairro  
@@ -69,4 +69,4 @@ O inimigo do Estado (4x)
 
 Eles não nos ferram, broh  
 Kriminais como Mitó, outlaw  
-Outlaw, outlaw
+Outlaw, outlaw"

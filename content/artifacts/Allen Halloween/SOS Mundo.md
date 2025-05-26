@@ -1,6 +1,5 @@
 ---
 tags:
-  
   - music
   - rhythm
   - poetry
@@ -8,8 +7,9 @@ tags:
 bib: |-
   Halloween, A., “SOS Mundo,”  Track 6 on Projecto Mary Witch. Lisbon: Sonoterapia, 2006. Accessed May 6th, 2025. 
   https://www.youtube.com/watch?v=xI9Xxc5nw54
+link: https://www.youtube.com/watch?v=xI9Xxc5nw54
 ---
-Sos mundo  
+"Sos mundo  
 Kappa é crime, cruz credo!  
 Kappa é confusão  
 Kappa karma crew  
@@ -131,4 +131,4 @@ Kappa é crime, cruz credo!
 Kappa é confusão  
 Kappa karma crew  
 Kriminal scabrão  
-Kappa é crime
+Kappa é crime"
