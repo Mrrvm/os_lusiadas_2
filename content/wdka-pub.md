@@ -10,6 +10,14 @@ dg-hide-in-graph: true
 > 
 > This document was written by me and in my own words, except for quotations from published and unpublished sources which are clearly indicated and acknowledged as such. I am conscious that the incorporation of material from other works or a paraphrase of such material without acknowledgement will be treated as plagiarism, subject to the custom and usage of the subject, according to the Hogeschool Rotterdam / WdKA regulations. The source of any media (picture, map, or illustration, AI bot such as Chat GPT) is also indicated, as is the source, published or unpublished, of any material not resulting from my own experimentation or observation.
 
+```
+**Author:** Mariana Ribeiro dos Reis do Vale Martins (103059)
+**Department:** Fine Arts, Honours Programme
+**Supervisors:** Mariana d'Aboim Inglez Amaral Fernandes and Maaike van Papeveld
+
+This document was written by me and in my own words, except for quotations from published and unpublished sources which are clearly indicated and acknowledged as such. I am conscious that the incorporation of material from other works or a paraphrase of such material without acknowledgement will be treated as plagiarism, subject to the custom and usage of the subject, according to the Hogeschool Rotterdam / WdKA regulations. The source of any media (picture, map, or illustration, AI bot such as Chat GPT) is also indicated, as is the source, published or unpublished, of any material not resulting from my own experimentation or observation.
+```
+
 ## Introduction
 
 In Portugal, the violence of colonisation is not fully acknowledged but instead highly glorified. Every child undergoes a socialisation process that fosters a strong national identity aligned with the colonial period, called _"Descobrimentos"_ ("Discoveries"). This is executed through a selective apparatus for the production and distribution of knowledge in schools, monuments, public spaces, language and other tools, as well as at home. The violence is always omitted, minimised or relativised, shapeshifting into the spread of christian faith, commercial trade towards globalisation, a glorification of "heroic" navigation deeds, or the “civilisation” of other cultures.
