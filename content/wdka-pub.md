@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 dg-hide-in-graph: true
+bib: Mariana Martins
 ---
 # How can experimental writing help deconstruct the celebrated narratives of colonialism that define Portuguese national identity?
 
@@ -148,7 +149,7 @@ The immediate question that arises is if it makes sense to keep the same structu
 While making I realised that the decasyllables are counted as poetic syllables, rather than grammatical. For instance, *te-le-vi-são* (te-le-vi-sion) has 4 grammatical syllables, but 3 poetic syllables *tle-vi-são* (tle-vi-sion) in certain accents (e.g. in Brazilian-Portuguese it's 4). Thus, in its structural-analysis there is an implicit accent preference. One could say that in the atrocities that led to creolisation, the original poem ironically lost its magnificent rigidity.
 #### Collaboration
 
-A crucial point for the work is how to incorporate multiple voices while at the same time operating from a Portuguese perspective and how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice. Collaboration is paramount in achieving this. As of now I have been in conversation with [[Sandim Mendes]], [[Tavares Cebola]] and [[Mariana Aboim]], who have generously helped me navigate the project and its pitfalls. Ideally, the objective would be to have co-authors write certain stanzas of the book with their own words. However, what exactly to request of them (in terms of structure) or how to navigate between intentional fragmentation and accidental incoherence, is still uncertain to me and highly depends on the availability of funding to pay for their work.
+A crucial point for the work is how to incorporate multiple voices while at the same time operating from a Portuguese perspective and how to ensure that multiplicity leads the reimagining, instead of a single authoritative voice. Collaboration is paramount in achieving this. I have been in conversation with [[Sandim Mendes]], [[Tavares Cebola]] and [[Mariana Aboim]], who have generously helped me navigate the project and its pitfalls. Ideally, the objective would be to have co-authors write certain stanzas of the book with their own words. However, what exactly to request of them (in terms of structure) or how to navigate between intentional fragmentation and accidental incoherence, is still uncertain to me and highly depends on the availability of funding to pay for their work.
 
 Another question is if and how to include other languages - if it makes sense to, for instance, use cut-outs written in Badiu, Forro, Kikongo, etc, when I don't speak them. While incorporating these could prove useful at undermining the Portuguese language as a colonial tool, preserving opacity, refusing uniformity or a passive consumption of text, as well as fully capturing experiences that Portuguese can't, I believe it should only be done in collaboration to prevent extractive linguistic tourism.
 #### Typographies and Topographies
@@ -179,7 +180,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 ![[Pasted image 20250526151440.png]]
 ![[Pasted image 20250526151425.png]]
-**Fig. 19** - Photo of 2 initial prototypes. Sources in [[wdka-pub#^fig-sources]]. ^fig-prototypes
+**Fig. 19, 20, 21** - Photo of 2 initial prototypes and translation. Sources in [[wdka-pub#^fig-sources]]. ^fig-prototypes
 
 ## End note
 
