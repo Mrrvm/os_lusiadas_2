@@ -231,11 +231,13 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^vicente]: _Ibid. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^vicente]]_.
 
-[^elsa-epic]: _Alves, [[Turned into Stone - The Portuguese Colonial Exhibitions Today]] Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsaperalta2]] and [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]_.
+[^elsa-epic]: _Alves, [[Turned into Stone - The Portuguese Colonial Exhibitions Today]]. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsaperalta2]].
 
 [^elsa-creole]: _Ibid. Quotes available at [[Turned into Stone - The Portuguese Colonial Exhibitions Today#^elsa-peralta1]]_.
 
-[^expo98]: _Peralta, Elsa. The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History, Portuguese Literary & Cultural Studies 36-37 (2022): 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156. Quotes available at [[Expo 98 and the Memorialization of the Empire]]_.
+[^vieira]: _Peralta, Elsa. The Memorialization of Empire in Postcolonial Portugal: Identity Politics and the Commodification of History, Portuguese Literary & Cultural Studies 36-37 (2022): 156. https://ojs.lib.umassd.edu/plcs/article/view/PLCS36_37_Peralta_page156. Quotes available at [[Expo 98 and the Memorialization of the Empire#^vieira]]_.
+
+[^expo98]: _Peralta, Elsa. The Memorialization of Empire in Postcolonial Portugal. Quotes available at [[Expo 98 and the Memorialization of the Empire]]_.
 
 [^world-discoveries]: _World of Discoveries. [https://www.worldofdiscoveries.com/](https://www.worldofdiscoveries.com/). Accessed May 7, 2025._ In the corporate ethics section: "At World of Discoveries, corporate ethics is not just a term; it is a commitment that governs all our actions and decisions. We are driven by a deep respect for our heritage, the community we serve and the responsibility to preserve and pass on the history of great discoveries with integrity and accuracy.", "(...) We act with honesty and transparency, ensuring that the content we present is authentic and based on rigorous research.", "(...) We value the diversity and pluralism of historical narratives, approaching each story objectively".
 
