@@ -195,7 +195,7 @@ Due to the large amount of sources, I have decided to use the software [Obsidian
 
 ![[Pasted image 20250526151440.png]]
 ![[Pasted image 20250526151425.png]]
-![[Pasted image 20250526154441.png]]**Fig. 19, 20, 21** - Photo of 2 initial prototypes and translation. Sources from [[wdka-pub#^fig-sources]]. ^fig-prototypes
+![[Pasted image 20250526154441.png]]**Fig. 19, 20, 21** - Photos of initial prototypes and translation. Sources from [[wdka-pub#^fig-sources]]. ^fig-prototypes
 
 ## End note
 
