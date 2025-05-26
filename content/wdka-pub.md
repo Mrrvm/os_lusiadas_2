@@ -179,7 +179,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [[Os Lusíadas]] is a ruin of the past that has served and continues to serve as a means to create a violent world. In its rewriting there is the possibility to betray its legacy, to reinvent it and its role in Portuguese culture, to leave behind a different narrative for the future[^worlding] that can work as a tool to return "colonial pain and trauma to its thinkers"[^joacine]. I see this project as a fertile ruin, an open incubator or a library - where new relations may be crafted from the collection of references that very literally compose the body of emerging text via this experimental writing approach.
 
-[^found-bodies]: *Núcleo Museológico Rota da Escravatura, Museu de Lisboa. Text on "A lixeira do vale da gafaria," observed January, 2025. Lagos. Photograph of text available at [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]*.
+[^found-bodies]: *Núcleo Museológico Rota da Escravatura, Museu de Lisboa. Text on A lixeira do vale da gafaria, observed January, 2025. Lagos. Photograph of text available at [[Núcleo Museológico Rota da Escravatura#^found-enslaved-bodies]]*.
 
 [^portuguese-slave-trade-page]: *Caldeira, Arlindo. The Portuguese "Slave" Trade. Oxford Research Encyclopedia of African History. Edited by Thomas Spear. Oxford: Oxford University Press, 2024. https://doi.org/10.1093/acrefore/9780190277734.013.903*.
 
@@ -193,7 +193,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^atlantica-colonial-pain]: *Moreira, Joacine, César Cardoso, and Mónica de Miranda, eds. TO DECOLONISE IS TO D.E.P.R.O.G.R.A.M.M.E. Systemic racism, body, gender and diaspora in arts. Atlantica: Contemporary Art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and Their Diasporas. Lisbon: Hangar Books, 2021. https://hangar.com.pt/en/loja/atlantica-contemporary-art-from-cabo-verde-guinea-bissau-sao-tome-and-principe-and-their-diasporas/. Quotes available at [[Atlantica - contemporary art from Cabo Verde, Guinea Bissau, São Tomé and Príncipe and their Diásporas#^return-colonial-pain-to-its-thinkers]]*.
 
-[^lagos-museum-tourism-erasure]: *CEsA – Centro de Estudos sobre África e do Desenvolvimento. Cooperação – Rota do Escravo. Accessed May 7, 2025. https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12. Quotes available at [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]]* and *The Contested Histories Initiative, “Slave Market Museum in Portugal.” Quotes available at [["Slave" Market Museum in Portugal#^museum-erasure]]*.
+[^lagos-museum-tourism-erasure]: *CEsA – Centro de Estudos sobre África e do Desenvolvimento. Cooperação – Rota do Escravo. Accessed May 7, 2025. https://cesa.rc.iseg.ulisboa.pt/rotadoescravo/?page_id=12. Quotes available at [[Núcleo Museológico Rota da Escravatura#^colonial-period-as-tourism]]* and *The Contested Histories Initiative, Slave Market Museum in Portugal. Quotes available at [["Slave" Market Museum in Portugal#^museum-erasure]]*.
 
 [^memorial]: *Djass – Associação de Afrodescendentes. [[Memorial da Escravatura e Tráfico Negreiro]]. Facebook. Accessed May 7, 2025. https://www.facebook.com/memorialescravatura/?locale=pt_BR*.
 
@@ -229,7 +229,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^batoto]: *Lisbon Inaugurates Street Signs African History. A Mensagem. January 13, 2024. [https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/](https://amensagem.pt/2024/01/13/lisbon-inaugurates-street-signs-african-history/)*.
 
-[^caledonia]: *Wilson, Catherine. France's Colonial Strategy Blamed for Division in Troubled New Caledonia. Al Jazeera. August 1, 2024. https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia* and *APA-Ouagadougou, Insult to All Africans: Macron Under Fire from Burkina Strongman." APA News. January 14, 2025. [https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/](https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/)*.
+[^caledonia]: *Wilson, Catherine. France's Colonial Strategy Blamed for Division in Troubled New Caledonia. Al Jazeera. August 1, 2024. https://www.aljazeera.com/news/2024/8/1/frances-colonial-strategy-blamed-for-division-in-troubled-new-caledonia* and *APA-Ouagadougou, Insult to All Africans: Macron Under Fire from Burkina Strongman. APA News. January 14, 2025. [https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/](https://apanews.net/insult-to-all-africans-macron-under-fire-from-burkina-strongman/)*.
 
 [^cia]: *Director of Central Intelligence. [[The outlook for portugal]]. National Intelligence Estimate, Number 27.2-59. United States Intelligence Board. 1959*.
 
@@ -247,7 +247,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^deco]: I use "decolonisation" in quotes, as neocolonial structures remain in place to this day, just like coloniality does.
 
-[^lie]: *Wikipedia. Slavery in Portugal. Last modified April 14, 2025. https://en.wikipedia.org/wiki/Slavery_in_Portugal* and *Cartwright, Mark. "Portuguese Empire." World History Encyclopedia. Last modified July 19, 2021. https://www.worldhistory.org/Portuguese_Empire/.* As Cartwright notes "(...) slaves continued to be imported to São Tomé and Principe until prohibition in 1908. Slaves were then replaced by African labourers who had to be repatriated after a certain number of years, but their living conditions were little different from those their slave predecessors had suffered". This is evident through official government documents like [[Código do trabalho dos indígenas nas colónias portuguesas de África]], and interviews conducted in [[Forced labour by those who lived through it]].
+[^lie]: *Wikipedia. Slavery in Portugal. Last modified April 14, 2025. https://en.wikipedia.org/wiki/Slavery_in_Portugal* and *Cartwright, Mark. Portuguese Empire. World History Encyclopedia. Last modified July 19, 2021. https://www.worldhistory.org/Portuguese_Empire/.* As Cartwright notes "(...) slaves continued to be imported to São Tomé and Principe until prohibition in 1908. Slaves were then replaced by African labourers who had to be repatriated after a certain number of years, but their living conditions were little different from those their slave predecessors had suffered". This is evident through official government documents like [[Código do trabalho dos indígenas nas colónias portuguesas de África]], and interviews conducted in [[Forced labour by those who lived through it]].
 
 [^canto1]: in the verse "Cessem do sábio Grego e do Troiano" of stanza 3, *canto* I.
 
