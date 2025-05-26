@@ -255,7 +255,7 @@ Due to the big amount of sources, I have decided to use the software [Obsidian](
 
 [^hegel2]: Hegel’s definition of epic poetry privileges Greco-Roman and Western Christian models as the pure form of epic. Considering, for example _Mahabharata_, _Ramayana_, African griot traditions, oral epics (e.g. _Ozidi Saga_), as less developed or primitive, and justifying Europe’s "civilizing mission".
 
-[^gliss]: *Glissant, Édouard. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011, 53-66. ISBN 978-972-0-07153-8.
+[^gliss]: *Glissant, Édouard. Poética da relação. Translated and revised by Marta Mendonça. Porto: Sextante Editora, 2011, 53-66. ISBN 978-972-0-07153-8.*
 
 [^gliss2]: *Glissant, Poética da relação, 11. on [[Rhizome - Gille Deleuze]]*.
 
