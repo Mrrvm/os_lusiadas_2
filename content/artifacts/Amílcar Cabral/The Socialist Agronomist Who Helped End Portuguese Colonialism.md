@@ -1,6 +1,6 @@
 ---
 link: https://jacobin.com/2019/10/amilcar-cabral-portuguese-colonialism-biography
-bib: Mendy, P., Husaini, S. "The Socialist Agronomist Who Helped End Portuguese Colonialism". Jacobin, 2019.
+bib: Mendy, Peter, Sa'eed Husaini. "The Socialist Agronomist Who Helped End Portuguese Colonialism". Jacobin, 2019.
 tags:
   - guinebissau
   - caboverde

@@ -1,5 +1,5 @@
 ---
-bib: Reis, B. and Oliveira, P. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role”. International History Review pp. 1-23, 2017. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20
+bib: Reis, Bruno and Pedro Oliveira. “The Power and Limits of Cultural Myths in Portugal’s Search for a Post-Imperial Role”. International History Review pp. 1-23, 2017. http://www.tandfonline.com/doi/abs/10.1080/07075332.2016.1253599?journalCode=rinh20
 link: https://run.unl.pt/bitstream/10362/32015/1/Bruno_REIS_Pedro_OLIVEIRA_IHR_2017.pdf
 ---
 "Eduardo Lourenço, one of Portugal’s most influential thinkers of the past century, in an seminal essay published in 1978 on Portuguese identity, ==pointed to the overseas empire as central in the nationalist self-image of Portugal because it ‘added a mythical dimension to the country […] avoiding the painful necessity of confronting our smallness’.== (...) ‘a war lasting for thirteen years 1961-1974 and ==the sudden collapse of the empire seemed events meant not only to create a deep collective trauma – analogous to the loss of independence between 1580-1640 – but also a deep revision of our self-image== […]. We all witnessed the surprising spectacle that neither one nor the other actually took place.’"
